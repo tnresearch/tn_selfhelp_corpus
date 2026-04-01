@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_felmeddelande_tv-via-fiber_tv-strom-saknas.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 525,
+                "text": "# Tv-ström saknas\n\nFår du felmeddelandet **Tv-ström saknas** på din tv-skärm?  \n  \nKolla först så att din tv-box är kopplad direkt till din tjänstefördelare,\nditt bredbandsuttag eller din router och inte via någon extra utrustning.  \n  \nOm tv-boxen är inkopplad i en tjänstefördelare, [kolla att den är inkopplad i\nrätt port](/support/portar/).\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:33+00:00",
+        "last_modified": "2025-05-30T14:57:58.806883",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

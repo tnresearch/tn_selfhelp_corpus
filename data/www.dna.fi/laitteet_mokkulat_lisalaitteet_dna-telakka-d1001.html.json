@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_lisalaitteet_dna-telakka-d1001.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 294,
+                "end": 1711,
+                "text": "## DNA Telakka D100\n\n### Tuotekuvaus\n\nEnsimmäinen Telakka, jonka avulla käyttäjä pystyi jakamaan USB-Mokkulan\nyhteyden monelle laitteella USB tai Ethernetkaapelilla. Tuotteeseen ei ole\ntullut päivityksiä pitkiin aikoihin ja siten se ei tue uusimpia mokkuloita.\n\n### Valmistajan tuotenimi\n\nValmistajan tuotenimi: Huawei D100\n\n### Paketin sisältö\n\n  * DNA Telakka D100\n  * Virtalähde\n  * Ethernet-kaapeli\n  * Pikaopas\n\n### Tekniset ominaisuudet\n\n  * Mitat: 112 mm × 91 mm × 27 mm\n  * Paino: < 200g (ei sisällä verkkovirtalaturia)\n  * Väri: musta\n  * Liitännät: Yksi Ethernet-kaapeliliitäntää ( RJ45) , virtalähde ja USB liitäntä\n  * Antenni: sisäänrakennettu\n  * WLAN salaukset: WEP 64/128, WPA, WPA2\n  * DHCP, NAT DNS\n  * Internetyhteyden jakaminen enimmillään 32 käyttäjälle WLAN-verkon avulla\n  * Englanninkielinen käyttöliittymä\n  * Tuetut langattomat standardit: 802.11b/802.11g\n  * Yhteensopiva DNA Mokkuloiden kanssa.\n  * Käyttöjännite 12V\n\n### Käyttöohjeita\n\n[D100 huawein\nkäyttöohje](/documents/753910/853450/D100+huawein+k%C3%A4ytt%C3%B6ohje.pdf/8f0f4671-67dc-b467-4822-bcbd9d775579)  \n[D100 huawei käyttöohje\nenglanniksi](/documents/753910/853450/D100+huawei+k%C3%A4ytt%C3%B6ohje+englanniksi.pdf/5b39022a-32e6-6c5f-c1ab-4819439c38dc)  \n[D100 käyttöohje\nDNA](/documents/753910/853450/D100+DNA+k%C3%A4ytt%C3%B6ohje.pdf/5a68a7c6-2587-d82e-8912-b47c36ad815c)\n\n###  \nPäivitysohje / Uusin FM versio\n\nEi päivityksiä"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:35+00:00",
+        "last_modified": "2025-06-20T19:01:04.137045",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

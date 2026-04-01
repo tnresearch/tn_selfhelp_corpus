@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b593s_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 403,
+                "end": 5379,
+                "text": "# DNA Kotimokkula 4G WLAN B593S\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/vianmaaritys)\n\n## Käyttöönotto\n\n## Mokkulan asennus\n\nDNA Kotimokkula 4G WLAN B593S käyttää normaalikokoista eli Mini-SIM-korttia.\nAsenna SIM-kortti mokkulan oikealle puolelle. SIM-kortti poistetaan mokkulasta\npainamalla korttia ensin kevyesti sisäänpäin ja vasta sen jälkeen vetämällä\nSIM-kortti ulos.\n\nJos SIM-kortilla on käytössä PIN-koodi 1234, mokkula yhdistää automaattisesti\nnettiin. Mikäli käytössäsi on jokin muu PIN-koodi, pitää PIN-koodi syöttää\nmokkulan hallintasivun kautta. Lisäohjeet löydät [täältä](/dna-\nkotimokkula-4g-wlan-b593s#asetukset).\n\nRekisteröityminen DNA:n nettiin kestää joitakin minuutteja. Mikäli yhteyden\navaus ei onnistu, soita DNA:n\n[asiakaspalveluun](https://www.dna.fi/yhteystiedot#asiakaspalvelu).\n\nNettiyhteys on käytettävissä kun mokkulassa palaa virtavalo ja verkkotilan\nmerkkivalo (jollain muulla värillä kuin punaisella). Jos mokkulassa on näyttö,\nnäet näytössä signaalista kertovan kuvakkeen.  \n\n## Langattoman verkon eli WiFin käyttöönotto\n\nDNA:n mokkulat ovat langattoman verkon osalta salattuja. Verkon nimen ja\nsalasanan löydät kotimokkulan alaosassa olevasta tarrasta.\n\nWiFi-verkon nimi: WLAN-Name (SSID)\n\nWiFi-verkon salasana: WLAN-Key (WPA/WPA2)\n\nWindows 10\n\nWindows 10 -tietokoneessa klikkaa WLAN-verkon kuuluvuuspalkkeja Windowsin\noikeasta alakulmasta.  \n  \nValitse sen jälkeen verkko, jonka nimi on takaosan tarrassa (SSID). Laita\nruksi kohtaan **Yhdistä automaattisesti / Connect automatically** ja paina\n**Yhdistä / Connect**.\n\nSeuraavaksi tietokone kysyy langattoman verkon salasanaa eli suojausavainta.\nLöydät sen löytyy takaosan tarrasta (WLAN-Key). Kirjoita salasana tarkalleen\nsamalla tavalla, kuin se on tarrassa ja paina **Seuraava**. Nyt voit aloittaa\nnetin käytön.  \n\nWindows 8\n\nVie hiiren kursori tietokoneen näytön oikeaan yläkulmaan. Valitse sen jälkeen\n**Asetukset** (rattaan kuva). Valitse seuraavaksi kuuluvuuspalkit.\n\n  \nValitse sen jälkeen verkko, jonka nimi on mokkulan takaosan tarrassa (SSID).\nLaita ruksi kohtaan **Yhdistä automaattisesti / Connect automatically** ja\npaina **Yhdistä / Connect**.  \n  \nSeuraavaksi tietokone kysyy langattoman verkon salasanaa eli suojausavainta.\nLöydät sen mokkulan takaosan tarrasta (WLAN-Key). Kirjoita salasana tarkalleen\nsamalla tavalla ja paina **Seuraava**.\n\n  \n\n  \nMikäli haluat jakaa tiedostoja laitteiden välillä, valitse alempi kohta\n(”Kyllä, ota jakaminen käyttöön”). Mikäli et halua jakaa tiedostoja laitteiden\nvälillä, valitse ylempi kohta (”Ei, älä ota jakamista käyttöön”).  \n\nWindows 7 / Vista\n\nKlikkaa Windows 7 ja Vista -tietokoneessa WLAN-verkon kuuluvuuspalkkeja\nWindowsin oikeasta alakulmasta. Valitse sen jälkeen verkko, jonka nimi on\ntakaosan tarrassa (SSID).\n\n  \n\nLaita ruksi kohtaan **Yhdistä automaattisesti / Connect automatically** ja\npaina **Yhdistä / Connect**.  \nSeuraavaksi tietokone kysyy langattoman verkon salasanaa. Löydät salasanan eli\nsuojausavaimen takaosan tarrasta (WLAN-Key). Kirjoita salasana tarkalleen\nsamalla tavalla ja paina **OK**.\n\n  \n\nVoit aloittaa netin käytön.\n\nMac OSX\n\nKlikkaa hiirellä WLAN-verkon ikonia näytön yläosassa. Valitse sen jälkeen\nverkko, jonka nimi on mokkulan takaosan tarrassa (SSID).\n\n  \n\nSeuraavaksi tietokone kysyy langattoman verkon salasanaa. Salasana eli\nsuojausavain löytyy takaosan tarrasta (WLAN-Key). Kirjoita salasana tarkalleen\nsamalla tavalla, kuin se on takaosan tarrassa. Klikkaa **”Muista tämä\nverkko”** ja paina **Liity**.  \n  \nVoit aloittaa netin käytön.\n\nApple iPad\n\nValitse iPadin kotinäkymästä Asetukset. Valitse asetuksista kohta Wi-Fi\n(vanhemmissa malleissa WLAN).  \n  \nOdota vähän aikaa, kun iPad etsii verkkoja. Valitse sen jälkeen verkko, jonka\nnimi on kotimokkulan takaosan tarrassa (SSID). Seuraavaksi iPad kysyy\nlangattoman verkon salasanaa. Löydät salasanan eli suojausavaimen (WLAN-Key)\nmyös mokkulan takaosan tarrasta.  \n  \nPaina **Liity**. Voit aloittaa netin käytön.\n\nAndroid Tablet\n\nSiirry näkymään, jossa näet kaikki sovellukset.  \n  \nValitse **Asetukset** ja valikosta kohta **Wi-Fi** (vanhemmissa Langattomat ja\nverkot). Odota vähän aikaa, kun tabletti etsii verkkoja. Valitse sen jälkeen\nverkko, jonka nimi on kotimokkulan takaosan tarrassa (SSID). Seuraavaksi\ntabletti kysyy langattoman verkon salasanaa. Valitse sen jälkeen salasana eli\nsuojausavain (WLAN-Key), jonka nimi on kotimokkulan takaosan tarrassa.  \n  \nPaina **Yhdistä** ja voit aloittaa netin käytön.\n\n",
+                "heading": "DNA Kotimokkula 4G WLAN B593S"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:16+00:00",
+        "last_modified": "2025-06-20T18:53:25.578186",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

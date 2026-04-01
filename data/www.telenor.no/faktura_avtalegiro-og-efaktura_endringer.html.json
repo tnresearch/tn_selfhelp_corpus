@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/faktura_avtalegiro-og-efaktura_endringer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 194,
+                "end": 2742,
+                "text": "## Endringer for eFaktura-avtaler\n\nFor snart 2 år siden innførte bankene endringer på hvordan eFaktura bestilles\nog sendes ut - det vi kaller Ja Takk til Alle eller Alltid eFaktura. Frem til\nnå har de gamle eFaktura-avtalene som var opprettet før endringen fortsatt\nfungert som normalt, men fra 01. mars 2024 avvikler bankene denne varianten.\n\n[Privatkunde](https://telenor.no/kundeservice/faktura/avtalegiro-og-\nefaktura/endringer/#privat)[Bedriftskunde](https://telenor.no/kundeservice/faktura/avtalegiro-\nog-efaktura/endringer/#bedrift)\n\n## Privatkunde\n\n## Hva betyr dette for meg?\n\n **Hvis du ikke gjør endringer på din eFaktura-avtale, vil du motta faktura på\npapir fra mars måned.**\n\nDet kan være flere årsaker til at du har fått varsling på dette, men vanligvis\ner det en av disse grunnene:\n\n  * Du har ikke aktivert Ja Takk til Alle/Alltid eFaktura i din nettbank\n\n  * Den som mottar fakturaen din er en annen person (f.eks. ektefelle eller barn)\n\n### Hva må jeg gjøre for å fortsatt motta eFaktura?\n\nLogg inn i din nettbank og aksepter Ja Takk til Alle/Alltid eFaktura. Trenger\ndu hjelp til dette, kan du kontakte banken din.\n\nHvis det er en annen person som betaler din faktura i dag, må den personen\nsettes som fakturamottaker hos oss. Vedkommende må også akseptere Ja Takk til\nAlle/Alltid eFaktura i sin nettbank. For å endre fakturamottaker, [ringer du\noss på kundeservice](/kundeservice/kontakt-oss/) \\- så hjelper vi deg.\n\n## Bedriftskunde\n\n## Hva betyr dette for meg?\n\n **Hvis du ikke gjør endringer på din eFaktura-avtale, vil du motta faktura på\npapir fra mars måned.**\n\nFor bedrifter skyldes det som regel at det er en privatperson som har\nopprettet eFaktura-avtalen for bedriften. Med den gamle varianten av eFaktura\nvar dette mulig, men Ja Takk til Alle/Alltid eFaktura er kun mulig å bestille\nhvis fakturamottaker er en privatperson.  \n\n### Hva må jeg gjøre for å fortsatt motta eFaktura?\n\nHvis det fortsatt er privatpersonen som skal motta og betale fakturaen, må\ndenne personen settes som fakturamottaker hos oss/på kontoen. Ønsker dere\ngjøre dette, må dere [kontakte oss på\nKundeservice](/bedrift/kundeservice/kontakt-oss/) \\- så fikser vi det!\n\n **Hvis fakturaen skal betales av bedriften har dere to alternativer:**\n\n  * [Bestill ePostfaktura](/bedrift/kundeservice/epostfaktura/bestilling.page) \\- hvis dere allerede har avtale om ePostfaktura hos oss, vil de berørte kontoene overføres til samme avtale når eFaktura fjernes.\n\n  * Registrere bedriften i [Elma ](https://samarbeid.digdir.no/elma/elma/24)og få EHF-faktura"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:53+00:00",
+        "last_modified": "2025-05-30T08:24:06.714821",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

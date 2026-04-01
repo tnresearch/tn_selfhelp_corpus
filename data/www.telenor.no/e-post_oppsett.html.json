@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/e-post_oppsett.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 113,
+                "end": 4210,
+                "text": "# Oppsett og innstillinger for Online e-post\n\nHer finner du hjelp med innstillinger for din Online e-post, i tillegg til\noppsett for PC og mobil dersom du bruker et e-postprogram.\n\n[E-post oppsett](/kundeservice/e-post/oppsett/#oppsett)[Administrer\ne-post](/kundeservice/e-post/oppsett/#minesider)[Innstillinger\nwebmail](/kundeservice/e-post/oppsett/webmail/)[Logg på\nwebmail](https://www.online.no/)\n\n## Oppsett for Online e-post for e-postprogrammer på mobil og PC/Mac\n\nSe steg for steg veiledninger for e-postoppsett, eller endring av\ninnstillinger for det programmet du ønsker å bruke.\n\nKontoinnstillinger for Online e-post\n\nInnstillingene er like uavhengig av hvilket e-postprogram du bruker. Utseende\nkan derimot variere fra program til program.\n\nVelg IMAP-oppsett, og fyll inn innkommende og utgående server med tilhørende\nporter.\n\n **Kontonavn** : Valgfritt\n\n **Brukernavn** : Din e-postadresse (det som er før \"@online.no\", maks 8\ntegn).\n\n **Passord** : Ditt passord\n\n **Innkommende server**\n\n  * Server: mail.online.no\n\n  * Port: 993 m/SSL\n\n **Utgående server**\n\n  * Server: mail.online.no\n\n  * Port: 465 m/SSL (Du kan også bruke 587 m/SSL eller TLS)\n\n## Sette opp eller endre innstillinger for Online e-post\n\nHar du en av mobiltypene eller e-postprogrammene nedenfor kan du følge våre\nveiledninger for e-post oppsett steg for steg. Vi viser deg også hvordan du\nendrer innstillinger etter at e-posten er satt opp.\n\n[\n\n### iPhone/iPad\n\n](/kundeservice/e-post/oppsett/iphone/)\n\n[\n\n### Samsung og Android\n\n](/kundeservice/e-post/oppsett/samsung/)\n\n[\n\n### Huawei\n\n](/kundeservice/e-post/oppsett/huawei/)\n\n[\n\n### Outlook\n\n](/kundeservice/e-post/oppsett/outlook/)\n\n[\n\n### Windows Mail\n\n](/kundeservice/e-post/oppsett/windows-mail/)\n\n[\n\n### Mac Mail\n\n](/kundeservice/e-post/oppsett/mac/)\n\n[\n\n### Webmail\n\n](/kundeservice/e-post/oppsett/webmail/)\n\n## Administrer e-postkonto\n\nPå [Telenor Mine Sider](https://www.telenor.no/mine-sider/) kan du endre\npassord, legge til-, fjerne- eller endre din e-postkonto.\n\n  * #### Slik logger du inn på Mine Sider\n\n    1. Åpne <https://www.telenor.no/mine-sider/> på en datamaskin (ikke mobil)\n\n    2. Logg inn eller opprett en TelenorID (Du trenger ikke å være telenorkunde) \n\n    3. Velg **Gå til e-post** under **Tjenester**\n\n  * #### Glemt- eller endre passord\n\n    1. Åpne [Telenor Mine Sider](https://www.telenor.no/mine-sider/)\n\n    2. Logg inn eller opprett en TelenorID (Du trenger ikke å være telenorkunde) \n\n    3. Velg **Gå til e-post** under **Tjenester**\n\n    4. Velg **Endre passord** på ønsket konto og følg anvisningene \n\n  * #### Legg til eller endre mobilnummer\n\n    1. Åpne [Telenor Mine Sider](https://www.telenor.no/mine-sider/)\n\n    2. Logg inn eller opprett en TelenorID (Du trenger ikke å være telenorkunde) \n\n    3. Velg **Gå til e-post** under **Tjenester**\n\n    4. Velg **Endre mobilnummer** på ønsket konto \n\n    5. Skriv mobilnummeret og **Lagre** **mobilnummer**\n\n  * #### Opprett en ny Online e-post konto\n\n    1. Åpne [Telenor Mine Sider ](https://www.telenor.no/mine-sider/)\n\n    2. Logg inn eller opprett en TelenorID (Du trenger ikke å være telenorkunde) \n\n    3. Velg **Gå til e-post** under tjenester \n\n    4. Trykk **Opprett e-post konto**\n\n    5. Velg hvem du skal opprette e-post konto for \n\n    6. Velg en ønsket e-post adresse \n\n    7. Skriv inn mobilnummer som knyttes til e-posten \n\n    8. Velg ønsket lagringsmengde \n\n    9. E-posten opprettes og du får sms når den er klar \n\n    10. Gå til eller Last inn Mine Sider på nytt \n\n    11. Velg **Endre passord** og tast inn ønsket passord \n\n    12. Trykk **Logg inn på e-postkonto**\n\n  * #### Si opp Online e-postkontoen\n\n    1. Åpne [Telenor Mine Sider](https://www.telenor.no/mine-sider/)\n\n    2. Logg inn eller opprett en TelenorID (Du trenger ikke å være telenorkunde) \n\n    3. Velg **Gå til e-post** under **Tjenester**\n\n    4. Velg **Innstillinger** på e-postkontoen du ønsker å slette \n\n    5. Velg **Slett konto** for å bekrefte \n\n    6. Trykk på **Ja, jeg er sikker** for å si opp   \n  \nMerk: _Når du sletter kontoen din blir også alt innholdet ditt slettet_"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:04+00:00",
+        "last_modified": "2025-05-30T08:20:22.345610",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

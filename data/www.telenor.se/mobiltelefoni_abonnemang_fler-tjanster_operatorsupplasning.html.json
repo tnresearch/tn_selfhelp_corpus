@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_fler-tjanster_operatorsupplasning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 348,
+                "end": 1733,
+                "text": "#  Lås upp din operatörslåsta mobil eller surfplatta\n\nKöpte du en mobil, router eller ett modem från Telenor innan 1 maj 2014? Då\nkan den eventuellt vara låst till oss.\n\nOperatörsupplåsning kostar inget. [Kontakta oss](/support/kontakta-oss/) så\nhjälper vi dig med upplåsningen. Du behöver inte vara kund hos Telenor idag\nför att låsa upp din produkt.\n\n## Följande mobiler är inte operatörslåsta till Telenor Sverige\n\n**Alla mobiler köpta efter 1 maj 2014** , till exempel följande iPhones:\n\n  * iPhone 6, 6 Plus, 6s, 6s Plus\n  * iPhone 7, 7 Plus\n  * iPhone 8, 8 Plus\n  * iPhone X\n\nHar du en en iPhone SE, iPhone 4s (8 GB) iPhone 5s eller iPhone 5c? Då är den\noperatörslåst om du köpte den innan 1 maj 2014, men inte om du köpte den\nsenare.\n\n## Vanliga frågor och svar om operatörsupplåsning\n\n  * Vad är ett IMEI-nummer?\n\nIMEI-numret är en 15-siffrig kod som är unik för din mobil. Som mobilens\npersonnummer kan man säga.\n\n  * Var hittar jag IMEI-numret?\n\nHar du mobilen i närheten är det absolut lättaste sättet att **knappa in\n*#06#** så visas det i displayen.\n\nDu hittar även IMEI-numret i Mitt Telenor – antingen här [på\nwebben](/link/a4531ddbfeef48d3a256e369df95234d.aspx) eller i [vår\napp](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx). Och på kartongen och på\nkvittot. 15 siffror. Varken mer eller mindre.\n\n  \nHar du ett modem? Leta i närheten av streckkoden, där brukar det stå."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:40+00:00",
+        "last_modified": "2025-05-30T14:23:06.407377",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

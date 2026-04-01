@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_skada-och-forlust_vad-ska-jag-gora-om-det-hander-nagot-med-min-mobil-utomlands.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 293,
+                "end": 1181,
+                "text": "# Vad ska jag göra om det händer något med min mobil utomlands?\n\nDet beror på vad som har hänt.  \n  \n[Om mobilen är försvunnen (stulen eller tappad)](/support/mobiltelefoni/skada-\noch-forlust/borttappad-eller-stulen-mobil-surfplatta/)  \n  \n[Om mobilen är skadad](/support/mobiltelefoni/skada-och-forlust/skadad-mobil/)\n\n**  \nOm du har Trygg 48**  \nDu som har försäkringen Trygg 48 kan få en ny mobil skickad till dig även\nutomlands. Om du befinner dig inom EU är den enda kostnaden som tillkommer\n(utöver självrisken) fraktavgiften på 249 kr. Befinner du dig utanför EU\ntillkommer även eventuell tull. Tänk på att det är viktigt att du anger rätt\nadress då vi annars inte kan ansvara för att du får din mobil.\n\n**Om du har skärmförsäkring**  \nSkärmförsäkring gäller oavsett var i världen du befinner dig. Du står dock\nsjälv för returkostnaden. Var noga med att ange korrekt returadress.\n\n",
+                "heading": "Vad ska jag göra om det händer något med min mobil utomlands?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:23+00:00",
+        "last_modified": "2025-05-30T17:46:39.761996",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

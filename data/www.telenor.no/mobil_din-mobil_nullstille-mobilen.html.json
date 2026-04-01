@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_din-mobil_nullstille-mobilen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 171,
+                "end": 2186,
+                "text": "# Slik nullstiller du mobilen\n\nSkal du levere fra deg mobilen eller nullstille i forbindelse med et problem?\n\nHer finner du informasjon om sletting av innhold og innstillinger på Android\neller iOS.\n\n## Ta vare på innholdet ditt\n\nMobilen din inneholder store mengder personlig informasjon, og før du\nnullstiller mobilen, kan det være lurt å sikkerhetskopiere det innholdet du\nønsker å ta vare på.\n\nVi tilbyr også tjenester som gjør det enklere for deg å ta vare på både bilder\nog kontakter. Les mer om [Min Sky\n](https://www.telenor.no/privat/mobil/app/min-sky/)og [Se\nHvem](https://www.telenor.no/privat/mobil/app/se-hvem/).\n\n## Nullstill mobilen\n\nÅ nullstille mobilen innebærer at man sletter alt innhold og setter mobilen\ntilbake til fabrikkinnstillinger - slik mobilen var da den var helt ny.\n\nNår mobilen er nullstilt, kan du trygt levere den fra deg uten å bekymre deg\nfor at bilder, meldinger eller annen personlig informasjon blir tilgjengelig\nfor andre.\n\n  * #### Slik nullstiller du mobilen - iPhone\n\n    1. Gå til **Innstillinger**\n\n    2. Velg **Generelt**\n\n    3. Bla ned på siden\n\n    4. Velg **Overfør eller nullstill iPhone**\n\n    5. Velg så **Nullstill**\n\nHvis du allerede har levert fra deg mobilen, kan den også nullstilles ved å\nlogge inn på [iCloud.com](https://www.icloud.com/). Dette forutsetter at\nmobilen er knyttet mot en Apple-ID, og at 'Finn iPhone' er aktivert.\n\n[Slik nullstiller du mobilen på\niCloud.com](/privat/kundeservice/mobilhjelp/iphone/deaktiver-find-my-iphone/)\n\n  * #### Slik nullstiller du mobilen - Android\n\n    1. Gå til **Innstillinger**\n\n    2. Velg **Generell styring**\n\n    3. Velg **Nullstill**\n\n    4. Velg **Nullstill til fabrikkdata**\n\n    5. Bla ned og velg **Nullstill**\n\nVær oppmerksom på at menyvalgene kan variere noe avhengig av hvilken Android\nmobil du har.\n\nHvis du allerede har levert fra deg mobilen, kan den også nullstilles ved å\nlogge inn på [android.com/find](https://accounts.google.com). Dette\nforutsetter at mobilen er knyttet mot en Google-konto."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:53+00:00",
+        "last_modified": "2025-05-30T09:22:48.842232",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

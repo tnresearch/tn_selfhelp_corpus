@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_din-mobil.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 113,
+                "end": 3759,
+                "text": "# Hjelp med din mobil\n\nLurer du på noe om mobilen, Splitt eller SIM-kort? Her finner du informasjon\nom det meste\n\n## Er mobilen låst?\n\nEr du usikker på hvordan du går frem for å låse opp mobilen, har vi en\noversikt over de forskjellige kodene som kan kreves.  \n\n  * [PIN-, PUK- og skjermlåskode](/kundeservice/mobil/sim-kort/pin-og-puk-kode/)\n\n  * [Operatørlås](/kundeservice/mobil/din-mobil/operatorlas/)\n\n## Bestille eller aktivere SIM-kort\n\nHar du opplevd at du mangler dekning etter en endring eller etter å ha\nrestartet mobilen? Sjansen er stor for at dette kan ha noe med SIM-kortet å\ngjøre.\n\nHer hjelper vi deg hvis du ønsker å bestille nytt SIM-kort til mobilen, ønsker\nå aktivere et SIM-kort mot abonnementet ditt eller om du har problemer med\naktivering.\n\n[Gå til Hjelp med SIM-kort](/kundeservice/mobil/sim-kort/)\n\n## Splitt eller Innbytte fra Telenor\n\nSplitt er en smartere måte å kjøpe mobil på.\n\nMed Splitt kan du både **splitte opp** betalingen over 24 eller 36 måneder, og\n**splitte opp** det du betaler for mobilen nå: Betal 0,- i dag, eller et\nvalgfritt beløp for lavere månedspris.\n\nDet er ingen renter, gebyrer eller binding, og du kan bytte inn den gamle\nmobilen din for _enda_ lavere månedspris. [Du kan kjøpe mobil i nettbutikken\nvår](/mobiltelefoner/).\n\nLurer du på noe om Splitt? Her finner du svar på [de vanligste\nspørsmålene](/kundeservice/mobil/hjelp-med-splitt/).  \n\n* * *\n\n  \n **Innbytte fra Telenor**  \nHar du ikke Splitt, men ønsker å bytte inn din gamle mobil? Nå kan du få\npenger for mobiler du ikke bruker lenger - og med det gjøre ditt neste\nmobilkjøp litt rimeligere.\n\nVi har veiledninger som hjelper deg når du skal ta innbytte av din gamle mobil\ntil en ny.\n\n[Les mer om Splitt](/kundeservice/mobil/hjelp-med-splitt/)[Les mer om\nInnbytte](/kundeservice/mobil/hjelp-til-innbytte/)\n\n  * #### Spørsmål om kjøp i nettbutikken\n\n[Her finner du svar på de vanligste spørsmålene](/kundeservice/mobil/hjelp-\nmed-nettbutikken/), slik som f.eks. leveringstider, hva du gjør dersom du\nønsker å angre på kjøpet, endre noe i bestillingen, eller har spørsmål rundt\nfakturaen du har mottatt.\n\nOm mobilen er defekt eller ødelagt, kan du finne mer informasjon om\n[reklamasjon og reparasjon av utstyr på Hjelp til Telenor\nNettbutikk.](/kundeservice/mobil/hjelp-med-nettbutikken/)\n\n  * #### Defekt eller ødelagt mobil? \n\nHvis utstyret du har kjøpt hos oss ikke fungerer som det skal, må det sendes\ninn til oss eller leveres inn på en Telenorbutikk. Måten det gjøres på\navhenger av om feilen dekkes av garantivilkårene eller ikke.\n\nFeil som dekkes av garantivilkårene er svakheter ved utstyret, og ikke feil\nsom skyldes slitasje, feilbruk eller skade påført i etterkant av kjøpet,\neksempelvis fysiske skader, fuktskader eller brukerfeil.  \nDu kan lese mer om hvordan du reklamerer på en vare på denne siden - [Hjelp\ntil nettbutikken](/kundeservice/mobil/hjelp-med-nettbutikken/).\n\n* * *\n\nHar du forsikring hos oss, kan fysiske skader tas på forsikringssak. Trykk på\nknappen under for å lese mer om hvordan du registrerer forsikringssak.\n\nHar du ikke forsikring og telefonen er skadet, må den eventuelt repareres for\negen regning hos et mobilverksted.\n\n[Melde skade - Forsikring](/forsikring/meld-skade/)\n\n  * #### Forsikring av din mobil, nettbrett eller smartklokke\n\nMed våre forsikringer er du sikret mot alt fra knust skjerm til tap av\nenheten.\n\nVi veileder vi deg til hvordan du går frem hvis du vil bestille, avbestille,\neller trenger å benytte deg av en forsikring.\n\n[Les mer om forsikring.](/privat/mobil/mobiltjenester/mobilforsikring/)\n\n## Lyst på ny mobil?\n\n[Se alle](/mobiltelefoner/ \"Se alle mobiler i nettbutikken\")"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:36+00:00",
+        "last_modified": "2025-05-30T09:22:08.570725",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

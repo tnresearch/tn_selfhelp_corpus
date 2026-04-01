@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_inget-ljud.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 490,
+                "text": "# Inget ljud\n\nHör du inget ljud från tv:n?  \n  \nBörja med att höja volymen på både tv:n och tv-boxen. Du hittar volymknapparna\npå fjärrkontrollerna till tv:n och tv-boxen.  \n  \nOm du tidigare har valt att helt stänga av ljudet med hjälp av Mute-knappen så\nkommer ljudet att sättas på igen när du höjer volymen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:38+00:00",
+        "last_modified": "2025-05-30T17:41:16.483119",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

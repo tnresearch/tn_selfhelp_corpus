@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_valj-mobil_android_sakerhetskopiera.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 351,
+                "end": 1881,
+                "text": "# Säkerhetskopiera\n\n## Samsung, Sony och Xiaomi\n\n  \nAtt säkerhetskopiera sin mobil är ett viktigt steg som många ofta glömmer –\ntrots att många av oss har mycket information i mobilen som vi gärna vill ha\nkvar för evigt.\n\nGenom att regelbundet säkerhetskopiera din mobil kan du vara säker på att få\ntillbaka bilder, kontakter etc, om olyckan skulle vara framme. Med en\nsäkerhetskopia lagrad i molnet kan du trådlöst återställa alltihop.\n\nDen här guiden visar hur du gör i den **senaste versionen av operativsystemet\nAndroid.** Så börja gärna med att se till att det är installerat på din mobil\n– inte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/android/uppdatera-operativsystem/)  \n  \nNu har du senaste versionen installerad, eller hur? Då kör vi!\n\n  * ### Gå till startskärmen och svep uppåt så att menyn öppnas\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Leta efter alternativet \"Säkerhetskopiering och återställning\", \"Cloud och konton\" eller \"Användarkonton\" beroende på din telefonmodell\n\n  * ### Välj säkerhetskopieringsalternativet som kan vara \"Säkerhetskopiering\", \"Säkerhetskopiera till Mi Cloud\" m.fl. beroende på tillverkare\n\n  * ### Aktivera \"Säkerhetskopiera mina data\" och välj vilken typ av data du vill säkerhetskopiera\n\n  * ### Välj en destination för säkerhetskopieringen, som kan vara Samsungs molnlagring, Google-kontot, Mi Cloud eller SD-kortet\n\n  * ### Tryck på \"Säkerhetskopiera nu\" eller liknande"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:17+00:00",
+        "last_modified": "2025-05-30T14:47:16.236155",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

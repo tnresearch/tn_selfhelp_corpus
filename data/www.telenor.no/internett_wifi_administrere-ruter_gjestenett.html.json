@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter_gjestenett.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 241,
+                "end": 3771,
+                "text": "# Ekstra nettverk og gjestenett\n\nHer finner du informasjon om hvordan du setter opp ekstra trådløse nettverk og\ngjestenett på din trådløse ruter\n\n[Smarte enheter ➜](/kundeservice/internett/wifi/administrere-\nruter/gjestenett/#smart)\n\n## Ekstra trådløse nettverk\n\nPå WiFi-ruter II og WiFi Ruter er det mulighet til å aktivere opptil 3 ekstra\ntrådløse nettverk, og disse nettverkene kan være enten vanlige nettverk, eller\nsåkalte **_gjestenettverk._** Du kan også sette opp egne regler for et helt\nnettverk, slik at alle som bruker det vil følge reglene som er satt. Dette\nkalles ofte [Foreldrekontroll](/kundeservice/internett/wifi/administrere-\nruter/foreldrekontroll/), og du kan lese mer om hvordan dette aktiveres på\nlinken.\n\nBrukerne som er koblet til gjestenettverket får ikke tilgang til det vanlige\ninterne nettverket, men de kan bruke internett. Det vil i praksis si at de som\ner tilkoblet gjestenettverket ikke kan nå forskjellige tjenester eller enheter\nsom kjører på lokalnettet hjemme hos deg.\n\n  \nEt eksempel på dette kan være at du har en trådløs høyttaler tilkoblet ditt\nvanlige trådløse nett. Høyttaleren kan strømme musikk fra Spotify, og du kan\nstyre den fra din mobiltelefon, fordi denne også er tilkoblet det vanlige\ntrådløse nettet. Hvis du er koblet til et gjestenettverk vil du ikke kunne\nstyre høyttaleren, men du kan bruke internett som vanlig.\n\n## Slik gjør du det:\n\n  1. Logg inn på <https://wifi.telenor.no>\n\n    * Du må være koblet til ruterens nettverk for å få tilgang på linken over\n\n  2. Trykk på _Administrer trådløse nettverk_\n\n  3. Bla ned til _Ekstra nettverk_\n\n  4. Trykk på bryteren ved _Aktivert_ ved siden nettverket du ønsker å aktivere\n\n  5. Trykk på bryteren ved _Gjestenett_ , på det samme nettverket du aktiverte\n\n  6. Finn på et passende navn og skriv det inn i Netterksnavn-feltet, evt. la standardnavnet stå\n\n  7. Finn på et nettverkspassord. Dette må være minimum 8 tegn langt, men vi anbefaler at du bruker minst 12 tegn. Skriv det i Nettverkspassord-feltet\n\n  8. Klikk på _Lagre_\n\n## Sette opp eget nett til smarte enheter\n\nI dag er det en stadig økende mengde utstyr som krever tilkobling til\ninternett - smarte enheter som for eksempel panelovner, støvsugere, kameraer\nog kjøleskap. Noen av disse enhetene opererer på en trådløs 2,4 GHz frekvens,\nnoe som gjør det nødvendig å opprette et eget nettverk spesielt for dem.\n\nHer har vi derfor laget en enkel veiledning som viser deg hvordan du kan sette\nopp et slikt trådløst nettverk.\n\n **Sånn gjør du det:**\n\n  1. Logg inn på ruteren her: <https://wifi.telenor.no>\n\n    * Du må være koblet til ruterens nettverk for å få tilgang på linken over\n\n  2. Trykk på _Administrer trådløse nettverk_\n\n  3. Bla ned til _Ekstra nettverk_\n\n  4. Trykk på bryteren ved _Aktivert_ ved siden nettverket du ønsker å aktivere\n\n  5. Endre feltet der det står _Bånd_ til å være kun 2,4 GHZ\n\n  6. I noen tilfeller må du endre Kryptering til _WPA2,_ men som regel kan du la det stå på WPA2+WPA3.\n\n    * Skulle du oppleve problemer med tilkoblingen, kan du teste å endre krypteringen til WPA2 senere.\n\n  7. Finn på et passende navn og skriv det inn i Nettverksnavn-feltet, evt. la standardnavnet stå\n\n  8. Finn på et nettverkspassord. Dette må være minimum 8 tegn langt. Skriv det i Nettverkspassord-feltet\n\n  9. Klikk på _Lagre_\n\n## Du vil kanskje også lese om\n\n### Foreldrekontroll\n\nHer viser vi deg hvordan du setter opp foreldrekontroll på din ruter\n\n### Portåpning\n\nSlik kan du åpne porter i din ruter, om det er til dataspill eller andre\nenheter"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:39+00:00",
+        "last_modified": "2025-05-30T09:03:43.082813",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

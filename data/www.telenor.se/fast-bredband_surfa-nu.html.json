@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 283,
+                "end": 1384,
+                "text": "#  Surfa nu\n\nHär får du hjälp att komma igång med ditt bredband. Oavsett om du just packat\nupp routern ur lådan, eller redan kommit en bit och undrar varför det inte\nfungerar.\n\n## Vad vill du ha hjälp med?\n\n[ ](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-bredband/)\n\nAtt installera bredbandet\n\nHär visar vi, **steg för steg, hur du installerar ditt bredband.** Det tar max\nen kvart, sedan kan du surfa.\n\n[Till guiden](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-bredband/)\n\n[ ](/support/fast-bredband/surfa-nu/dags-att-felsoka/)\n\nAtt förstå varför det inte funkar\n\nDu har **kopplat in allt men kan inte surfa** , trots att det borde gå.  \n  \nVi hjälper dig att ta reda på vad som är fel och att lösa problemet.\n\n[Felsökning](/support/fast-bredband/surfa-nu/dags-att-felsoka/)\n\n[ ](/handla/tjanster/smarta-hemmet/digihjalpen/)\n\nDigihjälpen. Om du hellre gör något annat.\n\nFå hjälp i hemmet med installationen av ditt bredband, wifi-brygga, tv-box,\nApple TV – eller det du behöver för att kunna leva i ett smart hem.\n\n[Läs mer om Digihjälpen](/handla/tjanster/smarta-hemmet/digihjalpen/)\n\n",
+                "heading": " Surfa nu"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:38+00:00",
+        "last_modified": "2025-05-30T14:08:13.883792",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

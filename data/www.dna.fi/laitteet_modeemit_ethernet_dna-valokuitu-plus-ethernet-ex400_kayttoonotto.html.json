@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-valokuitu-plus-ethernet-ex400_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 404,
+                "end": 4503,
+                "text": "# DNA Ethernet-modeemi EX400\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nvalokuitu-plus-ethernet-ex400/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-valokuitu-plus-\nethernet-ex400/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-valokuitu-plus-\nethernet-ex400/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-valokuitu-plus-\nethernet-ex400/paivitykset)\n\n## Käyttöönotto\n\n### Modeemin asennus ethernet-kohteessa\n\n  1. Asunnossasi on kytkinkaappi (usein asunnon sähkökaapissa), jossa voit määrittää mihin asunnon nettipistokkeista kotisi nettiyhteys tulee. Voit myös saada yhteyden useampaan nettipistokkeeseen hankkimalla [DNA Kytkimen](https://kauppa4.dna.fi/Nettiyhteydet-ja-laitteet/Modeemit-ja-mokkulat/DNA-Kytkin-ethernet-talouksiin-TL-SG108/p/VKYT00001).\n  2. Kytke ethernet-johto (RJ45) huoneen ethernet-rasiasta modeemin WAN-liitäntään.\n  3. Kytke virtajohto virtapistorasiaan ja yhdistä sen toinen pää EX400-modeemin virtaliitäntään.\n  4. Paina modeemin virtapainiketta. Modeemin valot vilkkuvat noin 30 sekunnin ajan. Asennus on onnistunut, kun modeemin status-merkkivalo palaa tasaisen vihreänä. Modeemin ja nettiyhteyden asennus on nyt valmis! \n\nKun laitteen update- eli päivitysmerkkivalo vilkkuu, on modeemille saatavilla\npäivitys. Voit käynnistää päivityksen koskettamalla merkkivaloa.\n\n## Etupaneelin valojen merkitykset\n\n  1. Käynnistyksen aikana ”Status” on keltainen. Tämä indikoi odotustilaa, jolloin laite ei ole vielä käynnistyt, eikä se ole saanut IP-osoitetta. Juuri käynnistymisen alussa LED-valo on punainen muutaman sekunnin ajan.  \n  \nKun laite on käynnistynyt kokonaan ja saanut nettiyhteyden, ”Status”-valo\npalaa kiinteästi **vihreänä**.  \n  \nMikäli laitteessa ilmenee vika tai nettiyhteys katkeaa, palaa ”Status”-valo\nkiinteästi punaisena.\n\n  \n\n  2. Kun laite havaitsee ohjelmistopäivityksen, modeemin ”Update”-valo vilkkuu hitaasti vihreänä. Käyttäjän tulee tällöin painaa ”Update”-painiketta, jolloin käynnistyy ohjelmistopäivitys  \n\n# Laitteen liitännät\n\n  1. **WAN-liitäntä** esimerkiksi toisen modeemin liittämiseksi EX400:ään tai ethernet-kohteissa ethernet (RJ45) -kaapeli yhdistämiseksi seinärasiaan.\n  2. **Sisäverkko** ethernet-portti. Liitäntä tietokoneeseen, digiboksiin tai vaikkapa pelikonsoliin.\n  3. **Reset-painike** laitteen takaosassa palauttaa modeemin tehdasasetukset. Jos olet unohtanut modeemin asetuksiin tekemäsi muutokset esim. salasanan, paina teräväkärkiunen esine (esim. suoristettu paperiliitin) kevyesti 15 sekunnin ajan modeemin takapaneelissa olevan resetointipainikkeen reikään. Modeemin resetointi palauttaa kaikki alkuperäiset tehdasasetukset.\n  4. **Power-liitin** laitteen omalle sähkömuuntajalle. \n  5. **Virtakytkin** (virta päälle / pois päältä). Jos otat virran pois päältä, niin odota aina vähintään 15 sekuntia ennen kuin kytket virran takaisin. \n  6. **USB-portit.** USB-porttiin voit kytkeä USB-mokkulan tai esimerkiksi massamuistin, jonka voi jakaa laitteen avulla lähiverkolle.\n\n## WiFi-verkon nimi ja salasana\n\nDNA-modeemit ovat WiFi-verkon osalta salattuja. Löydät verkon nimen ja\nsalasanan pakkauksen mukana tulleesta lapusta sekä asetussivuilta.\n\n  * **SSID (verkon nimi)** :Esim. DNA-WIFI-XXXX, DNA-WIFI-2Ghz-XXX ja DNA-WIFI-5Ghz-XXX \n  * **Langattoman verkon salasana** : Esim. 25694177898\n\nEX400 -modeemi tukee 2,4 GHz ja 5 GHz -taajuuksisia langattomia WiFi-verkkoja.\nMolemmat ovat oletuksena päällä. Erotat nämä toisistaan 2 GHz- ja 5 GHz\n-termeistä verkkojen nimessä (SSID). Voit vaihtaa verkkojen nimeä tai kytkeä\ntoisen pois modeemin asetussivuilla. Laite lähettää myös kolmatta WiFi-\nverkkoa, joka on yhdistelmä 2,4 GHz- ja 5 GHz -verkkoja. Yhdistä tähän ja\nkäyttölaite valitsee mitä taajuutta käytetään\n\n**Unohtuiko salasana?** Kun resetoit modeemin tehdasasetuksiin, palautuvat\nalkuperäiset asetukset (ml. salasana) takaisin. Resetoi modeemi painamalla\nmodeemin takana olevaa reset-nappia 30 sekunnin ajan. Tällöin modeemissa\nvälähtävät kaikki valot yhtäaikaisesti.  \n\n",
+                "heading": "DNA Ethernet-modeemi EX400"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:13:12+00:00",
+        "last_modified": "2025-06-20T14:57:54.692147",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

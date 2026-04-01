@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_andra-installningar_valj-mobil_hitta-min-enhet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 350,
+                "end": 1573,
+                "text": "#  Hitta min enhet: Välj mobil\n\n[ ](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/iphone/aktivera-avaktivera-hitta-min-iphone/)\n\nApple iPhone\n\nTill guiden för mobiler från Apple (iOS)\n\n[Guide för iPhone](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/iphone/aktivera-avaktivera-hitta-min-iphone/)\n\n[ ](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/android/aktivera-inaktivera-hitta-min-enhet/)\n\nSamsung, Sony eller Xiaomi\n\nTill guiden för mobiler från Samsung, Sony eller Xiaomi (Android)\n\n[Guide för Android](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/android/aktivera-inaktivera-hitta-min-enhet/)\n\nMobil från annan tillverkare?\n\nVi har inte guider eller manualer här på telenor.se för mobiler från dessa\nmärken, men klicka på rätt länk nedan så kommer du till tillverkarnas egna\nsupportsidor.\n\n[Guider för **Fairphone** ](https://support.fairphone.com/hc/en-us)\n\n[Guider för **Nothing**](https://se.nothing.tech/pages/support-centre)\n\n[Guider för **Pixel**](https://support.google.com/pixelphone/#topic=7078250)\n\n[Guider för **Motorola**](https://en-emea.support.motorola.com/app/home)\n\n[Guider för **Doro**](https://www.doro.com/sv-se/support/)  \n  \n  \n\n",
+                "heading": " Hitta min enhet: Välj mobil"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:36+00:00",
+        "last_modified": "2025-05-30T14:30:18.768018",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/faktura.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 236,
+                "end": 5391,
+                "text": "#  Faktura\n\nHär hittar du information om fakturor från Telenor. Tips! Hundratals kunder\nhittar rätt här varje dag.\n\n## Se din faktura\n\n  \nDin faktura hittar du i Mitt Telenor. Där kan du även se:\n\n  * tidigare fakturor\n  * om din faktura är betalad\n  * kommande kostnader\n\n[Logga in](/mitt-telenor/)\n\n## Betalsätt för din faktura\n\n  \nDu väljer själv hur du betalar din faktura.  \n  \n[Allt om hur du betalar din faktura från Telenor](/support/faktura/allt-om-\nhur-du-betalar-fakturan/)\n\n[Betala med **e-faktura**](/support/faktura/e-faktura/)  \n  \n[Betala med **autogiro**](/support/faktura/autogiro/)  \n  \n[Betala med Swish](/support/faktura/swish/)  \n  \n[Få tv- och bredbandsfakturan i Kivra](/support/faktura/kivra/)  \n  \n[Byte av bank och betalansvarig](/support/faktura/byte-av-bank-eller-\nbetalansvarig/)\n\n### \"Det här kan väl inte stämma?\"\n\n  \nHär hittar du hjälp om du undrar över något på din faktura.  \n  \n[Så funkar **första fakturan för mobiltelefoni**](/support/faktura/forsta-\nfakturan/)  \n  \n[Så funkar **första fakturan för bredband och tv**](/support/faktura/din-\nforsta-faktura/)  \n  \n[Det här kan göra beloppet på din faktura **högre  \nän vanligt**](/support/faktura/ovantat-eller-hogt-fakturabelopp/)  \n  \n[Det här **betyder orden** som står på fakturan](/support/faktura/hjalp-att-\nforsta-fakturan/)\n\n[Jag har fått en faktura som jag inte ska\nha](/support/faktura/paminnelse/#felaktigfaktura)  \n\n### Om du har fått en påminnelse\n\n  \n[Påminnelse](/support/faktura/paminnelse/)  \n  \n[Inkasso](/support/faktura/inkasso/)\n\n## Vanliga frågor om faktura\n\n  * Hur byter jag betalsätt?\n\nDu väljer själv hur du vill betala din faktura från oss. Här hittar du\ninformation om vilka betalsätt som finns, och hur du gör för att byta.\n\n[Betala med e-faktura](/link/c0e0ead4cf3c4370940c343e4811896e.aspx)  \n  \n[Betala med autogiro](/link/cd73f7500b12469ea4605c59672dfa7a.aspx)  \n  \n[Betala mobilfakturan med Swish](/link/03ac3481993a449383d3a6d34997e5e3.aspx)  \n  \n[Få tv- och bredbandsfakturan i\nKivra](/link/2d88716635834d5ca018d06f12c6b759.aspx)  \n  \n[Byte av bank och betalansvarig](/link/a28033b51ec3449cad7db565685d826b.aspx)\n\n  * Varför har fakturan ett annat belopp än jag förväntade mig?\n\nFakturabeloppet kan ändras från månad till månad, och det kan bero på massa\nolika saker, men det vanligaste är att du har **köpt** något eller **ändrat**\nnågot i ditt abonnemang. Eller helt enkelt köpt ett nytt abonnemang, eftersom\nden **första fakturan oftast är högre** än de nästkommande.  \n  \n[Läs allt om oväntat eller högt fakturabelopp\nhär](/link/dd9a19a5155c4628a519809bd0ec86fa.aspx)\n\n  * Hur ser jag min faktura?\n\nLogga in i [Mitt Telenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx) för att\nse nya och gamla fakturor.  \n  \nI Mitt Telenor hittar du även\n\n    * Betalstatus\n    * När nästa faktura skickas ut\n    * Hur du betalar (till exempel med autogiro eller e-faktura)\nMitt Telenor finns både [här på\nwebben](/link/a4531ddbfeef48d3a256e369df95234d.aspx), och som [app\n](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx)för dig som har mobilabonnemang\nhos oss.\n\n####  \nKan du inte se dina fakturor i Mitt Telenor?\n\nDet beror förmodligen på att du inte har verifierat dig som ägare till ditt\nabonnemang.\n\n#### Har du e‑faktura?\n\nDå kan du även se dina fakturor i din internetbank.\n\n  * Hur ser jag om min faktura är betald?\n\nFör att ta reda på om vi har mottagit betalningen av din faktura [loggar du in\ni Mitt Telenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx). **Informationen\ndu ser där är samma som vi har tillgång till.** Vi kan alltså inte se om\nfakturan är betald innan du kan se det själv.  \n  \nI Mitt Telenor ser du dina fakturor uppdelade utifrån om de är **obetalda**\neller **betalda**. Du som har mobilabonnemang kan även se dina kommande\nkostnader.\n\nMitt Telenor finns även som [app](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx)\nför dig som har mobilabonnemang.\n\n[Står fakturan som obetald eller förfallen trots att du har betalat kan du\nläsa mer här.](/link/b8dfe46d8f0644b1bcb95fdfe8dbe1da.aspx)\n\n  * Varför står fakturan som obetald eller förfallen när jag har betalat?\n\nStår din faktura som obetald eller förfallen trots att du har betalat? Kolla\ndet här:\n\n    * **Har du nyss betalat?**  \nDet kan ta någon vardag innan betalningen har registrerats i våra system.\n\n    * **Har pengarna dragits från kontot?**  \nOm fakturan fortfarande ligger som obetald efter några dagar loggar du in på\ndin bank och kollar om pengarna dragits från kontot eller att e-fakturan är\ngodkänd.\n\n    * **Rätt betaluppgifter?  \n** Dubbelkolla att du angivit rätt OCR-nummer, bank- eller postgiro.\nBetaluppgifterna hittar du i Mitt Telenor.\n\n    * **Har du e‑faktura?**  \nGlöm inte att du måste godkänna betalningen i din internetbank för att den ska\ngenomföras.\n\n    * **Vad står det för förfallodatum?  \n** Kanske är den obetalda fakturan en ny faktura som inte ska vara betald\nännu?\n\nSe fler\n\nFrågor om just din faktura?\n\nUndrar du om vi fått din betalning? Vad fakturabeloppet är, eller vad du har\nför ocr-nummer? Allt detta – och mycket mer – vet vår chatbot.  \n  \nKlicka på Telenora-ikonen längst ner i högra hörnet och börja chatta direkt.\n\n",
+                "heading": " Faktura"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:15+00:00",
+        "last_modified": "2025-05-30T13:56:19.764851",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

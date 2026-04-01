@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_strommetjenester_viaplay.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 257,
+                "end": 2951,
+                "text": "# Kom i gang med Viaplay\n\nHar du valgt V series & film eller V premium i TV-pakken din, har du også\ntilgang til strømmetjenesten Viaplay med abonnementet Viaplay Film & Serier.\n\n### Allerede valgt en pakke som inkluderer Viaplay, men ikke tatt det i bruk?\n\nHar du valgt V series & film eller V premium, må du opprette en Viaplay-konto\nfor å begynne å strømme.\n\nOpprett konto og last ned app\n\n## Ikke kjøpt TV-pakke som inkluderer Viaplay fra før?\n\n **Slik får du tilgang til Viaplay:**\n\n  1. Gå til enten [V film](https://www.telenor.no/mitt-telenor/tv-internett/twe/innholds-velger/?channelId=CH0241) eller [V premium](https://www.telenor.no/mitt-telenor/tv-internett/twe/premium-tv/produkt-info/?productId=CH0022) i innholdsvelgeren på Mine Sider (linkene tar deg direkte til pakkene)\n\n  2. Bestill ønsket pakke\n\n  3. Når pakken er aktivert, trykk på **Aktiver Viaplay-konto**\n\n  4. E-postadresse er autoutfylt, men du kan endre til en annen adresse hvis du ønsker\n\n    * Hvis du allerede har en Viaplay-konto kan du trykke på \"Logg på her\" på Viaplay-siden og logge inn med eksisterende brukernavn og passord i stedet.\n\n  5. Velg et passord og trykk på Aktiver\n\n  6. Begynn å se dine favorittfilmer og serier!\n\n  * #### Hvordan logger jeg inn på Viaplay app på T-We boks II\n\n    1. Gå til strømmetjenester\n\n    2. Velg Viaplay\n\n    3. Velg Start Viaplay \n\n    4. Trykk Logg på \n\n    5. Velg \"logg på med kode istedet\" \n\n    6. Hent koden \n\n    7. Skriv inn koden på viaplay.no/activate\n\n    8. Du er nå logget inn på Viaplay\n\n  * #### Hvor kan jeg se Viaplay?\n\nViaplay er en egen app og innholdet kan du se hvor du vil. Du kan installere\nden på smart-TV, Apple TV, mobiler, nettbrett og spillkonsoller i tillegg til\n[viaplay.no](https://viaplay.no/).\n\nNå er også Viaplay-appen på T-We Boks II!\n\n  * #### Problemer med bruk av Viaplay?\n\nHvis du opplever problemer med avspilling eller bruk av Viaplay, kan du lese\nmer om tjenesten på\n[kundeservice.viaplay.no/](https://kundeservice.viaplay.no/).\n\nDer finner du også kontaktinformasjon dersom du trenger hjelp.\n\n  * #### Kan jeg se innholdet andre steder enn i Viaplay-appen?\n\nDu finner også en del av filmene i strømmetjenestene V Film og Viaplay\nOriginals i T-We App og på din T-We Boks.\n\nNå er også Viaplay-appen på T-We Boks II!\n\n  * #### Jeg har kjøpt både V series & film og V premium, kan jeg da få to Viaplay-kontoer/abonnement?\n\nNei, du får bare tilgang til ett abonnement.\n\n# Last ned Viaplay\n\nViaplay er tilgjengelig på mobil for iOS og Android\n\n[Last ned fra App Store\n\n](https://itunes.apple.com/no/app/viaplay/id409702778?l=nb&mt=8)\n\n[Last ned fra Google play\n\n](https://play.google.com/store/apps/details?id=com.viaplay.android)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:58+00:00",
+        "last_modified": "2025-05-30T09:35:26.808332",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

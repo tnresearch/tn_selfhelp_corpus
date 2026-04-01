@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_iphone_sikkerhed-og-backup.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1220,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Din mobilsikkerhed\n\nOpdaterer du dine social media profiler, sender e-mails og har du adgang til\ndin bank via din smartphone, kan du meget enkelt gøre det sværere for fremmede\nat skaffe sig adgang til dine data.\n\n**Gode råd til din sikkerhed:**\n\n  * Brug låsekode på din mobil.\n  * Gør din mobil synlig, så du kan finde den igen: Har du en iPhone, så slå Find min iPhone til. Har du en Android eller en Windows Phone kan du tilknytte den til henholdsvis din Google-konto eller din Microsoft-konto.\n  * Modtager du opkald fra ukendte, udenlandske numre, så bloker dem efterfølgende i mobilen. Opkaldet koster ikke dig noget. Men lad være med at ringe tilbage til ukendte udenlandske numre - det kan koste dig dyrt.\n  * Giv ikke personlige oplysninger til personer, du ikke kender, eller ikke har tillid til.\n  * Download aldrig programmer eller fx apps fra leverandører, du ikke har tillid til.\n  * Sig ja tak til softwareopdateringer. Opdateringer er rettelser af større eller mindre fejl i softwaren, og rettelserne styrker din mobilsikkerhed.\n\n## Bliver din mobil stjålet\n\n  * Ring og få simkortet spærret med det samme. \n  * Skift adgangskoder til Facebook, din bank og andre websteder med personlige oplysninger. "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:49+00:00",
+        "last_modified": "2025-05-21T15:15:58.266332",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

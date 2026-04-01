@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/drift-og-dakning_gode-rad-til-bedre-dakning_manglende-5g-dakning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1113,
+                "reason": "Selected by user",
+                "start": 386,
+                "text": "##  Spørgsmål og svar om 5G-dækning\n\nHvornår kommer der 5G i mit område?\n\nLige nu er vi i fuld gang med at udvide vores netværk med 5G, som bygger på\nvores i forvejen lynhurtige 4G og øger kapaciteten på netværket, så du er\nsikret den bedste oplevelse.\n\nDu kan allerede opleve 5G mange steder i landet, og det nye netværk er i dag\nfuldt udrullet i de fem største byer. Hver uge står 40 nye master klar med 5G\n- vores mål er, at 95% af vores kunder har adgang til en 5G-forbindelse ved\nudgangen af 2023. Du kan læse mere om 5G [her](/shop/landingpage/5g/).\n\nHvor kan jeg rapportere problemer med dækning?\n\nI [Mit Telenor](/mit-telenor/) kan du hjælpe os med at forbedre netværket ved\nat rapportere dine oplevelser med dækningen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:21+00:00",
+        "last_modified": "2025-05-21T15:15:37.707528",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

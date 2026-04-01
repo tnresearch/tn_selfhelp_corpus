@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/priser-villkor-och-blanketter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 259,
+                "end": 1537,
+                "text": "# Priser, villkor och blanketter\n\n##\n\n[ Mobiltelefoni och mobilt bredband ](/support/priser-villkor-och-\nblanketter/mobiltelefoni-och-mobilt-bredband/)\n\n[ Fast bredband, tv och fast telefoni ](/support/priser-villkor-och-\nblanketter/fast-bredband-tv-telefoni/)\n\n## Gå direkt till\n\n  * [ Överlåtelse av abonnemang  ](/support/overlatelse-av-abonnemang/)\n  * [ Fullmakt – teckna och återkalla  ](/support/fullmakt--teckna-och-aterkalla/)\n\n## Vanliga frågor och svar\n\n  * Hur lång bindningstid och uppsägningstid har jag?\n\nDu ser eventuell bindningstid i Mitt Telenor [här på\nwebben](/link/a4531ddbfeef48d3a256e369df95234d.aspx). Har du mobilabonnemang\nser du det även i vår [app](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\n\n  * Hur avslutar jag mitt abonnemang?\n\nPå följande sidor kan du läsa mer om hur du säger upp ditt abonnemang:  \n  \n[Avsluta mobilabonnemang](/link/64e3ea31f9544f91949283ed182999d2.aspx)  \n  \n[Avsluta tv- och\nbredbandsabonnemang](/link/88667d3e6ba34c2faa36fdee66a0182e.aspx)\n\n  * Vad ska jag göra om jag inte är nöjd med service, produkter eller tjänster från Telenor?\n\nDet kan du läsa om [på den här\nsidan](/link/5d44b230114847639da2ac2e714f663d.aspx#reklamation), under\nrubriken\n[Reklamation](/link/5d44b230114847639da2ac2e714f663d.aspx#reklamation).\n\n",
+                "heading": "Priser, villkor och blanketter"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:12+00:00",
+        "last_modified": "2025-05-30T14:54:47.299820",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

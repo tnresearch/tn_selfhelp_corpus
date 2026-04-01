@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_huawei-e5180_sadan-satter-du-dit-modem-op.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 601,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Sådan sætter du dit modem op\n\nFølg guiden herunder, hvis du skal sætte dit nye modem op.\n\nHar du allerede forsøgt at installere modemet uden held, anbefaler vi at du\nstarter med at afinstallere det.\n\n  * ## Find din router på listen med trådløse netværk\n\nTryk på \" **Connect** \"\n\n  * ## Indtast den medfølgende netværksnøgle\n\nKlik herefter på \" **Next** \"\n\n  * ## Vælg, om du i fremtiden automatisk vil oprette forbindelse til dette netværk\n\n  * ## Vælg en personlig kode\n\nFørste gang du starter programmet, skal du indtaste den medfølgende\n**pukkode** , og vælge en **personlig 4-cifret pinkode**."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:14+00:00",
+        "last_modified": "2025-05-21T15:16:08.445249",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

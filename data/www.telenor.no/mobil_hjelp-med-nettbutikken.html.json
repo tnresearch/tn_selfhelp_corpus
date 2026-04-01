@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_hjelp-med-nettbutikken.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 126,
+                "end": 3903,
+                "text": "# Hjelp til Telenor Nettbutikk\n\nI nettbutikken kan du trygt og enkelt bestille de varene du ønsker. På denne\nsiden finner du svar på de vanligste spørsmålene etter kjøp i vår nettbutikk.\n\n[Kjøp telefon i Nettbutikken](/mobiltelefoner/)\n\n## Når kommer varen jeg har bestilt?\n\nSå fort varen blir sendt fra lageret mottar du en epost med sporing. Ved hjelp\nav sporingen kan du finne ut hvor din pakke befinner seg.\n\nHvis du ikke har mottatt epost med sporing, er det fordi din pakke ikke har\nblitt sendt ennå.\n\n## Angre på kjøpet?\n\n### Det er lov å ombestemme seg!\n\nVil du ikke ha mobilen du bestilte allikevel, kan du sende den tilbake til oss\ninnen 60 dager. Åpent kjøp gjelder kun ved _kjøp av mobiltelefon_ , som er\nkjøpt i Telenor sin nettbutikk. [Les mer om 60 dagers åpent\nkjøp](/privat/nettbutikk/aapent-kjop/).\n\nFor andre kjøp gjelder den generelle regelen om angrerett, som gir mulighet\nfor å angre i 14 dager etter at du har hentet pakken på postkontoret.\n\nHvis du ikke henter pakken på postkontoret går den i retur, og kjøpet blir\nopphevet.\n\n[Last ned angrerettskjema\n(PDF)](https://www.telenor.no/binaries/privat/vilkar/Angreskjema%20og%20skjema%20for%20opplysninger%20om%20angrerett_fa866940-56e7-4180-b570-4399b72758f3.pdf)\n\n  * #### Hvordan returnerer jeg varer?\n\n **Fri retur  \n** Om du vil returnere varen, har du selvsagt mulighet til å returnere den til\noss og få pengene tilbake.\n\n **  \nSlik virker fri retur  \n** Du returnerer varen raskt og enkelt ved å bruke den frankerte returlappen\nsom fulgte med i pakken.\n[Angreskjema](https://www.telenor.no/binaries/privat/vilkar/Angreskjema%20og%20skjema%20for%20opplysninger%20om%20angrerett_fa866940-56e7-4180-b570-4399b72758f3.pdf)\nfylles ut og returneres sammen med varen.\n\nFor at angrerett skal bli godkjent, må varen være i feilfri tilstand slik den\nvar da du fikk den. Det er viktig at den er uten merker eller mangler, og at\nden ligger i originalemballasjen sammen med alt innhold slik det var da du\nmottok den.\n\nSend den gjerne tilbake i samme pappeske som den kom i, så vet du at pakken\nkommer sikkert fram.\n\n[Vilkårene finner du her](/privat/vilkar/vilkar-nettbutikk.page)\n\n## Defekt eller ødelagt utstyr\n\nHvis utstyret du har kjøpt hos oss ikke fungerer som det skal, må det sendes\ninn til oss. Måten det gjøres på avhenger av om feilen dekkes av\ngarantivilkårene eller ikke.\n\nFeil som dekkes av garantivilkårene er svakheter ved utstyret, og ikke feil\nsom skyldes slitasje, feilbruk eller skade påført i etterkant av kjøpet,\neksempelvis fysiske skader, fuktskader eller brukerfeil.\n\nHar du forsikring hos oss, kan fysiske skader tas på forsikringssak. Trykk på\nlinken under for å lese mer om hvordan du registrerer forsikringssak.\n\n[Les mer om forsikring](/privat/mobil/mobiltjenester/mobilforsikring/)\n\n### Reklamere på en vare\n\nHar du kjøpt mobilen fra Telenor må du først opprette en serviceordre via\nlinken under, du kan _ikke_ gå til en Telenorbutikk. Etter du har registrert\nservice vil du få brukernavn og passord slik at du kan [sjekke status på din\nservice](http://net2.emrox.net/stable/net2/customer_access).\n\nPakken med utstyret må så leveres på et postkontor.  \n\n[Opprett\nserviceordre](https://service.conmodo.com/neworder?key=vaS8Uhw3JBk65PRxSLL5LMI2UPemcGRa)\n\n### Viktig!\n\n **Før du leverer din telefon til service** , er det viktig at du skrur av\nkodelås og sporingsfunksjoner som [Find my iPhone](/kundeservice/mobil/din-\nmobil/deaktiver-find-my-iphone/), Samsung recovery og Find my device.\n\nHvis reparasjonen **ikke dekkes av garantivilkårene** , får du beskjed om hvor\nmye reparasjonen vil koste deg. Du velger selv om du ønsker at varen skal\nrepareres eller ikke.\n\nHvis du ikke ønsker reparasjonen, men vil ha varen tilbake, belastes du\nlikevel for feilsøkingen som har blitt gjort."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:38+00:00",
+        "last_modified": "2025-05-30T09:23:48.852377",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

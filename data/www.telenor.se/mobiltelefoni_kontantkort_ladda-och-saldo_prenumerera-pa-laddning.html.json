@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_ladda-och-saldo_prenumerera-pa-laddning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 354,
+                "end": 1750,
+                "text": "#  Prenumerera på laddning\n\nDu som har ett konto kan prenumerera på en laddning. Fördelen med att\nprenumerera är att du inte behöver tänka på att fylla på ditt kort – det sker\nautomatiskt varje månad. Dessutom får du var sjätte laddning gratis.\n\nDu kan prenumerera på alla laddningar förutom årsladdningar. Prenumerationen\ngår enkelt att avbryta i [Telenor Ladda-appen](/handla/kontantkort/telenor-\nladda/).\n\n## Så prenumerar du på laddning\n\n  1. Skapa konto i [Telenor Ladda-appen](/handla/kontantkort/telenor-ladda/).\n  2. Lägg in kontokortsuppgifter.\n  3. Välj valfri laddning att prenumerera på. \n  4. Välj det datum du vill att kortet automatiskt ska laddas. Var sjätte laddning är kostnadsfri!\n\nObs: Var sjätte laddning är endast kostnadsfri om du fyller på med samma\nladdning varje gång.\n\n[ Våra laddningar ](/support/mobiltelefoni/kontantkort/ladda-och-saldo/ladda-\nkontantkort/)\n\n## Avbryt en prenumeration\n\nDu avbryter en prenumeration genom att logga in på ditt ladda konto i [Telenor\nLadda-appen](/handla/kontantkort/telenor-ladda/).\n\n## Vanliga frågor\n\n  * Jag har redan ett kontantkort hos er men vill ha Hello. Hur gör jag?\n\nKul att du vill ha Hello! Det är en av våra fastprisladdningar. Du kan välja\nmellan 1 GB och 10 GB. För att skaffa Hello gör du så här:\n\n    1. Gå in på [telenor.se/ladda ](/link/8ad148929ae541328599af3f428082a6.aspx)\n    2. Välj en av Hello-laddningarna\n\n",
+                "heading": " Prenumerera på laddning"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:47+00:00",
+        "last_modified": "2025-05-30T14:51:00.250296",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

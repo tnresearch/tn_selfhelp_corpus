@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_min-mobil-surfplatta_var-hittar-jag-imei-numret.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 259,
+                "end": 679,
+                "text": "# Var hittar jag IMEI-numret?\n\nHar du mobilen i närheten är det absolut lättaste sättet att **knappa in\n*#06#** så visas det i displayen.\n\nDu hittar även IMEI-numret i Mitt Telenor – antingen här [på webben](/mitt-\ntelenor/) eller i [vår app](/archive/2019/mitt-telenor-old/). Och på kartongen\noch på kvittot. 15 siffror. Varken mer eller mindre.\n\n  \nHar du ett modem? Leta i närheten av streckkoden, där brukar det stå."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:59+00:00",
+        "last_modified": "2025-05-30T17:46:05.536466",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

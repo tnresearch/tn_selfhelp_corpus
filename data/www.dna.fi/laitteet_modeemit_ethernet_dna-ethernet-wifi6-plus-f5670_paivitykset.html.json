@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-ethernet-wifi6-plus-f5670_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 412,
+                "end": 1419,
+                "text": "# DNA Ethernet-modeemi WiFi 6 Plus F-5670\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nethernet-wifi6-plus-f5670/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/vianmaaritys)\n\n## Päivitykset\n\n####\n\n### Uuden version SGFA21T000063 julkaisupäivä 4.3.2024\n\n  * Asetussivuston muokkauksia\n  * IPv6 disablointi tehty mahdolliseksi\n  * Maksimi WiFi clientien määrän nosto 32->64\n  * Staattinen IP asetus tuotu takaisin (IPv4 ja IPv6)\n  * Muita yleisiä parannuksia\n\n### Aiemmat versiot:\n\n### Version SGFA21T000047 julkaisupäivä 6.6.2023\n\n  * Kielikorjauksia\n  * Muita yleisiä parannuksia\n\n",
+                "heading": "DNA Ethernet-modeemi WiFi 6 Plus F-5670"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:24+00:00",
+        "last_modified": "2025-06-20T14:52:31.061570",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

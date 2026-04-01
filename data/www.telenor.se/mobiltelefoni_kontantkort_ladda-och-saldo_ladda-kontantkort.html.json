@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_ladda-och-saldo_ladda-kontantkort.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 368,
+                "end": 3871,
+                "text": "#  Flera sätt att ladda ditt kontantkort på\n\nÄr saldot lågt igen? Lugn bara lugn, det finns många sätt att ladda\nkontantkortet på.\n\n## [I appen Telenor Ladda ](/handla/kontantkort/telenor-ladda/)\n\nLadda smidigt och snabbt direkt från din mobil. I appen kan du även börja\n[prenumerera på laddning](/support/mobiltelefoni/kontantkort/ladda-och-\nsaldo/prenumerera-pa-laddning/), så fylls ditt saldo på automatiskt varje\nmånad. Appen finns att hämta för iOS på App Store, och för Android på Google\nPlay.\n\n## På [ladda.telenor.se ](/handla/kontantkort/ladda-kontantkort/)\n\nFyll i ditt nummer och välj vilken laddning du vill ha.\n\n## Med ett värdebevis\n\nDu kan ladda ditt kontantkort med hjälp av ett värdebevis på **fyra olika\nsätt**.\n\n  * [Ladda här på **webben**](/handla/kontantkort/ladda-kontantkort/#voucher)\n  * **Ring** [220](tel:220) på mobilen kontantkortet sitter i och följ instruktionerna\n  * **Knappa in** *120*värdebeviskod# i din mobil. Avsluta med samtalslur\n  * **Sms:a** LADDA följt av värdebeviskoden (12 siffror) till nummer 220\n\nVärdebevis hittar du i de flesta mataffärer, bensinstationer och givetvis i\nvåra egna butiker.\n\n  \n[Här hittar du information om alla olika laddningar](/handla/kontantkort/)\n\n## Laddningar för samtal utomlands\n\n###\n\nLänder inom EU/EES – samma som hemma\n\nDu som har valt en Fastpris-laddning (till exempel 10 GB eller Hello) ringer,\nsms:ar och mms:ar till samma kostnad som hemma när du reser inom EU/EES. Slå\npå data-roaming i telefonen, sedan är det bara att fortsätta använda mobilen\nsom vanligt.\n\nLänder utanför EU/EES – ladda med Rörligt/Saldo\n\nOm du reser utanför EU/EES behöver du [fylla på med\nRörligt/Saldo](/link/5775b1740ff94087bf80394b7a19e43e.aspx) för att kunna\nanvända kontantkortet. Du laddar kontantkortet med Rörligt/Saldo, sedan är det\nden summan du ringer och surfar med på resan. Rörligt/Saldo ligger separat\nfrån det du ringer med till vardags (Fastpris). När du är hemma ringer och\nsurfar du med din vanliga prisplan igen.\n\nTänk på: Telenors kontantkort fungerar inte alla länder, till exempel de\nfranska territorierna Réunion och Saint Martin. [Här kan du dubbelkolla om\nditt kontantkort fungerar i det land du ska resa\ntill](/link/a728a2eee9b24f87867517e059303cae.aspx).  \n  \n[Priser i utlandet](/link/e21a5c6d3f464947abcb39ef5446fd32.aspx)\n\n## Vanliga frågor om att ladda\n\n  * Varför kan jag inte ladda mitt kontantkort?\n\nSedan den 1 februari 2023 måste alla kontantkort vara **registrerade** för att\nkunna laddas. Detta är en konsekvens av den lagändring som trädde i kraft den\n1 augusti 2022.\n\n[Registrera ditt kontantkort](/link/9d9b1dd3829a415580e98ad6af78f872.aspx)  \n\nProblem med att ladda kortet kan också bero på\n\n    * att kortet inte är **giltigt** längre. Det behöver laddas minst en gång per år, annars avslutas det. I appen [Telenor Ladda](/link/8ad148929ae541328599af3f428082a6.aspx) kan du se om ditt kontantkort fortfarande är aktivt.\n    * att ditt betalkort inte är **öppet för internetköp**. Ändra inställningen hos kortutgivaren, eller prova ett annat sätt att betala, till exempel Swish.\n\n  * Vilka kontantkortsladdningar finns det?\n\nDu kan välja mellan Telenor Fastpris (till exempel laddningen Hello), Telenor\nRörligt och tillägget Telenor Surf för extra surfmängd.  \n  \n[Mer om våra\nkontantkortsladdningar](/link/b1b895cef44f46aeb5407c054ab92f40.aspx)\n\n  * Vilka laddningar kan jag prenumerera på?\n\nDu kan prenumerera på alla laddningar som gäller i 31 dagar. Alltså inte på\nhalvårs- eller helårsladdningar.\n\n",
+                "heading": " Flera sätt att ladda ditt kontantkort på"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:33+00:00",
+        "last_modified": "2025-05-30T14:50:36.405722",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

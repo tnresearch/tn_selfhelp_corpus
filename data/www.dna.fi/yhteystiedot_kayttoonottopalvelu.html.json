@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/yhteystiedot_kayttoonottopalvelu.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 145,
+                "end": 4507,
+                "text": "# DNA Apurin asennusapu\n\nÄlä jää kysymysten kanssa yksin, kun voit olla kaksin! Uuden edessä – on se\nsitten DNA TV, netti tai puhelinliittymä, luuri tai muu laite – anna meidän\nauttaa alkuun: puhelimessa, chatissa tai paikan päällä. Käyttöohjeet ja\nkäytännön apu – saat ne molemmat!​\n\n## Apunasi chatissa\n\nTee käyttöönotosta helpompaa tai anna meidän auttaa uuden liittymän tai\nlaitteen valinnassa. Aloita chat, täällä ollaan. ​Chat on auki arkisin klo\n8-18 ja lauantaisin klo 9-16.30.\n\nAvaa chat\n\n## Tavataan DNA Kaupassa\n\n​Poikkea myymälään! Sujuvan palvelun asiantuntijamme voit tavata myös\nkasvotusten lähimmässä DNA Kaupassa.\n\n[ Etsi lähin DNA Kauppa ](https://www.dna.fi/dnakaupat)\n\n####  Palvelut DNA Kaupassa:\n\nMyymälässä saat apua uuden laitteen ja liittymän käyttöönotossa. Osa\npalveluista on maksuttomia, osa lisämaksusta. Tutustu:\n\nDNA TV -palvelun ja DNA Netin treenialue\n\nKaikissa DNA Kaupan myymälöissä on treenialue, jossa voit DNA TV -palvelun ja\nviihdeboksin tai DNA Netin tilattuasi kokeilla palvelun käyttöönottoa yhdessä\nasiantuntijan kanssa. Treenialueen käyttö on asiakkaille maksutonta.\n\nLapsen ensipuhelimen asennus\n\nEsim. ​\n\n  * Käyttäjätilien luonti ja kirjautuminen​\n  * DNA Digiturvan asennus & rajoitusasetusten määrittely​\n  * Laitteen tietojen varmuuskopiointi​\n  * Pilvipalveluiden asennus ja käyttöopastus​\n\n####\n\nTietojen siirto vanhasta puhelimesta uuteen\n\n#### **30 min tai 60 min**\n\n  * Yhteystietojen, valokuvien ja tiedostojen siirto uuteen vastaavaan laitteeseen ​\n  * Sovellusten siirto uuteen laitteeseen, silloin, kun käyttöjärjestelmä on sama kuin vanhassa laitteessa (iOS tai Android)​\n  * Tiedonsiirtoon ei sisälly sovelluksiin kirjautumisia tai WhatsApp-sovelluksen varmuuskopiointia.\n\nVanhan laitteen tietoturvallinen kierrätys\n\nVanhan laitteen tietojen tyhjennys tai laitteen kierrätys helposti ja\nturvallisesti. Palvelu on maksuton uuden laitteen ostajalle.\n\nUuden puhelimen tai tabletin käyttöopastus\n\n#### **30 min tai 60 min​**\n\n30 tai 60 minuutin henkilökohtainen opastus puhelimen tai tabletin käyttöön.  \n\n## Soita tai varaa soittoaika\n\nOlet sitten asentamassa nettiä tai DNA TV -palvelua, ottamassa käyttöön\npuhelinliittymää tai uutta puhelinta. Anna kun autamme!\n\nTavoitat meidät arkisin klo 8-18. ​Vapaat soittoajat näet kalenterista Varaa\nsoittoaika-napin takaa. ​\n\nPuhelu maksaa normaalin kotimaanpuhelun verran.​\n\n[ Varaa soittoaika\n](https://www.varaaheti.fi/dna/fi/asennusmestari/services?itm_source=asennusmestarisivu&itm_medium=card&itm_campaign=ajanvaraus&itm_format=vakio&itm_content=ajanvaraus-\nasennusmestari) [ Soita 044 144 044 ](tel:%20+35844144044)\n\n## Kutsu DNA Apuri kotikäynnille\n\nSe onnistuu silloin, kun asut Apurin reviirillä. Apuri tuo tullessaan\ntilaamasi laitteet ja asentaa ne valmiiksi. Saat samalla opastuksen ja vinkit\nlaitteiden ja palveluiden käyttöön. Kaikista kotiin tilatuista palveluista\nsaat kotitalousvähennyksen.\n\n#####\n\n##### Tarkista tekeekö DNA Apuri käyntejä alueellasi:\n\nHae postinumerolla\n\nTarkista saatavuus\n\n#### Voit tilata DNA Apurin osoitteeseesi!\n\nKysy lisää ja varaa käynti maksuttomasta numerosta **0800 550 044** arkisin\n9-20 ja lauantaisin 10-16.\n\nValitettavasti asut DNA Apurin asennusmestarin tilauskäyntien\nulottumattomissa, ainakin toistaiseksi.\n\nMutta ei hätää, DNA Apuri vastaa numerossa 044 144 044 arkisin 8–18, sekä\nchatissä.\n\n####  Palvelut kotikäynnillä:\n\nRiippuen asuinpaikkakunnastasi, DNA Apuri tulee tarvittaessa myös\nkotikäynnille. Esimerkkejä palveluista:\n\nDNA Netin käyttöönotto\n\nHalutssasi voit tilata Apurin kotiisi tekemään asennuksen puolestasi. Apuri\ntuo laitteet mukanaan, asentaa palvelun ja opastaa sen käytössä.\n\nDNA TV -palvelun käyttöönotto\n\nHalutessasi voit tilata Apurin kotiisi tekemään asennuksen puolestasi. Apuri\ntuo laitteet mukanaan, asentaa palvelun ja opastaa sen käytössä.\n\nUlkomokkulan asennus ja käyttöönotto\n\nUlkomokkula asennetaan yleensä ränniin tai muuhun sellaiseen kohtaan, josta\nvarmistetaan paras mahdollinen 5G-signaali. DNA Apuri tuo mukanaan laitteet,\nasentaa ne paikalleen ja kytkee laitteet kodin WiFi-verkkoon.\n\nPalvelun asennus kestää noin 1 tunnin.\n\nNetti kuntoon -käynti\n\nPulmia netin kanssa? ​DNA Apuri hoitaa netin kuntoon käyttöönoton jälkeenkin:\nratkaisee kodin nettipulmat, kytkee laitteet kodin WiFi-verkkoon tai auttaa\nmodeemin oikeassa sijoittelussa. Soita ja kutsu Apuri paikalle.​"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:26+00:00",
+        "last_modified": "2025-06-20T19:30:08.445435",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

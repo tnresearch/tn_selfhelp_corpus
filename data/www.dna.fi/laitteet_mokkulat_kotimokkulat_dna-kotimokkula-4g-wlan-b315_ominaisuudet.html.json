@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b315_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 401,
+                "end": 1994,
+                "text": "# DNA Kotimokkula 4G WLAN B315\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/vianmaaritys)\n\n## Ominaisuudet\n\n**Tuotenimi: Huawei B315**  \n  \nDNA Kotimokkula 4G WLAN B315 on kiinteään asennukseen tarkoitettu WLAN-\nmokkula.  \nSiinä on 4 Ethernet-porttia ja se jakaa 4G- tai 3G-yhteyden myös WiFi-verkon\navulla.  \nMokkula toimii tarvittaessa myös kiinteän yhteyden reitittimenä.\n\n  * 4G LTE enimmäisnopeus 150 Mbit/s\n  * 3G DC enimmäisnopeus 42 Mbit/s \n  * HSPA+ enimmäisnopeus 21,1 Mbit/s\n  * WiFi b/g/n \n  * USB\n  * 4 kpl Ethernet-liitäntää, max 1000 Mbit/s\n  * 32 WLAN-laitetta \n  * Kaksi liitäntää ulkoisille antenneille, liitäntätyyppi SMA\n  * Normaalikokoinen SIM-kortti\n\n### Laitteistovaatimukset / Tuetut käyttöjärjestelmät:\n\n  * RJ45 ethernet\n  * WiFi: 802.11b/g/n\n  * Tuetut käyttöjärjestelmät: Windows XP SP2/SP3, Vista SP1/SP1, Windows 7, Windows 8 / 8.1, Windows 10, MAC 10.5\n  * Internetselain USB-liitännän tai WLAN:n kautta: Microsoft Internet Explorer 6.0 tai uudempi, Firefox 2.0 tai uudempi, Safari 4.0 tai uudempi, Opera 10.0 tai uudempi, Chrome 5.0 tai uudempi\n\n",
+                "heading": "DNA Kotimokkula 4G WLAN B315"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:41+00:00",
+        "last_modified": "2025-06-20T18:52:48.607607",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

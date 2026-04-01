@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_abonnement-og-tjenester_endre-abonnement.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 197,
+                "end": 3644,
+                "text": "# Endre mobilabonnement\n\nHer finner du informasjon om hvordan du kan gjøre endringer på dine abonnement\n\n## Abonnementsendring\n\nDu må være eier av nummeret for å endre eller bytte abonnement.\n\nTrykk på linken under for å logge inn på Mine Sider. Velg nummeret du ønsker\nendre abonnement på og trykk på **Bytt abonnement**.\n\nHvis du ønsker endre til kontantkort, må du ta kontakt med oss på 915 09000.\n\n[Bytt abonnement på Mine Sider](/mitt-telenor/mobil/)\n\n## Endre roller eller ta eierskifte på mobilnummer\n\nØnsker du endre fakturamottaker, registrert bruker eller overdra abonnementet\ntil en annen person?\n\nTrykk på linken under for å lese mer.\n\n[Endre rolle eller eierskifte mobilnummer](/kundeservice/mobil/abonnement-og-\ntjenester/eierskifte-mobilnummer/)\n\n## Oppsigelse av abonnement\n\nDu kan si opp ved å ringe oss eller sende oss en e-post via våre\nkontaktskjema.\n\nTrykk på linken under for å se ofte stilte spørsmål om oppsigelse.\n\n[Spørsmål og svar om oppsigelse](/kundeservice/oppsigelse/)\n\n## Andre spørsmål\n\n  * #### Hvordan endrer jeg adresse på mobilnummeret mitt?\n\nTa kontakt med oss på kundeservice, så hjelper vi deg.\n\n  * #### Hva skjer med Data Rollover hvis jeg bytter abonnement eller eier?\n\n    * Ved endring av abonnement: Data-mengden du har spart opp følger med videre, men ved månedsskiftet er det datamengden inkludert i abonnementet du har byttet til som rulles over.\n\n    * Ved bytte av eier: Data Rollover blir nullstilt med en gang eierskifte gjennomføres\n\n  * #### Hva skjer med Min Sky hvis jeg sier opp eller endrer mobilabonnementet mitt?\n\nAlle våre mobilabonnement har ubegrenset lagring inkludert, så du kan endre\nfritt mellom disse uten at du mister lagringsplass.\n\n **Ved oppsigelse** av abonnement vil du mister du den ubegrensede\nlagringsmengden du har.\n\nDu vil fortsatt ha 2 GB gratis lagring i Min Sky, men overskrider du denne får\ndu et varsel i appen om at lagringsplassen er oppbrukt. I tillegg får du en\ne-post fra Telenor Digital som inneholder mer informasjon om hvordan du kan\nkjøpe mer lagringsplass.\n\n**Merk** at filene blir lagret i skyen i 30 dager før de blir slettet, men\nfilene som ligger lagret lokalt på dine enheter beholder du.\n\n  * #### Hvordan bytter jeg fra en annen operatør til Telenor?\n\nDet er enkelt å flytte mobilabonnement fra en annen mobiloperatør til Telenor.\n\n[Bestill nytt mobilabonnement](/mobilabonnement/) eller ring kundeservice på\nnummer 915 09000. Du beholder selvfølgelig mobilnummeret ditt om du ønsker\ndet.\n\nBestiller du et nytt nummer, tar det opptil 3 dager før du kan benytte det.\nFlytter du nummeret ditt til Telenor, tar det opptil 8 virkedager før det er\noverført.\n\n **Merk** , skal du flytte nummeret ditt over til Telenor må du ikke si opp\nnummeret hos din nåværende operatør. Dette går automatisk i flytteprosessen.\n\nDet er også viktig at abonnementet bestilles i samme navn hos Telenor som det\ner registrert med hos din nåværende operatør.\n\n  * #### Hva skjer med min faktura når jeg endrer abonnement?\n\nHvis du endrer fra et abonnement til et annet, vil du oppleve at fakturaen\nblir litt annerledes enn ellers.\n\nSiden du har betalt månedsavgiften for abonnementet på forskudd, vil du få\ntilbake månedsavgiften for ditt gamle abonnement fra datoen abonnementet ble\nendret. Dette vil vises med en minus foran på fakturaen. Fra samme dato legges\nmånedsavgiften for ditt nye abonnement til. Det har altså ingen betydning når\ni måneden du bytter abonnement."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:53+00:00",
+        "last_modified": "2025-05-30T09:21:43.169593",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

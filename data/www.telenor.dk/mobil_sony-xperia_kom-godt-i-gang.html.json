@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_sony-xperia_kom-godt-i-gang.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 610,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Indsæt simkort\n\nNyere Xperia-telefoner bruger et nano-simkort.\n\nFølg guiden herunder for at sætte det korrekt i.\n\n  * ## Du finder simkortholderen neders i venstre side af din mobil\n\n  * ## Åbn simkortholderen\n\nÅbn først for lågen til simkortet, og træk derefter simkortholderen ud med\nfingrene.\n\n  * ## Læg simkortet i simkortholderen\n\nSørg for at simkortet vender korrekt.\n\n  * ## Skub simkortholderen tilbage i telefonen og luk lågen\n\nNu er du klar til at bruge din mobil.\n\nEr du i tvivl om noget, kan du altid [kontakte os](/kundeservice/kontakt/)\neller [kigge forbi en af vores butikker](/find-butik/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:01+00:00",
+        "last_modified": "2025-05-21T15:16:02.748281",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

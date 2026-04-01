@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/yhteystiedot_myyntipalvelu.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 148,
+                "end": 1243,
+                "text": "# Myyntipalvelu\n\n## Vaikea valita?​ Anna DNA Apurin auttaa!\n\nSaat kiireetöntä palvelua ja asiantuntijan suositukset liittymien, laitteiden\nja palvelujen valintaan, kun juttelet DNA:n asiantuntijan kanssa.\n\nChattaa DNA Kaupan asiantuntijan kanssa​\n\nAutamme löytämään sopivimman – etsit sitten laitetta tai liittymää.\n\nKaupan asiantuntijat ovat linjoille arkisin ja lauantaisin, ma-pe 8:00-21:00,\nla 9:00-18:00. Muina aikoina chatissa palvelee DNA:n digitaalinen Apuri-botti.\n\nAvaa chat\n\nSoita meille\n\nAutamme vertailemaan vaihtoehtoja myös puhelimessa.\n\n[Soita ​0800 550 044](tel:%E2%80%8B0800550044)\n\nVastaamme arkisin 9-20 ja lauantaisin 10-16. Numero on maksuton.\n\nVaraa soittoaika\n\nVaraa soittoaika, niin soitamme sinulle takaisin toivomallasi hetkellä.​\n\n[Siirry ajanvaraukseen](https://www.varaaheti.fi/dna/fi/locations)\n\nPoikkea DNA Kauppaan\n\nPoikkea DNA Kauppaan Tule myymälään tai varaa itsellesi sopiva palveluaika\nsuoraan netistä – saat jakamattoman huomion ja juuri ne laitteet ja palvelut\nvertailtavaksi, joita olet etsimässä.\n\n[Etsi lähin DNA Kauppa](https://www.dna.fi/dnakaupat)\n\n",
+                "heading": "Myyntipalvelu"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:12+00:00",
+        "last_modified": "2025-06-20T19:30:25.289803",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

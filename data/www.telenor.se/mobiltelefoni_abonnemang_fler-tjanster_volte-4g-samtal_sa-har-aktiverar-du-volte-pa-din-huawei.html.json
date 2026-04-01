@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_fler-tjanster_volte-4g-samtal_sa-har-aktiverar-du-volte-pa-din-huawei.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 961,
+                "heading": "Instructions for activating VoLTE on Huawei phones",
+                "start": 459,
+                "text": "# Så här aktiverar du VoLTE på din Huawei\n\nNär du har aktiverat VoLTE kan du ringa och prata över 4G-nätet.Tänk på att\ndin mobil alltid måste vara uppdaterad och ha den senaste mjukvaran. Läs mer\nom vad [VoLTE innebär här](/support/mobiltelefoni/abonnemang/fler-\ntjanster/volte-4g-samtal/).\n\n  * ### Öppna \"Inställningar\"\n\n  * ### Scrolla ner och klicka på \"Mer\"\n\n  * ### Klicka på \"Mobilnätverk\"\n\n  * ### Sätt på VoLTE-samtal genom att dra reglaget till höger\n\nNu kan du ringa och prata över 4G-nätet!"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:20+00:00",
+        "last_modified": "2025-05-30T14:23:37.841265",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

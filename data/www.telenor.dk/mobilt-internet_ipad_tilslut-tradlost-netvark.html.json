@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_ipad_tilslut-tradlost-netvark.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 318,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Tilslut din iPad trådløst netværk (Wi-Fi)\n\nDu kan tilslutte alle iPads et trådløst netværk. Din iPad husker alle netværk,\nden tidligere har været tilsluttet, og vil automatisk gå online via de\nnetværk, den genkender.\n\n  * ## Tryk på \"Indstillinger\"\n\n  * ## Tryk på \"Wi-Fi\" og vælg det netværk, du ønsker at logge på"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:22+00:00",
+        "last_modified": "2025-05-21T15:16:12.437299",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

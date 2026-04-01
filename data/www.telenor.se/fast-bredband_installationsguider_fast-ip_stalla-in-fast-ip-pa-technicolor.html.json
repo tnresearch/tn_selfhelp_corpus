@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_installationsguider_fast-ip_stalla-in-fast-ip-pa-technicolor.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 324,
+                "end": 1101,
+                "text": "# Ställa in fast ip på Technicolor 784, 789 och 799\n\n  * ### Öppna din webbläsare\n\nAnslut till routern genom att skriva in adressen 192.168.10.1 i adressfältet\npå en webbläsare.\n\n  * ### Logga in\n\nLogga in med användarnamn Admin. Lösenordet hittar du på baksidan av din\nrouter (Gateway Password).\n\n  * ### Kugghjul\n\nNär du är inne i det inloggade läget kan du leta efter menyn Internet access\noch klickar på kugghjulet uppe i det högra hörnet.\n\n  * ### Avancerade inställningar\n\nKlicka på Show advanced uppe i det högra hörnet.\n\n  * ### Fast ip\n\nKlicka i Fixed IP mode och sedan på knappen Switch connection mode.\n\n  * ### Konfigurering\n\nNu kan du konfigurera routern med de ip-adressuppgifter du fått från Telenor\noch ansluta eventuell utrustning (router, brandvägg, dator).\n\n",
+                "heading": "Ställa in fast ip på Technicolor 784, 789 och 799"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:43+00:00",
+        "last_modified": "2025-05-30T14:07:14.449190",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

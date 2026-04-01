@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_rostbrevladan_sa-anvander-du-rostbrevladan_installningar.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 426,
+                "end": 3652,
+                "text": "#  Inställningar i röstbrevlådan\n\nLäs mer nedan om hur du går till väga för att komma igång med din röstbrevlåda\noch hur du gör olika inställningar.\n\n## Så här gör du för att...\n\nKomma igång med röstbrevlådan\n\nFör att komma igång med röstbrevlådan ringer du till 888 och följer\ninstruktionerna.\n\nSpela in ett personligt hälsningsmeddelande\n\nDu kan byta eller spela in ett personligt hälsningsmeddelande. Spelar du inte\nin ditt eget meddelande så kommer ett förinspelat meddelande användas. För att\nspela in ett personligt meddelande, gör följande:  \n  \n• Ring 888.  \n• Välj knappval 3 för att komma till Inställningar  \n• Välj knappval 1 för att komma till menyn Ändra hälsningsmeddelande  \n• Välj knappval 1 för att spela in och aktivera Personlig hälsningsfras  \n• Välj knappval 4 för att välja och aktivera Telenors Standardhälsningsfras  \n• Välj 8 för att få uppläst vilken hälsningsfras du har aktiv.  \n• Tryck * för att lämna menyn.\n\nLyssna av meddelanden\n\nFör att lyssna av meddelanden ringer du till 888 och trycker \"1\" i huvudmenyn.\n\nByta språk\n\nFör att ändra språk, gör följande:\n\n• Ring upp din röstbrevlåda på 888.  \n• Tryck 3 för att komma till inställningsmenyn.  \n• Tryck 5 för att komma till menyn för att välja språk.  \n• Tryck 1 för svenska.  \n• Tryck 2 för engelska.  \n• Tryck * för att lämna menyn för att välja språk.\n\n## Gäller endast dig med abonnemang:\n\nJustera tiden som går innan röstbrevlådan svarar\n\nGå in i [appen Mitt Telenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\nVälj \"Inställningar\" och därefter \"Röstbrevlåda och vidarekoppling\".\n\nVälj antal signaler som ska gå fram innan samtalet kopplas till röstbrevlådan.\n\n    * 2 signaler motsvarar 5 sekunder\n    * 3 signaler motsvarar 10 sekunder\n    * 4 signaler motsvarar 15 sekunder\n    * 5 signaler motsvarar 20 sekunder \n    * 6 signaler motsvarar 25 sekunder \n\nStänga av/inaktivera\n\nGå in i [appen Mitt Telenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\nVälj \"Inställningar\" och därefter \"Röstbrevlåda och vidarekoppling\". Dra\nreglaget till höger så att \"Aldrig\" är markerat.\n\nÅteraktivera\n\nGå in i [appen Mitt Telenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\nVälj \"Inställningar\" och därefter \"Röstbrevlåda och vidarekoppling\". Välj\nefter hur många signaler du vill att samtalen ska kopplas vidare till\nröstbrevlådan.  \n  \n\nKoppla vidare till ett annat nummer\n\nGå in i [appen Mitt Telenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\nVälj \"Inställningar\" och därefter \"Röstbrevlåda och vidarekoppling\". Klicka i\nknappen \"Vidarebefordra till annat telefonnummer\" och fyll i det nummer som\nsamtalen ska kopplas till.\n\nTa bort vidarekoppling\n\nHar du kontantkort kan du inte ta bort vidarekopplingen.\n\nGå in i [appen Mitt Telenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\nVälj \"Inställningar\" och därefter \"Röstbrevlåda och vidarekoppling\". Klicka i\nknappen \"Till din röstbrevlåda\".\n\n## Hittade du inte svaret på din fråga?\n\n####  \n[Kontakta kundservice. ](/support/old-kontakta-oss/)\n\n  \nÖppet vardagar kl 8-18. Teknisk support för bredband, tv och hemtelefoni via\nbredband har dessutom öppet på vardagar kl 8-18 och på lördagar 10-17.  \n  \n _När du ringer oss behöver du identifiera dig med BankID eller personlig\nkod._\n\n",
+                "heading": " Inställningar i röstbrevlådan"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:30+00:00",
+        "last_modified": "2025-05-30T14:26:57.777348",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

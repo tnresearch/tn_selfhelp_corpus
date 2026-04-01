@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_har-du-kopplat-din-tv-box-via-en-hemmabioanlaggning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 544,
+                "text": "# Har du kopplat din tv-box via en hemmabioanläggning?\n\n  \nOm du har kopplat din tv-box via en hemmabioanläggning eller ett externt\nhögtalarsystem (en så kallad soundbar) så kan felet finnas där.  \n  \nProva att koppla tv-boxen direkt till tv:n och se om ljudet funkar då. Om\nfelet beror på din hemmabioanläggning så kan du behöva se över\nljudinställningarna i den."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:51+00:00",
+        "last_modified": "2025-05-30T17:40:42.393667",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

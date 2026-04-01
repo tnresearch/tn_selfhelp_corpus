@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_felmeddelande_tv-via-fiber_starta-om-fel-3.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 579,
+                "text": "# Starta om\n\nOm din tv-box är inkopplad via en tjänstefördelare eller router, gör så här:  \n  \n**Först** : Starta om tjänstefördelaren och routern. Det gör du genom att dra\nut strömkablarna och vänta i 10 sekunder. Därefter sätter du i kablarna igen.\n\n**Sedan** : När du kan använda internet igen – starta om din tv-box genom att\ndra ut strömkabeln och vänta i 10 sekunder. Sätt sedan i kabeln igen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:20+00:00",
+        "last_modified": "2025-05-30T14:57:35.678560",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

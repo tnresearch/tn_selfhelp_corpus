@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/verkot-ja-hairiotilanteet_viat-ja-hairiot.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 176,
+                "end": 2444,
+                "text": "# Viat ja häiriöt\n\n[ Häiriötiedotteet ](https://www.dna.fi/tuki/hairiotilanteet/hairiotiedotteet)\n[ Huoltotiedotteet ](https://www.dna.fi/tuki/hairiotilanteet/huoltotiedotteet)\n[ Häiriökartta ](https://www.dna.fi/tuki/verkot-ja-\nhairiotilanteet/hairiotilanteet/hairiokartta) [ Vinkit kuuluvuuden\nparantamiseksi ](https://www.dna.fi/tuki/verkot-ja-\nhairiotilanteet/hairiotilanteet/vinkit)\n\n## Häiriöstä ilmoittaminen\n\nVoit ilmoittaa vika- tai häiriötilanteesta soittamalla asiakaspalveluun tai\nchatbotin kautta. Vika- ja häiriötilanteissa palvelemme 24h.\n\nJos kyseessä on esim. modeemi tai jokin muu DNA:lta ostamasi laite, olethan\nkyseisen laitteen äärellä soittaessasi.\n\n[Soita 044 144 044](tel:%20044144044)\n\nSoittaminen ja jonottaminen asiakaspalveluun maksaa normaalin kotimaanpuhelun\nverran. Ulkomailta soittaessa puhelu veloitetaan ulkomaan hinnaston\nmukaisesti. DNA:n lankapuhelinliittymästä soittaminen on maksutonta.\n\n## Viimeisimmät tiedotteet\n\n## Häiriötiedotteet\n\n  * 30.04.2025 09:45 [Korjattu: Osassa liittymissä ongelmaa SMS viestien vastaanotossa ja 2G puheluissa](/tuki/verkot-ja-hairiotilanteet/viat-ja-hairiot?scrollTo=y4RKzPgSghD0&type=resttukari1&id=13559&status=all&returnUrl=https%3A%2F%2Fwww.dna.fi%2Ftuki%2Fverkot-ja-hairiotilanteet%2Fviat-ja-hairiot%3FscrollTo%3Dy4RKzPgSghD0)\n  * 29.04.2025 14:25 [Korjattu: Häiriöitä kaapelilaajakaistaliittymissä Lahden ja Kuopion alueella](/tuki/verkot-ja-hairiotilanteet/viat-ja-hairiot?scrollTo=y4RKzPgSghD0&type=resttukari1&id=13539&status=all&returnUrl=https%3A%2F%2Fwww.dna.fi%2Ftuki%2Fverkot-ja-hairiotilanteet%2Fviat-ja-hairiot%3FscrollTo%3Dy4RKzPgSghD0)\n\nNäytä lisää\n\n## Huoltotiedotteet\n\n  * 12.05.2025 08:00 - 16.05.2025 16:00 [Kaapeliverkon palvelut, Vantaa](/tuki/verkot-ja-hairiotilanteet/viat-ja-hairiot?scrollTo=H4Ba65bgsqZc&type=resttukari2&id=13605&status=all&returnUrl=https%3A%2F%2Fwww.dna.fi%2Ftuki%2Fverkot-ja-hairiotilanteet%2Fviat-ja-hairiot%3FscrollTo%3DH4Ba65bgsqZc)\n  * 08.05.2025 10:00 - 08.05.2025 12:00 [Kaapeliverkon palvelut, Oulu 90810](/tuki/verkot-ja-hairiotilanteet/viat-ja-hairiot?scrollTo=H4Ba65bgsqZc&type=resttukari2&id=13331&status=all&returnUrl=https%3A%2F%2Fwww.dna.fi%2Ftuki%2Fverkot-ja-hairiotilanteet%2Fviat-ja-hairiot%3FscrollTo%3DH4Ba65bgsqZc)\n\nNäytä lisää\n\n",
+                "heading": "Viat ja häiriöt"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:23+00:00",
+        "last_modified": "2025-06-20T19:23:57.801402",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

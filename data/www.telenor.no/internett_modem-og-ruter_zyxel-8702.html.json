@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_zyxel-8702.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 185,
+                "end": 3968,
+                "text": "# Hjelp til Zyxel P8702N\n\nHer finner du informasjon om ruteren og veiledninger til oppkobling og\ninnstillinger\n\n## Om Zyxel P8702N\n\nZyxel P8702N er et trådløst rutermodem med innebygde antenner. WiFi-signalene\nsendes både på 2,4 Ghz og 5 Ghz, noe som gir mulighet for både god rekkevidde\nog hastighet på WiFi. Ruteren fungerer i kombinasjon med alle våre\nbredbåndsteknologier. Ruteren støtter også alle hastigheter og\nbredbåndstelefoni. Som standard benytter ruteren en sikker kryptering av\npassord, kalt WPA2.\n\nVisste du at Telenor tilbyr en helt ny ruter og WiFi-forsterker? Les mer om\n[vårt nye utstyr](/privat/internett/alltid-wifi/).\n\n### Oppkobling Zyxel P8702N\n\nHer finner du veiledninger og videoer for oppkobling av din ruter.\n\n[Slik kobler du opp din ruter ➜](/kundeservice/internett/modem-og-\nruter/zyxel-8702/koble-til/)\n\n  * #### Hva betyr lampene på Zyxel P8702?\n\n **POWER:**\n\n    * Blå = Tilkoblet strøm\n\n    * Blinkende blå = Test av modem pågår\n\n    * Rød = Oppdaget feil etter test\n\n **DSL:**\n\n    * Grønn = Tilkoblet VDSL\n\n    * Gul = Tilkoblet ADSL\n\n **WAN:**\n\n    * Grønn = Forbindelse med fiberboks\n\n    * Mørk = Ingen forbindelse med fiberboks\n\n **INTERNETT:**\n\n    * Grønn = Tilkoblet internett\n\n    * Rød = Ikke tilkoblet internett\n\n **ETHERNET 1-4:**\n\n    * Gul = Lyser når det er en 100Mbit/s tilkobling\n\n    * Grønn = Lyser når det er en 1000Mbit/s tilkobling\n\n **TRÅDLØST:**\n\n    * Blå = WiFi er aktiv\n\n **TELEFON 1:**\n\n    * Fast grønn = Bredbåndstelefoni er tilkoblet\n\n    * Blinkende grønn = Telefonrøret ligger av eller telefonen er i bruk\n\n  * #### Glemt passord på det trådløse nettet?\n\nDet trådløse nettet er ferdig oppsatt fra Telenor. På en etikett på undersiden\nav ruteren finner du navn på nettverket (SSID) og nettverkspassord (WPA2).  \n  \nHvis du har endret eller ønsker å endre nettverksnavn eller passord kan du\nenkelt gjøre dette fra Mitt WiFi: [wifi.telenor.no](https://wifi.telenor.no)\n\n  * #### Skru av eller på WiFi?\n\nKnapp for å aktivere lamper/WiFi (klikk én gang for å aktivere lampene og så\nen gang til for å slå av eller på WiFi).  \nNB: Etter ca. 30 minutter vil alle lamper untatt POWER bli skrudd av. TRÅDLØST\nvil også fortsette å lyse dersom du har trådløst på.\n\n  * #### Internett fra en annen bredbåndsleverandør?\n\nZyxel P8702N er ment å benyttes med bredbånd levert av Telenor. Ved bruk av\nbredbånd levert av andre leverandører, vil funksjonaliteten i ruteren derfor\nkunne bli begrenset. Slik begrensning vil blant annet være knyttet til adgang\ntil å administrere innstillinger samt at ruter ikke vil motta programvare- og\nsikkerhetsoppdateringer. Telenors kundestøtte forutsetter at ruteren er\ntilkoblet bredbånd fra Telenor.\n\n  * #### Detaljer om ruteren\n\n **Mål:**  \n200 x 150 x 100 mm\n\n **WiFi-standard:**  \n802.11b/g/n på 2.4 Ghz og 802.11a/n/ac på 5 Ghz\n\n **Standard kryptering:  \n** WPA2 PSK (Kan endres til WPA, WPA+WPA2)\n\n## Opplever du problemer med Internett?\n\nSvært mange problemer løses ved at man skrur utstyret av og på. Opplever du\nallikevel problemer, kan vi hjelpe deg med veiledninger for de vanligste\nproblemstillingene.\n\n[Tregt, ustabilt eller manglende nett](/kundeservice/internett/problemer/)\n\n## Administrer din ruter i Mitt WiFi\n\nØnsker du å endre innstillingene på ruteren din, som å endre nettverksnavn\neller passord? Det kan du gjøre ved å logge deg inn på Mitt WiFi, på\n<https://wifi.telenor.no/>\n\nFor å logge deg på, må du være tilkoblet ditt hjemmenett, og du logger deg inn\nmed admin-passordet som du finner klistrelappen under din ruter.\n\nTrenger du mer hjelp eller veiledning til å endre innstillinger på din ruter?\nVi har laget en egen side med mer info, den finner du ved å trykke på knappen\nunder.\n\n[Les mer om innlogging i Mitt WiFi](/kundeservice/internett/wifi/administrere-\nruter/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:33+00:00",
+        "last_modified": "2025-05-30T08:57:01.556781",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

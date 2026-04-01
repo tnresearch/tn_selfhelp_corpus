@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_fiberbokser.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 186,
+                "end": 2243,
+                "text": "# Fiberbokser\n\nHer finner du informasjon om de ulike fiberboksene vi leverer\n\n## Hva er en fiberboks?\n\nFiberboksen er en viktig del av å sikre stabil og rask internettilkobling i\nhjemmet ditt. Fiberboks kalles ofte også ONT (Optical Network Terminal).\n\nDens funksjon er å knytte fiberlinjen sammen med WiFi-utstyret ditt, slik at\ndu får koblet deg til internett. Når du har fiber fra Telenor vil denne kobles\ntil hjemmet ditt via en fiberkabel. Denne kobles først til en utendørs\nfiberboks, og deretter strekkes det en ny innendørs fiberkabel til fiberboksen\ninne i huset.\n\nFiberboksen er Telenors eiendom. Fiberboksene skal alltid stå i fred og ikke\nrøres, annet enn til restart, med mindre du har fått annen beskjed av oss i\nforbindelse med feilsøk.\n\n### Her finner du en oversikt over våre mest brukte fiberbokser\n\n  * #### Alcatel - Nokia XS-010X-Q\n\nSalgstidspunkt\n\n|\n\nJanuar 2024 til nå  \n  \n---|---  \n  \n  * #### Alcatel - Nokia G-010G-Q og R\n\nSalgstidspunkt\n\n|\n\nAugust 2020 til nå  \n  \n---|---  \n  \nDenne kommer i to versjoner: Alcatel Nokia ONT G-010G-Q og G-010G-R\n\n  * #### Alcatel - Lucent G-011G-P\n\n  * #### Alcatel - Lucent I-011G-P\n\n  * #### Eldre bokser\n\nNoen hjem kan ha tidligere modeller, her er noen av dem:\n\n    * Genexis DRG700\n\n    * DKTComega\n\n    * Alcatel Nokia G-010G-P\n\n    * Alcatel Lucent I-010G-S\n\n    * Alcatel Lucent I-010G-U\n\n    * Alcatel Lucent I-020G-F\n\n    * Alcatel Lucent I-020E-H\n\n## Løs problemer\n\nHar du problemer med internett hjemme og mistenker at feilen kan skyldes feil\nmed fiberboksen?\n\nGå til vår feilsøkingsside hvor du vil finne en guide som hjelper deg med\ndette. Trykk på linken under og velg \"Fiber\" når du får spørsmål om hvilken\naksess du har.\n\n[Feilsøk](/kundeservice/internett/problemer/)\n\n## Veiledning - Bytte fiberboks\n\nHar du fått beskjed om at du kan bytte fiberboks selv?\n\nHer finner du veiledninger for hvordan du går frem når du skal bytte\nfiberboksen.\n\nFølg trinnene nøye for å sikre en trygg og vellykket installasjon.\n\n[Veiledning](/kundeservice/internett/modem-og-ruter/bytte-fiberboks/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:44+00:00",
+        "last_modified": "2025-05-30T08:51:13.103068",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

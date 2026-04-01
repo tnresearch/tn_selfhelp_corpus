@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/nedsatt-funksjonsevne.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 90,
+                "end": 2118,
+                "text": "# Produkter for hørselshemmede og andre med nedsatt funksjonsevne\n\nHer finner du produkter og tjenester for funksjonshemmede\n\n[Du får kjøpt Doro-mobil i vår\nnettbutikk](https://nettbutikk.telenor.no/#attr-17%5B%5D=Doro)\n\n  * #### 149 Teksttelefonen\n\nTeksttelefon hjelper døve og hørselshemmede å komme i kontakt med andre ved\nhjelp av tekstbasert kommunikasjon. I tillegg til 149 vil du også kunne\nkontakte nødnummeret 1412 Teksttelefonen.\n\nFor mer informasjon og bli bruker av tjenesten, se\n[teksttelefon.no](https://teksttelefon.no/)\n\n  * #### SMS og tekstformidling 149\n\n **Slik fungerer det**\n\n    * Du kan kommunisere med Teksttelefonformidlingen via SMS ved å sende en tekstmelding direkte til nummer 149\n\n    * Meldingen blir sendt som en e-post til Teksttelefonformidlingen, som igjen tar kontakt med avsender eller videreformidler beskjeden\n\n    * Skriv en SMS med ønsket tekst, send til 149\n\n **Priser**\n\n    * For Telenor-abonnenter (og abonnenter av operatører som benytter Telenors mobilnett) koster tjenesten det samme som andre SMS-meldinger. [Sjekk priser for ditt abonnement](/mobilabonnement/)\n\n    * Brukere som benytter andre mobilnett enn Telenors nett, kan benytte tjenesten ved å sende SMS til 2080. Skriv en SMS hvor du starter med 149, deretter et mellomrom og ønsket tekst. Send deretter meldingen til 2080.  \nSMS til 2080 koster 10 kroner per SMS.\n\n  * #### DirekteRing nummer\n\nMed DirekteRing kan du forhåndsprogrammere hjemmetelefonen din til å ringe et\nbestemt nummer.\n\nPersoner som har problemer med å huske telefonnummer til for eksempel familie,\nvenner eller en vakttelefon kan ha nytte av denne tjenesten.  \nFremgangsmåte for aktivering av tjenesten og mer informasjon finner du her:\n\n[Informasjon og veiledning om DirekteRing](/privat/telefoni/telefontjenester/)\n\n  * #### Telenor Open Mind\n\nTelenor Open Mind er et prosjekt i Telenor for å få personer med nedsatt\nfunksjonsevne i arbeid.[  \n](https://www.telenor.no/openmind/)\n\n[Les mer om Telenor Open Mind](https://www.telenor.no/openmind/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:50+00:00",
+        "last_modified": "2025-05-30T09:26:00.533258",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

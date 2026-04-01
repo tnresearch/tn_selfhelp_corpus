@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-5g-wifi-mc8020_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 405,
+                "end": 4054,
+                "text": "# DNA Kotimokkula 5G WiFi MC8020\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/vianmaaritys)\n\n# Vianmääritys\n\nMiten tehdasasetukset palautetaan?\n\nKun mokkula on päällä, paina Reset/Palauta-painiketta teräväkärkisellä\nesineellä noin 15 sekuntia kunnes merkkivalot sammuvat. Tämän jälkeen valot\nalkavat vilkkua ja laitteen tehdasasetukset palautuvat. Tehdasasetusten\npalauttaminen palauttaa asetukset oletusarvoihin. Voit määrittää ne uudelleen\nsen jälkeen, kun mokkula on palautettu tehdasasetuksiin.  \n  \n\nMitä teen, jos unohdin WiFi-salasanan tai verkkopohjaisen hallintasivun\nsalasanan?\n\nPalauta mokkula tehdasasetuksiin ja yritä uudelleen käyttämällä infotarrasta\nlöytyvää oletusarvoista WiFi-salasanaa ja asetussivun\nsisäänkirjautumissalasanaa.\n\nMitä teen, jos NETWORK-merkkivalo on punainen tai internetiin ei saada\nyhteyttä?\n\n  1. Tarkista, että Nano-SIM-kortti on paikoillaan.\n  2. Jos ongelma ei poistu, palauta mokkulan tehdasasetukset ja yritä uudelleen.\n  3. Tarkista DNA:lta, onko SIM-kortti poistettu käytöstä.\n\nMitä teen, jos internet-nopeus on alhainen?\n\n  1. Säädä reitittimen asentoa tai siirrä se lähemmäs ikkunaa parantaaksesi signaalin vastaanottoa.\n  2. Jos laite on yhdistetty mokkulaan WiFi-verkolla, kokeile siirtää laitetta saadaksesi paremman signaalin.\n  3. Vaihda WiFi 5 GHz:n kaistalle, jos laitteesi tukee sitä.\n  4. Käynnistä mokkula ja laite uudestaan ja yritä uudelleen\n\nMiten mokkula yhdistetään käyttämällä WiFi Protected Setup (WPS) -toimintoa?\n\n  1. Varmista, että laitteessasi on WiFi päällä.\n  2. Pidä reitittimen WPS-painiketta painettuna vähintään 5 sekuntia ja vapauta se sitten; WiFi-merkkivalo alkaa vilkkua.\n\nMiksi mokkulan nettipohjaista hallintasivua ei pysty käyttämään?\n\n  1. Varmista, että tietokone on yhdistetty mokkulaan ethernet-johdolla tai WiFi-yhteydellä.\n  2. Varmista, että tietokone on asetettu hakemaan IP-osoite ja DNS-palvelimen osoite automaattisesti.\n  3. Käynnistä nettiselain uudelleen tai kokeile toisen selaimen tai laitteen käyttämistä.\n  4. Jos ongelma ei poistu, palauta mokkulan tehdasasetukset.\n\nMiksi nettipohjaisella hallintasivulla näytettävä sisältö ei ole ajan tasalla?\n\nSelaimen välimuistista riippuen laitteen sisältö hallintasivulla ei\nvälttämättä ole ajan tasalla. Tyhjennä selaimen välimuisti manuaalisesti\n(esimerkiksi avaa selain ja valitse **Internetasetukset > Yleiset >\nSelaushistoria > Poista**) ja käynnistä hallintasivu uudelleen.\n\nTukeeko mokkula 5 GHz:n WiFi-yhteyttä? Miten muodostan yhteyden sen 5 GHz:n\nWiFiin?\n\n  1. Mokkulasi tukee 5 GHz:n WiFi-verkkoa, joka on nopeampi ja vähemmän häiriöaltis. Se ei kuitenkaan läpäise seiniä yhtä hyvin kuin 2,4 GHz:n WiFi ja sitä voidaan käyttää vain laitteilla, jotka tukevat 5 GHz:n WiFiä.\n  2. Mokkulassa on oletuksena käytössä kaistaohjaus, joka priorisoi 5 GHz:ä reitittimessäsi, 2,4 GHz:n ja 5 GHz:n verkot jakavat saman verkon nimen ja yhteys muodostetaan automaattisesti nopeampaan verkkoon. Mikäli haluat varmistua että käytät nopeampaa 5GHz verkkoa, yhdistä WiFi-verkkoon jonka nimessä lukee 5GHz. Voit hallita kaistaohjausominaisuutta mokkulan verkkopohjaisella hallintasivulla.\n\n",
+                "heading": "DNA Kotimokkula 5G WiFi MC8020"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:52+00:00",
+        "last_modified": "2025-06-20T18:59:10.470730",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

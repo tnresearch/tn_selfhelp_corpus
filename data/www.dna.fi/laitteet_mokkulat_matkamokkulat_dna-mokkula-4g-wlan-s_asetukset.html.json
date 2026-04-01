@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-mokkula-4g-wlan-s_asetukset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 387,
+                "end": 4785,
+                "text": "# DNA Mokkula 4G WLAN S\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/vianrajaus)\n\n## Asetukset\n\nPääset mokkulan ohjelmiston hallintasivulle syöttämällä nettiselaimen\nosoiteriville: http://dna.mokkula tai vaihtoehtoisesti http://192.168.1.1.\nYhteys edellyttää, että olet liittynyt mokkulan WiFi-verkkoon tai USB-kaapeli\non kytketty kiinni tietokoneeseen. Hallintasivun oletussalasana on 12345.\n\nHallintasivulta voit tehdä mm. seuraavia asioita\n\n• Muuttaa WiFi-verkon nimeä, salasanaa ja salaustyyppiä.\n\n• Valita yhteystavan\n\n• Muuttaa GPS-asetuksia ja käyttää GPS-koordinaatteja sekä karttaa\npaikantamiseen\n\n• Katsoa ja muuttaa kaikkia muita mokkulan asetuksia\n\n### Mokkulan hallintasivun käyttö älypuhelimella\n\nMikäli käytössäsi on Android- tai Apple-puhelin, voit ladata mokkulan\nhallintasovelluksen puhelimeesi. Lataa Netgear Aircard -sovellus\nsovelluskaupasta. Sovelluksen avulla voit mm. muuttaa WiFi-verkon kantamaa tai\nlukita mokkula 4G- tai 3G-verkkoon.\n\nSovellus vaatii, että käytät puhelinta mokkulan WiFi-verkolla. Sovellus kysyy\nmokkulan salasanaa ja se on oletuksena 12345.\n\nMokkulan lukitseminen 4G- tai 3G-verkkoon\n\nMokkula valitsee oletusasetuksenaan joko 4G- tai 3G-verkon. Jos haluat muuttaa\ntätä, toimi seuraavasti.\n\n1\\. Kirjoita nettiselaimen osoiteriville http://dna.mokkula.\n\n2\\. Syötä salasanaksi **12345**.\n\n3\\. Klikkaa kuvaa, jossa on **antennit ja kuuluvuuspalkit**.\n\n4\\. Muuta kohtaa, jossa on **verkon teknologia** :\n\n\\- Automaattinen: Mokkula valitsee nopeimman saatavilla olevan verkon. Jos 4G-\ntai 3G-verkkoa ei ole saatavilla, mokkula valitsee 2G-verkon.\n\n\\- 4 G tai 3G: Mokkula valitsee 4G- tai 3G-verkon oletuksena.\n\n\\- Vain 4G LTE: Lukitsee mokkulan 4G-verkkoon.\n\n\\- Vain 3G: Lukitsee mokkulan 3G-verkkoon.\n\nGPS:n käyttöönotto\n\n1\\. Mene mokkulan hallintasivulle http://dna.mokkula\n\n2\\. Kirjaudu sisälle. Oletussalasanana on **12345.**\n\n3\\. Klikkaa **GPS-ikonia.**\n\n4\\. Valitse **Hae GPS-signaali** (kertapaikannus) tai **aloita GPS-paikannus**\n(jatkuva).\n\n5\\. Paina **Kartalla** , kun haluat nähdä sijaintisi.\n\nWPS:n käyttö (WiFi)\n\nJotkut laitteet voidaan liittää mokkulan WiFi-verkkoon ilman näppäimistöä.\nTämä edellyttää, että laitteet tukevat WPS-ominaisuutta. Tällaisia laitteita\novat esimerkiksi tietyt kamerat, printterit ja älypuhelimet.\n\n1\\. Paina mokkulan WPS-painiketta. Löydät WPS-painikkeen mokkulan reunasta.\n\n2\\. Paina kahden minuutin sisällä WPS-painiketta langattomassa laitteessa,\njonka haluat kytkeä mokkulaan.\n\n3\\. Laitteen ja mokkulan välille syntyy automaattinen yhteys, jonka jälkeen\nnettiyhteys toimii.\n\nMokkulan hallintasalasanan muuttaminen\n\nVoit halutessasi muuttaa mokkulan hallintasalasanan. Mikäli unohdat muutetun\nhallintasanan, voit resetoida mokkulan tehdasasetuksille.\n\n1\\. Avaa nettiselain, kun olet kytkeytynyt mokkulan WiFi-verkkoon\n\n2\\. Kirjoita osoiteriville http://dna.mokkula\n\n3\\. Hallintasivun salasana on **12345**\n\n4\\. Klikkaa hallintasivulta lukon kuvaa\n\n5\\. Muuta ensimmäiseen kohtaan uusi salana\n\nNollaus tehdasasetuksille\n\n  1. Aseta akku mokkulaan ja sulje takakansi. Käynnistä mokkula painamalla virtanappia.  \n\n  2. Odota, että mokkula on käynnistynyt. Paina sitten 5 sekunnin ajan virtanappia ja WPS-painiketta (mokkulan reunassa) yhtä aikaa.  \n\n  3. Paina virtanappia ennen kuin ruudulla näkyvä palkki ehtii kulua loppuun. Tämän jälkeen ruudulle tulee teksti: \"Käynnistää uudelleen\".   \n\n  4. Odota, että mokkula käynnistyy uudelleen. Hyväksy tämän jälkeen käyttökieleksi suomi painamalla virtanappia. \n\nPIN-koodin syöttäminen\n\nOletuksena mokkulan PIN-koodi on 1234. Mikäli PIN-koodi on jotain muuta, pitää\nkoodi syöttää ensimmäisellä käyttökerralla mokkulan asetuksista. Tämä tapahtuu\nseuraavasti:\n\n1\\. Avaa nettiselain ja kirjoita selaimen osoiteriville http://dna.mokkula\n\n2\\. Valitse ylhäältä kohta **Asetukset**\n\n3\\. Syötä salasanaksi **12345**\n\n4\\. Mokkula kysyy nyt PIN-koodia. Syötä SIM-kortin PIN-koodi ja paina **OK.**\n\n",
+                "heading": "DNA Mokkula 4G WLAN S"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:08:15+00:00",
+        "last_modified": "2025-06-20T19:07:52.240274",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_hantera-kontantkort_skaffa-nytt-simkort.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 350,
+                "end": 874,
+                "text": "#  Skaffa nytt simkort\n\nVill du skaffa ett nytt simkort till ditt kontantkortsnummer? Så här gör du.\n\nDu kan skaffa ett nytt simkort till ditt kontantkortsnummer genom att\n[kontakta vår kundservice](/archive/2020/kontakta-oss-old-old/).\n\nDu måste först ha registrerat ditt kontantkort för att kunna få ett nytt\nsimkort till ditt nummer.\n\nKontantkort köpta via Telenor.se är automatiskt registrerade.\n\n[Här kan du registrera ditt\nkontantkort](/support/mobiltelefoni/kontantkort/hantera-\nkontantkort/registrera-kontantkort/)\n\n",
+                "heading": " Skaffa nytt simkort"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:29+00:00",
+        "last_modified": "2025-05-30T14:50:15.518044",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

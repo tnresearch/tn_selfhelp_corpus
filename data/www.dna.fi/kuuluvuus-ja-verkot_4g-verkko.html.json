@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/kuuluvuus-ja-verkot_4g-verkko.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 270,
+                "end": 5606,
+                "text": "# Kattava 4G eli mobiiliverkko\n\n## Mikä on 4G?\n\n4G on ns. neljännen sukupolven matkapuhelintekniikkaa, jolla mahdollistetaan\nmonimuotoinen yhteydenpito: puhelut ystävälle, WhatsApp-viestit kaveriporukan\nkesken, lempitubettajan seuraamisen tai vaikka Netflixin katsominen. 4G:tä\nvoidaan käyttää puhelimessa tai tabletissa tai vaikka kotisi nopeana\nnettiyhteytenä mokkulan kautta.\n\n4G-verkon yhä jatkuvan kehittämisen lisäksi DNA rakentaa jo viidennen\nsukupolven mobiiliverkkoa, 5G:tä.\n\n##  Usein kysyttyjä kysymyksiä\n\nMikä on liikkuva laajakaista?\n\nLiikkuva laajakaista on nettiyhteys, joka kulkee aina mukana, käytännössä SIM-\nkortti, jossa on dataliittymä. SIM-kortin voit laittaa suoraan tablettiin tai\nmokkulaan, jolla yhteyden voi jakaa langattomasti usealle eri laitteelle.\n\nMikä on verkon nopeus ja miksi nopeus vaihtelee?\n\nMobiiliverkon nopeuden voi jakaa kahteen osaan:\n\n  * **Latausnopeus** kertoo kuinka nopeasti tietoa voi ladata verkosta. 4G-verkossa latausnopeus vaihtelee esimerkiksi käyttäjän liittymästä, laitteesta ja sijainnista riippuen. 4G-verkon normaali vaihteluväli on 5-80Mbit/s.\n  * **Lähetysnopeus** kertoo kuinka nopeasti tietoa voi lähettää verkkoon. Kuten lataususnopeuskin, vaikutta myös lähetysnopeuteen monet tekijät. \n\nNopeuden vaihteluun voi olla useita syitä:\n\n**Signaalin laatu.** Erityisesti harvaan asutuilla seuduilla tukiasema voi\nolla kaukana ja tämän takia signaalin laatu on heikko. Heikkoa laatua voisi\nverrata televisioyhteyden kuvaan: Jos televisionsignaali on liian heikko,\nkuvaan tulee häiriötä. Mobiililaajakakaistan tapauksessa häiriöt aiheuttavat\nheikentynyttä siirtonopeutta. Nopeutta voi parantaa asettamalla mokkulan\nikkunan lähelle tai käyttämällä lisäantennia.\n\n**Suuri määrä käyttäjiä**. Mikäli suuri määrä käyttäjiä käyttää verkkoa samaan\naikaan yhden tukiaseman alueella, verkon nopeus voi tippua. Helpommin tämän\nvoi huomata ilta-aikaan, jolloin verkon käyttö on kaikkein suurinta.\n\n**Käytössä oleva laite.** 4G-verkko toimii vain, jos laite on 4G-kykyinen.\nVarmistu, että olet alueella, jossa 4G-verkko toimii ja että käyttämäsi\nliittymä ja laite tukevat 4G:tä. Laitteesi tiedoissa 4G-verkko voi olla\nkuvattu myös kirjanlyhenteellä LTE.\n\nLue lisää [nopeuden vaihtelusta ja vaihteluväleistä\nliittymissä](/blogi/-/blogs/miksi-netin-nopeus-liittymassa-ei-aina-ole-\nmaksimissa-ja-mita-tarkoittaa-vaihteluvali-).\n\nOman verkkosin nopeuden voit mitata [nopeustestillä](/nopeustesti).\n\nMikä on WLAN ja miten se eroaa mobiiliverkoista?\n\nWLAN-verkon kantama on usein hyvin rajattu ja saattaa rajoittua esimerkiksi\nvain yhteen asuntoon. 4G tai 5G sen sijaan tarjoavat yhteyksiä koko Suomessa\nja verkon alueella voi liikkua vapaasti.\n\nWLAN tarkoittaa langatonta tiedonsiirtoteknologiaa. Sitä kutsutaan usein myös\nnimellä WiFi. WLAN-tuki on mukana lähes kaikissa nettiyhteyttä käyttävissä\nlaitteissa: tietokoneissa, älypuhelimissa, pelikonsoleissa ja tableteissa.\nWLAN on yleistynyt myös kodinelektroniikassa, kuten älytelevisioissa ja\nhälytinjärjestelmissä. Jos haluat WLAN-laitteen internettiin, se pitää liittää\nWLAN-tukiasemaan, joita kutsutaan usein reitittimiksi. WLAN-tukiasemassa taas\npitää olla internet-yhteys. Tällä tavalla WLAN-tukiasema jakaa yhteyden\neteenpäin WLAN laitteelle.\n\nMitä tarkoittavat lyhenteet: 4G LTE, DC-HSPA, 5G?\n\n4G on yleisnimitys neljännen sukupolven matkapuhelintekniikoille. DNA:n\nverkossa 4G:stä puhutaan LTE-tekniikan yhteydessä. LTE:n mahdollistama\ntiedonsiirtonopeus on selkeästi parempi kuin 3G-verkossa.\n\nDC-HSPA eli Dual Carrier tuplaa 3G-verkon nopeuden. Dual Carrier ei kuitenkaan\nole sama kuin 4G LTE -verkko. Mikäli puhelin on Dual Carrier -verkon alueella,\nvalitsee se nopeamman verkon automaattisesti käyttöönsä.\n\n[5G](/5G-verkko) on yleisnimitys viidennen sukupolven\nmatkapuhelintekniikoille.\n\nKuulin, että DNA sulkee 3G-verkkonsa vuoden 2023 loppuun mennessä. Mitä se\ntarkoittaa?\n\nDNA aikoo sulkea 3G-verkkonsa vuoden 2023 loppuun mennessä. Alasajon myötä\ntaajuuksia ja resursseja vapautuu 4G- ja 5G-yhteyksien käyttöön sekä muille\nuusille tekniikoille, joiden kehittämiseen DNA siirtää vapautuvat resurssinsa.\nVuoden 2020 lopulla 3G-verkossa siirrettiin enää vain reilu 2 % DNA:n\nasiakkaiden käyttämästä mobiilidatasta.\n\nDNA:n tekemän päätöksen taustalla on etenkin paremman asiakaskokemuksen\nmahdollistaminen teknisen uudistumisen myötä. 4G- ja 5G-verkot tarjoavat\nselvästi 3G-verkkoa enemmän kapasiteettia, toimintavarmuutta ja nopeutta\nmobiiliverkkojen jatkuvasti kasvavaan tarpeeseen. 3G-verkon purkamisen myötä\nmyös uudemmille teknologioille vapautuu useampia taajuuksia.\n\n3G-verkon alasajo ei pääasiassa edellytä asiakkailta toimenpiteitä, kuten\npuhelimen vaihtoa, sillä lähes kaikki DNA:n verkossa toimivat päätelaitteet\nhyödyntävät jo nykyisellään 4G- tai 5G-verkkoja. Vanhat laitteet, jotka eivät\npysty hyödyntämään 4G- tai 5G-verkkoa, siirtyvät vuoden 2023 jälkeen\nautomaattisesti 2G-verkon piiriin. DNA:lla tiedostetaan myös, että esimerkiksi\nosa riistakameroista tai yritysasiakkaiden käyttämistä maksupäätteistä\ntoimivat pääasiassa 3G-verkossa. Tällaiset laitteet alkavat kuitenkin jo nyt\nolla iäkkäitä, ja niiden päivittäminen ehtii todennäköisesti tulla\najankohtaiseksi joka tapauksessa vuoden 2023 loppuun mennessä. Jos tällaisia\nvanhoja laitteita kuitenkin vielä tuolloin on verkossa, ne siirtyvät\nkäyttämään 2G-dataa.\n\n",
+                "heading": "Kattava 4G eli mobiiliverkko"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:39+00:00",
+        "last_modified": "2025-06-20T14:34:39.651696",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/tietoturva.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 85,
+                "end": 2359,
+                "text": "# Tietoturvan tuki\n\n#### DNA Digiturva\n\n[ Asennus ](https://www.dna.fi/tuki/tietoturva/digiturva/asennusohjeet) [\nLaitteiden ja käyttäjien hallinta\n](https://www.dna.fi/tuki/tietoturva/digiturva/henkilot-ja-laitteet) [\nOminaisuuksien käyttö\n](https://www.dna.fi/tuki/tietoturva/digiturva/kayttoohjeet) [ Päivitykset\n](https://www.dna.fi/tuki/tietoturva/digiturva/paivitykset) [\nNettipetosvakuutus\n](https://www.dna.fi/tuki/tietoturva/digiturva/nettipetosvakuutus)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/tietoturva/digiturva)\n\n#### DNA Selausturva\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/tietoturva/selausturva)\n\n#### Mobiilivarmenne\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/puhelinliittymat/mobiilivarmenne)\n\n## Näin torjut huijausyritykset\n\nPalveluiden siirryttyä yhä enemmän digitaalisiksi hyvien tietoturvataitojen ja\n-palveluiden merkitys korostuu – tällöin myös riski altistua erilaisille\nhuijausyrityksille ja haittaohjelmille vähenee.\n\nLue vinkit ja perusperiaatteet joilla voit suojautua tietojesi\nkalastelijoilta.\n\n[ Lue vinkit ](https://corporate.dna.fi/vastuullisuus/luotettava-tietoturva-\nja-tietosuoja/nain-torjut-huijausyritykset)\n\n## Vinkit ja artikkelit\n\n2/2019 Artikkelien toimitus\n\n### Avoimessa verkossa voi vaania stalkkeri – näin vältät 4 tyypillistä\ntietoturvavirhettä\n\n[ Lue artikkeli ](https://www.dna.fi/blogi/-/blogs/teetko-sinakin-nama-\nvirheet-tietoturvan-kanssa-asiantuntijan-vinkit-perheen-alylaitteiden-fiksuun-\nkayttoon)\n\n[](https://www.dna.fi/blogi/-/blogs/teetko-sinakin-nama-virheet-tietoturvan-\nkanssa-asiantuntijan-vinkit-perheen-alylaitteiden-fiksuun-kayttoon)\n\n6/2021 Artikkelien toimitus\n\n### Lapselle puhelin? 4 vinkkiä puhelimen käytön yhteisiin pelisääntöihin\n\n[ Lue artikkeli ](https://www.dna.fi/blogi/-/blogs/nain-teet-lapsen-\nalylaitteesta-hetkessa-turvallisemman-)\n\n[](https://www.dna.fi/blogi/-/blogs/nain-teet-lapsen-alylaitteesta-hetkessa-\nturvallisemman-)\n\n6/2022 Samu Malmelin\n\n### Huijausviestejä liikkeellä – kuusi vinkkiä suojautumiseen\n\n[ Lue artikkeli ](https://www.dna.fi/blogi/-/blogs/viisi-vinkkia-\nhuijaussivustojen-valttamiseen)\n\n[](https://www.dna.fi/blogi/-/blogs/viisi-vinkkia-huijaussivustojen-\nvalttamiseen)\n\n[Kaikki artikkelit aiheesta\ntietoturva](https://www.dna.fi/elamaon/-/categories/10154728)\n\n",
+                "heading": "Tietoturvan tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:43+00:00",
+        "last_modified": "2025-06-20T19:21:00.108226",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

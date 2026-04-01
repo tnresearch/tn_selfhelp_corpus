@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_tryghed_chikaneopkald.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 947,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Chikaneopkald\n\nOplever du chikanerende opkald, kan du vælge at skifte nummer og gøre det\nhemmeligt. På mange nye smartphones har man også mulighed for at blokere\nbestemte numre direkte i telefonens indstillinger.\n\n## Få nyt nummer\n\nVi kan desværre ikke spærre for opkald fra bestemte telefonnumre, men du kan\n[kontakte os](/kundeservice/kontakt/) og få hjælp til at skifte nummer.\n\n## Få hemmeligt nummer\n\nPå [Mit Telenor](/mit-telenor/login/) kan du nemt og hurtigt selv skifte til\nhemmeligt, skjult eller udeladt nummer. Du kan se, hvordan du gør\n[her](/kundeservice/Mobilabonnementer-og-services/opsatning/hvordan-far-jeg-\nhemmeligt-nummer/).\n\n### Anmeld chikaneopkald til politiet\n\nDu kan anmelde chikaneopkald til dit lokale politi ved at ringe 114. Hvad\npolitiet foretager sig herefter, afhænger af den konkrete sag. På\nanklagemyndigheden.dk kan du læse mere om, hvordan du kan forholde dig, hvis\ndu er udsat for forfølgelse eller chikane."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:17+00:00",
+        "last_modified": "2025-05-21T15:15:30.688841",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

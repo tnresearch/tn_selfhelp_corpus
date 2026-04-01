@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_felsokning_kolla-installningen-for-sparr-av-trafik-i-utlandet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 497,
+                "end": 1057,
+                "text": "# Kontrollera inställningen för Blockera samtal, sms och surf när du är\nutomlands\n\nSe så att du inte har blockerat trafik i utlandet. Då kan du varken ringa,\nskicka sms eller surfa.\n\nDu hittar inställningen i Mitt Telenor under Inställningar > Kostnadskontroll.\nLogga in här [på webben](/mitt-telenor/) eller i [vår\napp](https://uu429.app.goo.gl/gnXY) för att ändra direkt.  \n  \nHar du Telenor Familj? Tänk på att det bara är den som står som\n[ägare](/support/mobiltelefoni/abonnemang/for-familjen/medlemsprofiler/) av\nabonnemanget som kan ändra inställningen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:05+00:00",
+        "last_modified": "2025-05-30T14:37:33.711338",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/overlatelse-av-abonnemang.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 254,
+                "end": 749,
+                "text": "#  Överlåtelse av abonnemang\n\nVill du ta över ett abonnemang som ägs av någon annan? Börja med att klicka på\ntjänsten det gäller nedan.\n\n[Mobiltelefoni och mobilt bredband](/support/mobiltelefoni/abonnemang/hantera-\nabonnemang/ta-over-ett-abonnemang-eller-nummer/)\n\n[Bredband, tv och villafiber](/support/priser-villkor-och-blanketter/fast-\nbredband-tv-telefoni/overlatelse2/overlata-tv--eller-bredbands-abonnemang/)\n\n[Fast hemtelefoni](https://mediearkivet.telenor.se/Data/mw/Pdf/TA32100.pdf)\n\n",
+                "heading": " Överlåtelse av abonnemang"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:41+00:00",
+        "last_modified": "2025-05-30T14:54:27.769417",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

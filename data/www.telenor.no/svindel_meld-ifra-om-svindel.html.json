@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/svindel_meld-ifra-om-svindel.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 128,
+                "end": 669,
+                "text": "# Meld ifra om svindelforsøk\n\nHer kan du tipse oss om svindelforsøk!\n\nVi tar en vurdering av alle rapporteringer vi mottar, men kan dessverre ikke\nsvare opp meldingene vi får. Trenger du mer hjelp med saken ber vi deg ta\n[kontakt med oss på\nkundeservice.](https://www.telenor.no/kundeservice/kontakt-oss/)\n\nDin e-postadresse\n\nHva slags svindel ønsker du å melde i fra om?\n\nE-post\n\nAnnet\n\n### Hvilken dato mottok du svindelforsøket?\n\nDato\n\nKlokkeslett\n\nLast gjerne opp skjermbilde av svindelforsøket hvis du har det\n\nMer informasjon\n\nSend inn"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:09+00:00",
+        "last_modified": "2025-05-30T09:32:04.405004",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "formular"
+}

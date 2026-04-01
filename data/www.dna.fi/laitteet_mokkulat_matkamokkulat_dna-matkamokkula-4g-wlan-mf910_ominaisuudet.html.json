@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wlan-mf910_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 408,
+                "end": 2152,
+                "text": "# DNA Matkamokkula 4G WLAN MF910\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/vianmaaritys)\n\n## Ominaisuudet\n\n### DNA Matkamokkula 4G WLAN MF910\n\nTuotenimi: ZTE MF910\n\nHuippulaadukas WLAN Mokkula. Mukana WLAN-verkko kymmenelle käyttäjälle sekä\n4G-verkon tuki.  \nAkku helpottaa liikkumista ja suuri näyttö tekee käytöstä ennennäkemättömän\nhelppoa.\n\n• 4G LTE enimmäisnopeus verkosta 150 Mbit/s\n\n• 4G DC enimmäisnopeus 42 Mbit/s\n\n• HSPA+ enimmäisnopeus 21,1 Mbit/s\n\n• WLAN b/g/n\n\n• 10 WLAN-laitetta, säädettävä WLAN-verkon kantama\n\n• 1800 mAh akku ja suuri 5 rivin LCD-näyttö\n\n• MicroSD-muistikorttipaikka (32 Gt asti), toimii myös WLAN:n yli\n\n• TS9-liitäntä ulkoiselle antennille\n\n• Mini-SIM-korttin eli normaalin kokoinen SIM-kortti\n\n• Automaattinen langattoman verkon WPS-asennus, päivitykset netistä\n\n• Tuki IPv6:lle.\n\n### Laitteistovaatimukset / Tuetut käyttöjärjestelmät:\n\n  * USB-liitäntä: Windows® 10, Windows® 8 / 8.1, Windows® 7, Vista, XP SP2/SP3, Mac OS X® 10.7\n  * WLAN: 802.11b/g/n/ac\n  * USB Slot 1.1 tai 2.0\n  * Internetselain USB-liitännän tai WLAN:n kautta: Microsoft Internet Explorer 6.0 tai uudempi, Firefox 2.0 tai uudempi, Safari 4.0 tai uudempi, Opera 10.0 tai uudempi, Chrome 5.0 tai uudempi\n\n",
+                "heading": "DNA Matkamokkula 4G WLAN MF910"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:38+00:00",
+        "last_modified": "2025-06-20T19:05:30.423147",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

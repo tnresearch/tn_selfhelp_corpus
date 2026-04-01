@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_udland_surfkontrol-udland.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1820,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Surfkontrol Udland\n\nEr du kunde hos Telenor, har du automatisk Surfkontrol i udlandet og et\ndataloft på 450 kr. om måneden. Ændrer du ikke dit dataloft, vil prisen for\ndata brugt i udlandet aldrig blive højere end 450 kr. om måneden.\n\nMed Roam Away kan du i 47 lande, og med Roam Away+ i 55 lande, frit ringe og\nsende sms og bruge op til 35 GB data i de inkluderede lande (Se antal GB under\ndit abonnement). Se Mit Telenor for mere information om datamængden i dit\nabonnement.\n\n[Læs mere om roaming med Roam Away her](/shop/landingpage/mobil/roaming/).\n\n## Sådan virker Surfkontrol i udlandet\n\nDu kan surfe og sende mms'er, indtil du rammer dit dataloft. Inden du rammer\ndit dataloft, vil du modtage en sms. Når du rammer dit dataloft, bliver din\nforbindelse spærret indtil næste regningsperiode. Du modtager en sms, når\ndette sker.\n\nØnsker du midlertidigt at hæve dit maksimum til det dobbelte, kan du sende en\nsms med teksten ’ **surfkontrol hæv** ’ til 1221. Du kan også [ kontakte\nos](/kundeservice/kontakt/) – husk, at det koster udlandstakst at ringe. Vær\nopmærksom på, at Surfkontrol ikke længere dækker, når du har tilkøbt ekstra\ndatapakker i udlandet. Du kan i stedet sætte et maksimumbeløb i Surfkontrol,\nsom du finder i [Mit Telenor ](/mit-telenor/)eller Mit Telenor App.\n\nMobilabonnementer til børn og unge er automatisk spærret for brug af data i\nudlandet.\n\n## **Hvordan undgår jeg, at mit barn hæver dataloftet med sms?**\n\nHar dit barn et af vores mobilabonnementer til børn, er det automatisk spærret\nfor brug af data i udlandet, så i det tilfælde, behøver du ikke gøre noget.\nHar dit barn et andet mobilabonnement, kan du [kontakte os\n](/kundeservice/kontakt/) og få spærret for midlertidig hævning af dataloftet.\nPå den måde kan dit barn ikke hæve dataloftet midlertidigt ved at sende en sms\ntil 1221."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:49+00:00",
+        "last_modified": "2025-05-21T15:15:34.426500",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

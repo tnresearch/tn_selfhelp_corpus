@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/-WiFi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 174,
+                "end": 5544,
+                "text": "# WiFi-verkon tuki\n\n## Pulmia WiFi-verkossa?\n\nKokeile käyttää nettijohtoa. Jos ongelma poistuu, vika on todennäköisesti\njuuri langattomassa kotiverkossa. Tutustu tällöin alla oleviin ohjeisiin!\n\nJos ongelma toistuu sekä WiFissä että nettijohdolla, kyse voi olla\nverkkopuolen ongelmasta ja esim. paikallisesta häiriöstä. Tällaisessa\ntilanteessa kannattaa olla yhteydessä asiakaspalveluun, jossa on viimeisin\ntieto verkon häiriöistä ja esim. tukiasemien paikoista tai käytettävistä\ntaajuuksista.\n\n#### Tee ensin nämä:\n\n  * Käynnistä modeemi uudestaan virtanapista tai irrota virtajohto noin 30 sekunniksi.\n  * Varmista, että olet valinnut oikean, modeemisi muodostaman WiFi-verkon.\n  * Tarkista, ettei modeemin läheisyydessä ole häiriöitä tuottavia elektronisia laitteita tai modeemin ilmanvaihto ole estynyt.\n  * Päivitä modeemisi mahdollisuuksien mukaan (modeemin asetussivuilta, päivitysnapista tai mobiilisovelluksesta).\n  * Käynnistä laitteet uudelleen. Windows 10 -kone kannattaa käynnistää uudestaan shift-nappulaa pohjassa pitämällä. Esim. tabletit ja muut mobiililaitteet kannattaa käynnistää uudestaan kytkemällä ensin virrat pois yli 30 sekunnin ajaksi.\n\n#### Kokeile myös näitä:\n\n  * Resetoi modeemi. Yleensä reset-nappi löytyy laitteen joltain sivulta. Paina sitä 30 sekuntia. Tämä palauttaa modeemin tehdasasetukset sekä korjaa joitakin modeemien jumituksia.\n  * Päivitä laitteet: tabletit, puhelimet, televisiot ja kaikki muut modeemiin yhteydessä olevat laitteet.\n  * Tyhjennä käyttämäsi selaimen välimuisti.\n  * Vinkki: Jos kodissasi on useampi huone tai vankat seinänrakenteet, ei yhden modeemin tai mokkulan tuottama WiFi-verkko välttämättä kanna asunnon joka nurkkaan. Ratkaisu tähän on [Mesh-verkko](https://www.dna.fi/laitteet/modeemit-ja-mokkulat/mesh)\n\n## Ohjevideot\n\n#### Video: WiFin ja modeemin hienosäädöt\n\nKatso, kuinka saat Wifistä ja modeemista parhaat mahdolliset tehot irti.\n\nKatso video\n\n#### Video: Sijoita modeemisi oikein\n\nModeemin sijainnilla on suuri merkitys netin kuuluvuuteen kodissasi. Katso\nvideolta vinkit modeemin sijoitteluun.\n\nKatso video\n\n## Langattoman verkon maksiminopeudet\n\nWiFi-verkolla ei toistaiseksi pysty saavuttamaan huippunopeuksia. Jos haluat\nkäyttää nettiäsi maksiminopeudella ja pienimmällä mahdollisella vasteajalla,\nsuosittelemme että kytket tietokoneen suoraan modeemiin ethernet-\nverkkojohdolla (RJ45).\n\nLue lisää\n\nAlla olevassa taulukossa on esitetty yleisimpien käytössä olevien WiFi-\nstandardien teoreettinen maksiminopeus sekä tyypillinen nopeus\nnormaalikäytössä. WiFi-yhteyden nopeus riippuu modeemin ja nettiin kytketyn\nlaitteen tekniikasta sekä ympäristöstä. Ilmoitetut nopeudet ovat teoreettisia\nja maksiminopeuksia (edellyttäen, että myös käyttämäsi päätelaite on\nteknisesti täysin yhteensopiva). Mokkuloiden ja modeemikohtaisen langattoman\nkotiverkon sekä laajakaistayhteyden teoreettiset maksiminopeudet löydät\ntuotesivuilta ja liittymän tai laitteen mukana tulevista tiedoista.\n\nHuomaathan, että saavuttaaksesi esim. 802.11ac 4x4 -standardin\nmaksiminopeuden, pitää myös nettiin liitettyjen laitteiden (esim. tietokone,\ntabletti, puhelin) olla ajan tasalla ja täyttää samat ehdot. Tarkista\nasetukset, päivitykset ja ota huomioon mahdolliset häriötekijät ympäristössä.\n\n#### Eri tekniikoiden maksiminopeudet ja niiden käytännön nopeusarviot:\n\nTekniikka | Teoreettinen nopeus | Nopeus käytännössä  \n---|---|---  \n802.11b | 11 MBit/s | 4-6 MBit/s  \n802.11g | 54 MBit/s | 15-20 Mbit/s  \n802.11n 1x1 | 150 MBit/s | 20-50 MBit/s  \n(käytettäessä 2.4 GHz taajuutta)  \n802.11n 2x2 | 300 Mbit/s | 50-60 MBit/s  \n(käytettäessä 2,4 GHz taajuutta)  \n802.11n 3x3 | 450 Mbit/s | 80-110 Mbit/s  \n(käytettäessä 2,4 GHz taajuutta)  \n80.2.11ac 2x2 | 867 Mbit/s |\n\n100-120 MBit/s  \n  \n80.2.11ac 3x3 | 1300 Mbit/s |\n\n150-400 MBit/s  \n  \n80.2.11ac 4x4 | 1733 Mbit/s |\n\n300-600 MBit/s  \n  \nMainitut nopeudet koskevat liikennettä modeemin ja tietokoneen välillä.\n\n#### Tee nopeustesti\n\nVoit halutessasi mitata käyttämäsi netin nopeuden DNA:n nopeustestillä.\nHuomaathan, että testi on vain suuntaa-antava, koska mitattuun nopeuteen\nvaikuttavat mm. muut verkon käyttäjät, nopeustestiin käytetty laite ja selain,\nliittymän nopeus, modeemin asetukset sekä esimerkiksi WiFin senhetkinen\nympäristö.\n\n[ Siirry nopeustestiin ](https://www.dna.fi/liittymat-ja-\npalvelut/netti/nopeustesti)\n\n## WiFi-yhteyden salaus\n\nOma langaton lähiverkkosi kannattaa aina suojata. Langaton verkko toimii myös\nseinien läpi, joten WiFi-yhteytesi saattaa ulottua myös naapurille asti.\n\nSalaamalla yhteytesi, estät ulkopuolisia käyttämästä nettiäsi luvattomasti ja\nestät heitä ottamasta haltuun yhteyttäsi. Salaus koskee vain modeemin ja\ntietokoneen välistä langatonta nettiyhteyttä. Langattomassa lähiverkossa\nsuosittelemme käytettäväksi niin kutsuttua **WPA2** (Wi-Fi Protected Access)\n-salausta. Se on käytettävissä olevista vaihtoehdoista tällä hetkellä\nturvallisin.\n\nDNA:n kustomoidut modeemit ovat oletuksena salattuja eli vaativat salasanan.\nLisätietoa ja ohjeet oman laitteesi salaamiseksi löydät\n[modeemien](https://www.dna.fi/tuki-modeemit) ja\n[mokkuloiden](http://www.dna.fi/tuki-mokkulat) tukisivuilta.\n\nMuistathan, että modeemin ja tietokoneen välinen suojattu yhteys ei suojaa\ninternetistä tulevia uhkia kuten verkkoyhteyksiä, viruksia tai tietomurtoja\nvastaan. [Tutustu DNA:n tietoturvaratkaisuihin](https://www.dna.fi/tietoturva)\n\n",
+                "heading": "WiFi-verkon tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:16+00:00",
+        "last_modified": "2025-06-20T14:05:46.026693",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-kytkin-tl-sg-108_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 393,
+                "end": 864,
+                "text": "# DNA Kytkin TL-SG108\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nkytkin-tl-sg-108/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-kytkin-tl-\nsg-108/kayttoonotto)\n\n## Ominaisuudet\n\n  * Tuotenimi: TP Link SG108\n  * 8 kpl ethernet-porttia (1 Gbit/s)\n  * Plug & Play\n\nMyyntipaketin sisältö: TP Link SG108 -kytkin, DNA:n pikaohje,\nturvallisuusohjeet, virtalähde. Huom. paketti ei sisällä ethernet-johtoja.\n\n",
+                "heading": "DNA Kytkin TL-SG108"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:48+00:00",
+        "last_modified": "2025-06-20T14:53:30.772193",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

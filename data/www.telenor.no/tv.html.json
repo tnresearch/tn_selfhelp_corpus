@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 71,
+                "end": 955,
+                "text": "# Hjelp til TV\n\nHer finner du hjelp til T-We fra Telenor. Les mer om kanaler og innhold,\nhvordan du løser problemer og hvordan det forskjellige utstyret fungerer\n\n### Leter du etter dette?\n\n[T-We Boks II](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-ii/)[TV\n2 Play](/kundeservice/tv/brukerveiledning-t-\nwe/strommetjenester/tv2-play/)[Feilkoder på T-We\nBoks](/kundeservice/tv/problemer-med-\ntv/feilkoder/)[Max](/kundeservice/tv/brukerveiledning-t-\nwe/strommetjenester/max/)[Viaplay](/kundeservice/tv/brukerveiledning-t-\nwe/strommetjenester/viaplay/)[Flytting](/kundeservice/flytting/)\n\n## Les mer om TV\n\n### Dette er T-We\n\nMed T-We får du TV og populære strømmetjenester samlet på ett sted.\n\n### TV når og hvor du vil\n\nHjemme, på hytta eller på ferie i Europa? Du har alltid tilgang på T-We.\n\n### Kanalpakker\n\nFå mer sport, film og underholdning med våre ekstra kanalpakker.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:16+00:00",
+        "last_modified": "2025-05-30T09:32:19.256117",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

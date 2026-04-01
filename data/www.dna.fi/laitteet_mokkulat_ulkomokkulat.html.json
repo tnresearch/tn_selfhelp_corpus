@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 200,
+                "end": 1137,
+                "text": "# Ulkomokkulat\n\nUlkomokkulat ovat kuin Kotimokkuloita, mutta koostuvat WiFin luovasta\nsisäyksiköstä ja suuntaavasta 5G/4G-ulkoantennista, joiden välillä data\nsiirtyy häviöttömästi. Saat varman 5G/4G-netin, vaikka kuuluvuus on heikkoa\ntai löydät vielä paremman signaalin jo valmiiksi hyvän kuuluvuuden alueella.\nSijoitetaan ulos, kuten [5g-antenni](https://www.dna.fi/laitteet/modeemit-ja-\nmokkulat/ulkomokkula).\n\n##### DNA Ulkomokkula 5G MC889A\n\n[](/tuki/laitteet/mokkulat/ulkomokkulat/dna-ulkomokkula-5g-mc889a)\n\n##### DNA Ulkomokkula 5G MC7010\n\n[](/tuki/laitteet/mokkulat/ulkomokkulat/dna-ulkomokkula-5g-mc7010)\n\n##### Ulkomokkula 5G H312\n\n[](/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312)\n\n##### DNA Ulkomokkula 4G+ WLAN B2368-66\n\n[](/tuki/laitteet/mokkulat/ulkomokkulat/dna-ulkomokkula-4g-wlan-b2368-66)\n\n##### DNA Ulkomokkula 4G WLAN B2338-168\n\n[](/tuki/laitteet/mokkulat/ulkomokkulat/dna-ulkomokkula-4g-wlan-b2338-168)\n\n",
+                "heading": "Ulkomokkulat"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:09+00:00",
+        "last_modified": "2025-06-20T19:13:20.345337",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

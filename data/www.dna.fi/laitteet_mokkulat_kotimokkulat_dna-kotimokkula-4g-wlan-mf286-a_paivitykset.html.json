@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-mf286-a_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 408,
+                "end": 5084,
+                "text": "# DNA Kotimokkula 4G+ WLAN MF286(A)\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/vianmaaritys)\n\n## Päivitykset\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n### Ohjeet päivitykseen:\n\n  1. Avaa nettiselain, kun olet kytkeytynyt DNA Kotimokkulan WiFi-verkkoon tai yhdistänyt laitteen Ethernet-johdolla.\n  2. Kirjoita osoiteriville <http://192.168.1.1> tai http://dna.mokkula \n    * Oletuskäyttäjänimi on **admin**\n    * Oletussalasana on **1234**\n  3. Mikäli kirjautuminen ei onnistu, pidä DNA Kotimokkulan reset-painiketta pohjassa 30 sekunnin ajan ja yritä kirjautumista uudelleen.\n  4. Valitse aloitussivun alareunasta **lisäasetukset.**\n  5. Valitse ylävalikosta **päivitä.**\n  6. Valitse **tarkista.**\n  7. Seuraa käyttöliittymän ohjeita. Älä sammuta tai irrota virtajohtoa laitteesta päivityksen aikana. Päivitys voi kestää 5-30 minuuttia.\n\n  \nJos päivitystä ei löydy tai se keskeytyy yllättäen, kokeile resetoida laite ja\ntyhjentää selaimen välimuisti ja kokeile uudestaan.\n\n**MF286 saa uuden päivityksen 15.8.2018 alkaen**\n\nMuutoksina edelliseen versioon:\n\n  * GDPR tiedote\n  * Korjaus 2100 (B1) taajuuden aiheuttamaan pätkintään tai uudelleenkäynnistelyyn\n  * Hienosäätöä lepotilaan\n\n**Uusi versio: ZTE_DNA_MF286_B16**\n\n  \nDNA suosittelee päivityksen jälkeen tyhjentämään selaimen välimuistin\n(evästeet, offline-tiedostot jne) sekä mahdollisuuksien mukaan resetoimaan\nlaitteen yläosan reset-painikkeesta (30 sek).\n\nPäivitys tapahtuu portaittain eli kaikki eivät saa päivitystä samaan aikaan.\nJos käyttäjä päivittää laitteen vanhasta versiosta (vanhempi kuin B13),\npäivitys voi tapahtua kahdessa osassa eli käyttäjän pitää päivittää laite\nkahteen kertaan peräkkäin.\n\n**MF286 saa uuden päivityksen 21.12.2017 alkaen**\n\nMuutoksina edelliseen versioon:\n\n  * Korjattu vika, missä asetukset häviävät uudelleenkäynnistyksessä joillakin laitteilla\n  * Lisätty prosessi, missä päivitys tarkastaa ja korjaa mahdollisen flash-muistin korruptoinnin (korjausprosessi tapahtuu myös resetissä)\n  * Lisätty yhdistelmätaajuuksien (CA) valinta/priorisointi\n  * Lisätty valinta back-up yhteydelle Ethernetin yli\n  * Telnet disabloitu\n  * KRACK ja muita haavoittuvuuskorjauksia\n  * Muutoksia käyttöliittymään\n  * RSRQ, APN ja eNB tiedot lisätty lisätietoja-kenttään\n  * Ajoitettu uudelleenkäynnistys-ominaisuus lisätty\n  * Korjaus IPv6-allokointiin LAN-laitteelle\n  * 5 GHz Wi-Fin katkaisu joissakin harvinaisissa tilanteissa korjattu\n  * Huonon CA-yhteyden vaikutus mobiiliverkon stabiilisuuteen korjattu\n  * CLAT toimintaa parannettu, otathan käyttöön MTU 1400 ja MSS 1360\n  * Muita pienempiä korjauksia\n\n**Uusi versio on: ZTE_DNA_MF286_B13**\n\n**MF286 saa uuden päivityksen 30.8.2017 alkaen**\n\n**Muutoksina edelliseen versioon:**\n\n  * Mobiilikäyttöliittymä DNA:n väreihin\n  * Päivitysilmoituksiin muutoksia\n  * Tekstiviesti ei pakota lukua\n  * \"Pakkopäivitys\" korjattu (toimii vasta seuraavan päivityksen yhteydessä)\n  * 700Mhz lukko lisätty\n  * CLAT tuki kokeilussa (IPv4 > IPv6 konversio, löytyy APN-asetuksista)\n  * USB-tuki (FTP-server) korjattu\n  * 802.11ac DFS-kanavat lisätty. Toimii ainoastaan automaattisessa kanavavalinnassa\n  * RJ11-portit toimivat, ääni CSFB:n kautta. Huom. kokeiluasteella, SIM-kortti pitää olla puheellinen\n  * Virtual server -toiminto lisätty\n  * CPU ja RAM tiedot löytyvät system valikosta\n  * Korjaus ongelmaan, missä LAN1-porttiin kytketyt jotkin käyttölaitteet aiheuttivat häiriötä mobiiliyhteyteen\n  * Muita käyttöliittymä, tietoturva ja käytettävyyskorjauksia\n\n**Uusi versio on: ZTE_DNA_MF286_B10**\n\n**MF286:lle on julkaistu päivitys 10.11.2016.**\n\nMuutoksina edelliseen versioon:\n\n  * Korjattu DHCP-käyttäytyminen siltaavassa tilassa (helpottaa kolmannen osapuolen reitittimen käyttämistä)\n  * Rautakiihdytys toimii nyt kaikissa tilanteissa\n  * SSH-yhteys IPv6:lla korjattu\n  * DNA APN:t lisätty valikkoon\n  * Oletus-APN muutettu tulevan tuotteistuksen muotoon\n  * Lisätietoja -valikkoon lisätty tieto tukiasemasta, mihin laite on yhdistänyt\n  * Käännöskorjauksia\n\n**Uusi versio on: ZTE_DNA_MF286_B04**\n\n",
+                "heading": "DNA Kotimokkula 4G+ WLAN MF286(A)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:31+00:00",
+        "last_modified": "2025-06-20T18:55:30.714919",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

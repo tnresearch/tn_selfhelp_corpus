@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_kanaler-saknas.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 608,
+                "text": "# Kanaler saknas\n\nTittar du på tv och märker att en eller flera tv-kanaler saknas?\n\n  \nBörja med att kolla om du har skapat en favoritlista och vilka kanaler som\ningår i den.  \n  \nGör så här:\n\n  1. Ta fram fjärrkontrollen\n  2. Tryck på Home och sedan på Inställningar\n  3. Tryck på Kanalinställningar och sedan på Redigera favoritlista\n  4. Tryck in pin-koden 0000\n\nNu kan du se favoritlistan och vilka kanaler som ingår i den.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:34+00:00",
+        "last_modified": "2025-05-30T17:41:36.375500",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

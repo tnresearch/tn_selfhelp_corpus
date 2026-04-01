@@ -1,0 +1,134 @@
+Skip to main content Skip to site search
+
+[](/ "To homepage") [My Telenor](/mitt-telenor/)
+
+Search
+
+Close
+
+No search results found
+
+__ Welcome!
+
+  * [Log out](/UserLogout)
+
+# Test with a different network cable
+
+Perhaps the cable is the problem?
+
+  
+Replace your network cable and test with another one. Both the network cable between
+the computer and the router, as well as between the router and the service distributor, may need
+to be checked.  
+  
+Do you have broadband via the telephone jack?
+
+If you have replaced the cable connected between the telephone jack and the modem
+(RJ11 cable) with one that is **longer than three meters**, you should replace it. A long
+cable causes the speed to decrease.
+
+If you need a longer cable to be able to have all connected hardware where you
+want it, it is better to use a shorter cable between the telephone jack and
+the modem, and longer RJ45 cables from the modem to the rest of the equipment.  
+  
+It may also be worth checking that your telephone jacks are working as they should and
+how they are connected, [you can do that
+here](~/link/94c9038361f443babbdcec87ea18a740.aspx)
+
+## Did this solve your problem?
+
+[ Yes! ](/support/fast-broadband/troubleshooting/hurray-your-problem-is-solved/)
+
+[ No, I need more help. ](/support/fast-broadband/troubleshooting/connect-another-device/)
+
+[Previous](javascript:void\(0\);)
+
+## Settings
+
+You can find more information at telenor.se/cookies. You can change your
+settings later by selecting "Cookie Settings"
+at the bottom of the website.
+
+Allow all
+
+### Manage consent settings
+
+#### Necessary cookies
+
+Always active
+
+Needed for the website to function securely and correctly. Therefore, they cannot be turned off. Necessary cookies enable basic functions, so
+that you can, for example, navigate between pages or access secure areas of
+the website.
+
+Information about cookies‎
+
+#### Functional cookies
+
+Functional cookies
+
+These cookies allow the website to provide enhanced
+functionality and personalization. They can be set by us or by
+third-party providers whose services we have added to our pages. If you
+do not allow these cookies, some or all of these services may not
+work as intended.
+
+Information about cookies‎
+
+#### Statistical and Analytical
+
+Statistical and Analytical
+
+These cookies give us information about how you use our site and allow us to improve the user experience and improve our website. They
+can be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, we may have limited
+insight into how our website is used and therefore have difficulty improving your
+experience.
+
+Information about cookies‎
+
+#### Marketing
+
+Marketing
+
+These cookies are set on our website by our advertising partners. They can
+be used by these companies to create a profile of your interests and show
+you relevant ads on other websites. They do not directly store personal
+information, but are based on uniquely identifying your browser and
+internet device. If you do not allow these cookies, you will experience less
+targeted ads.
+
+Information about cookies‎
+
+Back Button
+
+### Cookie list
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+checkbox label label
+
+checkbox label label
+
+checkbox label label
+
+Reject all Confirm my choices
+
+[](https://www.onetrust.com/products/cookie-consent/)
+
+## Hi!
+
+Do you have any questions?
+
+I'm happy to help
+
+Start chat

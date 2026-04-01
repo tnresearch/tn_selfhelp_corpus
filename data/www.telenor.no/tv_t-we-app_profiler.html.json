@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app_profiler.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 150,
+                "end": 2129,
+                "text": "# Slik bruker du profiler med T-We App\n\nProfiler gjør det mulig å tilpasse innhold til alle i familien. Her hjelper vi\ndeg med å opprette, endre eller bytte mellom profiler i T-We App.\n\n[Mer om profiltyper](/kundeservice/tv/t-we-app/profiler/#typer)[Bytte mellom\nprofiler](/kundeservice/tv/t-we-app/profiler/#bytte)[Gi familien tilgang til\nT-We App](/kundeservice/tv/t-we-app/profiler/#app)\n\n## Opprett ny profil\n\n  1. Velg **☰ Mer**\n\n  2. Trykk på **Tilgang og profiler**\n\n  3. Velg **+** for å opprette en ny profil\n\n  4. Skriv inn **PIN-kode**\n\n  5. Gi profilen et navn og velg profiltype.\n\n  6. Trykk **Neste**\n\n  7. Innstillinger som språk, aldersgrense og tillatelser kan settes før du trykker **Neste** , eller du kan gå tilbake å endre innstillingene senere.\n\n  8. Trykk **Bekreft  \n  \nNB!** Hvis du vil hindre tilgang til profilen må valget **PIN-beskyttet**\nsettes til **Ja**. Da vil du i tillegg måtte oppgi PIN-kode når du logger inn\npå profilen.\n\n## Bytte mellom profiler\n\nFor å bytte profil velger du \"Mer\", og trykker på profilen du ønsker å skifte\ntil. Den aktive profilen er markert med en hake.\n\nMerk at du automatisk vil bli logget inn på den profilen du sist var inne på\nnår du starter appen.\n\n## Profiltyper i T-We\n\nFørste gang du starter T-We App har du tilgang til to profiler: Owner og Kids.\nOwner er en administrator-profil, mens Kids er tilpasset barn.\n\nAlle profiler med unntak av Kids har tilgang til å bruke PIN-kode. Denne blir\ndu bedt om å oppgi når du skal endre enkelte innstillinger, leie film, eller\nlåse opp innhold som av andre årsaker er begrenset.\n\nProfiltypen og aldersgrensen du har valgt bestemmer hvilke tilganger du har.\n\n## Owner\n\nHar tilgang til alt innhold med PIN-kode. Profilen kan ikke endres eller\nslettes.\n\n## Kids\n\nHar ikke tilgang til innhold som krever PIN-kode. Ved spørsmål om PIN, må man\nbytte til Owner eller standardprofil.\n\n## Standard\n\nHar tilgang til alt innhold med PIN-kode unntatt innstillinger i Owner-\nprofilen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:36+00:00",
+        "last_modified": "2025-05-30T09:40:52.208325",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

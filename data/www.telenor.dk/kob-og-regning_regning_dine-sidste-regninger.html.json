@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_regning_dine-sidste-regninger.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1780,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Dine sidste regninger\n\nNår du opsiger dit abonnement, går der 30 dage til abonnementet ophører. Det\ner vigtigt, at du bliver ved med at betale dine regninger – så undgår du\nrenter og gebyrer. Har du penge til gode på din sidste regning, bliver beløbet\nautomatisk udbetalt til din NemKonto 6 dage efter, at din sidste regning er\ngjort op. Og er din sidste regning på mindre end 50 kr., opkræver vi den ikke.  \n  \n\n**Sådan gør vi din sidste regning op**\n\nPå din sidste regning betaler du kun for eventuelt ekstra forbrug før din\nopsigelsesdato. Har du betalt for meget i abonnement, bliver det modregnet på\ndin sidste regning. Og har du penge til gode, kan du også se det her – beløbet\nbliver automatisk udbetalt til din NemKonto 6 dage efter, at din sidste\nregning er gjort op.\n\n  \nNår dit abonnement er ophørt, bliver din sidste regning opgjort den 15. i\nmåneden efter – og din regning er klar på Mit Telenor omkring den 20. Det kan\nf.eks. være at:\n\n  * Ophører dit abonnement den 5. maj – så bliver din sidste regning opgjort den 15. maj\n  * Ophører dit abonnement den 17. maj – så bliver din sidste regning opgjort den 15. juni\n\n**Godt at vide om din regning**  \n\n  * Betalingsperioden går fra den 16. til den 15. i måneden\n  * Du betaler forud for dit abonnement og tilvalgte services – det vil sige inden, at du har brugt det\n  * Du betaler bagud for eventuelt ekstra forbrug – det vil sige efter, at du har brugt det\n  * Smartaftale: Første afdrag falder typisk måneden efter aftalen er indgået, og derfor falder sidste afdrag også måneden efter Smartaftalen stopper.\n\n**Dine tidligere regninger – når du har opsagt dit abonnement  \n** Efter din opsigelse har du stadig adgang til Mit Telenor-app’en og [Mit\nTelenor](/mit-telenor/), hvor du kan se dine tidligere regninger."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:05+00:00",
+        "last_modified": "2025-05-21T15:15:49.924405",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

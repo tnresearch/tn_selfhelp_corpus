@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-fiber_har-du-tv-i-flera-rum.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 561,
+                "text": "# Har du tv i flera rum?\n\nI så fall har du flera tv-boxar. Ta strömkabeln från en annan tv-box och testa\nmed den. Om den funkar så betyder det att strömkabeln som hör till den tv-box\ndu har problem med är trasig.  \n  \n[Mejla till oss för att beställa en ny strömadapter](/support/old-kontakta-\noss/mejla/) till tv-boxen Arris 2853. Det kostar ingenting att beställa en ny\nadapter.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:13+00:00",
+        "last_modified": "2025-05-30T17:37:48.105283",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

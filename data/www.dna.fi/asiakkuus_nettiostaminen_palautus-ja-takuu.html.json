@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/asiakkuus_nettiostaminen_palautus-ja-takuu.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 220,
+                "end": 5076,
+                "text": "# Palautus ja takuu\n\nPalautus on aina ilmainen. Osaan laitteista saat valmistajan ilmoittaman\ntakuuajan lisäksi pidennetyn 3 vuoden DNA Takuun.\n\n##  Laitteen palauttaminen\n\nLaite on palautettava viimeistään 14 päivän kuluttua mahdollisen\nperuuttamisilmoituksen tekemisestä.\n\nHuomioithan, että vain uudenveroiset laitteet voi palauttaa. Palautus ja\nhinnan takaisinmaksu edellyttävät, että laitteen myyntipakkaus on palautettuna\nuudenveroinen ja myyntikelpoinen. Laitteeseen voi tutustua vain\npintapuolisesti, jos sen haluaa palauttaa.\n\nLaitteen palautuksesta voidaan periä arvonalennus aina laitteen täyteen\nhintaan asti, sekä lisäksi palautuskulut.\n\nMitä pidetään laitteen käyttönä?\n\nLaitteen käyttönä pidetään esimerkiksi:\n\n  * virran kytkemistä päätelaitteeseen\n  * näytön päällä olevan suojakalvon poistamista tai muun vastaavan suojan poistamista\n  * päätelaitteen akun lataamista\n  * Find My iPhone (FMiP) –ohjelman käyttöön ottaminen\n  * SIM-kortin tai muun vastaavan älykortin asettamista laitteeseen ja laitteen käyttöä\n  * laitteen muistiin tehtyjä tallennuksia\n  * myyntipakkauksen palauttamista ilman pakettiin kuuluvia lisälaitteita, käyttöohjeita, kaukosäätimiä, johtoja sekä muita vastaavia pakkauksen mukana tulleita tarvikkeita.\n\n## Palautusosoite\n\nMerkitse palautuskuoreen tai -pakettiin sopimustunnus 631717 ja lähetä\npalautettava laite sekä täytetty palautuslomake osoitteeseen:\n\nDNA Oyj  \nPL 1111  \n01044 DNA\n\nLaitteen katoamisen varalta on hyvä säästää Postin tosite siitä, että\npalautettava laite on siirretty Postin kuljetettavaksi. DNA käsittelee\npalautukset saapumisjärjestyksessä ja lähettää tekstiviestillä ilmoituksen\nannettuun yhteysnumeroon, kun palautus on käsitelty. Palautuksiin liittyvissä\nkysymyksissä voi olla yhteydessä DNA:n asiakaspalveluun.\n\nLue tarkemmin mm. DNA:n virhevastuusta, rahapalautuksista ja laitteiden\ntakuusta etämyynnin tilaus- ja toimitusehdoista. Samassa dokumentissa on myös\npalautuslomake:\n\n[Etämyynnin tilaus- ja toimitusehdot\n(pdf)](https://www.dna.fi/documents/753910/853465/DNA_etamyynnin_tilaus-ja-\ntoimitusehdot_palautuslomake.pdf/)  \n\n## Pidennetty 3 vuoden DNA Takuu\n\nLaitteiden takuuaika on aina valmistajakohtainen, mutta puhelimille,\ntableteille ja SIM-kortillisille älykelloille saat ostamaasi laitteeseen\nnormaalia pidemmän **3 vuoden DNA Takuun**. DNA:n tarjoama takuun laajennus\npidentää valmistajan antaman tehdastakuun 36 kuukauden mittaiseksi silloin,\nkun valmistajan myöntämä takuu on tätä lyhyempi.  \n  \nTakuuaika on aina erikseen kerrottu tuotteen tiedoissa.\n\nLue lisää DNA Takuusta\n\n#### Pidennetty 3 vuoden DNA Takuu, ehdot asiakkaille\n\n**Miten takuuaika määräytyy?**\n\nKun ostat matkapuhelimen, tabletin, kellopuhelimen tai SIM-kortillisen\nälykellon DNA:lta, saat ostamaasi laitteeseen normaalia pidemmän takuuajan (36\nkk). DNA:n tarjoama takuun laajennus pidentää valmistajan antaman tehdastakuun\n36 kuukauden mittaiseksi silloin, kun valmistajan myöntämä takuu on tätä\nlyhyempi. Pidennetty takuu on voimassa myös yritysasiakkaille.\n\n**Mitä takuu sisältää?**\n\nLaajennettu takuu on sisällöltään sama kuin laitevalmistajan määrittelemä\ntehdastakuu ja kattaa esimerkiksi laitteen valmistusviat, kun laitetta on\nkäytetty asianmukaisesti ja ohjeiden mukaan. Takuu ei kata esimerkiksi\nlaitteen putoamisesta tai kastumisesta johtuvia vikoja tai rikkoutumisia.\n\n**Miten laite korjataan?**\n\nJatkotakuun aikana laitteet voi toimittaa huoltoon suoraan DNA:n\nhuoltokumppaneille tai DNA Kaupan kautta. Katsothan huolto-ohjeiltamme, miten\nlaitteesi kohdalla tulee toimia. Valmistajan takuun päätyttyä virheellinen\ntuote korjataan aina, kun se on mahdollista.\n\n**Mitä ovat DNA:n huoltokumppanit?**\n\nLöydät huoltokumppanimme ja valmistajakohtaisen ohjeet tukisivuiltamme.\n\n[Laitteiden huoltokumppanit ja\ntakuu.](https://www.dna.fi/tuki/laitteet/huolto)\n\n##  Usein kysyttyjä kysymyksiä\n\nOnko tilaamillani tuotteilla palautusoikeutta?\n\nSinulla on etämyynnissä oikeus* perua tilaus ilmoittamalla siitä DNA:lle 14\npäivän kuluessa. Etämyynnillä tarkoitetaan joko netissä tai puhelinmyynnissä\ntehtyä tilausta. 14 päivän peruutusaika alkaa tilausvahvistuksen\nvastaanottamisen jälkeen. Tavaran osalta peruutusaika alkaa kuitenkin tavaran\nvastaanottamisesta, jos tuote vastaanotetaan myöhemmin kuin tilausvahvistus.\n\nHuomioithan, että vain uudenveroiset laitteet voi palauttaa. Palautus ja\nhinnan takaisinmaksu edellyttävät, että laitteen myyntipakkaus on palautettuna\nuudenveroinen ja myyntikelpoinen. Laitteeseen voi tutustua vain\npintapuolisesti, jos sen haluaa palauttaa.\n\nTuotteen palauttaminen on maksutonta.\n\n*Kuluttajansuojalain 6 luvun 15 §:n mukaan.\n\nMiten lähetän DNA:lta ostamani laitteen takuuhuoltoon?\n\nKattavat ohjeet laitteiden huoltoon lähettämiseen ja huoltokumppaneideen\nyhteystiedot löydät [Laitteiden huoltokumppanit ja takuu\n-sivulta](https://www.dna.fi/tuki/laitteet/huolto)\n\n",
+                "heading": "Palautus ja takuu"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:19+00:00",
+        "last_modified": "2025-06-21T13:42:21.715928",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

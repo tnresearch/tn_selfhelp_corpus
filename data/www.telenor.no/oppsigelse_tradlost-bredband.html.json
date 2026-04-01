@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/oppsigelse_tradlost-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 131,
+                "end": 1588,
+                "text": "## Oppsigelse Trådløst Bredbånd med eller uten TV\n\nOppsigelsestiden er ut inneværende måned.\n\nTrådløst Bredbånd er et eget **bredbåndsabonnement med signaler over\nmobilnettet - med utendørs antenne**. Gjelder det bredbånd på fastnett, via\nfiber eller kabel, [bruk dette skjemaet.](/kundeservice/oppsigelse/tv-og-\nbredband/)\n\n## Viktig å tenke på før du sier opp TV eller bredbånd\n\n  * Oppsigelsestiden gjelder fra dagen du sender inn skjemaet\n\n  * Hvis oppsigelsen er på grunn av flytting, har du sjekket hva som tilbys på ny adresse?\n\n  * Har du et abonnement med binding som kan medføre bruddgebyr?\n\n  * Har du TV- eller bredbåndsutstyr du må returnere?\n\n  * Har du en e-postadresse hos Telenor du ønsker å beholde?\n\n **Vi minner om alle fordeler du har hos Telenor:**\n\n  * [Alltid WiFi](/privat/internett/alltid-wifi/)\n\n  * [Alltid På Nett-garanti](/privat/internett/bredband/alltid-pa-nett-garanti/)\n\n  * [Nettvern+](/nettvern-pluss/)\n\n **Er du usikker, ring gjerne kundeservice på 915 09 000, så hjelper vi deg.**\n\n## Fyll inn skjema:\n\nFornavn\n\nEtternavn\n\nFødselsdato\n\nDin e-postadresse\n\nHva ønsker du å si opp?\n\nTrådløst Bredbånd og TV\n\nTrådløst Bredbånd\n\nTV\n\nHvilken adresse gjelder det?\n\nHvilken nummer kan vi nå deg på?\n\nHva er årsaken(e) til oppsigelsen?\n\nFått tilbud fra ny leverandør\n\nHar installert bredbånd fra annen leverandør\n\nPris\n\nFlytting\n\nDødsfall\n\nSend\n\nSvartid på e-post er inntil 5 virkedager. Du vil motta en kopi av din\nhenvendelse."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:28+00:00",
+        "last_modified": "2025-05-30T09:30:29.359475",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_problem-med-mms_iphone.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 442,
+                "end": 1500,
+                "text": "#  Problem med mms\n\nKan du inte skicka eller ta emot mms med din iPhone kan du ofta själv lösa\nproblemet. Skönt va?\n\nHär listar vi de vanligaste lösningarna på problem med att skicka mms med\niPhone.\n\n  * Har du precis skaffat mobilabonnemang hos oss? Då måste du först skicka ett mms för att i fortsättningen kunna ta emot mms.\n  * Kolla att mms-meddelanden är aktiverat under _Inställningar_ > _Meddelanden_.\n  * Kolla att du är ansluten till internet via ett mobildatanät eller wifi.\n  * Starta om mobilen och kolla om det finns några uppdateringar att hämta.\n  * Kolla att mobilens minne inte är slut.\n  * Kolla att APN-inställningarna är korrekta. Det gör du under _Inställningar_ > _Mobilnät_. Under rubriken Telenor hittar du _Mobilt datanätverk_. Klicka där och kontrollera inställningarna under **rubriken MMS**.  \n  \nInställningarna ska vara:  \n **APN:** mms  \n **Användarnamn:** Lämnas tom  \n **Lösenord:** Lämnas tom  \n **MMSC:**<http://mms>  \n **MMS-proxy:** 172.30.253.241:8799  \n **MMS-maxstorlek:** 2097152  \n **MMS UA Prof URL:** Lämnas tom\n\n",
+                "heading": " Problem med mms"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:30+00:00",
+        "last_modified": "2025-05-30T14:45:53.359643",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

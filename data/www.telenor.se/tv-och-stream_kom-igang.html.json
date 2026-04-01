@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_kom-igang.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 284,
+                "end": 1522,
+                "text": "#  Kom igång med tv – hur och var du vill\n\nGrattis, nu har du kommit till helt rätt ställe för att komma igång med tv\nfrån Telenor! Börja med att välja hur du vill titta.\n\n## Utrustning från Telenor\n\n  \nDet här väljer du om du har tv via fiber eller kabel och vill titta på din tv.\n\n[I nästa steg väljer du vilken utrustning du har](/support/tv-och-stream/kom-\nigang/box/)\n\n## Apple TV\n\n  \nDet här väljer du om du vill titta på Telenor Stream på din tv via Apple TV.\n\n[Till guiden för Apple TV](/support/tv-och-stream/kom-igang/apple-tv/)\n\n## Chromecast\n\n  \nDet här väljer du om du vill titta på Telenor Stream på tv via din Chromecast\n\n[Till guiden för Chromecast](/support/tv-och-stream/kom-igang/chromecast/)\n\n## Smart-tv\n\n  \nTitta direkt på din smart-tv om du har en Samsung, LG eller en tv som bygger\npå Android TV, till exempel Sony eller Philips.\n\n[Till guiden för smart-tv](/support/tv-och-stream/kom-igang/smart-tv/)\n\n## På dator\n\n  \nDet blir inte enklare än att kolla på Telenor Stream på datorn.\n\n[Till guiden för dator](/support/tv-och-stream/kom-igang/dator/)\n\n## Mobil eller surfplatta\n\n  \nTänk att man kan ha en tv i fickan!\n\n[Till guiden för mobil och surfplatta](/support/tv-och-stream/kom-igang/mobil-\neller-surfplatta/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:28+00:00",
+        "last_modified": "2025-05-30T15:00:07.414738",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

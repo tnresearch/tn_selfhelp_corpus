@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_din-mobil_deaktiver-find-my-iphone.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 177,
+                "end": 1068,
+                "text": "# Deaktiver Find my iPhone\n\nNår du skal levere din iPhone til reparasjon eller bruke til innbytte trenger\ndu å deaktivere funksjonen 'Finn min iPhone'. Her finner du veiledning for\nhvordan dette gjøres.\n\n  1. ### Steg 1\n\nLogg inn på <https://www.icloud.com/find/>. Under Alle enheter, velg iPhone\nsom skal deaktiveres\n\n  2. ### Steg 2\n\nKlikk på \"Slett iPhone\" og bekreft sletting\n\n  3. ### Steg 3\n\nSkriv inn passordet for å bekrefte\n\n  4. ### Steg 4\n\nSkriv inn kontaktnummer du kan nås på\n\n  5. ### Steg 5\n\nOm du ønsker, kan du skrive en melding som vises på mobilen etter den er\nslettet. Trykk \"Ferdig\" for å starte sletting\n\n  6. ### Steg 6\n\nSletting av mobilen starter\n\n  7. ### Steg 7\n\nVelg innstillinger fra hovedmenyen og velg iPhonen som skal slettes. Trykk på\ndet blå ikonet (x) for å fjerne denne fra kontoen din\n\n  8. ### Steg 8\n\nBekreft at du ønsker å fjerne enheten fra din konto"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:01+00:00",
+        "last_modified": "2025-05-30T09:22:25.982047",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

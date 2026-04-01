@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/oppsigelse_returslipp.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 124,
+                "end": 1462,
+                "text": "# Returslipp til retur av utstyr\n\nHer finner du veiledning til bestilling av returslipp når du skal sende\nfastnettsutstyr tilbake til oss\n\nNB: Denne returslippen gjelder kun for TV- og bredbåndsutstyr (inkludert\nTrådløst Bredbånd), som WiFi Ruter, TV-boks og WiFi Forsterker\n\n  \nSkal du returnere mobiltelefon eller mobilutstyr, kan du lese mer om dette\nher:  \n**[Hjelp til Nettbutikken](/kundeservice/mobil/hjelp-med-nettbutikken/)**\n\n## Slik bestiller du returslipp\n\n[Bestille retur hos\nBring](https://retur.bring.no/?q=0065Inselo-2&ref=Telenorutstyr%20retur\n\"Bestille retur hos Bring\")\n\n##\n\n  1. **Bestill returslipp**\n\n    * Gå til Brings side for retur\n\n    * Fyll inn navn, adresse, e-postadresse og antall kolli/pakker\n\n    * Trykk på **Lag returetikett**\n\n  2.  **Velg hvordan du vil skrive ut returetiketten**\n\n    * Skriv ut ved å trykke på **Skriv ut returetiketten** eller bruk QR-koden på mobilen din og få etiketten skrevet hos Posten. Finn nærmeste innleveringssted [her](https://www.posten.no/kart)\n\n  3.  **Lever pakken**\n\n    * Husk å pakke utstyret forsvarlig før innsending\n\n    * Hvis du har skrevet ut etiketten selv, fest den på pakken og lever den på et innleveringssted\n\n    * Hvis du bruker QR-kode, ha mobilen klar for scanning når du leverer inn pakken\n\n  \n✉️ QR-koden og returslipp sendes også til din e-post."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:21+00:00",
+        "last_modified": "2025-05-30T09:30:02.551466",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

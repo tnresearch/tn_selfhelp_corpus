@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fullmakt--teckna-och-aterkalla.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 260,
+                "end": 2128,
+                "text": "#  Fullmakt – teckna och återkalla\n\nVill att någon annan ska kunna sköta dina ärenden? Då kan du teckna en\nfullmakt där du ger ett ombud rätt att göra det. Blankett och kuvert? Behövs\ninte. Du tecknar eller återkallar en fullmakt helt digitalt med BankID.\n\n**Det här behöver ni – fullmaktsgivaren och fullmaktstagaren – innan ni sätter\nigång:**\n\n  1. Tillgång till dator, mobil eller surfplatta\n  2. BankID\n  3. E-postadresser som ni kollar regelbundet\n\nVälj nedan om du vill teckna eller återkalla en fullmakt. Följ instruktionerna\ni det nya fönster som öppnas. **Tips!** Om du ska återkalla en fullmakt så\nbehöver du kunna ange det datum när fullmakten tecknades.\n\nTeckna fullmakt\n\nNär du vill utse ett ombud som sköter dina ärenden hos Telenor i ditt ställe.\n\n[Teckna fullmakt här](https://go-\nprinter.scrive.com/public/index.html?hash=533b1ba1-9834-4e40-b983-fe67230934ec)\n\nÅterkalla fullmakt\n\nNär du vill att en fullmakt som du redan har tecknat ska sluta gälla.\n\n[Återkalla fullmakt här](https://go-\nprinter.scrive.com/public/index.html?hash=18b2d457-827d-40f1-ab2f-0d9fce92287e)\n\nBra att veta\n\nOm fullmakten\n\n  * Endast den som äger abonnemanget kan teckna fullmakt\n  * Fullmakten kan omfatta olika typer av ärenden. När du tecknar fullmakten väljer du vilka. Ett par exempel är rätt att få information om abonnemanget och rätt att avsluta det när bindningstiden är slut. \n  * Det tar ungefär en timme från att fullmakten skickats in tills den syns i våra system.\n  * Fullmakten är giltig tre månader efter att den undertecknades\n  * Fullmakten kan återkallas när som helst av fullmaktsgivaren\n  * Ägaren av abonnemanget fortsätter att vara betalningsansvarig och får fakturorna även efter att fullmakten tecknats\n  * Om fullmakten avser ett mobilabonnemang med flera användare (Telenor Familj) så gäller den för alla mobilnummer som är en del av abonnemanget\n\n",
+                "heading": " Fullmakt – teckna och återkalla"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:19:41+00:00",
+        "last_modified": "2025-05-30T14:15:36.388668",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

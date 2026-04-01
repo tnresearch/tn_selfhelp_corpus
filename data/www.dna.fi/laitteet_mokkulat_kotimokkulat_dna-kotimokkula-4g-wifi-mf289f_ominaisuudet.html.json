@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wifi-mf289f_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 405,
+                "end": 2235,
+                "text": "# DNA Kotimokkula 4G WiFi MF289F\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/vianmaaritys)\n\n## Ominaisuudet\n\n**Tuotenimi:** ZTE 4G Wireless Router MF289F\n\n**SIM-kortti:** Nano-SIM\n\n#### **Yhteydet ja liitettävyys**\n\n  * Liitäntätyyppi: WLAN & Ethernet\n  * Gigabit Ethernet (LAN) -liitännät: 2 kpl (toisessa WAN)\n  * Verkkotekniikka: 4G LTE, UMTS, GSM\n  * Tuetut 4G-taajuudet: 700/800/1800/2100/2600 MHz\n  * 5CC carrier aggregation -tuki\n  * LTE 4x4MIMO: 1800/2100/2600 MHz\n  * LTE 2x2MIMO: 700/800 MHz\n  * DL 256 QAM -modulaatiotuki\n  * WLAN: 802.11 b/g/n/a/ac 2x2 MIMO\n  * WLAN-taajuusalueet: 2.4 GHz ja 5 GHz\n  * 5 GHz Wi-Fi Preferred -tuki\n\n#### Verkko-ominaisuudet\n\n(Lukemat ovat teoreettisia maksiminopeuksia, todelliset nopeudet riippuvat\nvastaanotetun signaalin vahvuudesta, mobiiliverkon kyvykkyydestä sekä\nkäytetystä liittymätyypistä)\n\n  * 4G LTE enimmäisnopeus verkosta 2 Gbit/s\n  * 4G LTE enimmäisnopeus kohti verkkoa 150 Mbit/s\n\n#### Muut ominaisuudet\n\n  * Kaksi TS-9 -porttia LTE-lisäantenneille, tuki ZTE Link -sovellukselle\n\n#### Mitat ja paino\n\n  * Korkeus 191,5 mm\n  * Leveys 78 mm\n  * Syvyys 132 mm\n  * Paino 475 g\n\n#### Takuu\n\nValmistajan takuu: 24 kk  \n\n#### Myyntipakkauksen sisältö\n\n  * DNA Kotimokkula 4G WiFi MF289F \n  * Virtalähde\n  * Ethernet-kaapeli\n  * Pikaopas\n  * Takuukortti"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:08:02+00:00",
+        "last_modified": "2025-06-20T18:51:52.713372",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_byt-kanallista.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 497,
+                "text": "# Byt kanallista\n\nKanalerna du saknar kan finnas i en annan kanallista.\n\n  \nGör så här:\n\n  1. Ta fram fjärrkontrollen\n  2. Tryck på Home och sedan på Inställningar\n  3. Tryck på Kanalinställningar och sedan på Redigera favoritlista\n  4. Tryck in pin-koden 0000\n  5. Tryck på den gula knappen och välj sedan kanallista"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:39+00:00",
+        "last_modified": "2025-05-30T17:39:55.464481",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

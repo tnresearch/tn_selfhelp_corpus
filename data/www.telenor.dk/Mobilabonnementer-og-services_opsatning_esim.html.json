@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_opsatning_esim.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1988,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# eSIM\n\neSIM er et smart og digitalt alternativ til det fysiske simkort, som du kender\ni dag. E’et står for embedded (indbygget), fordi funktionen er indbygget i\ntelefonen. eSIM understøttes af mange nyere mobiler.\n\neSIM er hurtigt at aktivere ved at scanne en QR-kode, og du behøver ikke at\nvente på at få leveret et fysisk simkort. eSIM kan kombineres med et fysisk\nsimkort, så du kan bruge to telefonnumre på den samme telefon, fx.\narbejdsnummer og privatnummer, som du lynhurtigt kan skifte mellem, mens du er\npå farten.\n\neSIM kan også bruges til at koble din telefon til dit smartwatch, så du kan\nmodtage opkald og beskeder uden at have telefonen på dig. Det kræver blot et\nSmartnummer hos Telenor og et smartwatch, der understøtter eSIM. Det kan du\nlæse mere om [her](/kundeservice/Mobilabonnementer-og-\nservices/opsatning/smartnummer/).\n\nHvordan bestiller jeg eSIM?\n\n  1. Bestil dit eSIM på [Mit Telenor](/login/) under det abonnement, som du ønsker et eSIM til.\n  2. Først modtager du en ordrebekræftelse og derefter en mail, som du skal bruge for at aktivere dit eSIM. Følg instruktionerne i mailen for at aktivere dit eSIM.\n\nHvordan aktiverer jeg eSIM?\n\nDu har to muligheder, når du vil aktivere dit eSIM:\n\n  1. Find og scan QR-koden på [Mit Telenor](/login/)\n  2. Find den mail frem, som du fik, da du bestilte dit eSIM. Der står **Aktiver eSIM** i emnefeltet. Følg instruktionerne for at aktivere dit eSIM med QR-koden eller linket i mailen. \n\nBemærk! QR-koden kan kun benyttes én gang. Virker linket/QR-koden ikke, så\nprøv at bestille et nyt på Mit Telenor eller ring til kundeservice på 72 100\n100, så hjælper vi dig.\n\nHvad koster eSIM?\n\neSIM er gratis hos Telenor. Du bestiller det på [Mit Telenor.](/login/)\n\nHvad gør jeg, hvis jeg mister min mobil med eSIM?\n\nHvis du mister din mobil med eSIM, kan du bestille et nyt via selvbetjening på\nMit Telenor. Det nye eSIM er klar i løbet af få minutter og koster 0 kr. Den\nnye QR-kode vises på [Mit Telenor](/mit-telenor/login/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:20+00:00",
+        "last_modified": "2025-05-21T15:15:29.172236",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

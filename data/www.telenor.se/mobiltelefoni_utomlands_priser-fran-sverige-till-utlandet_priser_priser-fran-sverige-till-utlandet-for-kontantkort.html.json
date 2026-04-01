@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands_priser-fran-sverige-till-utlandet_priser_priser-fran-sverige-till-utlandet-for-kontantkort.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 486,
+                "end": 4660,
+                "text": "#  Priser för att ringa, sms:a och mms:a från Sverige till utlandet med\nkontantkort\n\nNär du befinner dig i Sverige och ringer till en utländsk abonnent, ringer du\nett internationellt samtal.\n\nI prislistorna här under ser du vad det kostar att ringa och skicka sms och\nmms till de olika zonerna*. Missa inte att våra fastprisladdningar på 40 GB,\n100 GB eller 150 GB inkluderar internationella minuter till Europa och\nNordamerika. Ringer du ofta till Mellanöstern, Europa eller Nordamerika får du\ndet bästa priset om du väljer fastprisladdningen\n[Hello](/handla/kontantkort/hello-kontantkort/).\n\nTänk på att när du ringer vänner som befinner sig utomlands med sina svenska\nmobiler, betalar du för samtal inom Sverige. Den du ringer till kommer dock\natt behöva betala för att ta emot samtalet. Information om [hur mycket det\nkostar hittar du här](/roaming/).\n\n## Priser för Telenor Hello  \n  \n\n**Pris** | 100 kr | 250 kr  \n---|---|---  \n**Samtal till Mellanöstern (24 länder)** | 20 minuter | 100 minuter  \n**Samtal** **till EU/EES/USA/Kanada (32 länder)** | 100 minuter | 500 minuter  \n**Samtal när potten är slut** | Se prislista nedan | Se prislista nedan  \n**Samtal, sms & mms i Sverige** | Obegränsat | Obegränsat  \n**Inkluderad surf i Sverige** | 1 GB | 10 GB  \n  \n  \nNär du har använt upp den inkluderade samtalspotten kan du ladda på\nExtrasaldo. Då är det följande prislista som gäller:\n\n###\n\nPriser till länder i Mellanöstern\n\nSms: 0,50 kr/st  \nMms: 0,99 kr/st\n\nPris på samtal (startavgift på 0,99 kr/samtal tillkommer):\n\n**Land** | **Pris per minut**  \n---|---  \nAfghanistan | 1,50 kr  \nArmenien | 2,00 kr  \nBahrain | 2,00 kr  \nEgypten | 1,00 kr  \nFörenade Arabemiraten | 1,50 kr  \nIrak | 2,00 kr  \nIran | 1,50 kr  \nIsrael | 0,40 kr  \nJemen | 1,50 kr  \nJordanien | 1,50 kr  \nKazakstan | 1,50 kr  \nKirgizistan | 2,00 kr  \nKuwait | 1,00 kr  \nLibanon | 1,50 kr  \nOman | 2,50 kr  \nPakistan | 0,40 kr  \nPalestina | 2,00 kr  \nQatar | 2,00 kr  \nSaudiarabien | 1,00 kr  \nSyrien | 2,50 kr  \nTadzjikistan | 2,00 kr  \nTurkiet | 1,00 kr  \nTurkmenistan | 2,00 kr  \nUzbekistan | 1,00 kr  \n  \nPriser för Europa och USA\n\nSms: 0,50 kr/st  \nMms: 0,99 kr/st\n\nPris på samtal (ingen startavgift tillkommer):\n\n**Land** | **Pris per minut**  \n---|---  \nBelgien | 0,40 kr  \nBulgarien | 0,20 kr  \nCypern | 0,40 kr  \nDanmark | 0,20 kr  \nEstland | 0,40 kr  \nFinland | 0,40 kr  \nFrankrike | 0,40 kr  \nGrekland | 0,20 kr  \nIrland | 0,20 kr  \nIsland | 0,20 kr  \nItalien | 0,40 kr  \nKanada | 0,20 kr  \nKroatien | 1 kr  \nLettland | 0,40 kr  \nLiechtenstein | 1 kr  \nLitauen | 0,40 kr  \nLuxemburg | 0,40 kr  \nMalta | 0,40 kr  \nNederländerna | 0,40 kr  \nNorge | 0,20 kr  \nPolen | 0,20 kr  \nPortugal | 0,20 kr  \nRumänien | 0,20 kr  \nSlovakien | 0,40 kr  \nSlovenien  | 1 kr  \nSpanien | 0,40 kr  \nStorbritannien | 0,20 kr  \nTjeckien | 0,40 kr  \nTyskland | 0,20 kr  \nUngern | 0,20 kr  \nUSA | 0,20 kr  \nÖsterrike | 0,20 kr  \n  \n##  \nPriser för övriga fastprisladdningar samt för Rörligt\n\nAlla priser är inklusive moms.\n\nZon | Samtal | Sms | Mms  \n---|---|---|---  \nNorden | 2:67 kr/min | 0:84 kr/st | 3:75 kr/st  \nEU/EES | 2:67 kr/min | 0:84 kr/st | 3:75 kr/st  \nUkraina | 3:30 kr/min | 1 kr/st | 2 kr/st  \nÖvriga Europa | 9 kr/min | 4:95 kr/st | 4:95 kr/st  \nUSA & Kanada | 9 kr/min | 5:95 kr/st | 5:95 kr/st  \nVärlden 1 | 19 kr/min | 6:95 kr/st | 6:95 kr/st  \nVärlden 2 | 19 kr/min | 7:95 kr/st | 7:95 kr/st  \nVärlden 3 | 19 kr/min | 8:95 kr/st | 8:95 kr/st  \nÖvriga länder | 24 kr/min | 9:95 kr/st | 9:95 kr/st  \n  \nLänder i respektive zon\n\n  \n*Samtal till Betal-, Premium- och Satellit-nummer kan ha andra priser. [Satellitpriser](/support/mobiltelefoni/utomlands/satellitpriser/)\n\n## Vanliga frågor om priser till utlandet\n\n  * Varför kan jag inte ringa till Syrien längre?\n\nPå grund av att EU har infört sanktioner mot SyriaTel går det inte längre att\nringa, sms:a eller mms:a till SyriaTels kunder. SyriaTels kunder kan heller\ninte ringa, sms:a eller mms:a Telenors kunder. Vi förstår att det kan skapa\nproblem för dig som kund och ber om ursäkt för det, men samtidigt är det\nviktigt för Telenor att följa lagar och regler. Åtgärden påverkar inte\ntrafiken till och från Syriens andra operatör, MTN.\n\n",
+                "heading": " Priser för att ringa, sms:a och mms:a från Sverige till utlandet med"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:12+00:00",
+        "last_modified": "2025-05-30T14:53:16.042180",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

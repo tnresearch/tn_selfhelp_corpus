@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_betaling_finansiering-med-payex.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3427,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Køb hardware på afbetaling med PayEx\n\nHos Telenor kan du dele dit køb op i små bidder og betale over enten 12 eller\n24 måneder.  \nKøber du fx en mobiltelefon på afbetaling, indgår du en afbetalingsaftale med\nPayEx, som pr. 19. juni 2024 er Telenors finansielle partner.  \n  \nDer er ingen renter eller gebyrer forbundet med at optage et lån gennem PayEx.\n\nKoster det noget at indgå en afbetalingsordning med PayEx?\n\nNej, det koster ikke ekstra at betale via en afbetalingsordning. Vi har\nindgået en aftale med PayEx, så det er rente- og gebyrfrit for dig at betale\ndit køb over 12 eller 24 måneders afdrag. Du betaler derfor ikke noget ekstra\nfor dit nye hardware.  \n  \nBemærk, at det samlede minimumsbeløb er 1.200 kr., når du vælger at købe på\nafbetaling.\n\nHvordan får jeg en afbetalingsordning med PayEx?\n\nNår du vælger at betale på afdrag over 12 eller 24 måneder, udfylder du en\nlåneansøgning hos PayEx.\n\n**Sådan foregår det, når du godkendes til en afbetalingsordning hos PayEx:  \n**  \nAfdragsordningen oprettes som en kreditgrænse, som hos PayEx kaldes en\nafbetalingskonto.\n\n  * Kreditgrænsen rundes op til nærmeste 100,- og er blot det beløb, du godkendes til. Ex: Ønsker du at låne til en telefon til 6.999 kr., bliver kreditgrænsen derfor på 7.000 kr. Du skylder kun de 6.999 kr., som telefonen koster, og du afbetaler over 12 eller 24 måneder.\n  * I takt med at du betaler af på dit køb, får du mere tilgængelig kredit til fremtidig brug. Ex: Du køber en telefon til 6.000 kr., og du afbetaler 3.000 kr. Det giver dig 3.000 kr., til rådighed, som du allerede er godkendt til at købe nye varer for.\n  * Ønsker du at købe en vare, der er dyrere end den kredit, du har til rådighed, skal du godkendes til at forhøje din kreditgrænse. Ex: Du ønsker at købe en ny telefon til 5.000 kr., og du har 3.000 kr. til rådighed. Det gør, at du kun skal godkendes til at forhøje kreditgrænsen med 2.000 kr.\n\nNår din låneansøgning hos PayEx er godkendt, bekræfter vi din ordre og sender\ndit køb med posten. Du får også en ordrebekræftelse sendt til din mail.\n\nHvor kan jeg følge min afdragsaftale?\n\nØnsker du at følge med i din afdragsaftale, kan du logge ind med MitID på\n[payexone.com](https://payexone.com/portal/login).\n\nKan jeg ændre det beløb, jeg afdrager med?\n\nDit månedlige afdragsbeløb kan desværre ikke ændres. Beløbet afhænger af\nvarens pris, og om du har valgt at afdrage over 12 eller 24 måneder.\n\nHvorfor kan jeg ikke vælge den afdragsperiode, jeg ønsker?\n\nDet samlede minimumsbeløb er 1.200 kr., når du vælger at købe på afbetaling.\nDerfor kan det være, at du har begrænsede muligheder ved valg af det første\nstykke hardware, du tilføjer til din ordre. Dine muligheder vil løbende blive\nopdateret ved tilvalg af flere produkter.\n\nHvordan kontakter jeg PayEx?\n\nHar du spørgsmål til din afdragsordning, skal du kontakte PayEx direkte på\n**88 62 40 45.  \n**  \nDu finder også svar på de fleste spørgsmål hos PayEx., hvor du også finder\nderes [selvbetjeningsportal](https://payexone.com/portal/login).  \n  \nDu skal også kontakte PayEx, hvis du ønsker at betale dit lån helt ud.\n\nHvad gør jeg, hvis MitID ikke er tilgængelig på min telefon?\n\nMitID er en forudsætning for at kunne gennemføre en ansøgningsproces ved\nExpress Bank. Det kan derfor være en god ide at have et MitID i reserve evt.\npå tablet eller anden telefon. Det kan du læse mere om\n[her](https://www.mitid.dk/en-gb/help/help-universe/have-a-spare-mitid/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:47+00:00",
+        "last_modified": "2025-05-21T15:15:45.828435",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

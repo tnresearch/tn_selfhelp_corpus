@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wifi-mf971v_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 410,
+                "end": 1592,
+                "text": "# DNA Matkamokkula 4G+ WiFi MF971V\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/vianrajaus)\n\n## Päivitykset\n\n#### **MF791V on saanut päivityksen 3.8.2021 alkaen**\n\n  * Päivitys korjaa laitevalmistajan haivaitseman bugin, josta johtuen asiakkaalla on voinut olla vaikeuksia liittää matkamokkulan WiFi-verkkoon Applen uusimpia Macbookeja (joissa sisällä M1-piirisarja). \n  * Uusi ohjelmistoversio: BD_DNAFIMF971VV1.0.0B08\n\n#### Edelliset päivitykset\n\n**22.10.2020**\n\n  * Päivitys sisältää korjauksen Whatsapp-puheluiden ja tiettyjen laitevalmistajien puhelinmallien kanssa esiintyneisiin ongelmiin. \n  * Uusi ohjelmistoversio: BD_DNAFIMF971VV1.0.0B07\n\n",
+                "heading": "DNA Matkamokkula 4G+ WiFi MF971V"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:09:56+00:00",
+        "last_modified": "2025-06-20T19:03:43.092842",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

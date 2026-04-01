@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b593s_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 402,
+                "end": 3157,
+                "text": "# DNA Kotimokkula 4G WLAN B593S\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/vianmaaritys)\n\n## Päivitykset\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n#### **B593 on saanut uuden päivityksen 22.8.2018.**\n\nMuutokset edelliseen versioon:\n\n  * Korjaus verkon MIB-ominaisuuteen. Ilman korjausta laite voi katkaista yhteyttä.\n\nVersionumero on B593s-22TCPU-V200R001B270D25SP03C182  \n  \n\n#### **B593 on saanut uuden päivityksen 25.8.2015.**\n\nUusina korjauksina ja ominaisuuksina:\n\n  * LTE-taajuuslukko\n  * IPV6-tukea parannettu\n  * SNR-tiedot\n  * DNA:n kustomoitu UI ja asetukset\n  * UPnP oletuksena päällä\n  * ipv4v6 dual-stack päällä oletuksena\n\nUusi versionumero on:  \nV200R001B270D25SP01C182  \n  \n**Huom!** Päivitystä ei voi peruuttaa tai muuttaa takaisin edelliseen\nversioon.\n\n  \nOhjeet päivityksen tekemiseen:\n\n  * Ollessasi Mokkulan langattomassa verkossa tai kytkeytyneenä siihen Ethernet-johdolla, kirjaudu asetussivulle menemällä selaimella osoitteeseen **homerouter.cpe/ tai 192.168.1.1/**\n  * Kirjoita tunnuksiksi: \n    * Käyttäjätunnus: **admin**\n    * Salasana: **admin**\n  * Joissain tapauksissa (uusimmat päivitykset, useampi resetointi yms.) arvot voivat olla muuttuneet muotoon: \n    * **dna.mokkula/ tai 192.168.8.1**\n    * Käyttäjätunnus: **admin**\n    * Salasana: **1234**\n\nIlmoitus päivityksestä pitäisi ilmestyä. Painamalla ilmoitusta pääset\nhyväksymään päivityksen aloituksen.  \n  \nJos et näe ilmoitusta päivityksestä, tee näin:\n\n  * Kirjaudu sisään ja valitse ylhäältä valikosta **päivitys/update** > **hae päivitys**\n  * Laite hakee päivityksen ja hyväksy se painamalla **OK**.\n\nNormaalisti päivityksen yhteydessä käyttäjän tekemät asetukset säilyvät\nuuteenkin versioon. DNA ei kuitenkaan voi taata tätä.  \nTietyissä tapauksissa voit tarvita edellistä päivitystä.  \n[B710C0UPDATE_V200R001B270D10SP03C182.bin](/documents/753910/853450/B710C0UPDATE_V200R001B270D10SP03C182.bin/a1d31a31-da35-da96-9c5d-4fd8214cf831)\n\n  \nHuomioithan, että päivityksen voi asentaa vain DNA:n myymiin laitteisiin.\nPäivitystä ei voida muuttaa vanhempaan, eikä sitä saa asennettua jos\nlaitteessa on jo uusin DNA:n päivitys.\n\n",
+                "heading": "DNA Kotimokkula 4G WLAN B593S"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:08:51+00:00",
+        "last_modified": "2025-06-20T18:53:42.976609",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

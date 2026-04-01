@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_dna-valokuitu-plus-premium-modeemi-ubc1303_tpaivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 416,
+                "end": 2936,
+                "text": "# DNA Premium Kaapelimodeemi UBC1303\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/dna-valokuitu-plus-\npremium-modeemi-ubc1303/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/dna-valokuitu-plus-premium-\nmodeemi-ubc1303/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/dna-valokuitu-plus-premium-\nmodeemi-ubc1303/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/dna-valokuitu-plus-premium-\nmodeemi-ubc1303/tpaivitykset)\n\n## Päivitykset\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n### Ohjelmistopäivitykset\n\nKaapelimodeemeissa päivitykset tulevat automaattisesti verkosta. Päivityksiä\najetaan öisin modeemeihin, jolloin ne aiheuttavat vähiten ongelmia. Joissakin\nharvinaisissa tapauksissa modeemi voi tarvita aamulla resetoinnin ja\nuudelleenkäynnistyksen päivityksen jäljiltä, jotta laitteen toiminta olisi\nparas mahdollinen.\n\nJos haluat ajaa jaossa olevan päivityksen saman tien laitteeseen, kannattaa\nkokeilla irrottaa kaikki johdot laitteesta muutamaksi minuutiksi ja kytkeä ne\nsen jälkeen uudelleen. Tällöin modeemi nousee linjoille uudelleen ja pyytää\nsamalla päivityksiä. Päivitystä ei kuitenkaan ajeta modeemiin jos se ei ole\njaossa.\n\nHuomioithan, että päivitykset jaellaan portaittain.  \n\n**Heinäkuussa 2020 on julkaistu päivitys 1.4.3214.S15.DNA**\n\n  * Flash-muistin korruptointikorjaus\n\n**Kesäkuussa 2019 on julkaistu päivitys 1.4.3213.S15.DNA**\n\n  * Korjaus flash-muistin harvinaiseen korruptoitumiseen, jonka oireena yhteyden pätkiminen tai boottilooppi.\n\nTiedossa olevat ja selvityksessä olevat ongelmat:\n\n  * WiFi häviää joissakin tapauksissa valittavista verkoista (korjauskeino nyt: uusi modeemi)\n  * Ipv6 ei toimi kaikilla CMTS alueilla (korjauskeino nyt: pakotus ipv4 only -tilaan)\n\n**Helmikuussa 2019 on julkaistu päivitys 1.4.3212.S15.DNA**\n\n  * US power level korjattu\n  * ToD Filter - väärä virheviesti\n  * Diplexer asetus lisätty\n  * WiFi mahdollista pitää päällä siltaavassa tilassa\n  * DNA TV Hubin porttimääritykset valmiina\n  * Korjaus uudelleenkäynnistysongelmaan\n\n**Toukokuussa 2018 on julkaistu päivitys 1.4.3210.S15.DNA**\n\n  * Band Steering oletusasetukseksi\n  * Virheraportointiin korjauksia\n  * Portinsiirtoon korjauksia\n\n**Tammikuussa 2018 on julkaistu päivitys 1.4.3208.S15.DNA**\n\n  * DFS-kanavan kanavailmoitus lisätty\n  * dna.wlan/ -osoite korjattu\n  * WLAN-suojausasetushäiriö korjattu\n\n",
+                "heading": "DNA Premium Kaapelimodeemi UBC1303"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:52+00:00",
+        "last_modified": "2025-06-20T14:41:47.579429",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

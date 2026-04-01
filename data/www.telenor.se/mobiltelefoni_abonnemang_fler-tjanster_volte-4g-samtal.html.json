@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_fler-tjanster_volte-4g-samtal.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 346,
+                "end": 3564,
+                "text": "#  VoLTE – mobilsamtal med 4G\n\nSurfa snabbt och snacka samtidigt när du ringer via 4G-nätet med tjänsten\nVoLTE. Upplever du dålig täckning inomhus, testa att aktivera VoLTE på din\ntelefon.\n\n## Vad är VoLTE?\n\nVoLTE (Voice over LTE) eller röstsamtal via 4G är precis som det låter ett\nsätt att ringa via 4G-nätet. Det innebär att du får förbättrad\nsamtalstäckning. och ännu högre samtalskvalitet. VoLTE/4G-samtal finns\ntillgängligt och ingår automatiskt i våra mobilabonnemang och på våra\nkontantkort.\n\n## Mobiler som har VoLTE\n\nFör att kunna ringa 4G-samtal behöver du ha en mobiltelefon som stödjer\ntjänsten i Telenors nät. Varje operatörs lösning för 4G-samtal är unik och det\nkrävs alltså att mobiltelefonen stödjer just den lösningen som Telenor\nanvänder.  \n  \n **Alla iPhone-modeller** från och med iPhone 6 och med programuppdatering iOS\n12.1 eller senare har stöd för VoLTE (samt även för wifi-samtal).  \n  \nDe flesta mobilerna (från till exempel Samsung, Sony eller Huawei) med\n**Android som operativsystem** som är lanserade efter 2018 och som är avsedda\nför användning i Norden har stöd för både VoLTE och wifi-samtal. Det kan dock\nfinnas undantag. Tips! Se till att din mobil är uppdaterad med den senaste\nversionen av operativsystemet.\n\n##  \nSå aktiverar du VoLTE på din mobil\n\n  \n[iPhone](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/iphone/aktivera-volte/)  \n[Samsung](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/android/aktivera-volte-samsung/)  \n[Sony ](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/android/aktivera-volte-sony/)  \n[Huawei](/support/mobiltelefoni/abonnemang/fler-tjanster/volte-4g-samtal/sa-\nhar-aktiverar-du-volte-pa-din-huawei/)\n\n## Vanliga frågor och svar om VoLTE/4G\n\n  * Vad är VoLTE?\n\nVoLTE står för \"Voice over LTE\" och betyder samtal över LTE-nätet. LTE är ett\nannat ord för 4G.\n\n  * Hur får jag VoLTE?\n\nVoLTE ingår i våra mobilabonnemang. Det betyder att när du tecknar ett nytt\nabonnemang så ingår tjänsten VoLTE automatiskt.\n\nFör att VoLTE ska fungera behöver du ha en mobil som stödjer tjänsten. På vår\nsida om VoLTE ser du [vilka mobiler som stöder\ntjänsten](/link/0e1334dd546642ca8e045f55bf902c78.aspx).\n\n  * Hur ringer jag ett VoLTE-/4G-samtal?\n\nDu ringer precis som vanligt med den enda skillnaden att samtalet går över\n4G-nätet.\n\nVill du vidarekoppla dina samtal gör du det i [appen Mitt\nTelenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\n\n  * Kommer 4G-samtal att påverka min dataförbrukning?\n\nNej, ett 4G-samtal, VoLTE, påverkar inte din dataförbrukning.\n\n  * Kan jag prata i mobilen och surfa i 4G-hastighet samtidigt?\n\nJa, det blir möjligt att surfa i 4G-hastighet samtidigt som du pratar i\nmobilen. Det har tidigare bara varit möjligt att surfa och prata samtidigt i\n3G-nätet.\n\n  * Förbättras uppkopplingstiden för ett samtal med 4G?\n\nJa, med 4G kopplas samtalen upp snabbare.\n\n  * Vad kommer VoLTE-tjänsten att kosta?\n\nTjänsten kostar som ett vanligt samtal.\n\n  * Jag har ett kontantkort, fungerar VoLTE för mig?\n\nJa, det går bra att ringa över 4G (VoLTE) med kontantkort. VoLTE fungerar\nockså med [våra abonnemang](/link/a96eaee9166b475194e657db89f197b2.aspx) så\nlänge du har en mobil som stödjer tjänsten.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:01+00:00",
+        "last_modified": "2025-05-30T14:23:32.060431",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

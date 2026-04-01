@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_sikkerhed-og-backup_gendan-mobil.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 914,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Gendan din mobil\n\nEr din mobil gået i baglås og er den helt umulig at samarbejde med, kan det\nhjælpe at gendanne den og tvinge den til at starte forfra. Du ødelægger ikke\ndin mobil, når du gendanner den.\n\n**Vigtigt inden du gendanner din mobil**  \nNår du gendanner din mobil, sletter du samtidig alt indhold og alle de\nindstillinger, du har lavet. Vi anbefaler derfor, at du tager backup, inden du\ngendanner.\n\n[Tag en backup af din Samsung Galaxy](/kundeservice/mobil/samsung-\ngalaxy/sikkerhed-og-backup/backup-og-synkronisering1/ \"Backup af din Samsung\nGalaxy\")\n\nNår du har taget backup af dine data og indstillinger, så følg guiden her trin\nfor trin.\n\n  * ## Gå til \"Indstillinger\"\n\nHer vælger du \" **Backup og nulstil** \".\n\n  * ## Vælg \"Nulstil til fabriksstandard\"\n\n  * ## Tryk på \"Nulstil enhed\"\n\nHusk at lave en sikkerhedskopiering af dit indhold, inden du nulstiller din\nmobil.\n\n  * ## Tryk på \"Slet alt\""
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:20+00:00",
+        "last_modified": "2025-05-21T15:16:02.317349",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

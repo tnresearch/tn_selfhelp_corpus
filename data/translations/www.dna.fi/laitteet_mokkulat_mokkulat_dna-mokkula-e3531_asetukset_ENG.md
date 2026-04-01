@@ -1,0 +1,180 @@
+Directly to content
+
+  1. [ Support and Help ](https://www.dna.fi/tuki)
+  2. [ Devices ](https://www.dna.fi/tuki/laitteet)
+  3. [ Modems ](https://www.dna.fi/tuki/laitteet/mokkulat)
+  4. [ Modems ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat)
+  5. [ DNA Modem E3531 ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-e3531)
+  6. Settings
+
+# DNA Modem E3531
+
+[ Features ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-
+mokkula-e3531/ominaisuudet) [ Getting Started
+](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-
+mokkula-e3531/kayttoonotto) [ Settings
+](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-
+mokkula-e3531/asetukset) [ Updates
+](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-
+mokkula-e3531/paivitykset) [ Troubleshooting
+](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-
+mokkula-e3531/vianmaaritys)
+
+## Settings
+
+Tips for speeding up your modem connection
+
+The modem works most efficiently on a 3G network. If the connection is slow or intermittent, try the following:
+
+• Indoors, the connection is best near windows.
+
+• Connect the modem to your computer with the USB cable included in the sales package.
+
+• Place the modem in an upright position, for example at the top corner of your computer screen, using the USB cable.
+
+• Try an external antenna, for more information contact DNA Customer Service at 044 144 044.
+
+NOTE! The modem automatically uses only the 3G network, depending on the coverage area. You can view the coverage areas at dna.fi/kuuluvuus. If you enter a 2G network area, you must change the network to be used in the modem settings.
+
+If the modem is used on the border between 3G and 2G networks, the modem may switch between these networks. Switching between networks causes the connection to drop and slows down the modem. For this reason, the modem is pre-forced to the 3G network. If you wish, you can lock the modem to any network technology as follows:
+
+Select **Settings – Modem Settings – Network Selection**
+
+• 3G only: Locks the modem to the 3G network
+
+• 2G only: Locks the modem to the 2G network
+
+• AUTO: First selects 3G and then 2G network
+
+Note! The setting change must be made when the modem is not connected to the network.
+
+Using an external antenna
+
+If the modem connection speed is slow, you should try an external antenna. The external antenna improves the signal strength and thus the transfer speed. For more information about the external antenna, contact DNA Customer Service at 044 144 044.
+
+The external antenna is connected to the connector on the side of the modem. You can identify the connector by the pink rubber cover. The antenna connector is a so-called miniature connector, which is not designed to withstand frequent disconnections and connections, so connecting and disconnecting should be done carefully and only when necessary. The connector is a consumable part, and the warranty does not cover wear damage to the connector.
+
+Changing the SIM card PIN code
+
+By default, the modem enters PIN code 1234 for the SIM card, which is the default PIN code used by DNA. You can change the PIN code as follows:
+
+1. Open a web browser and type http://dna.mokkula in the browser's address bar
+
+2. Select **Settings – Security – PIN Code Management**
+
+3. Select **Change** from the drop-down menu
+
+4. Enter the currently used PIN code in the **PIN Code** field
+
+5. Enter the new desired PIN code in the **New PIN** and **Confirm PIN** fields
+
+6. Press **Apply**
+
+Did you find the information you were looking for on this page? Your feedback is important! Answer first!
+
+ __
+
+Yes I found
+
++1
+
+ __
+
+Partially
+
++1
+
+ __
+
+Not at all
+
++1
+
+ __
+
+A little unclear
+
++1
+
+Hidden
+
+app2.lrdxp-prod.dna.fi
+
+## DNA Chat
+
+## This website uses cookies
+
+We use cookies to ensure you have the best possible experience on our website and services, to track the use of our services and to make advertising meaningful. You can learn about cookies and manage them at any time. [Read the privacy policy.](https://corporate.dna.fi/tietosuoja#evasteet)
+
+Only necessary Accept all
+
+Customize cookie settings
+
+## Cookies in DNA services
+
+A cookie is a small text file that is stored on your device when you visit DNA's digital services or mobile apps. It is a numerical, anonymous identifier that does not harm your device or files, but helps us develop our services.  
+  
+  
+[Read more about DNA's privacy](https://corporate.dna.fi/tietosuoja)
+
+Allow all cookies
+
+### Cookie settings
+
+#### Necessary cookies
+
+Always active
+
+These cookies are necessary for the site to function and cannot be disabled. They are usually set only when you use functions that create service requests, such as setting privacy preferences, logging in, or filling out forms. You can set your browser to block these cookies or warn you about them, but some parts of the site may not work properly afterwards.
+
+More information‎
+
+#### Measurement and analytics cookies
+
+Measurement and analytics cookies
+
+Analytics cookies help us count visits and traffic sources so we can measure and improve our site's performance. They help us identify popular and less popular pages and how visitors move around the site. All cookie data is collected anonymously. If you do not accept these cookies, we will not know when you have visited our site.
+
+More information‎
+
+#### Functional cookies
+
+Functional cookies
+
+Functional cookies allow us to provide better and more personalized features, such as videos and live chat. Cookies may be set by us or by a third party; such as a service provider whose services have been added to our pages. If you do not accept these cookies, some or all of these features may not work properly.
+
+More information‎
+
+#### Advertising and social media cookies
+
+Advertising and social media cookies
+
+These cookies are set by our website or services either by our advertising partners or by the social media service provider we use. Through cookies, these companies can create a profile of your interests and show you ads or social media content that is of interest to you in the future. This can also affect the content and messages you see on other websites. If you do not accept these cookies, you will not see targeted advertising on different websites and may not be able to use social media sharing tools. Cookies identify the browser and device.
+
+More information‎
+
+Back Button
+
+### Cookie list
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+checkbox label label
+
+checkbox label label
+
+checkbox label label
+
+Only necessary Confirm my choices
+
+[](https://www.onetrust.com/products/cookie-consent/)

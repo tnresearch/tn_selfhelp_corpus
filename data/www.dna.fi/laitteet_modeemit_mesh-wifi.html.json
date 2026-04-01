@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_mesh-wifi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 207,
+                "end": 3156,
+                "text": "# Mesh WiFi -modeemit\n\nWi-Fi-verkon laajentamiseen koko kodin alueelle\n\n##### DNA Ethernet- ja Mesh-modeemi WiFi 6 F-266\n\n[](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-f-266)\n\n##### DNA Ethernet Mesh WiFi 6 K562\n\n[](/tuki/laitteet/modeemit/ethernet/dna-ethernet-wifi-6-k562)\n\n##### DNA Mesh WiFi WA8021V5\n\n[](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-wa8021v5)\n\n##### Google WiFi Mesh -järjestelmä\n\n[](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/google-wifi-mesh)\n\n### Vanhemmat modeemit\n\nLaitteiden ohjelmistoja ei enää päivitetä aktiivisesti. Suosittelemme\nvaihtamaan uuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti\najan tasalla.\n\nAsus Lyra AC2200 WiFi Mesh -järjestelmä\n\nSuosittelemme kytkemään mahdollisesta modeemista siltaavan tilan päälle.\nEsimerkiksi jos Lyralla jaetaan kaapeli tai DSL -modeemin tai Mokkulan yhteys.\nEthernet-talouksissa tätä ei tarvitse tehdä.\n\n### Ominaisuudet\n\n  * Jaa langaton WiFi -netti kodin Ethernet-portista tai modeemin LAN-portista\n  * Luo kattavan WiFi -verkon ja optimoi verkkoa kaikille laitteille\n  * Tri- band Mesh – kolme samanaikaisesti käytössä olevaa siirtokaistaa takaa nopean yhteyden ja pienen nopeushävikin\n  * Jopa 400 Mbit/s nopeus 2.4 GHz:n taajuudella, 867 + 867 Mbit/s nopeus 5.0 GHz:n taajuudella\n  * 802.11 a/b/g/n/ac MU-MIMO-tekniikka 4 GHz 2 x 2, 5 GHz 2 x 2, 5 GHz 2 x 2 \n  * Asus AiProtection, Quality of Service, IPv6-tuki, Parental Control\n  * Liitännät: WAN x 1/10/100/1000, LAN x 1 RJ-45 10/100/1000\n  * Järjestelmähallinta nettiselaimella tai Asus Lyra -sovelluksella (Android- ja iOS)\n  * Laitteen koko: 149,8 x 149,8 x 49,5 mm\n  * Myyntipakkauksen sisältö: 3 kpl Lyra-tukiasemaa, 3 kpl verkkovirtalähdettä, Ethernet-kaapeli, pika-asennusohje\n\n### Käyttö ja tuki\n\nAsennus ja käyttö sovelluksella (Android ja iOS) tai nettiselaimella.  \n  \nLataa Android-sovellus\n[https://play.google.com/store/apps/details?id=com.asus.hive&hl=fi](https://play.google.com/store/apps/details?id=com.asus.hive&hl=fi)  \nLataa iOS-sovellus <https://itunes.apple.com/us/app/asus-\nlyra/id1171291475?mt=8>\n\n  \nTutustu Asus Lyra -asennusvideoon:  \n<https://www.youtube.com/watch?v=3D3fhHxeiXU>\n\n### Tuki netissä\n\nEnglanninkieliseltä ohje-sivustolta löydät ohjelmistot, usein kysytyt\nkysymykset, käyttäjäfoorumi, teknisen tuen sähköpostiosoitteet ja muu\nmateriaali.  \n<http://www.asus.com/support>\n\n### Viallisen laitteen palautus\n\n<http://rma.asus.fi>\n\n### Tukipuhelinnumero\n\nFinland: (+358) 096 937 9690\n\n## Mikä on Mesh-verkko?\n\nYksi netin päätelaite, kuten modeemi tai mokkula, ei aina riitä koko kodin\nkattavan verkon muodostamiseen. Tällöin sisäverkkoa voidaan laajentaa\nlinkittämällä modeemiin yksi tai useampi Mesh-reititin. Mesh-verkko on siis\nusean Mesh WiFi -laitteen muodostama kokonaisuus joka luo kotiin yhtenäisen\nlangattoman sisäverkon ilman katvealueita.\n\n[ Lue lisää ](https://www.dna.fi/laitteet/modeemit-ja-mokkulat/mesh)\n\n",
+                "heading": "Mesh WiFi -modeemit"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:17+00:00",
+        "last_modified": "2025-06-20T18:48:56.552374",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

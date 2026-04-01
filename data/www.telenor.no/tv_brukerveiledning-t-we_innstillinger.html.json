@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_innstillinger.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 181,
+                "end": 2763,
+                "text": "# Innstillinger i T-We\n\nNullstill T-We boksen eller sett opp nettverk fra innstillinger. I menyen\nfinner du innganger til nyttige tjenester og funksjoner i T-We.\n\nInnstillinger: Når du velger innstillinger fra menyen får du opp flere valg -\ninstallasjon for oppsett av Internett og dekoder, og dekoderinnstillinger.\n\n## Menyen\n\nNår du velger ☰ fra TV-menyen får du oversikt over:\n\n  * Tjenester\n\n  * Min T-We\n\n  * Innstillinger\n\nTjenester gir deg oversikt over TV-guide, opptaksliste og radio.\n\nMin T-We er en oversikt over dine egne valg og preferanser slik som profiler,\nfavorittlister, innhold du har leid fra filmleie, tips og triks for T-We\ngjennom Brukertips. og mulighet for å endre reservasjoner for anbefalt innhold\npå Hjem-menyen.\n\nTjenester, Min T-We og Innstillinger: Disse valgene dukker opp når du velger ☰\nfra menyen.\n\n### VIDEO: Slik endrer du innstillinger i T-We\n\n## Oversikt over alle innstillinger\n\nNår du velger Innstillinger får du igjen opp flere valg på TV-skjermen.\nNedenfor lister vi opp de forskjellige valgene slik at du vet hva du finner av\ninformasjon under hver enkelt, og hva du kan endre på.\n\n### Installasjon\n\nUnder denne innstillingen kan du nullstille T-We boksen slik at den settes\ntilbake til fabrikkinnstillinger, oppdatere programvaren eller søke etter\nkanaler manuelt. Du finner også innstillinger for nettverk i denne oversikten.\n\n[\n\n### Koble til Internett\n\nHer viser vi deg hvordan du kan koble til Internett via kabel eller trådløst\nnett på T-We Boks II.\n\n](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-ii/koble-til/)\n\n[\n\n### Nullstill T-We boksen\n\nHer viser vi deg hvordan du nullstiller dekoderen via \"Installasjon\" eller\ndirekte på T-We boksen.\n\n](/kundeservice/delt/nullstill-dekoder/)\n\n### Systeminformasjon\n\nUnder systeminformasjon finner du tekniske detaljer. Du vil normalt ikke ha\nbruk for denne informasjonen, men kan i enkelte tilfeller bli bedt om å oppgi\ninformasjon om programvare eller kort- og serienummer i kontakt med\n[kundeservice på telefon.](/kundeservice/kontakt-oss/)\n\n  *  **Dekoderstatus  \n** Her finner du blant annet kortnummer på smartkort, serienummer og navn på\nT-We boksen\n\n  *  **Build-info  \n** Informasjon om programvare, dekoder og nettverk\n\n  *  **Disk-info  \n** Informasjon om harddisk og tilgjengelig lagringsplass\n\n  *  **HDMI-info  \n** Informasjon om hvilke oppløsninger som støttes av TV'en T-We boksen er\ntilkoblet\n\n  *  **Signalmåler  \n** Måler signalstyrke og kvalitet på TV-signalene\n\n  *  **Smartkort-info  \n** Status for smartkortet, slik som f.eks. abonnementstatus og kortnummer"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:34+00:00",
+        "last_modified": "2025-05-30T09:33:11.932879",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_abonnement-og-tjenester_kontantkort.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 192,
+                "end": 3304,
+                "text": "# Hjelp til Kontantkort\n\nVi anbefaler at du laster ned [Mitt Telenor-appen](/privat/mobil/app/mitt-\ntelenor/), som gjør det enkelt å lade og sjekke saldoen på kontantkortet ditt.\n\n[Problemer med lading](/kundeservice/mobil/abonnement-og-\ntjenester/kontantkort/#problemer)\n\n[\n\nHva er saldoen min?\n\nVår eminente chatbot Telmi kan enkelt finne dette ut for deg!\n\n](javascript:window.startChat\\('jZ38JoqmMq'\\))\n\n## Lade kontantkort\n\n **Du kan lade kontantkortet på flere måter:**\n\n  *  **På nett** : [Lad kontantkort på nett](/mobilabonnement/kontantkort/lade/)\n\n  *  **I** **Mitt Telenor** kan du bruke Vipps til å lade kontantkortet\n\n  *  **Ladekort** : Ladekort eller elektronisk ladekode i form av kvittering selges i de fleste dagligvarebutikker, bensinstasjoner og kiosker\n\nRing ladetelefonen på nummer **915 00 900** og tast inn koden du får oppgitt\npå kvitteringen.\n\n[Lad kontantkort på telenor.no](/mobilabonnement/kontantkort/lade/)\n\n## Sjekke saldo på kontantkort\n\n **Du kan sjekke saldo på kontantkort på flere måter:**\n\n  *  **Mine Sider** : Logg inn på Mine Sider via linken under, velg nummeret det gjelder. Saldo står til høyre.\n\n  *  **Mitt Telenor:** Saldo vises på hovedsiden i appen\n\n  *  **Telmi:** Spør chatboten Telmi, og du vil få svar\n\n  *  **Kontofon** : Ring kontofon på nummer **915 00 500**\n\n  *  **SMS:** Send SALDO til 2525\n\nTjenesten er kostnadsfri.  \n\n[Sjekk saldo på Mine Sider](/mitt-telenor/mobil/)\n\n## Vil du ha et abonnement uten kredittsjekk?\n\nForskudd kan være abonnementet for deg!  \nInkluderer:\n\n  * Fri tale, SMS og MMS\n\n  * Våre faste sikkerhetsfordeler\n\n  * Datamengde\n\n[Les mer her](/mobilabonnement/abonnement-uten-kredittsjekk/)\n\nBruk og lading i utlandet\n\nKontantkort kan brukes i mange land. [Priser for bruk av kontantkort i\nutlandet](/privat/mobil/utlandet/)\n\nI EU/EØS gjelder norske priser ved bruk av kontantkort.\n\nUndersøk hvilke operatører vi har avtale med før du reiser.\n\n **Lading i utlandet:**\n\n  *  **På nett** : [Lad ditt eget eller andres kontantkort på nett](/mobilabonnement/kontantkort/lade/)\n\n  *  **I** **Mitt Telenor** kan du bruke Vipps til å lade kontantkortet\n\n  *  **Ladekort** : Hvis du har et ladekort eller en elektronisk ladekode, kan du ringe **+4791500900** og taste inn koden du får oppgitt på kvitteringen.\n\n## Sperret kontantkort eller mistet ringesaldo?\n\nKontantkortet varer i 15 måneder etter siste lading. Lader du ikke\nkontantkortet innen den tid, vil resterende ladebeløp bli slettet og nummeret\nsperret.\n\nNummeret kan gjenåpnes i inntil 2 måneder etter det ble sperret. Hvis du\nønsker gjenåpne nummeret, trenger du bare lade opp valgfritt beløp, så åpnes\ndet automatisk.\n\nHadde du ringesaldo som er blitt slettet eller det har gått lengre tid enn 2\nmåneder? Ta kontakt med oss på kundeservice, så hjelper vi deg!\n\n### Problemer med å ringe eller sende SMS?\n\nOpplever du andre problemer med kontantkortet, som utfall av dekning eller\nproblemer med å ringe ut, så finner du hjelp og veiledning til de vanligste\nproblemene vi opplever på mobiltelefonen via knappen under.\n\n[Løs problemer med mobil](/kundeservice/mobil/problemer/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:04+00:00",
+        "last_modified": "2025-05-30T09:21:56.709445",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

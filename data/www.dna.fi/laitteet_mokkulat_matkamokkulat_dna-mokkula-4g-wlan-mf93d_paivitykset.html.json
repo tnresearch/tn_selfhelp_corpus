@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-mokkula-4g-wlan-mf93d_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 397,
+                "end": 1188,
+                "text": "# DNA Mokkula 4G WLAN MF93D\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-mf93d/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-mokkula-4g-wlan-\nmf93d/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-mokkula-4g-wlan-\nmf93d/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-mokkula-4g-wlan-\nmf93d/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-mokkula-4g-wlan-\nmf93d/vianrajaus)\n\n## Päivitykset\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\nPäivitystä ei saatavilla.\n\n",
+                "heading": "DNA Mokkula 4G WLAN MF93D"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:57+00:00",
+        "last_modified": "2025-06-20T19:07:34.767002",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

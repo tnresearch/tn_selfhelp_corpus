@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app_feilsok.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 149,
+                "end": 2337,
+                "text": "# Feilsøk T-We App\n\nHer finner du hjelp til feilsøking i T-We App\n\n[Fant ikke abonnement](/kundeservice/tv/t-we-app/account-not-found/)[T-We App\nsier jeg ikke er hjemme](/kundeservice/tv/t-we-\napp/feilsok/#ikkehjemme)[Avspilling i Max](/kundeservice/tv/t-we-\napp/bruk/#hbo)[Ulikt innhold](/kundeservice/tv/t-we-\napp/bruk/#uliktinnhold)[Opplever feil eller får\nfeilkode](/kundeservice/tv/problemer-med-tv/feilkoder/)\n\n## Fant ikke abonnement\n\nFår du feilmeldingen \"Fant ikke abonnement\" eller \"Account not found\" når du\nprøver å logge inn?\n\nTrykk på linken under for å løse problemet.\n\n[Løs problem...](/kundeservice/tv/t-we-app/account-not-found/)\n\n## T-We App sier jeg ikke er hjemme\n\nFår du melding i T-We Appen om at du ikke er hjemme, selv om du er det?\n\nFår du denne feilmeldingen, kan du gå gjennom følgende sjekkliste:\n\n  1. Er du faktisk tilkoblet nett (og ikke gjestenett)?\n\n  2. Er T-We-boksen tilkoblet og slått på?\n\n  3. Har du mesh-nettverk eller flere rutere?\n\n[Mer hjelp til hjemmesjekk](/kundeservice/tv/t-we-app/hjemmesjekk/)\n\n## Problemer med avspilling av Max i appen\n\nHvis du opplever problemer med avspilling av Max i T-We appen, kan du prøve\nfølgende:\n\n  1. Gå inn på menyen (hamburgermeny)\n\n  2. Velg \"INNSTILLINGER\"\n\n  3. Velg \"VIDEOKVALITET\"\n\n  4. Skru på \"Reduser kvaliteten/databruken når du er tilkoblet ...\" (begge alternativene)\n\nAvspilling skal fungere som normalt om du reduserer videokvaliteten noe.\n\n## Innhold på TV-boks, nett og app er ulikt\n\nDet aller meste av innholdet du har valgt er tilgjengelig i appen eller på\nt-we.no. Du kan se de fleste kanaler og arkiver både hjemme og på reise.\n\nNoe innhold kan være utilgjengelig dersom vi mangler rettigheter til å vise\ndet. Dette vil du få beskjed om når du forsøker å spille av innholdet.\n\nSer du et **Forbudt-ikon** i appen kan det skyldes følgende:\n\n  * Du har ikke valgt innholdet i din TV-pakke.\n\n  * Innholdet er foreløpig kun tilgjengelig på din T-We Boks og ikke tilgjengelig på mobile enheter eller nett-TV.\n\nVi jobber kontinuerlig med å gjøre stadig mer innhold tilgjengelig, også\nutenfor huset.\n\n **Merk** at strømmetjenester som Netflix og Viaplay er egne apper og ikke en\ndel av T-We appen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:57+00:00",
+        "last_modified": "2025-05-30T09:40:18.961004",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

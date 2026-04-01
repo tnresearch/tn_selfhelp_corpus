@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/drift-og-dakning_gode-rad-til-bedre-dakning_problemer-med-at-modtage-eller-sende-mms.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3036,
+                "heading": "Troubleshooting MMS issues and related information.",
+                "start": 0,
+                "text": "### Hvis du ikke kan sende mms’er\n\n  * Prøv at genstart mobilen – når du genstarter mobilen, vil den automatisk rette eventuelle fejl og søge efter nye softwareopdateringer. Er der en softwareopdatering klar, så anbefaler vi, at du henter den\n  * Har du datadækning på din telefon? Det kræver en internetforbindelse at sende og modtage mms’er. Se vores dækningskort og tjek dækningen i dit område\n  * Kan du sende en mms til dig selv? Modtager du din egen mms, ligger problemet sandsynligvis i modtagerens mobilopsætning\n  * Er din mobil lige blevet genåbnet efter spærring? Så kan der gå et stykke tid, før du kan sende og modtage mms’er igen\n\n### **Hvis du ikke modtager mms’er**\n\n  * Tjek at din mobil er indstillet til at kunne modtage mms’er\n  * Du har måske været uden for datadækning, da mms’en blev sendt til dig. Tjek om du har dækning og bed afsenderen prøve at sende mms'en igen\n  * Din mobil har ikke lagerplads nok til at modtage en mms. Slet evt. billeder, apps eller andet indhold, der fylder på din telefon\n  * Du har været i udlandet, og roaming var slået fra på din mobil, da mms'en blev afsendt\n\n##  Spørgsmål og svar om problemer med mms\n\nHvordan sender jeg mms til e-mail?\n\nNår du vil sende en mms til e-mail, skal du bare taste mailadressen ind i\nstedet for et telefonnummer.\n\nHvor stor må en mms-besked være?\n\nI praksis vil de fleste mobiltelefoner automatisk tilpasse billeder/videoer,\nså de får en fornuftig størrelse for mms. Men modtagerens operatør og\nmobiltelefon er afgørende for hvor store beskeder man kan sende.\n\nBemærk, at Telenor understøtter mms-beskeder op til 2 MB; men det gør de\nøvrige operatører i Danmark ikke. Sender man en mms, der ikke kan modtages af\nanden operatør pga. størrelsen, vil man modtage en sms med besked om det.\nAfsender er: ”MMS INFO.” Mms-beskeder, der afvises pga. størrelsen, vil ikke\nblive takseret.\n\nModtagelse af mms-beskeder\n\nNår en mms sendes, kan den hentes i op til 72 timer. Modtages den ikke, vil\nbåde afsender og modtager få besked via sms. Afsender af mms-beskeden modtager\nen sms med teksten: ”Den MMS besked du sendte til den kunne ikke afleveres til\nmodtager.” Modtager af mms-beskeden vil få en sms med teksten: ” har forgæves\nforsøgt at sende dig en MMS besked. Tjek venligst, om din telefon understøtter\nmms og er korrekt sat op.” Telenor vedligeholder ikke længere ”Mms-indbakken”,\nhvor man tidligere har haft adgang til at se og hente mms-beskeder på nettet.\n\nHvordan står mms'er på min regning?\n\nAlmindelige mms-beskeder står som \"Mms - multimediebeskeder\" og mms'er, der er\nsendt til udlandet, står som \"Mms til udlandet\".\n\nKan jeg sende og modtage mms i udlandet?\n\nDu kan sende og modtage mms'er i alle de lande, hvor vi samarbejder med\nteleselskaber, som understøtter mms.\n\n[**Se dækning i udlandet**](/kundeservice/Mobilabonnementer-og-\nservices/udland/udlandspriser-i-udlandet/)  \nVælg det land, du ønsker oplysninger om. Så kan du se, hvem vi arbejder sammen\nmed, og om de understøtter mms. Du kan også se, hvad det koster at sende og\nmodtage mms."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:10+00:00",
+        "last_modified": "2025-05-21T15:15:37.897245",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu_kom-igang-med-ditt-bredband_fungerade.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 532,
+                "text": "# Härligt att det funkar!\n\nVi är superglada för din skull.\n\nNu är det bara att surfa på! Men först lite tips.  \n\n  * [Ladda ner appen Wifikontroll för att maxa ditt wifi](/handla/tjanster/appar/wifikontroll/)  \n  \n\n  * [Skaffa e-faktura](/support/faktura/e-faktura/)   \n  \n\n  * [Samla mobil, bredband och tv hos oss](/handla/erbjudanden/telenor-kombo/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:27+00:00",
+        "last_modified": "2025-05-30T14:10:34.004727",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

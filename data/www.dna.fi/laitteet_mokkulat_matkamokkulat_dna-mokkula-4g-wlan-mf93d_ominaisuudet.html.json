@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-mokkula-4g-wlan-mf93d_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 398,
+                "end": 2008,
+                "text": "# DNA Mokkula 4G WLAN MF93D\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-mf93d/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-mokkula-4g-wlan-\nmf93d/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-mokkula-4g-wlan-\nmf93d/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-mokkula-4g-wlan-\nmf93d/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-mokkula-4g-wlan-\nmf93d/vianrajaus)\n\n## Ominaisuudet\n\n### DNA Mokkula 4G WLAN MF93D\n\nTuotenimi: ZTE MF93D\n\nDNA Mokkula 4G WLAN MF93D jakaa 4G tai 3G yhteyden jopa 10 laitteen kesken.\n\n  * 4G LTE enimmäisnopeus verkosta 100 Mbit/s\n  * 4G DC enimmäisnopeus 42 Mbit/s\n  * HSPA+ enimmäisnopeus 21,1 Mbit/s • WLAN b/g/n\n  * 10 WLAN-laitetta (max. 75 Mbit/s per laite)\n  * 2400 mAh akku ja suuri 5 rivin LCD-näyttö\n  * MicroSD-muistikorttipaikka (32 Gt asti), toimii myös WLAN:n yli\n  * TS9-liitäntä ulkoiselle antennille\n  * Mini-SIM-korttin eli normaalin kokoinen SIM-kortti\n  * Automaattinen langattoman verkon WPS-asennus, päivitykset netistä\n  * Tuki IPv6:lle\n\n### Laitteistovaatimukset / Tuetut käyttöjärjestelmät:\n\n  * USB-liitäntä: Windows® 8.1, Windows® 8, Windows® 7, Vista, XP Mac OS X® 10.5\n  * WLAN: 802.11b/g/n\n  * USB Slot 1.1 tai 2.0\n  * Levytilaa 100 MB\n  * Internetselain USB-liitännän tai WLAN:n kautta: Microsoft Internet Explorer 6.0 tai uudempi, Firefox 2.0 tai uudempi, Safari 4.0 tai uudempi, Opera 10.0 tai uudempi, Chrome 5.0 tai uudempi\n\n",
+                "heading": "DNA Mokkula 4G WLAN MF93D"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:52+00:00",
+        "last_modified": "2025-06-20T19:07:31.137456",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

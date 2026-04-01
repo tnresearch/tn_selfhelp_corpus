@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_sok.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 171,
+                "end": 2228,
+                "text": "# Slik søker du på innhold i T-We\n\nSøkefunksjonen kan brukes til å raskt finne innhold når du vet hva du leter\netter. Her viser vi deg hvordan du bruker den.\n\nSøkefunksjon:Start søket ved å holde mikrofon-knappen på fjernkontrollen inne\ninne - uansett hvor du er i T-We\n\n## Søkefunksjon\n\nSøkefunksjonen ligger alltid på den øverste menyen, og er merket med et\nforstørrelsesglass.\n\nSøk viser innhold fra alle kanaler du abonnerer på og alle strømmetjenester\nutenom Netflix og YouTube. Du kan for eksempel søke på \"Nytt på Nytt\" i T-We,\nog få treff på programmet og så åpne det rett i NRK-appen.  \n  \nFor strømmetjenestene gjelder søket uavhengig av om du abonnerer på tjenesten\neller ikke, men du vil få informasjon om hvordan du kan velge inn tjenestene\ndu du ikke har.\n\nDersom du har T-We Boks II kan du også bruke [talesøk til å finne det du leter\netter.](/kundeservice/tv/brukerveiledning-t-we/sok/talesok/)\n\n### Søk i strømmetjenester\n\nDu har tilgang til flere strømmetjenester fra TV-menyen, men søk kan fungere\nulikt avhengig av hvilken strømmetjeneste det er.\n\nHar du valgt inn HBO Max som en del av TV-pakken, vil denne være en del av søk\nfor alt innhold i T-We. Det er altså ikke mulig å søke kun i filmer og serier\nsom ligger i HBO Max via T-We.\n\n### Video: Slik søker du i T-We\n\n## Slette søkehistorikk\n\nHvis du ønsker å slette listen over det du har søkt på, kan du gjøre dette via\n[profilen din](/kundeservice/tv/brukerveiledning-t-we/profiler/).\n\n  1. Velg profiler fra menyen\n\n  2. Velg **Endre profil**\n\n  3. Trykk på **Slett søkehistorikk**\n\n## Filter for søkefunksjonen\n\nFor å gjøre det enklere å finne innholdet du leter etter, kan du bruker filter\nfor å begrense søket. Her har du tre ulike sorteringsalternativer: Alt\ninnhold, sjanger og relevanse.\n\nUnder Alt innhold finner du:\n\n  * Film og serier\n\n  * TV-guide\n\n  * Opptak\n\n  * Ukesarkiv\n\nUnder sjanger kan du velge i en lang liste med sjangere, både på norsk og\nengelsk. I tillegg til dette kan rekkefølgen sorteres alfabetisk, etter\ntittel, produksjonsår, relevans eller IMDb-score."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:58+00:00",
+        "last_modified": "2025-05-30T09:33:40.301428",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

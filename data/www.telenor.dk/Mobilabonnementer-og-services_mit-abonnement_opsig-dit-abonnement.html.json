@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_mit-abonnement_opsig-dit-abonnement.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2782,
+                "heading": "Instructions on how to cancel a mobile subscription with Telenor.",
+                "start": 0,
+                "text": "# Hvordan opsiger jeg mit mobilabonnement?\n\nVi er kede af, at du overvejer at opsige dit mobilabonnement hos os. Har du\nhusket alt dét, der gør dit Telenor-abonnement til noget helt specielt? Med i\ndit abonnement har du nemlig [Telenor Tryghedspakke](/shop/telenor-\ntryghedspakke/) inkluderet, der gør dit online-liv meget tryggere.\n\nØnsker du alligevel at opsige dit mobilabonnement, er den nemmeste måde at\nringe til os på 72 100 100, så hjælper vi dig på få minutter. Alternativt kan\ndu henvende dig i din nærmeste [Telenor-butik](/find-butik/) eller skrive til\nos [her](/kundeservice/kontakt/skriv-til-os/).\n\n## **Din bindings- og opsigelsesperiode**\n\nEr du i binding, kan du opsige dit abonnement, når du er ude af din\nbindingsperiode. Du har 30 dages opsigelse på dit mobilabonnement. Det vil\nsige, at dit abonnement er aktivt i 30 dage efter, at du har opsagt\nabonnementet.\n\n## **Din sidste regning**\n\nDa mobilabonnementer er forudbetalt, vil du i første omgang blive opkrævet for\nden fulde regningsperiode, uanset hvornår abonnementet ophører hos Telenor.\nDerefter vil du modtage din sidste regning fra Telenor, hvor du vil blive\ntilbagebetalt det beløb, du har betalt for meget. Hvis du har haft ekstra\nforbrug de sidste dage inden abonnementet lukkede hos Telenor, vil du også\nblive opkrævet for det her. Det hele sker helt automatisk, så vi er sikre på,\nat du ikke kommer til at betale for meget.\n\n  * **Afmeld Betalingsservice, efter den sidste regning er betalt  \n** Har du tilmeldt din regning til Betalingsservice, anbefaler vi, at du først\nopsiger Betalingsservice-aftalen, når du har betalt din sidste regning.\nOpsiger du aftalen inden, vil du modtage regningen med posten, og det koster\n49 kr. i regningsgebyr.\n\n## Bliv hos Telenor, men skift abonnement\n\nOvervejer du at opsige dit abonnement, fordi det ikke opfylder dine behov? På\n[Mit Telenor ](/login/)kan du tilpasse eller skifte dit abonnement. Nemt,\nhurtigt og enkelt. Læs mere om [skift af\nabonnement](/kundeservice/Mobilabonnementer-og-services/mit-abonnement/skift-\nabonnement/).\n\nHusk, at du som kunde hos Telenor får en masse ekstra med i dit\nmobilabonnement:\n\n  * Brug trygt din mobil, når du er i [udlandet](/shop/landingpage/mobil/roaming/)\n  * [Telenor Tryghedspakke](/shop/telenor-tryghedspakke/) inkluderet - hjælp ved digitale krænkelser og online-svindel\n  * [Netværk](/shop/landingpage/netvark-i-verdensklasse/) i verdensklasse - 5G inkluderet\n\n## Få rabat på familiens abonnementer\n\nDer er også gode penge at spare, hvis I er flere i husstanden, der har brug\nfor et mobilabonnement. Hvis du samler to eller flere mobilabonnementer hos\nos, sparer du 50,-/md. for hvert ekstra mobilabonnement, du ejer udover dit\nprimære mobilabonnement. Læs mere om\n[Samlerabat](/shop/landingpage/samlerabat/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:14+00:00",
+        "last_modified": "2025-05-21T15:15:27.888177",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

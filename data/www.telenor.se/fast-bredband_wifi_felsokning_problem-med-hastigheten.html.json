@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_felsokning_problem-med-hastigheten.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 356,
+                "end": 2202,
+                "text": "# Problem med hastigheten\n\nTycker du inte att din surf är snabb nog? Det finns några saker du kan göra.\n\n  * ### Testa din hastighet\n\nDu kan börja med att testa din surfhastighet på exempelvis\n[bredbandskollen.se](http://www.bredbandskollen.se). Se till att\nnätverkskabeln är kopplad direkt till datorn först om uttag finns. Då blir\nresultatet så rättvist som möjligt.  \n  \n **Tips!** Innan du testar hastigheten: stäng av alla aktiviteter som kräver\nmycket bandbredd, till exempel tv-streaming och nedladdning av filer.\n\n  * ### Flytta på routern och wifi-förstärkaren\n\nPlacera din router på ett bord eller hylla istället för på en undangömd plats.\nDå når mottagningen bättre. Se även till att du inte sitter längre bort än\ncirka 20 meter från routern. Ju närmare du sitter, desto bättre mottagning.  \n  \nOm du använder wifi-förstärkare: se till att den är placerad halvvägs till där\ndu har dålig täckning.\n\n  * ### Se upp för betongväggar och köksutrustning\n\nStäll inte routern nära betongväggar eller stora metallobjekt, de kan försämra\nsignalerna. Placera heller inte din router i närheten av en mikrovågsugn, kyl\noch frys, akvarium, tv, trådlösa telefoner eller enheter som använder\nBluetooth.\n\n  * ### Byt ut gammal utrustning\n\nFör riktigt bra wifi krävs det att både router, mobil, surfplatta och dator\nstödjer den senaste standarden. Sedan 2013 finns den på de flesta mobiler,\nsurfplattor och datorer. Har du en dator som är äldre än så kan det begränsa\ndin surfhastighet.\n\n  * ### Starta om routern på kvällstid \n\nUnder kvällstid och helger kan det vara mycket wifi-trafik i luften. Det\ninnebär att du indirekt konkurrerar med dina grannars wifi. När du startar om\ndin router utför den en automatisk kanalsökning och kommer välja den kanal som\när minst trafikerad för stunden. Detta gör att din hastighet, förhoppningsvis,\nblir bättre.\n\n",
+                "heading": "Problem med hastigheten"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:32+00:00",
+        "last_modified": "2025-05-30T14:13:31.180125",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

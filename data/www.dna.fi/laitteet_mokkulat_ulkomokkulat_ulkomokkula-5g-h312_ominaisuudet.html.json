@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_ulkomokkula-5g-h312_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 387,
+                "end": 2087,
+                "text": "# DNA Ulkomokkula 5G H312\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n[ Ominaisuudet\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/ominaisuudet)\n[ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/kayttoonotto)\n[ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/vianrajaus)\n\n## Ominaisuudet\n\n**Tuotenimi: Huawei 5G CPE Win H312-371**\n\nTehokas Ulkomokkula 5G H312 poimii huippunopean 5G-netin kotisi WiFi-\nreitittimeen esteettömästi suoraan ulkoilmasta. Vaivaton kiinnitys seinään tai\ntolppaan.\n\nLaitteen käyttö langattoman lähiverkon kanssa edellyttää yhteyttä erilliseen\nEthernet WAN -portilla varustettuun WiFi-reitittimeen (esim. Google WiFi).\nIlman erillistä WiFi-reititintä voit kytkeä Ulkomokkulaan vain yhden\nkäyttölaitteen kerrallaan, yhdistämällä käyttölaitteen erillisellä Ethernet-\njohdolla Ulkomokkulan virtalähteen LAN-porttiin.\n\n  * 5G enimmäisnopeus verkosta 1,65 Gbit/s\n  * 5G enimmäisnopeus kohti verkkoa 250 Mbit/s\n  * 4G LTE enimmäisnopeus verkosta 1,6 Gbit/s\n  * 4G LTE enimmäisnopeus kohti verkkoa 150 Mbit/s\n  * Veden- ja pölynkestävä rakenne IP65-luokituksen mukaisesti\n  * Toimivuus -40 – 55 °C -lämpötilassa\n  * Suojaus 6 kV:n jännitepiikiltä\n\n### Myyntipakkauksen sisältö\n\n  * Ulkomokkula 5G H312\n  * Virtalähde ja -johto\n  * 10 metrin Ethernet-lattakaapeli Ulkomokkulan ja virtalähteen välille\n  * Kanta seinäkiinnitykseen\n  * 4 kpl ruuveja ja kiila-ankkureita\n  * Säädettävä hihna tolppakiinnitykseen\n  * Nimilaatta\n  * Pikaopas ja takuukortti\n\n",
+                "heading": "DNA Ulkomokkula 5G H312"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:09:17+00:00",
+        "last_modified": "2025-06-20T19:14:51.703134",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

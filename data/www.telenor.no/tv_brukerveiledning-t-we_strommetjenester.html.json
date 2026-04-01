@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_strommetjenester.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 184,
+                "end": 3461,
+                "text": "# Strømmetjenester i T-We\n\nHer finner du informasjon om de forskjellige strømmetjenestene som er\ntilgjengelig via TV-menyen.\n\nStrømmetjenester:Her finner du en oversikt over alle strømmetjenestene som er\ntilgjengelige for T-We.\n\n## Strømmetjenester og apper\n\nVelg Strømmetjenester fra menyen på toppen for å få oversikt over alle apper\nog strømmetjenester. Disse er delt opp i eksterne strømmetjenester og\nstrømmetjenester du kan velge som en del av [TV-pakken\ndin](https://www.telenor.no/privat/tv/t-we/innholdsoversikt/).\n\nEn strømmetjeneste du ikke abonnerer på eller har valgt for poeng, vil være\nmarkert med et \"stopp-ikon\" øverst til høyre.\n\n## Strømmetjenester som er en del av T-We\n\nDe fleste strømmetjenestene kan velges inn og ut av ditt TV-abonnement for\npoeng. Noen ganger vil filmer og serier være lastet inn i T-We, og andre\nganger vil du bli linket ut til leverandørens app. Du kommer deg tilbake til\nT-We ved å trykke \"X\" en gang eller \"T-We knappen\" flere ganger på\nfjernkontrollen.\n\n## Strømmetjenester i T-We App\n\nUnder hovedmenyen i T-We App finner du oversikt over alle tilgjengelige\nstrømmetjenester. Dette er strømmetjenester du kan velge som en del av din TV-\npakke.\n\nFor en strømmetjeneste du ikke abonnerer på vil innholdet være markert med\n\"Abonnér\" øverst i venstre hjørne.\n\n### discovery+ Underholdning\n\nDersom du har discovery+ fra før, kan du bruke samme innlogging på T-We eller\nopprette en egen konto.  \n\n[Les mer om aktivering av discovery+](/kundeservice/tv/velge-kanaler/aktiver-\ndiscoveryplus/)\n\n### Viaplay\n\nHar du valgt V series & film eller V premium i TV-pakken din, har du også\ntilgang til strømmetjenesten Viaplay og abonnementet Viaplay Film & Serier\n\n[Følg våre veiledninger for å aktivere\nViaplay](/kundeservice/tv/brukerveiledning-t-we/strommetjenester/viaplay/)\n\n### Max\n\nNyhet! HBO Max er nå blitt til Max!  \n\nTilgang til appen er inkludert når du velger strømmetjenesten i T-We.\n\n[Følg våre veiledninger for å få Max](/kundeservice/tv/brukerveiledning-t-\nwe/strommetjenester/max/)\n\n### TV 2 Play Basis\n\nTV 2 Play Basis er inkludert i T-We!\n\nTV 2 Play Basis er tilgjengelig på din **TV-boks, via** **T-We appen** , **TV\n2 Play appen** og **tv2play.no**.  \n\n[Les mer om aktivering av TV 2 Play-konto](/kundeservice/tv/brukerveiledning-\nt-we/strommetjenester/tv2-play/)\n\n## Eksterne strømmetjenester\n\nDette er alle apper du kan åpne fra T-We boksen, men som ikke er en integrert\ndel av T-We. Disse strømmetjenestene oppfører seg likt uavhengig av om du\nbruker de via T-We boksen, eller bruker leverandørens app på smart-TV, PC,\nmobil eller nettbrett. Her bruker du også innlogging fra leverandøren fremfor\nTelenor.\n\nEksterne strømmetjenester har egen søkefunksjon og innhold som ikke blandes\nmed annet innhold fra T-We i oversiktene for Filmer og Serier f.eks.\n\n### Eksterne strømmetjenester i T-We\n\n  * [Netflix](/kundeservice/tv/brukerveiledning-t-we/strommetjenester/netflix/)\n\n  * YouTube\n\n  * NRK TV\n\n  * NRK Super\n\n  * [Radioplayer](/kundeservice/tv/brukerveiledning-t-we/strommetjenester/radioplayer/)\n\n  * #### Kommer det til å bli flere strømmetjenester tilgjengelig i T-We?\n\nHvilket innhold som er tilgjengelig i T-We er under kontinuerlig vurderinger\nog forhandlinger, så det er absolutt en mulighet for endringer her.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:15+00:00",
+        "last_modified": "2025-05-30T09:33:55.247113",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

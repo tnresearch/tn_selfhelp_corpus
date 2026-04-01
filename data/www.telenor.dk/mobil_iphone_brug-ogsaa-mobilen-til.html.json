@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_iphone_brug-ogsaa-mobilen-til.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 655,
+                "heading": "How to use your mobile as a hotspot",
+                "start": 0,
+                "text": "#  Brug din mobil som hotspot\n\nFølg guiden trin for trin og kom online via din mobil i løbet af et øjeblik.\n\nNår du går online via din mobil, bruger du af den mængde data, der er inklusiv\ni dit mobilabonnement. Hvis du ofte bruger din mobil som hotspot, har du måske\nbrug for et abonnement med mere data?\n\n[Se vores abonnementer](/shop/abonnementer/abonnementer-til-dig/)  \n[Opgrader dit abonnement på Mit Telenor](/mit-telenor/abonnement/)\n\n  * ## Tryk på \"Indstillinger\"\n\n  * ## Vælg \"Internetdeling\"\n\n  * ## Tryk på \"Internetdeling\", så knappen bliver grøn\n\nFølg instrukserne, alt efter om du ønsker at forbinde din enhed via WiFi,\nBluetooth eller USB."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:18+00:00",
+        "last_modified": "2025-05-21T15:15:55.885236",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

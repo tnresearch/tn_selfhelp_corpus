@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_profiler.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 176,
+                "end": 4219,
+                "text": "# Slik bruker du profiler med T-We\n\nProfiler gjør det mulig å tilpasse innhold til alle i familien. Her hjelper vi\ndeg med å opprette, endre, sette aldersgrense eller bytte mellom profiler i\nTV-menyen.\n\nProfiler:Slik ser det ut når du har valgt profil-ikonet fra TV-menyen.\n\n## Opprett ny profil\n\n  1. Trykk på knappen merket MENU eller T-We på fjernkontrollen avhengig av hvilken fjernkontroll du har\n\n  2. Velg profil-ikonet øverst til venstre\n\n  3. Velg **Ny profil** og trykk **OK**\n\n  4. Gi profilen et navn og velg profiltype\n\n  5. Trykk **Opprett**\n\nInnstillinger som språk, farge, aldersgrense og tillatelser kan settes før du\ntrykker \"Opprett\", eller du kan gå tilbake å endre innstillingene senere.\n\n **NB!** Hvis du vil hindre tilgang til profilen må valget **PIN-beskyttet**\nsettes til **Ja**. Da vil du i tillegg måtte oppgi PIN-kode når du logger inn\npå profilen.\n\n## Bytte mellom profiler\n\nDen aktive profilen er til enhver tid synlig øverst til høyre på skjermen. For\nå bytte profil velger du profil-ikonet fra menyen og velger profilen du ønsker\nunder \"Velg profil\".\n\n **Profilvelger ved oppstart:**\n\nNår du starter opp TV-boksen, vil du få beskjed om å velge ønsket profil. Her\nkan du fjerne hake for at dette valget skal vises hver gang du starter opp TV-\nboksen. Gjør du dette, vil TV-boksen velge den profilen du brukte sist ved\nneste oppstart.  \nDu kan også fjerne denne popup'en slik:\n\n  1. Gå til innstillinger\n\n  2. Velg Profiler\n\n  3. Endre fra «Ja» til «Nei» på \"Vis profilvelger ved oppstart\".\n\n### VIDEO: se hvordan du oppretter ny profil på din T-We Boks\n\n## Profiltyper i T-We\n\nFørste gang du setter opp din T-We boks har du tilgang til to profiler: Owner\nog Kids. Owner er en administrator-profil, mens Kids er tilpasset barn.\n\nAlle profiler med unntak av Kids har tilgang til å bruke PIN-kode. Denne blir\ndu bedt om å oppgi når du skal endre enkelte innstillinger, leie film, eller\nlåse opp innhold som av andre årsaker er begrenset.\n\nProfiltypen og aldersgrensen du har valgt bestemmer hvilke tilganger du har.\n\nPIN-kode\n\nDe fleste endringer krever at du er innlogget som Owner eller har tilgang til\nPIN-koden som er satt på Owner-profilen fra en standardprofil.\n\nHer finner du mer [informasjon om PIN-kode for\nT-We](/kundeservice/tv/brukerveiledning-t-we/pin-kode/).\n\n## Owner\n\nHar tilgang til alt innhold med PIN-kode. Profilen kan ikke endres eller\nslettes.\n\n## Kids\n\nHar ikke tilgang til innhold som krever PIN-kode, bortsett fra filmleie. Ved\nspørsmål om PIN, må man bytte til Owner eller standardprofil.\n\n## Standard\n\nHar tilgang til alt innhold med PIN-kode unntatt innstillinger i Owner-\nprofilen.\n\n## Aldersgrense på profiler\n\nDu kan endre aldersgrensen på en hvilken som helst profil, men Kids er låst\ntil enten 6, 9 eller 12 år. Som standard er aldersgrensen for Kids satt til 6\når, noe som betyr at innhold med høyere aldersgrense blir utilgjengelig for\nbrukeren.\n\n **Slik endrer du aldersgrensen:**\n\n  1. Trykk på MENU-knappen eller T-We på fjernkontrollen avhengig av hvilken fjernkontroll du har\n\n  2. Velg profil-ikonet øverst til venstre\n\n  3. Trykk på blyant-ikonet under profilen du vil endre\n\n  4. Velg **Endre profil**\n\n    * Tast PIN-koden til profilen dersom den har egen PIN-beskyttelse\n\n  5. Velg **Aldersgrense** og endre til ønsket grense\n\n **  \n**Hvis du setter aldersgrense på profilen til 18+ vil du ikke bli bedt om å\ntaste inn[PIN-kode](/kundeservice/tv/brukerveiledning-t-we/pin-kode/) for\naldersmerket innhold.\n\n **NB: Aldersgrense på profiler gjelder ikke for strømmetjenester.** Disse har\negne profilinnstillinger, og du må sette egne grenser i de forskjellige\ntjenestene.\n\n## Slette en profil\n\n  1. Trykk på MENU-knappen eller T-We på fjernkontrollen avhengig av hvilken fjernkontroll du har\n\n  2. Velg profil-ikonet øverst til venstre\n\n  3. Velg blyant-tegnet på profilen du ønsker å slette\n\n  4. Tast PIN-koden til profilen dersom den har egen PIN-beskyttelse\n\n  5. Velg **Slett profil**\n\nSlette en profil:Slik ser det ut når du ønsker å slette en profil fra TV-\nmenyen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:36+00:00",
+        "last_modified": "2025-05-30T09:33:31.451004",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

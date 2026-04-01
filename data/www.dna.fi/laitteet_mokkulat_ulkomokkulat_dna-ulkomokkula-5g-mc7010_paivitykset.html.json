@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_dna-ulkomokkula-5g-mc7010_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 394,
+                "end": 2278,
+                "text": "# DNA Ulkomokkula 5G MC7010\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/kayttoonotto) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/vianmaaritys) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/asetukset)\n\n## Päivitykset\n\n#### MC7010 on saanut päivityksen viikolta 17/2024 alkaen\n\n**Päivityksen sisältö:**\n\n  * verkkovalinnan oletusasetus muuttuu 5G NSA:ksi\n  * laitevalmistajan tietoturvakorjauksia\n  * muita pieniä bugikorjauksia\n  * uusi ohjelmistoversio: MC7010_DNA5_B16\n\n#### Vanhemmat päivitykset\n\n#### MC7010 on saanut päivityksen 19.6.2023 alkaen\n\n  * Päivitys sisältää useita laitteen toimintaa parantavia korjauksia laitevalmistajalta.\n  * Uusi ohjelmistoversio: MC7010_DNA5_B14\n\n#### **22.11.2022**\n\n  * Päivitys sisältää useita laitteen toimintaa parantavia korjauksia laitevalmistajalta.\n  * Uusi ohjelmistoversio: MC7010_DNA4_B12\n\n**21.3.2022**\n\n  * päivitys sisältää tietoturva- ja bugikorjauksia laitevalmistajalta\n  * päivityksen jälkeen verkkokäyttöliittymästä on mahdollista tehdä 5G NSA-verkossa taajuuslukitus joko 700 MHz (n28) tai 3500 MHz (n78) taajuusalueelle\n  * Uusi ohjelmistoversio: MC7010_DNA3_B09\n\n**4.9.2021**\n\n  * Päivitys sisältää käyttöä ja toimintaa parantavia korjauksia, sekä laitteen hallintasivuille että laitteen toiminnallisuuksiin.\n  * HUOM: Päivityksen yhteydessä APN-profiili palautuu oletusasetukseen, eli mikäli olet vaihtanut APN-määritykset laitteen hallintasivuilta, täytyy muutokset tehdä uudelleen. \n  * Uusi ohjelmistoversio: DNA_FI_MC7010V1.0.0B07\n\n",
+                "heading": "DNA Ulkomokkula 5G MC7010"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:13+00:00",
+        "last_modified": "2025-06-20T19:14:08.796876",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

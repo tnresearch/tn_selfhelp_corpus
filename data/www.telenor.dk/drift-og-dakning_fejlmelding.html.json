@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/drift-og-dakning_fejlmelding.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1100,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Anmeld fejl på mobilnetværket\n\nHvis du oplever udfald eller andre problemer, opfordrer vi dig til at kontakte\nkundeservice, som vil forsøge at afhjælpe fejlen. Du er også altid velkommen\ntil at dele dine oplevelser med os gennem Mit Telenor-app'en, hvor dit input\nhar stor værdi i forhold til at lave generelle forbedringer på netværket.\n\nVær opmærksom på, at når du deler din oplevelse med os via Mit Telenor-app'en,\nså bliver der ikke fejlrettet på din sag. Har du behov for fejlretning, skal\ndu kontakte [kundeservice](/kundeservice/kontakt/).\n\nInden du fejlmelder, bør du altid tjekke vores [driftsstatus\n](/kundeservice/drift-og-dakning/driftstatus/tjek-driftstatus/\n\"Driftstatus\")og du kan på forhånd tjekke den forventede dækning på vores\n[dækningskort](/kundeservice/drift-og-dakning/dakning/dakningskort/\n\"Dækningskort\").\n\nDownload Mit Telenor appen gratis fra [App\nStore](https://apps.apple.com/dk/app/mit-telenor-dk/id1228187905 \"Mit Telenor\nappen - App STore\") eller [Google\nPlay.](https://play.google.com/store/apps/details?id=com.telenor.self_service\n\"Mit Telenor app - Google Play\")"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:35+00:00",
+        "last_modified": "2025-05-21T15:15:36.511170",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

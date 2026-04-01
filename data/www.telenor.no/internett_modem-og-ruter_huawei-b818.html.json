@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_huawei-b818.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 186,
+                "end": 2543,
+                "text": "# Hjelp til Huawei B818\n\nHer finner du hjelp og veiledninger for din ruter til Mobilt Bredbånd eller\nTrådløst Bredbånd\n\n## Enkle steg for å komme på nett\n\n  * #### Sett inn SIM-kort\n\nKnekk ut SIM-kortet til mikro-SIM størrelse, og følg bildene nedenfor for\nhjelp med å plassere SIM-kortet i ruteren.\n\nPass på at du setter inn SIM-kortet riktig vei, og at det klikker på plass.\n\n  * #### Koble til strøm\n\nKoble til strømadapteret på ruterens bakside og så til en strømkilde. Ruteren\nvil slå seg på automatisk.\n\n  * #### Koble til WiFi\n\n **Windows**\n\n    1. Venstreklikk på ikonet for trådløst nettverk nede ved klokken og datoen\n\n    2. Finn nettverket som samsvarer med nettverksnavnet på undersiden av ruteren og trykk **Koble til**\n\n    3. Skriv inn nettverkspassordet som står på undersiden av ruteren og trykk **Koble til**\n\n **Mac**\n\n    1. Trykk på Airport ikonet for trådløst nettverk\n\n    2. Finn nettverket som samsvarer med nettverksnavnet på undersiden av ruteren og trykk **Koble til**\n\n    3. Skriv inn nettverkspassordet som står på undersiden av ruteren og trykk **Koble til**\n\n  * #### Fullfør veiviseren\n\n    1. Sørg for at du er tilkoblet det trådløse nettverket til ruteren (steg 3)\n\n    2. Åpne nettleseren\n\n    3. Følg veiviseren som dukker opp i nettleseren\n\nMerk: Om veiviseren ikke dukker opp automatisk, kan du starte den ved å søke\nopp 192.168.1.1 i adressefeltet til nettleseren.\n\n **PIN-kode  \n** I veiviseren vil du bli bedt om å taste inn en PIN-kode. Denne finner du i\nbrevet du mottok sammen med SIM-kortet til ruteren.\n\nHvis du ikke finner PIN-koden, kan du [hente ut PUK-koden på Mine Side](/mitt-\ntelenor/)[r](https://www.telenor.no/privat/minesider/web/mobil/). Når du har\ntastet inn PUK-koden vil du bli bedt om å lage en ny PIN-kode.\n\n**Slik henter du PUK-koden**\n\n    1. Logg inn på Mine Sider\n\n    2. Velg abonnementet det gjelder\n\n    3. Under **Enheter og SIM** , velg SIM-kortet det gjelder\n\n    4. Trykk på **Vis PUK-kode**\n\n### Brukermanual\n\n[Brukermanual](/binaries/kundeservice/internett/modem-og-\nruter/huawei-b818/brukermanual-huawei-b818.pdf)\n\n### Mitt WiFi - Ruteradministrasjon\n\nØnsker du å endre nettverksnavn og/eller passord, åpne porter eller sette opp\ngjestenettverk?\n\nVi har samlet veiledninger for administrering av din ruter her.\n\n[Les mer ➜](/kundeservice/internett/wifi/administrere-ruter-b818/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:34+00:00",
+        "last_modified": "2025-05-30T08:51:20.624724",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_iphone_los-dit-problem_problemer-med-mms.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1760,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Problemer med at modtage eller sende mms\n\nMåske er du kommet til at ændre dine mms-indstillinger? Følg nedenstående\nvejledninger, så er du sikker på at have den korrekte opsætning.  \n  \n **Slå mms til**  \nVælg \"Indstillinger\" > \"Beskeder\". Her kan du slå \"Mms-besked\" til eller fra.\n\n**Ret dine mms-indstillinger**  \nVælg \"Indstillinger\" > \"Generelt\" > \"Mobil\" > \"Mobildata netværk\" I sektionen\n\"MMS\" skal der stå følgende:\n\n  * I feltet APN skrives telenor (små bogstaver)\n  * Feltet Brugernavn skal være tomt\n  * Feltet Adgangskode skal være tomt\n  * I feltet MMSC skal der stå http://mms.telenor.dk\n  * I feltet MMS-proxy skal der stå 212.088.064.008:8080\n  * Sluk og tænd mobilen\n\n## Hvis du ikke kan sende mms’er\n\n  * Genstart mobilen. Når du genstarter mobilen vil den automatisk rette eventuelle fejl og søge efter nye softwareopdateringer. Er der en softwareopdatering klar, så anbefaler vi, at du henter den.\n  * Er du inden for datadækning? Det kræver internetforbindelse at sende og modtage mms’er.   \n[Tjek dækningskort](/kundeservice/drift-og-dakning/dakning/dakningskort/ \"Tjek\ndækningskort\")\n\n  * Kan du sende en mms til dig selv? Modtager du din egen mms, ligger problemet sandsynligvis i modtagerens mobilopsætning.\n  * Er din mobil lige blevet genåbnet efter spærring, kan der gå et stykke tid, før du kan sende/modtage mms'er som normalt.\n\n## Hvis du ikke modtager mms’er på mobilen\n\n  * Tjek, at din mobil er sat op til at kunne modtage mms’er\n  * Din mobil har været uden for datadækning, da mms'en blev sendt til dig\n  * Din mobil har ikke plads til at modtage en mms. Slet evt. billeder, apps eller andet indhold, der fylder op på mobilen\n  * Du har været i udlandet, og data-roaming var slået fra på din mobil, da mms'en blev afsendt"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:02+00:00",
+        "last_modified": "2025-05-21T15:15:57.727503",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

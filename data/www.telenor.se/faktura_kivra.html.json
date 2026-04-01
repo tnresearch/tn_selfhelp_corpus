@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/faktura_kivra.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 268,
+                "end": 705,
+                "text": "#  Betala via Kivra\n\nFör dig som har fast bredband, tv eller hemtelefoni via bredbandet\n\nOm du är ansluten till Kivra och inte har bytt till\n[e-faktura](/support/faktura/e-faktura/) eller\n[autogiro](/support/faktura/autogiro/) kommer dina fakturor att skickas dit.\nFaktureringsavgiften är 49 kronor per gång.\n\nKivra är en privat tjänst för säker digital post från företag och myndigheter.\n\nLäs mer på [Kivra.com](https://www.kivra.com)\n\n",
+                "heading": " Betala via Kivra"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:16+00:00",
+        "last_modified": "2025-05-30T13:58:49.344038",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

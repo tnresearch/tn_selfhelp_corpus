@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_regning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 4349,
+                "reason": "Selected by user",
+                "start": 2230,
+                "text": "#  Din første regning\n\nDin første regning er højere end din normale abonnementspris, da den dækker\nmere end én måned. Du betaler nemlig fra den dag dit abonnement starter og\nindtil den 15. – plus en måned mere herefter. Det er helt normalt og betyder\nbare, at der går lidt længere tid, før du modtager din første regning. Det\nsamme gælder, hvis du har fået et nyt abonnement på regningen.\n\n**Ekstra forbrug  \n** På din regning finder du en samlet pris for dit abonnement, tilvalgte\nservices og eventuelt ekstra forbrug. Ekstra forbrug kan være, hvis du ringer\nuden for EU, donerer penge eller køber busbilletter med mobilen. Du finder det\nunder _Ekstra forbrug_ på din regning.  \nHer er nogle eksempler på, hvad du kan betale med mobilen:\n\n  * Indholdstjenester – når du deltager i konkurrencer, henter ringetoner og spiller spil\n  * Køb af bus og togbilletter – når du bruger sms-kvitteringen som billet\n  * Køb i Google Play eller App store – det kan være apps, in-app køb og licenser\n  * Afstemninger – det kan være, hvis du stemmer i Vild Med Dans\n  * Donationer – det kan være, hvis du giver penge til Knæk Cancer\n\n[Se mere på Mit Telenor](/mit-telenor/), hvor du løbende kan følge dit ekstra\nforbrug hver måned.\n\n**Forbrugsmax  \n** Vi har sat forbrugsmax på dit abonnement, så du undgår overforbrug og\nlettere kan følge med i dit ekstra forbrug.  \n[Læs mere om forbrugsmax](/kundeservice/Mobilabonnementer-og-services/andre-\nservices/forbrugsmax/)\n\n**Godt at vide om din regning**\n\n  * Betalingsperioden går fra den 16. til den 15. i måneden\n  * Du betaler forud for dit abonnement og tilvalgte services – det vil sige inden, at du har brugt det\n  * Du betaler bagud for eventuelt ekstra forbrug – det vil sige efter, at du har brugt det\n  * Du kan finde din regning på [MitTelenor.dk/regning](/mit-telenor/regning/) omkring den 20. hver måned\n\n**Er din regning under 59 kr.? Så overfører vi til næste måned  \n** Hvis din regning er under 59 kr., overfører vi den til næste måned og\nlægger den sammen med din næste regning. Har du 3 lave regninger i træk,\nlægger vi dem sammen og sender én samlet regning til dig."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:44+00:00",
+        "last_modified": "2025-05-21T15:15:49.497355",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

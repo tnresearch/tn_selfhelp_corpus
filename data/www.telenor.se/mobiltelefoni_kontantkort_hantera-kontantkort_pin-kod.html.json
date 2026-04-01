@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_hantera-kontantkort_pin-kod.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 354,
+                "end": 2016,
+                "text": "#  Pinkod och pukkod\n\nVill du byta pinkod eller letar du efter din pukkod? Här guidar vi dig rätt.\n\n## Pinkod\n\nPinkoden är den kod som skyddar själva simkortet mot att andra personer kan ta\nsig in i din mobiltelefon och använda ditt abonnemang eller kontantkort. Om du\nflyttar över simkortet till en annan telefon gäller samma pinkod.\n\n###\n\nHitta pinkoden\n\nPinkoden hittar du i samma brev som simkortet skickades ut i.\n\nGlömd pinkod\n\nGå igenom de här stegen om du har glömt din pinkod:\n\n  1. Ta fram din åttasiffriga pukkod. (Läs här nedanför om var du hittar den). \n  2. Ange fel pinkod tre gånger. \n  3. Skriv in din pukkod. \n  4. Skapa en ny pinkod. \n\nKan du inte låsa upp simkortet med hjälp av pinkoden eller pukkoden, eller ser\ndu en varningstext som säger \"PUK förbrukad\", behöver du [beställa ett nytt\nsimkort](/link/b3aaf0096b26492daf6e45809589e191.aspx).\n\nByta pinkod\n\n**Direkt via knappsatsen i telefonen  \n** **04*gammal PIN-kod*ny PIN-kod*ny PIN-kod# **  \n**\n\n**Androidtelefon**  \nFör att byta pinkoden för simkortet på en Android-mobil går du till följande\npå din telefon: Inställningar > Låskärm och Säkerhet > Ställ in lås för SIM-\nkort .  \n  \n **iPhone**  \nOm du har en telefon med iOS som operativsystem (iPhone) går du till följande:\nInställningar > Telefon > SIM-PIN > Ändra PIN.\n\n##  \nPukkod\n\nPukkoden är en åttasiffrig kod som du använder när du har skrivit in en\nfelaktig pinkod tre gånger. Du som har mobilabonnemang hittar den genom att\nlogga in i Mitt Telenor – antingen här [på webben](/mitt-telenor/) eller i\n[vår app](/archive/2019/mitt-telenor-old/). Har du kontantkort? [Kontakta\noss](/support/old-kontakta-oss/) så hjälper vi dig."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:10+00:00",
+        "last_modified": "2025-05-30T14:49:57.367737",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

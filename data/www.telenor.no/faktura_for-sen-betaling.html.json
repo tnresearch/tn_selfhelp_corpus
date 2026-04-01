@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/faktura_for-sen-betaling.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 124,
+                "end": 2261,
+                "text": "# For sen betaling og inkasso\n\nHer finner du informasjon om purregebyr, stengt abonnement og inkasso.\n\n **Purring  \n** Hvis du ikke betaler fakturaen din ved forfall, vil du få en\nbetalingspåminnelse. Da får du også et gebyr for purringen i tillegg til den\nopprinnelige summen. Gebyret vil variere litt på de forskjellige tjenestene.\n\n **Inkasso  \n** Hvis du ikke betaler purringen innen fristen, vil fakturaen kunne gå til\ninkasso, og det legges til enda et gebyr. Når fakturaen går til inkasso\novertar inkassobyrået kravet fra Telenor, og du må betale regningen til dem.\n\nHvis faktura forblir ubetalt for lenge kan abonnementet ditt bli stengt. Hvor\nlang tid det tar varierer for mobil, internett og TV.\n\n## Hvordan åpne stengt abonnement\n\n  * #### Åpne stengt mobilabonnement\n\n **Betale med kort  \n** For rask åpning av abonnementet kan du betale den **utestående fakturaen\ndirekte på nettsiden til inkassobyrået.** Betaler du faktura med kort eller\nVipps der blir abonnementet åpnet innen 60 minutter.\n\n **Betale faktura via nettbank  \n** Hvis du betaler alt til inkassobyrået via nettbank, blir abonnementet\ngjenåpnet når inkassobyrået har mottatt innbetalingen. Fra du har betalt\nregningen i nettbanken tar det vanligvis inntil et døgn før abonnementet blir\ngjenåpnet.\n\nVi kan dessverre ikke åpne abonnementet noe raskere selv om du sender oss\nkvittering på innbetaling, inkassobyrået må melde fra til Telenor.\n\n  * #### Åpne stengt bredbånd- eller TV-abonnement\n\nHvis signalene på TV-en eller internettet ditt har blitt stengt, må du betale\nutestående faktura for å få det tilbake. Abonnementet åpnes så snart\ninnbetaling er mottatt hos oss. For internett må du også betale et\ngjenåpningsgebyr, som blir lagt til på neste faktura.\n\nFakturaer som har gått til inkasso må betales direkte til inkassoselskapet.\nAbonnementet blir gjenåpnet når inkassobyrået har mottatt innbetalingen. Fra\ndu har betalt regningen i nettbanken, tar det vanligvis inntil 3 dager før\nabonnementet blir gjenåpnet.\n\nVi kan dessverre ikke åpne abonnementet noe raskere selv om du sender oss\nkvittering på innbetaling, inkassobyrået må melde fra til Telenor."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:58+00:00",
+        "last_modified": "2025-05-30T08:24:37.864437",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

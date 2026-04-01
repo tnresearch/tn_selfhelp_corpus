@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wlan-mf910.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 298,
+                "end": 1265,
+                "text": "# DNA Matkamokkula 4G WLAN MF910\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/vianmaaritys)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje\n(pdf)](https://www.dna.fi/documents/753910/853450/MF910D_DNA_k%C3%A4ytt%C3%B6ohje.pdf/)\n\n",
+                "heading": "DNA Matkamokkula 4G WLAN MF910"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:08+00:00",
+        "last_modified": "2025-06-20T19:05:14.873114",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

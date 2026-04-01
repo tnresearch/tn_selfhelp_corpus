@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-e3131_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 367,
+                "end": 1771,
+                "text": "# DNA Mokkula E3131\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/vianrajaus)\n\n## Ominaisuudet\n\n### DNA Mokkula E3131\n\n**Tuotenimi: Huawei 3131**\n\nDNA Mokkula E3131 on näppärä mokkula sinulle, joka arvostat pientä kokoa.\n\n  * HSPA+ enimmäisnopeus 21,1 Mbit/s\n  * HSDPA enimmäisnopeus 14,4 Mbit/s\n  * Automaattinen asennus\n  * MicroSD-muistikorttipaikka (32 Gt asti)\n  * CRC9-liitäntä ulkoiselle antennille\n  * Mokkula kiinnitetään suoraan tietokoneen USB-porttiin\n  * Mini-SIM-korttin eli normaalin kokoinen SIM-kortti\n\n### Laitteistovaatimukset / Tuetut käyttöjärjestelmät:\n\n  * USB-portti v. 1/2/3\n  * Tuetut käyttöjärjestelmät, kun käyttö USB:n kautta: Windows XP SP3 tai uudempi, Vista SP1 tai uudempi, Windows 7, Windows 8 ​​​/ 8.1, Windows 10, MacOSX 10.7, 10.8, 10.09, 10.10\n  * Internet-selain hallintasivun käyttöön: Microsoft Internet Explorer 6.0 tai uudempi, Firefox 2.0 tai uudempi, Safari 4.0 tai uudempi, Opera 10.0 tai uudempi, Chrome 5.0 tai uudempi\n\n",
+                "heading": "DNA Mokkula E3131"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:46+00:00",
+        "last_modified": "2025-06-20T19:12:33.611908",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

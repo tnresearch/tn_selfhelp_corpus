@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/e-post.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 75,
+                "end": 889,
+                "text": "# Hjelp til Online e-post\n\nHer finner du hjelp og veiledninger til e-post.\n\n## Leter du etter dette?\n\n[Glemt passord](/kundeservice/e-post/glemt-passord/)[Hjelp til\nwebmail](/kundeservice/e-post/oppsett/webmail/)[Endre spam-\ninnstillinger](/kundeservice/e-post/problemer/spam/)[Si opp\ne-postkonto](/kundeservice/e-post/oppsigelse-online-epostkonto/)[Endringer\nOnline e-post](/kundeservice/e-post/vi-lanserer-en-forbedret-eposttjeneste/)\n\n### Har du fått en mistenkelig e-post eller SMS?\n\nHer gir vi deg tips og råd om hva du bør gjøre når du har mottatt en tvilsom\nSMS eller e-post.\n\nHar du mottatt en svindelmelding på SMS eller e-post som du gjerne vil tipse\noss om? Da kan du [rapportere det inn\nher.](https://www.telenor.no/kundeservice/svindel/#rapporter)\n\n[Les mer om svindelforsøk ➜](/kundeservice/svindel/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:42+00:00",
+        "last_modified": "2025-05-30T08:19:20.924838",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_Mobilt-internetabonnement.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 694,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Skift abonnement på mobilt internet\n\nEr det lang tid siden, du har købt abonnement, lever det måske ikke længere op\ntil dine krav og behov. Er du ude af binding, er det gratis at skifte\nabonnement, uanset om du ønsker at skifte til et med flere eller færre GB.\n\nDin bindingsperiode er 6 måneder, fra den dato du har modtaget bekræftelse for\ndit abonnement.\n\n**Din regning, når du har ændret abonnement**  \nHar du skiftet abonnement, kan din regning se anderledes ud, end den plejer.\nDet er fordi du både betaler for dit nye abonnement – og får penge tilbage fra\ndit gamle. Det er helt normalt, og du kommer ikke til at betale for meget.\n\n[Kontakt os](/kundeservice/kontakt/) for at få hjælp."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:29+00:00",
+        "last_modified": "2025-05-21T15:16:05.602327",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_hantera-abonnemang_bindningstid-uppsagningstid.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 360,
+                "end": 1392,
+                "text": "#  Bindningstid och uppsägningstid\n\nHär kan du läsa om hur du tar reda på vilken uppsägningstid och eventuell\nbindningstid som gäller för ditt mobilabonnemang.\n\n## Bindningstid\n\nSom kund hos Telenor kan du välja att binda ditt abonnemang och på så sätt få\nrabatt eller något annat trevligt, till exempel dubbel surf.\n\n### Osäker på om ditt abonnemang är bundet eller inte?\n\nLogga in i Mitt Telenor och kolla! Antingen här [på webben](/mitt-telenor/)\neller i [vår app](/archive/2019/mitt-telenor-old/). Tänk på att olika\nanvändare i abonnemanget kan ha olika bindningstid.\n\n### Om du vill ändra något under bindningtiden\n\nOm ditt mobilabonnemang är bundet kan du **byta till mer, men inte mindre,\nsurfmängd**. Även om du byter surfmängd behåller du samma bindningstid, den\nförlängs alltså inte om du skaffar mer surf.\n\n##  \nUppsägningstid\n\nUppsägningstiden för mobilabonnemang är en månad.\n\nDu hittar ditt avtal i Mitt Telenor. Logga in antingen här [på webben](/mitt-\ntelenor/) eller i [appen](/archive/2019/mitt-telenor-old/).  \n  "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:06+00:00",
+        "last_modified": "2025-05-30T14:24:43.948043",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

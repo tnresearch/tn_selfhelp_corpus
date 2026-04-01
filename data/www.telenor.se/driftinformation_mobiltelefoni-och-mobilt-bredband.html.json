@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/driftinformation_mobiltelefoni-och-mobilt-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 314,
+                "end": 1071,
+                "text": "# Drift och täckning – mobilnätet\n\n##\n\n[ Vad som påverkar mottagning och hastighet\n](/support/driftinformation/mobiltelefoni-och-mobilt-bredband/vad-som-\npaverkar-mottagning-och-hastighet/)\n\n[ Mobiltäckning i Sverige ](/support/driftinformation/mobiltelefoni-och-\nmobilt-bredband/mobiltackning-i-sverige/)\n\n## Hjälp om du har problem med...\n\n  * [ att surfa  ](/support/mobiltelefoni/guider/problemlosning-och-felsokning/felsokning/felsokning-surf/)\n  * [ sms i din iPhone  ](~/link/3af05b67235444ec8abe455cef5de39c.aspx)\n  * [ mms i din iPhone  ](~/link/3b3d04aeb98446d8a3edd4f9edd2f94d.aspx)\n  * [ sms i din Android-telefon  ](~/link/a926ded7f8bb4549900aa61912d886f6.aspx)\n  * [ mms i din Android-telefon  ](~/link/88b60ae8a41c45e3b1592e8ae8caec7d.aspx)\n\n",
+                "heading": "Drift och täckning – mobilnätet"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:44+00:00",
+        "last_modified": "2025-05-30T13:49:27.580843",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

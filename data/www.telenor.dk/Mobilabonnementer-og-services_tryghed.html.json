@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_tryghed.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2362,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Telenor Tryghedspakke\n\nDu kender måske Telenor Tryghedspakke som NetSikker, men fordi det er meget\nmere end sikkerhed på nettet, har vi ændret navnet. Telenor Tryghedspakke\ngiver den samme gode dækning som NetSikker – og lidt til.\n\nTelenor Tryghedspakke giver dig juridisk rådgivning og hjælp, hvis du bliver\nudsat for online svindel eller digitale krænkelser. Derudover er der nu\ninkluderet filtre, der beskytter dig mod falske mails og sms’er.\nTryghedspakken er inkluderet i mobilabonnementer og internetabonnementer* fra\nTelenor.\n\nTelenor Tryghedspakke er et samarbejde mellem Telenor og HELP Forsikring.\n\n* Gælder 5G internet og internet via fiber.\n\nHvad dækker Telenor Tryghedspakke?\n\nMed Telenor Tryghedspakke får du dine penge igen, hvis du fx bliver snydt af\nen webshop. Derudover får du dækket eventuelle sagsomkostninger.\n\nDu får juridisk rådgivning og hjælp til politianmeldelse, hvis du bliver\nkrænket på nettet - og dygtige jurister tager hånd om din sag fra start til\nslut. Krænkelser kan fx være digital mobning, hacking, falske profiler og\nuønsket deling af private billeder.\n\nTryghedspakken indeholder også en tjeneste, der blokerer hjemmesider med\nvirus, svindel og skadeligt indhold, samt filtre, der beskytter dig mod falske\nmails og sms’er. Læs mere om, hvad Telenor Tryghedspakke dækker\n[her](/shop/telenor-tryghedspakke/).\n\nHvordan får jeg Telenor Tryghedspakke?\n\nDu er automatisk dækket af Telenor Tryghedspakke, hvis du har et mobil- eller\ninternetabonnement hos Telenor.  \n  \nHar du et mobilabonnement, dækker Telenor Tryghedspakke brugeren af\nabonnementet. Har du et internetabonnement dækker Telenor Tryghedspakke hele\nfamilien.\n\nJeg er blevet snydt, hacket eller krænket, hvordan gør jeg brug af Telenor\nTryghedspakke?\n\nDu kan kontakte HELP på telefon **39 90 09 00** eller ved at sende en mail til\n**kontakt@helpforsikring.dk**. De kan hjælpe med rådgivning, og hvis det er\nnødvendigt, tager en jurist hånd om din sag fra start til slut.\n\n**HELPs åbningstider er:**  \nMandag – fredag: 08-20  \nLørdag: 09-17  \nSøndag: 10-15\n\nDu kan altid ringe, hvis du har brug for hjælp til en konkret sag, eller hvis\ndu har spørgsmål vedr. digitale krænkelser, fx. digital mobning, falske\nprofiler eller uønsket deling af private billeder. Du kan læse mere om\nsamarbejdet med HELP Forsikring [her](https://helpforsikring.dk/hvem-er-\nvi/telenor)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:30+00:00",
+        "last_modified": "2025-05-21T15:15:30.542207",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

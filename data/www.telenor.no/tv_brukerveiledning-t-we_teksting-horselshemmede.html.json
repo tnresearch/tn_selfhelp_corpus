@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_teksting-horselshemmede.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 191,
+                "end": 2963,
+                "text": "# Teksting for hørselshemmede\n\nHer finner du hjelp og veiledning til å skru på undertekster for\nhørselshemmede på T-We bokser og T-We App.\n\nTelenor tilbyr undertekster på de aller fleste kanaler, både på direkte TV-\nsendinger og for programmer som har Start Forfra og Ukesarkiv, i tillegg til\narkiv og Filmleie. For noen kanaler har vi også undertekster for\nhørselshemmede. Hva slags undertekster som er tilgjengelige varierer fra kanal\ntil kanal og fra program til program.\n\nUndertekster for hørselshemmede er for tiden tilgjengelig på følgende kanaler:\n**NRK 1, NRK 2, NRK 3, TV 2, TVNorge, TV3, FEM, VOX og REX**.\n\nPå NRK-kanalene kan du av og til oppleve at teksten kuttes (mangler ord i\nslutten av setningene) i programmet på Start Forfra, i Ukesarkivet og på noen\ndirekte TV-sendinger. Vi jobber med å utbedre dette.\n\n  \n\n## Faste undertekster\n\nVia Innstillinger på TV-menyen kan du justere språk og undertekster. Her kan\ndu sette på teksting permanent, slik at de kanalene som leverer undertekster\nfor hørselshemmede automatisk har dette aktivert.\n\n **Akkurat nå er dette kun tilgjengelig for direkte TV**. Bruker du Start\nForfra eller Ukesarkiv må du inntil videre sette på undertekster for\nhørselshemmede på hvert enkelt program.\n\n  \n\n### Skru på fast teksting\n\n  1. Velg **☰** fra TV-menyen\n\n  2. Velg **Innstillinger**\n\n  3. Under **Dekoderinnstillinger,** velg **Språk og tekst**\n\n  4. Sett Ja på **Vis undertekster**\n\n  5. Sett Ja på **Hørselshemmet**\n\n## Teksting på enkeltkanaler\n\nHvis du ønsker, kan du skru av og på eller endre på undertekster på\nenkeltkanaler.\n\nFor Start Forfra og Ukesarkiv-tjenestene støttes teksting for\nhørselshemmede,men dette må skrus på per program. Dette kan du enkelt gjøre\nvia OPTIONS eller ?☰ -knappen på fjernkontrollen.\n\n## Teksting på NRK TV App\n\nI NRK TV-appen finner du NRK TV’s arkivprogrammer. Her er de aller fleste\nprogrammer er tekstet. NRK ikke har støtte for direkte TV på appen.\n\nNår du har åpnet NRK TV-appen og valgt deg programmet du ønsker å se, kan du\nslå av og på tekstingen med undertekstknappen nede til høyre i spilleren.\n\nSe [https://info.nrk.no/tv/ ](https://info.nrk.no/tv/)for ytterligere\ninformasjon om hvordan man kan slå på undertekster.\n\n  \n\n## Teksting via Tekst-TV\n\nNoen kanaler, som TV 2 og TV3, har fortsatt Tekst-TV som alternativ til\nundertekster. Selve Tekst-TV tjenesten er avviklet, men du kan fortsatt bruke\ndet til å sette på undertekster på live-TV.\n\nTeksting på disse kanalene er ikke tilgjengelig på Start Forfra eller\nUkesarkiv.  \n\n  1. Mens du ser på TV 2 eller TV3, trykk på **?☰** -knappen på fjernkontrollen for vise alternativer-vinduet\n\n  2. Naviger til høyre med piltasten og velg **TEKST-TV**\n\n  3. Tast inn sidenummeret som brukes til teksting - 222 (TV 2) eller 333 (TV3)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:46+00:00",
+        "last_modified": "2025-05-30T09:35:38.979996",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

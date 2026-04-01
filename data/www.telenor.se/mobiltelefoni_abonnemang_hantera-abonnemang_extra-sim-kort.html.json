@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_hantera-abonnemang_extra-sim-kort.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 343,
+                "end": 1605,
+                "text": "#  Extra sim-kort\n\nBehöver du ett extra sim-kort till din surfplatta, eller till ditt barn som\njust fått sin första mobil? Oavsett vilket så ska du starta en Telenor Familj!\n\nMed vårt mobilabonnemang går det utmärkt att starta Telenor Familj med\nmöjlighet att lägga till upp till åtta användare. Det kan vara till exempel\nditt barn eller en surfplatta. Du gör på samma sätt oavsett vad det extra sim-\nkortet ska användas till.\n\nDitt abonnemang hittar du genom att logga in i Mitt Telenor – antingen här [på\nwebben](/mitt-telenor/) eller i [vår app](/archive/2019/mitt-telenor-old/).\n\n  \n[Läs mer om Telenor Familj och se\nkostnadsexempel](/handla/mobilabonnemang/telenor-familj/)\n\n## Lägg till ett extra sim-kort\n\n  \n[Extra sim för användare som vill kunna ringa och surfa](/bestall/extra-sim)  \n  \n[Extra sim för användare som vill kunna surfa](/bestall/extra-data)\n\n## Vanliga frågor om extra sim-kort\n\n  * Hur byter jag pin-kod på sim-kortet?\n\n**Om du har en Android-mobil:**  \n1\\. Gå till Inställningar  \n2\\. Välj Låsskärm  \n3\\. Välj Skärmlåstyp och följ sedan instruktionerna  \n  \n **Om du har en iPhone:**  \n1\\. Gå till Inställningar  \n2\\. Välj Mobilnät och därefter SIM-PIN  \n3\\. Välj reglaget direkt till höger om SIM-PIN och följ sedan instruktionerna.\n\n",
+                "heading": " Extra sim-kort"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:43+00:00",
+        "last_modified": "2025-05-30T14:24:58.384014",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

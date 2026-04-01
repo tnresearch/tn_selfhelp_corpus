@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_hjelp-til-innbytte.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 122,
+                "end": 4155,
+                "text": "# Innbytte av mobil\n\nHer finner du hjelp og veiledning når du vil bytte inn din gamle mobil\n\n## Gi din gamle mobil nytt liv!\n\nHar du en mobil du ikke bruker lengre, eller du har lyst på en nyere utgave?  \nNå kan du med [innbytte fra Telenor](/mobiltelefoner/innbytte/) få penger for\ndin gamle mobil - og med det gjøre ditt neste mobilkjøp litt rimeligere.\n\n## Hvordan bytter jeg inn mobilen?\n\nDu kan bytte inn mobilen både via telenor.no og i Telenorbutikken.\n\nVil du bytte inn umiddelbart, kan du ta turen innom en Telenorbutikk og få\nverdivurdering og innbytte der og da. [Finn din nærmeste\nTelenorbutikk](https://www.telenor.no/telenorbutikken/)\n\nØnsker du å sende inn per post, trykker du på knappen under.\n\nDa fyller du inn grunnleggende informasjon som IMEI og tilstanden på mobilen\nog får opp en estimert verdi. Når du har gjennomført bestillingsløpet, og\ntrykket på \"Bestill innbytte\" sender vi deg en returkonvolutt som du bruker\ntil å sende mobilen inn til oss.\n\n[Se estimert verdi og bestill innbytte](/mobiltelefoner/innbytte/bestill/)\n\n## Huskeliste før innsending:\n\n  1. Skru av sporingsfunksjoner som Find my iPhone, Samsung recovery og Find my device\n\n  2. Ta ut SIM-kort og eventuelt minnekort\n\n  3. Nullstill mobilen - Les mer om hvordan du gjør det her: [Slik nullstiller du mobilen din](https://www.telenor.no/kundeservice/mobil/din-mobil/nullstille-mobilen/)\n\n## Pakking og innsending\n\n  1. Når du har gått gjennom huskelisten, legg mobilen i returkonvolutten. Lader og annet tilbehør skal ikke sendes inn. \n\n  2. Skriv under på vedlagte kontrakt og legg denne i esken\n\n  3. Sett på returlappen og lever pakken på nærmeste postkontor/i butikk. Porto er allerede betalt. \n\n## Pristilbud og utbetaling\n\nNår vi har mottatt den innsendte mobilen, vil det etter en karantenetid på 14\ndager foretas en undersøkelse av mobilen og du vil få et pristilbud. Hvis du\ngodkjenner dette, vil summen bli utbetalt til kontonummeret du har oppgitt.\n\nHvis det skulle vise seg å være noen utfordringer med tilstanden på mobilen\neller endelig pristilbud ikke samsvarer med estimatet du fikk opprinnelig,\nkontakter vi deg med mer informasjon.\n\n## Ofte stilte spørsmål om innbytte\n\n  * #### Utstyret jeg vil bruke for innbytte er i dårlig stand - Kan jeg likevel ta innbytte med den?\n\nSelv om mobilen er i dårlig stand eller har knust skjerm, kan den ha en verdi.\nMobilen din kan få nytt liv! Vi sørger da for at den blir nullstilt og\nklargjort for ny eier, helt trygt.\n\nDet er enkelt og uforpliktende å [sjekke verdien på den gamle\nmobilen](/mobiltelefoner/innbytte/bestill/). Du kan enten få hjelp i\nTelenorbutikken, eller sjekke selv på nett.\n\n  * #### Gjelder innbytte også for iPad og nettbrett?\n\nJa, det kan du!\n\n  * #### Hvorfor er det 14 dager karantenetid?\n\nDet er lovpålagt med 14 dagers karantenetid, i henhold til\nBrukthandelforskriften §11.\n\n  * #### Jeg har kjøpt mobil med Splitt, kan jeg bytte inn den?\n\nJa, det kan du! Med innbytte blir månedsprisen på din nye mobil lavere.\n\nDet er enkelt og uforpliktende å [sjekke verdien på den gamle\nmobilen](/mobiltelefoner/innbytte/bestill/). Du kan enten få hjelp i\nTelenorbutikken, eller sjekke selv på nett.\n\n  * #### Jeg har kjøpt mobil med SWAP, kan jeg bytte inn den?\n\nVi avvikler SWAP i forbindelse med lanseringen av Splitt. [Her kan du lese mer\nom hva dette betyr for deg med en aktiv SWAP-\navtale](https://staging.telenor.no/swap/swap-avvikles/)\n\n  * #### Hva skjer hvis jeg ikke godtar prisforslaget på Innbytte?\n\nHvis beløpet vi kan tilby ikke er det samme som verdien du fikk estimert da du\nfylte ut skjemaet, så vil vi kontakte deg og gi deg informasjon om dette. Du\nkan da velge å si nei til tilbudet, og vi returnerer mobilen til deg uten\nkostnad.\n\n  * #### Hva skjer med mobilene etter innsending?\n\nNår vi mottar mobilen din, blir den grundig sjekket og alt av innhold trygt\nslettet. Er den i god stand, kan den så klargjøres og selges videre til en ny\neier. Hvis den er i dårlig stand, vil deler som forsatt virker gjenbrukes og\nresterende deler resirkuleres."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:53+00:00",
+        "last_modified": "2025-05-30T09:24:29.454683",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

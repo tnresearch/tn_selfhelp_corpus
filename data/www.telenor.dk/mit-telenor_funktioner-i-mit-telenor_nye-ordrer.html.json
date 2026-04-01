@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_funktioner-i-mit-telenor_nye-ordrer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 332,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Følg med i nye ordrer\n\nHvis du har bestilt en ny telefon, en anden router eller et nyt simkort kan du\ni Mit Telenor følge dine ordrer under fanen ”Ordre”. Her finder du alt fra\nstatus, ordrenummer, installationsdato og forventet leveringsdato. Hvis du\nafventer en forsendelse fra os, kan du desuden finde track & trace-nummer her."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:15+00:00",
+        "last_modified": "2025-05-21T15:15:52.933656",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_det-kan-vara-fel-pa-din-antennkabel.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 746,
+                "text": "# Det kan vara fel på din antennkabel\n\nProva att byta till en annan.\n\n  \n**Vill du att vi ska skicka en ny antennkabel?**  \n[Kontakta oss](/support/old-kontakta-oss/) och berätta hur lång kabel du\nbehöver. Du kan välja mellan 1,5, 2,5 eller 5 meter. Det kostar inget att\nbeställa en ny kabel.  \n  \n**Vill du skaffa en ny kabel på annat sätt?**  \nOm du själv köper en antennkabel tänk på att den ska vara minst dubbelskärmad\noch att den får vara max 7,5 meter lång. [Digihjälpen kan hjälpa dig att\nkoppla in och dra kabel](/handla/tjanster/smarta-hemmet/digihjalpen/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:24+00:00",
+        "last_modified": "2025-05-30T17:40:06.444305",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_lisalaitteet_telakka-tw-3g-flash-ofdm1.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 302,
+                "end": 1507,
+                "text": "## Telakka TW-3G Flash OFDM\n\n### Käyttöopas\n\nKäyttöopas saatavilla Telewellin sivulta\n[www.telewell.fi](https://www.telewell.fi/fi/tuote/tuotannosta-poistuneet-\ntuotteet/3g-tuotteet/tw_3g_thumb/tw-3g-flash-ofdm-reititin)\n\n### Valmistajan tuotenimi\n\nTelewell TW-3G Flash\n\n### Tuotekuvaus\n\nTelakka Telewell TW-3G oli toinen DNA myymä telakka. Tuotetta ei enää\nvalmisteta ja sen tuki erilaisilla USB-tikuille on rajallainen. Käytännössä\nuudet tikut eivät ole tuettuna.\n\n### Paketin sisältö\n\n  * Telakka\n  * Virtalähde\n  * Ethernet-kaapeli\n  * Pikaopas\n\n### Tekniset ominaisuudet\n\n  * Liitännät: 4 Ethernet-kaapeliliitäntää ( RJ45) , virtalähde ja USB liitäntä\n  * WLAN salaukset: WEP 64/128, WPA, WPA2\n  * DHCP, NAT DNS\n  * Suomenkielinen käyttöliittymä\n  * Tuetut langattomat standardit: 802.11b/802.11g\n  * Tarkista telakan tukemat mokkulat Telewellin sivuilta, https://www.telewell.fi/fi/tuote/tuotannosta-poistuneet-tuotteet/3g-tuotteet/tw_3g_thumb/tw-3g-flash-ofdm-reititin\n  * Käyttöjännite 12V\n\n### Päivitysohje\n\nPäivityksen voit ladata Telewelli sivulta osoitteesta\n[www.telewell.fi](https://www.telewell.fi/fi/tuote/tuotannosta-poistuneet-\ntuotteet/3g-tuotteet/tw_3g_thumb/tw-3g-flash-ofdm-reititin)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:09+00:00",
+        "last_modified": "2025-06-20T19:02:00.568242",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

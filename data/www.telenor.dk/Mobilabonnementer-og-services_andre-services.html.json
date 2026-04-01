@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_andre-services.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 7699,
+                "reason": "Selected by user",
+                "start": 3529,
+                "text": "#  Mobilforsikring\n\n## MobilForsikring dækker alle små og store uheld – og du modtager\nerstatningsmobil allerede dagen efter.\n\nFor at give dig den bedst mulige hjælp har vi indgået et samarbejde med\nSquareTrade, der er en af verdens førende virksomheder inden for\nMobilForsikringer. Du kan få MobilForsikring til alle smartphones, du køber på\ntelenor.dk eller i din Lokale Telenor-butik.\n\nFik du ikke lagt en MobilForsikring i kurven, da du købte ny smartphone på\ntelenor.dk, kan du købe MobilForsikring i din lokale Telenor-butik eller i\n[Mit Telenor](/mit-telenor/ \"Mit Telenor\"). Det er kun telefoner købt med\nabonnement efter 27.04.2020, der kan købe MobilForsikring via Mit Telenor.\n\n## Sådan dækker MobilForsikring\n\nUdover hverdagens uheld, dækker MobilForsikring også mekaniske og elektroniske\nfejl, som opstår ved normalt brug, når reklamationsretten er udløbet.\nForsætlig skade, bortkomst og tyveri er ikke dækket. Forsikringen dækker 2\nskader inden for en periode på 12 måneder.\n\n  * Ødelagt skærm\n  * Væskeskade\n  * Højttaler- og lydfejl\n  * Opladningsfejl\n  * Fejl i touchscreen\n  * WiFi-fejl\n\n## MobilForsikring dækker din smartphone i hele verden\n\nVi leverer allerede dagen efter inden for Europa, så du får din smartphone\ndirekte til solsengen i Italien eller dit hotelværelse i London - medmindre du\ner på en ikke-brofast ø eller i en ensom alpehytte, for så tager leveringer\ntypisk en dag ekstra. Går din telefon i stykker andre steder i verden, er den\nnaturligvis stadig dækket, men levering er dog begrænset til Europa.\n\n## Anmeld din skade nemt og hurtigt til SquareTrade. Udfyld formularen\n[her](https://www.squaretrade.dk/da/anmeld-en-skade)\n\nNår du tegner MobilForsikring hos Telenor, er det SquareTrade, der varetager\ndin skadesanmeldelse fra start til slut. Derfor skal du kontakte SquareTrade,\nnår du har fået en skade på din smartphone og ønsker at anmelde den.\n\n  * Anmelder du skaden inden kl. 19.00 dansk tid, modtager du en erstatningsmobil dagen efter. Anmelder du skaden fredag efter 19.00 eller i weekenden, vil erstatningsmobilen blive leveret den efterfølgende tirsdag.\n  * Når skaden er godkendt og du har betalt din selvrisiko til SquareTrade, vil de løbende sende dig e-mails med praktiske detaljer og opdateringer om det videre forløb og levering af erstatningsmobil.\n  * Din skadesanmeldelse går hurtigere, når du har købskvittering, serie- eller IMEI-nummer klar, når du ringer. \n  * Du modtager en erstatningsmobil og sender den beskadigede smartphone retur. \n\nNår chaufføren kommer og afleverer din nye mobil eller tablet, afleverer du\nblot den ødelagte til ham. Så sørger han for resten.\n\n## Åbningstider hos SquareTrade\n\nAnmeld skade online, tryk [her](https://www.squaretrade.dk/da/anmeld-en-skade)  \nSquareTrade kundeservice, tryk [her](https://www.squaretrade.dk/da/kontakt-os)\n\n## Husk at sende den beskadigede smartphone retur\n\nSenest 7 dage efter, at du modtager din erstatningsmobil, skal du sende den\nbeskadigede smartphone retur. Sender du ikke smartphonen retur, vil du blive\nopkrævet op til 3.000 kr. på det kort, du har anvendt til at betale\nselvrisikoen. Prisen kan variere fra smartphone til smartphone.\n\n## En erstatningsmobil er fabriksrenoveret og som ny\n\nEn erstatningsmobil er en smartphone magen til den, som har fået en skade. Den\nfremstår fuldstændig som ny, men vil typisk indeholde genanvendte komponenter.\nSkulle det ske at vi ikke har din model liggende på vores lager, vil du få\ntilbudt en anden model med tilsvarende funktioner. Alle erstatningsmobiler\nleveres selvfølgelig med 24 måneders reklamationsret\n\n## Priser på MobilForsikring og selvrisiko\n\nMobilforsikring koster pr. 10/4/2024 fra 49 kr./md. afhængig af mobilens pris.\nDin selvrisiko er afhængig af kontantprisen på din smartphone uden eventuelle\nrabatter.\n\nMobilpris | ‹ 2.999 kr. | 3.000 - 6.999 kr. | › 7.000 kr.  \n---|---|---|---  \nMobilForsikring pris  | 49 kr./md. | 69 kr./md. | 89 kr./md.  \nSelvrisiko erstatningsmobil  | 299 kr. | 599 kr. | 999 kr.  \nSelvrisiko reparation  | 149 kr. | 299 kr. | 499 kr.  \n  \n  \n[Se forsikringsvilkår](/kundeservice/kob-og-regning/dit-kob-hos-\ntelenor/priser-og-vilkar/ \"Se forsikringsvilkår\")"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:12+00:00",
+        "last_modified": "2025-05-21T15:15:25.395287",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_huawei-e5377_kom-godt-i-gang_skift-adgangskode.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 566,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Skift password\n\n  * ## Log in i din software\n\nÅbn din internetbrowser, fx Internet Explorer, og tast\n**<http://192.168.8.1>** og tryk derefter \" **Enter** \" på tastaturet.  \n  \n\n**Username:** admin  \n **Password:** admin  \n  \n\nTryk \" **Log ind** \".\n\n  * ## Skift din adgangskode\n\nKlik på **Indstillinger** > **Wlan** > **Grundlæggende indstillinger for\nWLAN**\n\n  \n1\\. Under \" **SSID** \" kan du ændre det trådløse netværksnavn.  \n2\\. Sikkerhedstilstand skal som udgangspunkt altid stå til **WPA2/PSK**  \n3\\. **WPA Pre-Shared Key** er koden til det trådløse netværk"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:31+00:00",
+        "last_modified": "2025-05-21T15:16:09.549200",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

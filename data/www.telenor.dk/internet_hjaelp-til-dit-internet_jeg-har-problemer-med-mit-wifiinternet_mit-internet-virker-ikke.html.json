@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_hjaelp-til-dit-internet_jeg-har-problemer-med-mit-wifiinternet_mit-internet-virker-ikke.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3379,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Mit internet virker ikke\n\nÅh nej, nu kan jeg ikke se, hvem der vinder \"Den Store Bagedyst!” Fortvivl ej\n– vi er her for at hjælpe.\n\nHvis din internetforbindelse slet ikke virker, kan du følge guiden herunder\nfor at løse problemerne med dit internet. Er der kun tale om sporadiske\nudfald, kan du i stedet læse denne [guide](/kundeservice/internet/hjaelp-til-\ndit-internet/jeg-har-problemer-med-mit-wifiinternet/mit-internet-er-\nustabilt/), og hvis er forbindelsen er langsom, er det denne\n[guide](/kundeservice/internet/hjaelp-til-dit-internet/jeg-har-problemer-med-\nmit-wifiinternet/mit-internet-er-langsomt/), du skal have fat i.\n\nHvis det kun er på enkelte af dine enheder, internettet ikke virker, tyder det\npå, at det er enheden og ikke routeren/internettet, den er gal med. Prøv at\ngenstarte den enhed, der ikke kan forbindes til internettet, og forsøg at\noprette forbindelse igen.\n\n## Guide: Hvordan lyser lamperne på routeren\n\nStart med at finde ud af, hvordan lamperne bør lyse på din router. Det gør du\nved at klikke ind på din router [her](/kundeservice/internet/kom_godt_i_gang/)\nog læse hvordan lamperne skal lyse - på de fleste routere skal der være grønt\neller hvidt lys i den nederste diode på routeren. Vi yder kun support på\nroutere, købt hos Telenor.\n\nLamperne lyser ikke korrekt\n\nPrøv følgende, før du kontakter kundeservice:\n\n  1. Routerfejl skyldes ofte, at et kabel har mistet kontakten eller driftsforstyrrelser. Start derfor med at sikre, at alle kabler er trykket i bund i routeren. Tjek, at kablet ikke har synlige skader\n  2. Hvis din router er tilsluttet en strømskinne/stikdåse, kan problemet skyldes, at den ikke får nok strøm. Prøv at tilslutte den direkte i en stikkontakt på væggen\n  3. [Tjek vores driftsinformation](/kundeservice/drift-og-dakning/driftstatus/tjek-driftstatus/), for at se om problemet skyldes forstyrrelser eller nedbrud på din adresse\n  4. Prøv at genstarte din router ved at slukke for den og tænde den igen. Når du har slukket routeren, så vent et par sekunder, før du tænder den igen\n  5. Hvis du har overset en regning, kan vi have spærret din forbindelse midlertidigt. Tjek hurtigt og nemt, om det er tilfældet på [Mit Telenor](/mit-telenor/). Her kan du også tjekke din ordrestatus, hvis du for nyligt har bestilt en ændring af dit abonnement\n\nLøste det ikke dit problem? Så kontakt kundeservice på 72 100 100.\n\nLamperne lyser korrekt\n\nPrøv følgende, før du kontakter kundeservice:\n\n  1. Prøver du på at gå online via WiFi, så tjek, at din enhed er forbundet til det rigtige netværk. Hvis du ikke har ændret WiFi-navn, kan du se navnet på din forbindelse under bunden af routeren. Er din enhed ikke tilsluttet til netværket, skal du blot oprette forbindelsen igen\n  2. Hvis dine enheder er tilsluttet med LAN-kabel, så prøv at trykke alle stikkene i bund, og tjek, at der ikke er synlige skader på kablet​\n  3. For at opnå den bedst mulige forbindelse mellem din router og de forbundne enheder, kan du med fordel placere din router og dine enheder efter følgende retningslinjer:​\n\n  * Højt​\n  * Frit fremme​\n  * Et centralt sted i boligen\n  * Væk fra andre elektroniske enheder, kabler og lign. Læs den fulde guide med gode råd til bedre WiFi-dækning [her](/shop/landingpage/bedre-wifi/).\n\nHar du internet via 5G-nettet, kan du prøve at stille routeren et centralt\nsted i boligen, hvor du ved, der er god mobildækning."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:12+00:00",
+        "last_modified": "2025-05-21T15:15:40.549548",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

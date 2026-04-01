@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/driftinformation_mobiltelefoni-och-mobilt-bredband_mobiltackning-i-sverige.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 407,
+                "end": 2858,
+                "text": "#  Mobiltäckning i Sverige\n\nTelenors mobilnät täcker mer än 99,9 procent av Sveriges befolkning och över\n90 procent av landets yta. Det är ett resultat av vår satsning på att bygga ut\nmobilnätet.\n\nTelenors mobilnät täcker mer än 99,9 procent av Sveriges befolkning och över\n90 procent av landets yta. Det är ett resultat av vår satsning på att bygga ut\nmobilnätet.\n\nFör majoriteten av Sveriges befolkning erbjuder vi idag höghastighets-5G,\neller 5G+ som det också heter. 5G+ kan ge hastigheter upp till 1000\nMbit/sekund och kommer att nå allt fler.\n\n  \n  \nTäckningskarta\n\nPå kartan nedan kan du se vilken täckning vi har idag på respektive mobilnät.\nObservera att vi släcker 2G- och 3G-näten den 1 december 2025, samtidigt som\nvi bygger ut vårt 5G-nät. [Läs mer här!](/om-telenor/digitalisering/varfor-\nstanger-vi-3g-natet/)  \n  \nTänk på att det aldrig går att garantera täckning på en enskild plats eftersom\nden kan variera beroende på många faktorer som våra beräkningar inte tar\nhänsyn till. [Läs mer om täckning](/support/driftinformation/mobiltelefoni-\noch-mobilt-bredband/vad-som-paverkar-mottagning-och-hastighet/) och\nsurfhastighet.\n\n[ ](/5g/)\n\n## 5G hos Telenor\n\n5G erbjuder topphastigheter som är 10 gånger högre än 4G och nät som ger dig\nordentlig täckning.\n\n[Läs mer om 5G](/5g/)\n\n[ ](/support/vanliga-fragor/3g/varfor-slacks-3g-natet/)\n\n2G- och 3G-näten stängs\n\nVi släcker 2G och resterande 3G den 1 december 2025 och bygger samtidigt ut\n5G. Om du vet att du använder teknik som bara fungerar med 2G eller 3G är det\nhög tid att se över dina mobiltelefoner, routrar, larm och repeatrar. [Ta\ngärna kontakt med oss](/support/kontakta-oss/) så hjälper vi dig att hitta\nrätt.\n\n[Läs mer](/support/vanliga-fragor/3g/varfor-slacks-3g-natet/)\n\nMottagning och hastighet\n\nDet finns många faktorer som kan påverka vilken täckning du har och hur snabbt\ndu kan surfa. Visste du till exempel att om du använder handsfree och lägger\nmobilen på ett bord kan mottagningen förbättras?  \n  \n[Läs mer om mottagning och hastighet\n>](/support/driftinformation/mobiltelefoni-och-mobilt-bredband/vad-som-\npaverkar-mottagning-och-hastighet/)\n\n[Läs mer hos PTS >](https://pts.se/internet-och-telefoni/mobiltackning/)\n\nDålig täckning inomhus?\n\nDet är ett vanligt problem att man upplever dålig täckning inomhus. Som tur\när, är det lätt åtgärdat.\n\n[Så löser du problemet ](/support/mobiltelefoni/guider/problemlosning-och-\nfelsokning/problem-med--tackning-inomhus/)\n\n",
+                "heading": " Mobiltäckning i Sverige"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:46+00:00",
+        "last_modified": "2025-05-30T13:55:36.807218",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

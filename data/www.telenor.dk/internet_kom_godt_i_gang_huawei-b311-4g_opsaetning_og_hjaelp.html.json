@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_kom_godt_i_gang_huawei-b311-4g_opsaetning_og_hjaelp.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2570,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Opsætning af Huawei B311\n\nMere\n\n4G\n\n## Skriftlig guide\n\n**Sådan sætter du din router til**\n\n  1. Åbn den lille låge til simkortet, og indsæt dit Telenor simkort  \n **Bemærk:** benyt ikke skarpe genstande til dette, da det kan skade simkortet\n\n  2. Tilslut strømforsyningen til 4G routeren samt stikkontakten. Det gøres på følgende måde: sluk stikkontakten, montér kablet i routeren, montér i stikkontakten og tænd til sidst for stikkontakten\n  3. Bemærk: Benyt kun den medsendte strømforsyning til routeren\n\n**Sådan opretter du forbindelse**\n\n  1. Tænd for routeren, og vent til der er lys i en eller flere af signal-indikator lamperne (signal-indikator-lamperne ligner tre \"pinde\", som lyser op alt efter, hvor stærkt signalet er)\n  2. Find dit netværksnavn og adgangskode ved at kigge i bunden af routeren\n  3. Søg efter trådløse netværk på din enhed, og vælg dit netværksnavn\n  4. Indtast adgangskoden til netværket  \n  \nGod fornøjelse med dit nye internet!\n\n##  Hvad betyder dioderne (lamperne) på routeren\n\nNetværksstatusindikator\n\nLyser konstant:  \n**Cyan:** Forbundet til LTE-netværk  \n **Blå:** Forbundet til 3G-netværk  \n **Gul:** Tilsluttet 2G-netværk  \n **Rød:** Ikke tilsluttet netværk\n\nWiFi-indikator\n\n**Lyser konstant:** WiFi er aktiveret.  \n **Blinker:** Routeren har registreret en enhed, der kan parres.\n\nIndikator for netværksport\n\n**Lyser konstant:** LAN er tilsluttet, men der overføres ingen data.  \n **Blinker:** LAN er tilsluttet, og data overføres\n\nSignalstyrkeindikator\n\nFlere signalbjælker indikerer et stærkere signal.\n\nWPS-knap\n\nNår WiFi er aktiveret, skal du trykke på for at aktivere WPS- eller HiLink-\nforbindelsen.\n\nTænd/sluk-knap\n\nTryk og hold nede for at tænde eller slukke for routeren.\n\nReset-knap\n\nGendan routeren til fabriksindstillingerne.\n\nLAN/WAN-port\n\nTilslut en LAN-enhed til routeren for at få adgang til internettet, fx en\ncomputer eller switch. Slut routeren til en vægmonteret Ethernet-port for\ninternetadgang.\n\n##  Flere indstillinger\n\nSådan logger du ind på routeren i en webbrowser\n\nDu kan selv konfigurere routeren via en web browser, og det er også her, du\nændrer WiFi-navn og WiFi-kode.\n\n  1. Forbind en computer eller mobil til Telenor 4G-routeren med WiFi eller LAN-kabel\n  2. Åbn en webbrowser på computeren eller mobilen, og skriv **192.168.1.1** i browserens adresselinje\n  3. Brug adgangskoden **admin**. Når du er logget ind, bliver du bedt om at ændre koden\n\nRouterens specifikationer\n\n**Specs på router:**\n\n  * 1x 1Gbit LAN/WAN port\n  * 1x 1Gbit LAN port\n\n  \n**WiFi-tilslutning:**\n\n  * IEEE 802.11b/g/n/ac/"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:39+00:00",
+        "last_modified": "2025-05-21T15:15:43.125263",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

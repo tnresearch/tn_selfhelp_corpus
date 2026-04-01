@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 83,
+                "end": 2446,
+                "text": "# Laitteiden tuki\n\nTee kotisi WiFi-verkosta omanlainen. WiFi-verkon nimen ja salasanan voit\nkätevästi muuttaa laitteen asetuksista.  \nOmanlainen verkon nimi ja salasana sujuvoittaa käyttöä, sillä kun olet\nmäärittänyt ne itse, ne ovat helpommat muistaa ja näin myös uusien laitteiden\nliittäminen kodin sisäverkkoon on helppoa ja vikkelää.\n\nKatso oman laitteesi ohjeet asetukset- kohdasta \"WiFi-asetusten muuttaminen\".\n\n#### Modeemit\n\n[ Modeemit kaapeliliittymään\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli) [ Modeemit Ethernet-\nliittymään ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet) [ Modeemit\nFTTH-liittymään ](https://www.dna.fi/tuki/laitteet/modeemit/ftth) [ Modeemit\nxDSL-liittymään ](https://www.dna.fi/tuki/laitteet/modeemit/xdsl) [ Mesh WiFi\n-modeemit ](https://www.dna.fi/tuki/laitteet/modeemit/mesh-wifi)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/laitteet/modeemit)\n\n#### Mokkulat\n\n[ Kotimokkulat ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat) [\nUlkomokkulat ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat) [\nMatkamokkulat ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat) [\nMokkulat ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat) [ Mokkuloiden\nlisälaitteet ](https://www.dna.fi/tuki/laitteet/mokkulat/lisalaitteet)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/laitteet/mokkulat)\n\n#### Puhelimet ja tabletit\n\n[ Tietojen siirto ](https://www.dna.fi/tuki/laitteet/puhelimet/tietojen-\nsiirto)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/laitteet/puhelimet-ja-tabletit)\n\n#### Älykellot\n\n[ Apple Watch ](https://www.dna.fi/tuki/laitteet/alykellot/apple-watch) [\nSamsung Galaxy Watch ](https://www.dna.fi/tuki/laitteet/alykellot/samsung-\ngalaxy-watch) [ Huawei Watch\n](https://www.dna.fi/tuki/laitteet/alykellot/huawei-watch)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/laitteet/alykellot)\n\n#### Huoltokumppanit ja takuu\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/laitteet/huolto)\n\n## DNA viihdeboksien käyttöohjeet\n\nDNA viihdeboksien ja muut viihdepalveluiden ohjeet löydät [viihteen\ntukisivuilta](/tuki/viihde/)\n\n## Laitteiden huoltoon lähettäminen\n\nKun laitteesi kaipaa huoltoa, on suositeltavaa asioida suoraan valtuutetun\nhuoltoliikkeen kanssa nopeimman palvelun takaamiseksi. Katso ohjeet huoltoon\nlähettämiseen ja takuuhuollon ehdot.\n\n[Laitteiden huolto ja takuu](https://www.dna.fi/tuki/laitteet/huolto)\n\n",
+                "heading": "Laitteiden tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:32+00:00",
+        "last_modified": "2025-06-20T14:35:26.779063",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

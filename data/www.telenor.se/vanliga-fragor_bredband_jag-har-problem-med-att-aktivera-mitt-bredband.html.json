@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_bredband_jag-har-problem-med-att-aktivera-mitt-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 298,
+                "end": 1466,
+                "text": "# Jag har problem med att aktivera mitt bredband – vad ska jag göra?\n\nDet beror på vad som händer när du försöker aktivera bredbandet på sidan\naktivering.telenor.se  \n  \n **Om du direkt får upp ett meddelande om att du har aktiverat ditt bredband**\n– trots att du inte har gjort det ännu – beror det förmodligen på att du har\nöppnat sidan på din dator, surfplatta eller mobiltelefon och varit ansluten\nvia ett mobilt nätverk. Gör så här för att lösa problemet:\n\n  1. Stäng av den mobila anslutningen\n  2. Anslut med hjälp av en nätverkskabel eller routerns trådlösa nätverk (wifi).\n\nFungerar det ändå inte? Då kan du behöva rensa cachen.\n\nDärefter kan du aktivera ditt bredband via adressen aktivering.telenor.se.  \n  \n**Kan du inte nå sidan aktivering.telenor.se alls?** Gör något av följande:\n\n  * Skriv in 10.255.1.33 istället för aktivering.telenor.se\n  * Starta om din router och dator/surfplatta/mobiltelefon\n  * Testa med en annan dator/surfplatta/mobiltelefon\n  * Testa med en annan webbläsare\n  * Testa att koppla bort eventuell router och istället ansluta din dator direkt till nätverksuttaget på väggen. Det här gäller bara dig som har bredband via fiber.\n\n",
+                "heading": "Jag har problem med att aktivera mitt bredband – vad ska jag göra?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:36+00:00",
+        "last_modified": "2025-05-30T17:43:32.114752",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

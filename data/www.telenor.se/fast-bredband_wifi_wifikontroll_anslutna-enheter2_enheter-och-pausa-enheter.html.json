@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_wifikontroll_anslutna-enheter2_enheter-och-pausa-enheter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 413,
+                "end": 983,
+                "text": "# Enheter och pausa enheter\n\nI appen kan du tillfälligt stänga av uppkopplingen för enheter som är anslutna\ntill ditt wifi.  \n  \nGör så här:\n\n  * ### Klicka på enheter i menyn\n\nHär kan du se alla enheter som har varit uppkopplade till ditt nätverk.\n”Anslutna” innebär att de är anslutna just nu, medan ” Offline” innebär att\nenheten har varit uppkopplad men inte är det just nu.\n\nVill du se alla enheter som är satta på paus ska du gå till Hem i menyn och\nskrolla ner och klicka på \"Internetåtkomst\".\n\n  * ### Klicka på enheten som du vill pausa\n\n  * ### Klicka på paus\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:43+00:00",
+        "last_modified": "2025-05-30T14:14:20.352521",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

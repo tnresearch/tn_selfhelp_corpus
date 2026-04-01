@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_kotimokkula-5g-wifi-h112_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 393,
+                "end": 1951,
+                "text": "# Kotimokkula 5G WiFi H112\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n[ Ominaisuudet\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/kotimokkula-5g-wifi-h112/ominaisuudet)\n[ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/kotimokkula-5g-wifi-h112/kayttoonotto)\n[ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/kotimokkula-5g-wifi-h112/paivitykset)\n\n## Ominaisuudet\n\n**Tuotenimi: Huawei 5G CPE Pro H112-370**  \n  \nGiganopeaan yhteyteen yltävä Kotimokkula 5G WiFi H112 valjastaa uunituoreen\n5G-liittymän käyttöösi täydellä teholla. Mokkula on Plug and Play -tapaan heti\nkäyttövalmis, joten pääset nauttimaan nopeasta netistä vain laittamalla\nuunituoreen 5G-liittymäsi SIM-kortin paikalleen, sekä virtajohdon\npistorasiaan.  \n\n  * 5G enimmäisnopeus verkosta 2,33 Gbit/s\n  * 5G enimmäisnopeus kohti verkkoa 1,25 Gbit/s\n  * 4G LTE enimmäisnopeus verkosta 1,6 Gbit/s\n  * 4G LTE enimmäisnopeus kohti verkkoa 150 Mbit/s\n  * WLAN 802.11ax/ac/a/n 4 x 4 ja 802.11b/g/n 2 x 2, MIMO\n  * WLANin teoreettinen maksiminopeus: 5100 Mbit/s\n  * Kaksitaajuuksinen WiFi-antenni kuudella signaalin vahvistimella\n  * Kaksi TS-9 -porttia 5G-lisäantenneille\n  * 2 kpl Gigabit Ethernet (LAN) -liitäntöjä (toisessa WAN)\n  * 5G ja 4G LTE -verkkotekniikka\n  * 5 GHz Wi-Fi preferred -tuki\n  * Nano-SIM-kortti\n\n### Myyntipakkauksen sisältö\n\n  * Kotimokkula 5G WiFi H112\n  * Virtalähde\n  * Ethernet-kaapeli\n  * Pikaopas\n\n",
+                "heading": "Kotimokkula 5G WiFi H112"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:26+00:00",
+        "last_modified": "2025-06-20T18:59:26.171360",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

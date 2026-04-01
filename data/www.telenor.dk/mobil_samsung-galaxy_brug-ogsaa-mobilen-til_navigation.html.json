@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_brug-ogsaa-mobilen-til_navigation.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1116,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Brug navigationen\n\nNedenstående guide hjælper dig i gang med at bruge navigationen på din mobil.\n\nFørst skal du sikre, at du har slået GPS til.\n\n  * ## Tjek om placering er slået til\n\nSwipe ned på hjemmeskærmen for at få hurtig adgang til at slå Placering\ntil/fra. Placering er slået til, når ikonet er grønt.\n\n  * ## Tryk på \"Indstillinger\"\n\n  * ## Vælg \"Fortrolighed og sikkerhed\"\n\n  * ## Vælg \"Placering\"\n\n  * ## Tænd for GPS\n\nSwipe knappen mod højre for at tænde for Placering.\n\nPlacering er tændt, når knappen er grøn.\n\n  * ## Tryk på \"Acceptér\"\n\nGå herefter tilbage til hjemme-skærmen og tryk på \"Maps\".\n\n  * ## Tryk på navigations-ikonet\n\nNår du har åbnet \"Maps\", trykker du på det blå ikon nederst til højre for at\nstarte en navigation.\n\n  * ## Vælg din navigation\n\nIndtast din start- og slutdestination og hvilket transportmiddel du vil bruge.\n\nTryk derefter på \"Start navigation\".\n\n  * ## Vælg din rute\n\nTryk på det ruteforslag der passer bedst, den blå linie er din valgte rute.\nTryk herefter på det blå ikon nederst til højre.\n\nNavigationen starter og du bliver nu guidet frem til din slutdestination."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:23+00:00",
+        "last_modified": "2025-05-21T15:15:59.044756",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

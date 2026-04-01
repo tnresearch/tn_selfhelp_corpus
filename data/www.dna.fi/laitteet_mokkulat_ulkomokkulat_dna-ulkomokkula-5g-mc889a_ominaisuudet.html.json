@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_dna-ulkomokkula-5g-mc889a_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 395,
+                "end": 3689,
+                "text": "# DNA Ulkomokkula 5G MC889A\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/kayttoonotto) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/vianmaaritys) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/asetukset)\n\n## Ominaisuudet\n\n• Ulkomokkulalla saat parhaat 4G- ja 5G-yhteydet.  \n• Valmiina huippunopeille 5G-yhteyksistä.  \n• Helppo asentaa, kestää pakkaset sekä sateet.\n\nDNA Ulkomokkula 5G MC889A on ulos sijoitettava mokkula, joka kestää talven\npakkaset, auringon paahteen sekä sateen. Ulkomokkula tukee uusinta\nverkkotekniikkaa ja mahdollistaa huippunopean 5G-yhteyden, joten katsele\nleffoja 4K-tarkkuudella ja nauti huippunopeasta pelikokemuksesta\nviiveettömällä nettiyhteydellä.\n\n### Sijoita DNA Ulkomokkula 5G MC889A ulos tai sisälle\n\nUlos sijoitettava DNA Ulkomokkula 5G tarjoaa nopean nettiyhteyden. Nauti\n5G-yhteyden nopeudesta sekä viiveettömyydestä. Kiinnitä ulkomokkula helposti\nulkoseinään tai tolppaan. Yhdistämällä Ulkomokkula ja DNA Mesh WiFi\n-reitittimen, saat kotiisi huippunopean lähiverkon, jolla isommatkin tiedostot\nlatautuvat vauhdilla.\n\n### Ulkomokkula parantaa 5G-yhteyttäsi\n\nMC889A-ulkomokkulassa on sisäänrakennetut antennit. Yhdessä älykkään\nantennikytkentätekniikan kanssa ulkomokkula kasvattaa peittoa ja parantaa\nnettiyhteyttäsi.\n\n**Yleiset ominaisuudet**  \nValmistaja: ZTE  \nMalli: MC889A  \nSIM-kortti: Nano-SIM\n\n**Yhteydet ja liitettävyys**  \nLiitäntätyyppi: Ethernet  \nEthernet (LAN) -liitännät: 1 kpl (2.5GE)  \nVerkkotekniikka: 5G, 4G  \nTuetut 4G/5G-taajuudet: 700/800/900/1800/2100/2600/3500 MHz  \nDL 4G/5G 4x4 MIMO: 1800/2100/2600/3500 MHz, 2x2 MIMO: 700/800/900 MHz  \nUL 5G 2x2 MIMO (5G SA): 1800/2100/2600/3500 MHz  \n5CC DL carrier aggregation -tuki 4G-verkossa  \n2CC/3CC DL CA 5G-verkossa (2CC 5G NSA, 3CC 5G SA)  \n2CC/3CC DL CA 5G-verkossa (2CC 5G NSA, 3CC 5G SA)  \n2CC UL CA -tuki  \n256 QAM -modulaatiotuki\n\n  \n**Verkko-ominaisuudet**  \n(Lukemat ovat teoreettisia maksiminopeuksia, todelliset nopeudet riippuvat\nvastaanotetun signaalin vahvuudesta, mobiiliverkon kyvykkyydestä sekä\nkäytetystä liittymätyypistä)  \n5G-enimmäisnopeus verkosta 3,66 Gbit/s (NSA 5G), 4,29 Gbit/s (SA 5G),  \n5G-enimmäisnopeus kohti verkkoa 250 Mbit/s (NSA & SA 5G)  \n4G -enimmäisnopeus verkosta 2,0 Gbit/s  \n4G -enimmäisnopeus kohti verkkoa 200 Mbit/s\n\n**Myyntipakkauksen sisältö**  \nDNA Ulkomokkula 5G MC889A  \nVirtalähde (48V PoE)  \n10 metrin Ethernet-lattakaapeli ja 1,5 metrin Ethernet-kaapeli  \nAsennustarvikkeet  \nLiitäntäsarja olemassa olevalle Ethernet-kaapelivedolle  \nAsennusohje  \nPikaopas  \nTurvallisuusohje\n\n**Mitat ja paino**  \nKorkeus 189,6 mm  \nLeveys 108,8 mm  \nSyvyys 31,2 mm  \nPaino 510 g\n\n**Kestävyys**  \nPölynkestävä: Kyllä  \nVedenkestävä: Kyllä  \nKestävyyden lisätiedot: Pölyn- ja vedenkestävä IP65-luokituksen mukaan.\nKäyttölämpötila: -40°C – +60°C.\n\n**Takuu**  \nValmistajan takuu: 24 kk\n\n**Laitetunnistimet**  \nEAN-koodi: 6902176100239  \nValmistajan tuotekoodi: ZTEMC889A  \n\n",
+                "heading": "DNA Ulkomokkula 5G MC889A"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:13:07+00:00",
+        "last_modified": "2025-06-20T19:14:22.994832",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

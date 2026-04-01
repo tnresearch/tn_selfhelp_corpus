@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobilt-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 244,
+                "end": 2278,
+                "text": "# Mobilt bredband\n\n## Guider och inställningar\n\n[ Router och modem ](/support/mobilt-bredband/router-och-modem/)\n\n[ iPad ](/support/mobilt-bredband/ipad/)\n\n## Annat\n\n  * [ Faktura  ](/support/faktura/)\n  * [ Villkor och blanketter  ](/support/priser-villkor-och-blanketter/mobiltelefoni-och-mobilt-bredband/villkor-och-blanketter/)\n  * [ Driftinformation  ](/support/driftinformation/driftstorningar-pa-mobilnatet/)\n  * [ Täckningskarta  ](/support/driftinformation/mobiltelefoni-och-mobilt-bredband/mobiltackning-i-sverige/)\n  * [ Surfa utomlands  ](/support/mobiltelefoni/utomlands/surfanvandning-utomlands/)\n\n## Vanliga frågor om mobilt bredband\n\n  * Hur köper jag extra surf till mitt flexibla mobila bredband?\n\nDu köper mer surf till ditt mobila bredband i appen [Mitt Telenor.\n](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx)\n\n  * Vad kostar extra surf till mitt flexibla mobila bredband?\n\nDet kostar 169 kr för 15 GB. Du köper extra surf i [appen Mitt\nTelenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx). Den extra surfen är\ngiltig till nästkommande månadsslut.\n\nHar du mobilt bredband 15 GB eller obegränsad surf kan du även använda delar\nav surfen utomlands, i EU/EES och ett flertal andra länder, [läs mer\nhär](/link/9653998f39c745e396d5367b7478cf92.aspx).\n\n  * Hur laddar jag flexibelt mobilt bredband kontant?\n\nOm du vill ladda Mobilt Bredband Kontant gör du det enkelt via vår [app\nTelenor Ladda](/link/8ad148929ae541328599af3f428082a6.aspx), eller på vår[\n](/link/5775b1740ff94087bf80394b7a19e43e.aspx)[laddningssida](/link/5775b1740ff94087bf80394b7a19e43e.aspx).\nDär kan du även se vad det kostar att ladda. Lycka till!\n\n  * Kan flera personer använda mitt mobila bredband?\n\nAbsolut! Skaffa en [router](/link/79d78e28f44f465a80e4951c816f9195.aspx) så\nkan flera personer använda ditt mobila bredband.\n\n  * Hur skaffar jag en publik ip adress?\n\nFrån och med den 22 Januari 2025 är Publik IP en tillläggstjänst du kan få via\nvår kundservice. [Kontakta oss](/link/0c492f5608894771aeabe6efb2d6d096.aspx)\nså hjälper vi dig.\n\n",
+                "heading": "Mobilt bredband"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:56+00:00",
+        "last_modified": "2025-05-30T14:18:39.686006",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

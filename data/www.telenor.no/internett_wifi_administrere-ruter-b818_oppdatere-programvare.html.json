@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter-b818_oppdatere-programvare.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 262,
+                "end": 1316,
+                "text": "# Oppdatere programvare\n\nHer finner du informasjon om hvordan du oppdaterer programvaren på din Huawei\nB818-ruter\n\nNy programvare er viktig for å ivareta sikkerhet og stabilitet. Oppdateringen\nskjer automatisk hver gang ny programvare er tilgjengelig - så lenge SIM-kort\nog ruter er registrert og tilkoblet.\n\nSkulle du ha behov for å oppdatere programvare manuelt, kan du laste den ned\nfra den innloggede menyen for ruteren.\n\n## Logg inn på ruteren\n\n  1. Sjekk at du er koblet til ditt hjemmenettverk\n\n  2. Åpne en nettleser og skriv inn http://192.168.1.1 i adressefeltet, og trykk enter.\n\n  3. Skriv inn ditt passord\n\n  4. Passordet er det samme som ditt opprinnelige trådløse passord. Du finner det på klistrelappen på baksiden av ruteren etter **WIFI**.   \n**Merk:** Har du selv endret passordet til menyen, skriver du inn det du selv\nhar valgt.\n\n## Oppdatere programvare\n\n  1. Velg **Avansert**\n\n  2. Velg **Oppdateringer  \n** Her kan du se hvilken utgave av programvaren du har.\n\n  3. Velg **Se etter oppdateringer** og følg deretter instruksjonene"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:22+00:00",
+        "last_modified": "2025-05-30T09:03:01.673213",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

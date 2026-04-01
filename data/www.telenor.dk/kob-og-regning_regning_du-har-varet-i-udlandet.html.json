@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_regning_du-har-varet-i-udlandet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 4481,
+                "reason": "Selected by user",
+                "start": 2230,
+                "text": "#  Du har været i udlandet\n\nNår du har brugt din mobil i udlandet, kan din regning være højere end\nnormalt. Med Roam Away og Roam Away+ koster det dog ikke ekstra at ringe,\nsende beskeder eller bruge op til 20GB data i inkluderede lande.\n\n## Sms sendt i udlandet\n\nNår du er i udlandet koster det ikke noget at modtage sms’er. Men selvom du\nhar fri sms, betaler du udenlandstakst for de sms’er, du sender til både\ndanske og udenlandske numre - borset fra når du har Roam Away og Roam Away+\nlande. [Læs mere om Roam Away og Roam Away+\nher](/shop/landingpage/mobil/roaming/).\n\n  \nVær opmærksom på at emojis/humørikoner i dine sms'er fra udlandet kan fylde\nrigtig mange tegn. Nogle gange kan én enkelt emoji fylde mere end én standard-\nsms på 160 tegn.\n\n[Se udlandspriser for sms](/kundeservice/Mobilabonnementer-og-\nservices/udland/udlandspriser-i-udlandet/)\n\n## Dataforbrug i udlandet\n\nPrisen for data brugt i udlandet afhænger af, hvor i verden du befinder dig.\nMed Roam Away og Roam Away+ kan du bruge op til 20GB i de inkluderede lande.\nPå [Mit Telenor](/mit-telenor/) kan de se, hvor meget data du har brugt, og\nhar tilbage i Roam Away og Roam Away+ landene.  \n  \nBemærk, at SMART phones laver automatiske opdateringer, hvis data roaming ikke\ner slået fra. Det kan være e-mail eller andre apps som kører i baggrunden.\nDette sker når mobilen bliver tændt og får netværks forbindelse, og automatisk\nopdaterer. Disse opdateringer giver et dataforbrug på det udenlandske netværk.\n\n[Se udlandspriser for data pr. MB](/kundeservice/Mobilabonnementer-og-\nservices/udland/udlandspriser-i-udlandet/)\n\n## Mms sendt i udlandet\n\nMms sendt fra udlandet beregnes som dataforbrug, og prisen kan derfor variere\nafhængig af størrelsen på indholdet. Med Roam Away og Roam Away+ kan du bruge\nop til 20GB i de inkluderede lande.\n\n[Se udlandspriser for data pr. MB](/kundeservice/Mobilabonnementer-og-\nservices/udland/udlandspriser-i-udlandet/)\n\n## Opkald foretaget og modtaget i udlandet\n\nUanset om du ringer op eller selv modtager et opkald, når du er i udlandet,\nbetaler du udlandstakst. Husk at det altid er gratis at modtage opkald i Roam\nAway og Roam Away+ lande.\n\n[Se udlandspriser](/kundeservice/Mobilabonnementer-og-\nservices/udland/udlandspriser-i-udlandet/)  "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:41+00:00",
+        "last_modified": "2025-05-21T15:15:50.504333",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

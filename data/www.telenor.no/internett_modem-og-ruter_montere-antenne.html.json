@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_montere-antenne.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 190,
+                "end": 4291,
+                "text": "# Montering av antenne for Trådløst Bredbånd\n\nFinn den hjelpen og veiledningen du trenger til montering og tilkobling av\nantenne\n\n## Digital guide for montering av antenne\n\nNår du har valgt å bestille Trådløst Bredbånd og å sette opp antennen selv,\nsender vi alt utstyret til deg. Når utstyret er mottatt, vil du bare trenge å\nskanne den medfølgende QR-koden. Deretter vil du få tilgang til en enkel,\ndigital oppsettsguide for akkurat din antenne på telefonen din.\n\n[Gå til den digitale oppsettsguiden](https://antenne.telenor.no)\n\n[Klikk her](/telenor-id/hjelp-med-innlogging/) om du opplever problemer med å\nlogge deg inn med TelenorID.\n\nHusk at det er den som har bestilt abonnementet som må logge inn med sin\nTelenorID.\n\n* * *\n\n **Ønsker du å lese mer om antennen?**  \nHer finner du spesifikasjoner og ytterligere detaljer om antennen: [Les mer om\nantennen](/kundeservice/internett/modem-og-ruter/tbb-antenne-nr7302/)\n\n **Har du bestilt montør?**  \nDa er SIM-kort allerede installert, og montøren setter opp antennen for deg.\nDet eneste du trenger å gjøre for å komme på nett er å koble deg på med din\ntrådløse ruter. Følg denne lenken for oppkoblingsveiledning: [Enkle steg for å\nkomme på nett](https://www.telenor.no/kundeservice/internett/modem-og-\nruter/tbb-antenne-nr7302/#enklesteg)\n\n## Plassering av antenne\n\n  * Skal kun monteres **utendørs**\n\n  * Kan festes på utsiden av en husvegg ved siden av et vindu, eller på en vindusrute.\n\n  * Bør monteres minst 2 meter over bakken. Jo høyere plassering, jo bedre signal.\n\n  * Må ikke plasseres bak ting som kan være forstyrrende for signalstyrken (f.eks. tett på trær/busker, nær andre bygninger o.l.)\n\n  * Antennen må ikke plasseres på et vindu der den kan utgjøre gjøre skade på mennesker eller dyr dersom den skulle falle ned.\n\n## Montering\n\n  * Strømadapteren skal settes inn i en **innendørs** stikkontakt.\n\n  * Bruk kun originaldelene du har mottatt fra Telenor.\n\n  * Kabel skal strekkes fra antenne og gjennom vindusåpningen. Det vil oppstå mindre slitasje på kabelen ved å velge et vindu som ikke åpnes/lukkes hyppig.\n\n## Se video av monteringen\n\n## Enkle steg for montering\n\n  * #### Vegg- eller vindusmontering\n\nVelg om du vil montere antennen på vegg ved et vindu (A), eller rett på\nvindusruten (B)\n\n **A - Vegg**\n\n    * Dette er vår anbefalte festemetode\n\n    * Skru fast den minste braketten med fire skruer. Utstikkets taggete side skal vende ned.\n\n **B - Vindu**\n\n    * Vask vindusruten med medfølgende våtserviett. Vindusruten må være ren og tørr\n\n    * Dobbeltsidig tape må presses mot vinduet i noen sekunder\n\n    * Limer på braketten med utstikkets taggete side vendt opp\n\n    *  **Tapen skal herde i 24t før du går videre**\n\n **Felles** :\n\n    * Finn frem et lite stjerne skrujern\n\n    * Sett kabelen i den gule nettverksporten og skru fast de to skruene på dekselet\n\n    * Fest antennen til braketten\n\n  * #### Finn retning \n\n    * Juster antennen i henhold til kartet i appen for best signalstyrke og riktig hastighet. \n\nFølg anbefalingen fra den digitale oppsettsguiden\n\n  * #### Kable gjennom vindu\n\n    * Åpne vinduet, før kabelen gjennom vinduet, og legg den flatt mot karmen\n\n    * Koble kabelen i nettverksporten på strømadapteret, merket \"POE\"\n\n    * Sett adapteren i en innendørs stikkontakt. Lyset merket \"Status\" skal i løpet av et par minutter lyse stabilt grønt på antennen.\n\n  * #### Test signalstyrke\n\n  \n  \nFor å forsikre oss om at du får riktig hastighet, må vi måle antennens\nsignalstyrke. Mens dette pågår er det viktig at du ikke rører ved antennen,\nslår den av eller kobler fra noe.\n\n    * Trykk på START i appen\n\n    * Dette tar ca. 2-3 minutter\n\n    * Følg konklusjon som dukker opp i appen\n\n  * #### Koble til ruter\n\n    * Koble den ene enden av nettverkskabelen i nettverksporten på strømadapteret, merket \"LAN\", og den andre enden skal kobles i WAN-porten bak på din ruter\n\n    * Har du WiFi-Ruter fra Telenor:\n\n      * Koble til strømforsyning til ruteren og skru den på\n\n      * Vent til øverste lys er grønt, det kan ta ca. ett minutt. Når det lyser stabilt grønt er ruteren tilkoblet internett."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:41+00:00",
+        "last_modified": "2025-05-30T08:53:19.737321",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

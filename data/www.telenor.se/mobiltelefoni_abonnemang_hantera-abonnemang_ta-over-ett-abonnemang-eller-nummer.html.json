@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_hantera-abonnemang_ta-over-ett-abonnemang-eller-nummer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 364,
+                "end": 2763,
+                "text": "#  Att ta över ett mobilabonnemang eller ett mobilnummer\n\nVill du ta över ett abonnemang eller nummer som tillhör någon annan? Då har du\nkommit till rätt ställe!\n\nBörja med att klicka på det du vill göra och följ instruktionerna.\n\n### Jag vill:\n\nTa över ett privat abonnemang\n\nVill du ta över betalansvaret för ett abonnemang och mobilnummer som idag ägs\noch **används** **av en annan person**?  \n  \n**Tänk på att**\n\n  * Både den som tar över och den som överlåter måste ha **BankID**.\n  * Processen måste avslutas inom **24 timmar** efter att den inletts.\n  * Om det gäller ett **familjabonnemang** är det hela abonnemanget som överlåts.\n  * Du som tar över abonnemanget övertar villkor och betalansvar. Därför gör vi en **kreditkoll** på dig.\n\n[Ta över ett abonnemang – börja\nhär](/link/117dacb18f8344758fac31ace8cf33b0.aspx)\n\nFlytta ut ett nummer ur ett familjeabonnemang\n\n[Kontakta oss](/link/0c492f5608894771aeabe6efb2d6d096.aspx) om du vill bryta\nut ett nummer ur ett familjeabonnemang.\n\nTa över ett nummer som tillhör ett företagsabonnemang\n\nInformation om hur man [flyttar nummer mellan företag och privatperson finns\nhär.](/link/bd7abcd5685b4aed84be711185b49589.aspx)\n\nÖverlåtelse av abonnemang från dödsbo\n\nOm du vill överlåta ett abonnemang som idag tillhör ett dödsbo fyller du i\nblanketten [Överlåtelse av abonnemang för\ndödsbo](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TG31188).  \n  \n**Tips!** Ladda ned blanketten och spara den på din dator eller mobil innan du\nfyller i eller skriver ut den.  \n  \nDu behöver också bifoga ett dödsfallsintyg, som du beställer via Skatteverket.\nSäkerställ att du som övertagare finns med på dödsfallsintyget.  \n  \nMejla intyg och ifylld blankett till oss via vårt\n[mejlformulär,](/link/315e5eb9c6e647d7bab050c041bfc2fe.aspx) eller via post\ntill Telenor, FE 100, 106 56 Stockholm. Märk kuvertet med \"överlåtelse\".  \n  \nNär överlåtelsen är genomförd får du bekräftelse via sms.  \n  \nObservera att eventuella delbetalningar på hårdvaror som mobil, surfplatta,\napple-tv och liknande, kommer att slutfaktureras vid överlåtelse.\n\nBra att veta om överlåtelse\n\n  * Att överlåta mobilabonnemang mellan privatpersoner är kostnadsfritt\n  * Ett abonnemang kan överlåtas tidigast 30 dagar efter att det tecknades\n  * Personen som tar över abonnemanget tar även över dess villkor och betalansvaret\n  * Det går inte att överlåta kontantkort\n\n",
+                "heading": " Att ta över ett mobilabonnemang eller ett mobilnummer"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:21+00:00",
+        "last_modified": "2025-05-30T14:26:02.143847",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

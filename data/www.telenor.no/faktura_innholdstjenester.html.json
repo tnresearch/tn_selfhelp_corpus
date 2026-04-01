@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/faktura_innholdstjenester.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 125,
+                "end": 4672,
+                "text": "# Innholdstjenester og Teletorg\n\nLurer du på hvem et 4- eller 5-sifret nummer tilhører, hva teletorg er, eller\nhvordan du sperrer eller åpner for bruk av disse tjenestene? Her finner du\nsvar på det meste.\n\n[Aldersgrense](/kundeservice/faktura/innholdstjenester/#aldersgrense)[Sperringer](/kundeservice/faktura/innholdstjenester/#sperringer)[Uenig\ni fakturert beløp?](/kundeservice/faktura/innholdstjenester/#uenig)\n\n## Dette er innholdstjenester\n\nInnholdstjenester er en samlebetegnelse for tjenester som er bestilt og betalt\nvia SMS. Tjenesten belastes ved at du mottar en SMS fra et 4- eller 5-sifret\nnummer, eller ved at du klikker på en link i meldingen for å gjennomføre et\nkjøp.\n\nSelve tjenesten kan være alt fra kjøp i brusautomater til parkering og\nbussbilletter. Enkelte innholdstjenester kan medføre at man starter et\nabonnement, f.eks. i forbindelse med svar på konkurranser. Da mottar du\nSMS/MMS som du belastes for jevnlig. Disse meldingene skal alltid inneholde\ninformasjon om hvordan du stopper tjenesten.\n\n## Dette er Teletorg\n\nTeletorgtjenester er et samlebegrep for en rekke nytte- og underholdnings-\ntjenester som tilbys per telefon. Disse telefonnumrene begynner med 820 eller\n829. Kostnad for å ringe til disse numrene vil variere og vil bli opplyst ved\nsamtalestart.\n\nDet er nylig blitt innført lovpålagte beløpsgrenser til teletorg-nummer på\nmaks 50 euro _per samtale_ og 300 euro _per måned_.\n\n## Hvem har fakturert meg?\n\nDu finner en full oversikt over hva du har blitt belastet for sammen med\nkontaktinformasjon til hver enkelt leverandør på\n[strex.no/minside](https://strex.no/min-side/). Du finner også navnet på\nleverandøren av tjenesten på fakturaen din.\n\n[Les mer om Strex og mobilbetaling](/privat/mobil/mobiltjenester/strex/)\n\n## Aldersgrense\n\nInnholdstjenester er tilgjengelig for alle, men vi krever at alle\ninnholdsleverandører gjør en alderssjekk dersom innholdet er uegnet for barn.\n\nBarn under 18 skal ikke ha mulighet til å inngå avtaler om abonnementsbaserte\ntjenester, men det er viktig at vi har korrekte opplysninger om brukers alder\nfor å sikre at det ikke oppstår slike tilfeller.\n\nØnsker du å sikre deg ytterligere, kan du legge til Sperring av SMS-\ninnholdstjenester på abonnementet det gjelder.\n\nInnholdstjenester og barnSørg for at barna har riktig abonnement og\nopplysninger knyttet til mobilnummeret. På den måten unngår du at barna får\ntilgang til uønskede innholdstjenester på SMS.\n\n## Sperringer\n\nSperring av SMS-innholdstjenester eller Teletorg er gratis, og endringen trer\ni kraft dagen etter at du aktiverer eller deaktiverer sperren.\n\n  * #### Hvordan sperrer jeg for kjøp over mobilregningen? \n\n    1. [Logg inn på Mine Sider](https://www.telenor.no/mitt-telenor/)\n\n    2. Velg **Mobil og abonnement**\n\n    3. Velg nummeret det gjelder\n\n    4. Velg **Innstillinger**\n\n    5. Velg **Sperringer**\n\n    6. Finn **Sperr av kjøp over mobilregningen** i listen og skru på bryteren for å aktivere sperren  \n\nØnsker du å deaktivere sperren ved et senere tidspunkt, skrur du bare av\nbryteren igjen.\n\n###\n\n  * #### Hvordan bestiller jeg Sperre for Teletorg?\n\n    1. [Logg inn på Mine Sider](https://www.telenor.no/mitt-telenor/)\n\n    2. Velg **Mobil og abonnement**\n\n    3. Velg nummeret det gjelder\n\n    4. Velg **Innstillinger**\n\n    5. Velg **Sperringer**\n\n    6. Finn **Fast sperre for Teletorg** i listen og skru på bryteren for å aktivere sperren  \n\nØnsker du deaktivere sperren ved et senere tidspunkt, skrur du bare av\nbryteren igjen.\n\n  * #### Hva er Beløpsgrense for innholdstjenester og Teletorg?\n\nØnsker du kontroll over kostnadene uten å sperre fullstendig for bruk av\ninnholdstjenester? Du kan velge å sette en beløpsgrense på 250, 500 eller 1000\nkr/md.\n\nFor å bestille beløpsgrense må du kontakte kundeservice. [Se\nkontaktinformasjon og åpningstider.](/kundeservice/kontakt-oss/)\n\nUenig i fakturert beløp?\n\nØnsker du å klage på et beløp forbundet med innholdstjenester eller teletorg,\nfinner du kontaktinformasjon til leverandøren på Strex sine sider. Klager og\ngenerelle henvendelser om en innholdstjeneste eller teletorg-nummer bør helst\nrettes direkte til leverandøren av tjenesten. Du kan finne kontaktinformasjon\npå [strex.no/minside](https://strex.no/min-side/)\n\nDu kan også klage til Strex (mobiloperatørenes betalingstjeneste) ved å bruke\nkontaktskjemaet på <https://strex.no/klageskjema> eller til Telenor ved å\n[kontakte kundeservice](/kundeservice/kontakt-oss/).  \n\nTrenger du mer hjelp eller veiledning fra oss kan du [kontakte\nkundeservice](/kundeservice/kontakt-oss/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:30+00:00",
+        "last_modified": "2025-05-30T08:25:33.282729",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

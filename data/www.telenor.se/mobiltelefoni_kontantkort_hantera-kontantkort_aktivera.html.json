@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_hantera-kontantkort_aktivera.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 351,
+                "end": 950,
+                "text": "#  Aktivera kontantkort\n\nDitt kontantkort aktiveras automatiskt när du sätter in det i din mobil,\nmobila bredband, surfplatta, router eller dator.\n\nNär du vill aktivera ditt nya simkort gör du det genom att sätta det i din\nmobil, modem, router, surfplatta eller dator. Ditt kontantkort aktiveras\nautomatiskt när du placerar det i simkortsfacket i din enhet. För att ditt\nkontantkort ska fungera i utlandet måste du först ha ringt med det i Sverige.\n\nFunkar det inte? [Kontakta Kundservice](/archive/2020/kontakta-oss-old-\nold/#productcategoryid%3D0%26categoryid%3D2%26tagid%3D2) så hjälper vi dig.\n\n",
+                "heading": " Aktivera kontantkort"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:30+00:00",
+        "last_modified": "2025-05-30T14:49:28.290595",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/asiakkuus_oma-dna-sovellus.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 146,
+                "end": 1123,
+                "text": "## Lataa Oma DNA -sovellus käyttöösi\n\nOma DNA -sovelluksella hoidat tärkeimmät asiakkuuteesi liittyvät asiat,\nhelposti yhdessä paikassa. Lataa sovellus puhelimellesi tai tabletillesi\nomasta sovelluskaupastasi.\n\n[ Lataa App Storesta](https://apps.apple.com/us/app/oma-dna/id1445655346?ls=1)\n\n[ Lataa Google Play\n-kaupasta](https://play.google.com/store/apps/details?id=fi.dna.omadna)\n\n### Oma DNA -sovelluksessa voit:\n\n  * Tarkastella ja maksaa laskujasi\n  * Tutustua omiin palveluihisi\n  * Tehdä liittymävaihdon tai tilapäisen sulun\n  * Löytää lähimmän DNA Kaupan\n  * Ottaa yhteyttä DNA:n asiakaspalveluun\n\nLataa sovellus puhelimellesi tai tabletillesi omasta sovelluskaupastasi.\n\nOma DNA -sovellukseen tunnistaudut verkkopankkitunnuksilla tai\nMobiilivarmenteella. Voit luoda tunnuksen ensimmäisellä käyttökerralla.\n\n**Yrittäjä?** Nyt voit hallinnoida yrityksesi omistuksessa olevia\nkuluttajaliittymiä Oma DNA -sovelluksessa. [Lue\nlisää](https://www.dna.fi/yrityksille/oma-dna)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:11+00:00",
+        "last_modified": "2025-06-21T13:43:47.809876",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

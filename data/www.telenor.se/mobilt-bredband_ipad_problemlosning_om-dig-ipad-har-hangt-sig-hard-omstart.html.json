@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobilt-bredband_ipad_problemlosning_om-dig-ipad-har-hangt-sig-hard-omstart.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 363,
+                "end": 834,
+                "text": "#  Har din iPad hängt sig?\n\nReagerar den varken på svep eller knapptryckningar? En hård omstart kan vara\nlösningen på problemet.\n\nTvinga din iPad till att starta om genom att hålla både vilo-/väckningsknappen\npå sidan och hemknappen på framsidan intryckta i minst 10 sekunder.\n\nHåll knapparna intryckta tills det vita äpplet (Apple-logotypen) visas.\n\nBehöver du mer hjälp så [visar Apple hur man gör\nhär](https://support.apple.com/sv-se/ht201412 \"Apples supportsidor\").\n\n",
+                "heading": " Har din iPad hängt sig?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:36+00:00",
+        "last_modified": "2025-05-30T14:20:11.954151",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

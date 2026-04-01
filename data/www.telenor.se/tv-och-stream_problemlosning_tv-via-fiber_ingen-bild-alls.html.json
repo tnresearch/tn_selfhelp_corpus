@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-fiber_ingen-bild-alls.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 379,
+                "text": "# Ingen bild alls\n\nBörja med att se efter på tv:ns baksida vilket uttag du har satt hdmi-kabeln\ni. Ta sedan fram fjärrkontrollen till tv:n och välj samma uttag under\nmenyvalet Source eller liknande.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:19+00:00",
+        "last_modified": "2025-05-30T17:37:53.278900",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

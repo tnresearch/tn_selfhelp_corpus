@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_dit-kob-hos-telenor.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2905,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Din retur- og fortrydelsesret hos Telenor\n\nFortryder du et køb fra Telenor, har du 14 dages fortrydelsesret. Falder den\n14. dag en weekend eller helligdag, udløber din fortrydelsesfrist den\nefterfølgende hverdag.\n\nBemærk at du ved returnering af iPad/iPhone skal deaktivere funktionen ”Find\nmy iPhone” (indstillinger/Cloud/Find min iPhone) inden returnering. Gør du\nikke det, er produktet værdiløst for Telenor, og du vil derfor skulle betale\nproduktets fulde pris.\n\n## Sådan returnerer du en vare\n\nDer er to forskellige måder at returnere din vare på, alt efter hvor du købt\nden. Har du købt varen i en Telenor-butik, kan du returnere den i [en af vores\nmange butikker](/find-butik/).\n\nHar du købt varen på telenor.dk eller via vores kundeservice, skal du [oprette\nen returnering ](/kundeservice/kob-og-regning/opret-retur/)og aflevere pakken\ni en PostNord pakkeshop.\n\nVi er glade for, at denne artikel var til hjælp.\n\nTak for din feedback.\n\n##  Sådan gør du:\n\nFortryder du køb af abonnement\n\nVil du ændre din ordre? Så ring til os på 72 100 100\n\n  \n\n  * Du har 14 dages fortrydelsesret fra den dag, du har købt dit abonnement\n  * Har du brugt dit abonnement inden for de 14 dage? Så skal du betale for forbruget\n  * Du behøver ikke returnere et evt. simkort\n  * Routere skal returneres - se hvordan du gør herunder\n\nFortryder du køb af en fysisk vare? (fx mobil, tilbehør eller router)\n\nHar du købt varen i en Telenor-butik, kan du returnere den i [en af vores\nmange butikker](/find-butik/).\n\nHar du købt varen på telenor.dk eller via vores kundeservice, skal du [oprette\nen returnering ](/kundeservice/kob-og-regning/opret-retur/)og aflevere pakken\ni en PostNord pakkeshop. Det gør du ved følge disse trin:\n\n**1\\. Opret retur på Telenor.dk**  \nUdfyld vores returformular med det referencenummer. som står på din\nfølgeseddel.\n\n**2\\. Du modtager en QR-kode**  \nDu modtager en mail eller sms med en QR-kode, som du skal vise i en PostNord\npakkeshop.\n\n**3\\. Aflever pakken i PostNord**  \nPostNord scanner din QR-kode og sørger for at printe en returlabel til dig. Du\nfår også en kvittering for indlevering.\n\n**4\\. Vi modtager din pakke  \n** Du kan følge hele pakkens rejse, og se hvornår den er fremme hos os.\n\nBemærk, at du har 14 dage til at oprette din returnering på telenor.dk, fra du\nhar modtaget din vare. Herefter har du yderligere 14 dage til at indlevere\nreturneringen i en PostNord pakkeshop.\n\n**Hvornår er min returnering færdig?**  \nDin returnering bliver registreret, når vi modtager varen på vores lager. Du\nmodtager herefter en bekræftelse, når din returnering er færdigbehandlet.\n\n**Har du købt et abonnement sammen med varen?**  \nHvis du også ønsker at fortryde abonnementet, skal du kontakte vores\nkundeservice på 72 100 100, som står klar til at hjælpe dig.\n\n**Har du købt varen i Elgiganten?  \n** Hvis du har købt din vare i Elgiganten, skal du kontakte dem for at\nfortryde dit køb."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:43+00:00",
+        "last_modified": "2025-05-21T15:15:47.497529",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

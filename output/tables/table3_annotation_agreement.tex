@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\caption{Agreement between LLM (Gemma-3-27b-it) pre-annotation and human review across 1{,}251 matched document pairs.}
+\label{tab:agreement}
+\begin{tabular}{lrrr}
+\toprule
+\textbf{Field} & \textbf{Agreed} & \textbf{Total} & \textbf{Agreement} \\
+\midrule
+Customer service related & 1{,}195 & 1{,}251 & 95.5\% \\
+Self-help resource & 1{,}170 & 1{,}251 & 93.5\% \\
+Contains PII & 1{,}248 & 1{,}251 & 99.8\% \\
+\midrule
+Span extraction success & 937 & 1{,}251 & 74.9\% \\
+Exact span match & 64 & 937 & 6.8\% \\
+\bottomrule
+\end{tabular}
+\end{table}

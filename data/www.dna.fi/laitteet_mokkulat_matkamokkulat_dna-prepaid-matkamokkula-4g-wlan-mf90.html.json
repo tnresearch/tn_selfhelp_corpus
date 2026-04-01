@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-prepaid-matkamokkula-4g-wlan-mf90.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 306,
+                "end": 1283,
+                "text": "# DNA Prepaid Matkamokkula 4G WLAN MF90+\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nprepaid-matkamokkula-4g-wlan-mf90/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-prepaid-\nmatkamokkula-4g-wlan-mf90/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-prepaid-\nmatkamokkula-4g-wlan-mf90/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-prepaid-\nmatkamokkula-4g-wlan-mf90/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-prepaid-\nmatkamokkula-4g-wlan-mf90/vianmaaritys)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje (pdf)](/documents/753910/853450/DNA_MF90_Finnish.pdf/)\n\n",
+                "heading": "DNA Prepaid Matkamokkula 4G WLAN MF90+"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:38+00:00",
+        "last_modified": "2025-06-20T19:08:21.029961",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

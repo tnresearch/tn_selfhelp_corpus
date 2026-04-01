@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_telenor-mediahub_fel-lokala-nyheter-visas.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 361,
+                "end": 958,
+                "text": "# Fel lokala nyheter visas\n\nKan du bara se lokala nyheter från Stockholm, fast du bor någon helt\nannanstans? Det beror förmodligen på att mediahubben är inkopplad på fel sätt.\nSå här gör du för att fixa det.\n\n  * ### Ta reda på vad som gäller för din adress\n\nDet gör genom att söka på din adress på sidan\n[telenor.se/port](/support/portar/)\n\n  * ### Klicka på sökresultatet för Telenor Mediahub\n\nDär står det om du ska koppla in enligt scenario 2A eller 2B.\n\n  * ### Följ instruktionerna för inkoppling\n\n[Inkopplingsguiden hittar du här](/support/tv-och-stream/kom-\nigang/box/telenor-mediahubb/)\n\n",
+                "heading": "Fel lokala nyheter visas"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:06+00:00",
+        "last_modified": "2025-05-30T17:35:40.529104",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

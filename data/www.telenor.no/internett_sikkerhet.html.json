@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_sikkerhet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 121,
+                "end": 1771,
+                "text": "# Hjelp til sikkerhetstjenester\n\nHer kan du få hjelp til å ta i bruk Nettvern eller Nettvern+, slik at du kan\nsurfe litt tryggere på nett.\n\n## Nettvern og Nettvern+\n\nNettvern og Nettvern+ er sikkerhetsfilter fra Telenor som gjør at du kan surfe\nlitt tryggere. Sikkerhetsfiltrene sjekker om nettsider du prøver å gå inn på\ner trygge. [Les mer om Nettvern og\nNettvern+](https://www.telenor.no/nettvern/)\n\n **Deaktivere eller aktivere Nettvern eller Nettvern+?**\n\n  *  **Nettvern** er automatisk aktivert på alle Telenor-kunder, men det er mulig å deaktivere. Vi anbefaler ikke at du deaktiverer tjenesten, men ønsker du likevel å gjøre dette har vi veiledninger for dette under.\n\n  *  **Nettvern+** er et forsterket sikkerhetsfilter inkludert i alle våre bredbåndsabonnement og i utvalgte mobilabonnement, og **du velger selv om du ønsker å skru** på Nettvern+ slik at du kan surfe tryggere.\n\n[Aktivere eller deaktivere\nNettvern](/kundeservice/internett/sikkerhet/nettvern/)\n\n## Andre sikkerhetstjenester\n\n  * #### Filter mot barneovergrep\n\nFilter mot barneovergrep hindrer tilgang til internettbilder som viser\nseksuelle overgrep mot barn, uten å utøve noen form for generell overvåking.\nFilteret ligger sentralt i selve Telenors nett, og gjelder for alle Telenors\nkunder uavhengig om du surfer på nettet via en datamaskin, et nettbrett eller\npå mobilen.  \n[Les mer om filteret her...](/kundeservice/internett/sikkerhet/nettfilter/)\n\n### Hvor trygg er du egentlig på nett?\n\nStadig flere opplever ID-tyveri eller misbruk av sin personlige informasjon på\nnett. Vi tar din digitale trygghet på alvor, gjør du?\n\n[Jeg vil bli tryggere på nett](/sikkerhet/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:03+00:00",
+        "last_modified": "2025-05-30T09:00:56.538824",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

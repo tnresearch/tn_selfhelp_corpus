@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-5g-wifi-mu5001_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 410,
+                "end": 1771,
+                "text": "# DNA Matkamokkula 5G WiFi MU5001\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/vianmaaritys)\n\n## Ominaisuudet\n\n### DNA Matkamokkula 5G WiFi MU5001\n\n**Tuotenimi: ZTE MU5001**\n\nDNA Matkamokkula 5G WiFi MU5001 matkalle mukaan. Pienikokoinen mokkula tarjoaa\nnopean ja tehokkaan 5G-netin useammalle laitteelle.\n\n  * 5G NSA latausnopeus max. 3,8 Gbit/s, lähetysnopeus max. 542 Mbit/\n  * 4G latausnopeus max. 2,4 Gbit/s, ähetysnopeus max. 150 Mbit/s\n  * 3G HSDPA latausnopeus max. 42 Mbit/s, lähetysnopeus max. 5,76 Mbit/s\n  * WLAN-standardi: 802.11ax (WiFi 6)\n  * USB-C ja Ethernet-liitännät\n  * 32 WiFi-laitetta\n  * 2.4 tuuman kosketusnäyttö\n  * 4500 mAh:n akku, joka tukee pikalatausta\n  * Micro-SIM-kortti\n\n**Myyntipaketin sisältö**\n\n  * DNA Matkamokkula 5G WiFi MU5001\n  * virtalähde\n  * USB-kaapeli\n  * käyttöopas\n  * pikaopas\n\n",
+                "heading": "DNA Matkamokkula 5G WiFi MU5001"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:12:42+00:00",
+        "last_modified": "2025-06-20T19:05:55.707438",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

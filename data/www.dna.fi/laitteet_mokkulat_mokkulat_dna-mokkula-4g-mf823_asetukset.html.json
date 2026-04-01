@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-4g-mf823_asetukset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 370,
+                "end": 1263,
+                "text": "# DNA Mokkula 4G MF823\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/vianrajaus)\n\n## Asetukset\n\n### Mokkulan hallintasivu\n\nJoka kerta, kun kytket mokkulan tietokoneeseen, verkkoselain avaa\nautomaattisesti mokkulan hallintasivun. Jos poistut sivulta ja haluat palata\nsinne, kirjoita selaimen osoitekenttään **http://192.168.0.1.**\n\nMokkulan hallintasivulla voit vaihtaa tai poistaa käytöstä PIN-koodisi sekä\nmuuttaa muita mokkulan asetuksia.\n\n",
+                "heading": "DNA Mokkula 4G MF823"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:36+00:00",
+        "last_modified": "2025-06-20T19:10:34.749969",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_ladda-och-saldo_avsluta-prenumeration.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 286,
+                "end": 4885,
+                "text": "# Kontantkort\n\n##\n\n## Hantera kontantkort\n\n  * [ Registrera kontantkort  ](/support/mobiltelefoni/kontantkort/hantera-kontantkort/registrera-kontantkort/)\n  * [ Flytta nummer till och från Telenor  ](/support/mobiltelefoni/kontantkort/hantera-kontantkort/nummerflytt2/)\n  * [ Aktivera kontantkort  ](/support/mobiltelefoni/kontantkort/hantera-kontantkort/aktivera/)\n  * [ Giltighetstid för kontantkortsladdning  ](/support/mobiltelefoni/kontantkort/hantera-kontantkort/giltighetstid-kontantkortsladdning/)\n  * [ Hitta pinkod och pukkod  ](/support/mobiltelefoni/kontantkort/hantera-kontantkort/pin-kod/)\n  * [ Ställa in röstbrevlådan  ](/support/mobiltelefoni/abonnemang/rostbrevladan/)\n  * [ Avsluta kontantkort  ](/support/mobiltelefoni/kontantkort/hantera-kontantkort/avsluta/)\n  * [ Spärra kontantkort  ](/support/mobiltelefoni/kontantkort/hantera-kontantkort/sparra/)\n  * [ Skaffa nytt simkort  ](/support/mobiltelefoni/kontantkort/hantera-kontantkort/skaffa-nytt-simkort/)\n\n## Ladda & saldo\n\n  * [ Flera sätt att ladda kontantkortet på  ](/support/mobiltelefoni/kontantkort/ladda-och-saldo/ladda-kontantkort/)\n  * [ Kolla saldo  ](/support/mobiltelefoni/kontantkort/ladda-och-saldo/kolla-ditt-saldo/)\n  * [ Prenumerera på laddning  ](/support/mobiltelefoni/kontantkort/ladda-och-saldo/prenumerera-pa-laddning/)\n  * [ Avsluta prenumeration av laddning  ](/support/mobiltelefoni/kontantkort/ladda-och-saldo/avsluta-prenumeration/)\n  * [ Ladda-appen  ](/handla/kontantkort/telenor-ladda/)\n\n## Utomlands\n\n  * [ Använda kontantkort utomlands  ](/support/mobiltelefoni/kontantkort/utomlands/kontantkort-utomlands/)\n  * [ Priser i utlandet  ](/roaming/)\n  * [ Priser från Sverige till utlandet  ](/support/mobiltelefoni/utomlands/priser-fran-sverige-till-utlandet/priser/priser-fran-sverige-till-utlandet-for-kontantkort/)\n\n## Skaffa nytt kontantkort\n\n  * [ Kontantkort till mobiltelefon  ](/handla/kontantkort/bestall-startpaket-old/)\n  * [ Kontantkort till larm  ](/support/mobiltelefoni/kontantkort/skaffa-nytt-kontantkort/kontantkort-till-larm/)\n\n## Villkor och prislistor\n\n  * [ Särskilda villkor för kontantkort  ](http://mediearkivet.telenor.se/Data/mw/Pdf/TD32038.pdf)\n  * [ Villkor för laddning av kontantkort  ](http://mediearkivet.telenor.se/Data/mw/Pdf/TB32095.pdf)\n  * [ Prislista kontantkort  ](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TN32034)\n  * [ Äldre villkor  ](/support/priser-villkor-och-blanketter/mobiltelefoni-och-mobilt-bredband/villkor-och-blanketter/)\n  * [ Äldre prislistor  ](/support/priser-villkor-och-blanketter/mobiltelefoni-och-mobilt-bredband/priser/)\n\n## Vanliga frågor om kontantkort\n\n  * Varför måste jag registrera mitt kontantkort?\n\nSveriges riksdag har beslutat att införa en ny lag som kräver att alla\nkontantkort, oavsett operatör, ska registreras på en användare. Från och med 1\naugusti 2022 måste alla nya kontantkort registreras för att kunna användas. I\nfebruari 2023 ska även alla befintliga kontantkort vara registrerade på sin\nanvändare.\n\n  * Varför kan jag inte ladda mitt kontantkort?\n\nSedan den 1 februari 2023 måste alla kontantkort vara **registrerade** för att\nkunna laddas. Detta är en konsekvens av den lagändring som trädde i kraft den\n1 augusti 2022.\n\n[Registrera ditt kontantkort](/link/9d9b1dd3829a415580e98ad6af78f872.aspx)  \n\nProblem med att ladda kortet kan också bero på\n\n    * att kortet inte är **giltigt** längre. Det behöver laddas minst en gång per år, annars avslutas det. I appen [Telenor Ladda](/link/8ad148929ae541328599af3f428082a6.aspx) kan du se om ditt kontantkort fortfarande är aktivt.\n    * att ditt betalkort inte är **öppet för internetköp**. Ändra inställningen hos kortutgivaren, eller prova ett annat sätt att betala, till exempel Swish.\n\n  * Hur köper jag Hello kontantkort?\n\nDet gör du på sidan [Beställ\nstartpaket](/link/ae66340a13b54008a7c18b198ea6ad32.aspx). Hello är en av våra\nfastprisladdningar.\n\n  * Jag har redan ett kontantkort hos er men vill ha Hello. Hur gör jag?\n\nKul att du vill ha Hello! Det är en av våra fastprisladdningar. Du kan välja\nmellan 1 GB och 10 GB. För att skaffa Hello gör du så här:\n\n    1. Gå in på [telenor.se/ladda ](/link/8ad148929ae541328599af3f428082a6.aspx)\n    2. Välj en av Hello-laddningarna\n\n  * Vad kostar det att använda kontantkortet i utlandet?\n\nReser du inom EU/EES så kostar det som hemma. Reser du utanför EU/EES [ser du\nhär](/link/a728a2eee9b24f87867517e059303cae.aspx) vad det kostar. Reser du\nutanför EU/EES måste du ladda på med Extrasaldo. För att ditt kontantkort ska\nfungera i utlandet måste du först ha ringt med det i Sverige.\n\n",
+                "heading": "Kontantkort"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:30+00:00",
+        "last_modified": "2025-05-30T14:50:22.543135",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

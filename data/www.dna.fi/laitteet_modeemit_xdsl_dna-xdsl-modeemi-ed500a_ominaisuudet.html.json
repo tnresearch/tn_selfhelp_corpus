@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_xdsl_dna-xdsl-modeemi-ed500a_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 387,
+                "end": 1451,
+                "text": "# DNA xDSL-modeemi ED500A\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/xdsl/dna-xdsl-\nmodeemi-ed500a/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/xdsl/dna-xdsl-modeemi-\ned500a/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/xdsl/dna-xdsl-modeemi-\ned500a/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/xdsl/dna-xdsl-modeemi-\ned500a/paivitykset) [ Vianselvitys\n](https://www.dna.fi/tuki/laitteet/modeemit/xdsl/dna-xdsl-modeemi-\ned500a/vianselvitys)\n\n## Ominaisuudet\n\nTuotenimi: Inteno ED500A\n\n  * Tukee VDSL- ja ADSL-yhteyksiä\n  * Langaton yhteys: WiFi 802.11ac/n/g 2.4 GHz (3X3) ja 5 GHz (4X4)\n  * 4 kpl 1 GB LAN-portteja (esim. digiboksille tai tietokoneelle)\n  * 1 kpl 1 GB WAN-portti\n  * 2 kpl Tel (RJ11) -portteja\n  * IPv4 ja IPv6-yhteensopiva\n  * WPS, USB-portti, Palomuuri ja QOS\n  * DNA:n kustomoidut asetukset\n\nMyyntipaketin sisältö: Inteno ED500A-modeemi, virtajohto ja adapteri,\nEthernet-johto, RJ11-puhelinjohto, jakosuodin puhelinpistokkeeseen, pikaohjeet\nja opas.\n\n",
+                "heading": "DNA xDSL-modeemi ED500A"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:39+00:00",
+        "last_modified": "2025-06-20T18:50:04.296106",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

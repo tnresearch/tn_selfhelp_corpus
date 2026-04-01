@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_koppla-in-datorn-direkt-i-bredbandsuttaget.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1145,
+                "text": "# Koppla in datorn direkt i bredbandsuttaget\n\nFör att utesluta att det är din dator det är fel på ansluter du den direkt\ntill bredbandsuttaget med nätverkskabel. Eller till tjänstefördelaren om du\nhar en sådan.\n\n  \nDärefter kan du testa din surfhastighet på\n[bredbandskollen.se](http://www.bredbandskollen.se).\n\nTänk på att det finns andra anledningar till att din dator är långsam, till\nexempel:\n\n  * Den är gammal\n  * Drivrutiner, operativsystem eller antivirusprogram är inte uppdaterade\n  * Den har för lite ledigt minne\n\n[Läs mer om vad som kan göra din dator långsam](/support/fast-bredband/via-\nfiber/felsokning/problem-med-hastigheten/)\n\n## Hjälpte detta steg dig?\n\n[ Ja! ](/support/fast-bredband/felsokning/koppla-in-routern-igen/)\n\n[ Nej, jag har ingen dator att testa med. ](/support/fast-\nbredband/felsokning/wifi-kabel-fabriksaterstall-din-router/)\n\n[ Nej, jag behöver mer hjälp. ](/support/fast-bredband/felsokning/testa-med-\nen-annan-natverkskabel/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:27+00:00",
+        "last_modified": "2025-05-30T14:04:38.500197",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

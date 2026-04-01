@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wifi-mf289f_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 404,
+                "end": 1630,
+                "text": "# DNA Kotimokkula 4G WiFi MF289F\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-mf289f/vianmaaritys)\n\n## Päivitykset\n\nDNA Kotimokkula 4G WiFi MF289F:ssä on oletuksena aktiivisena automaattinen\nohjelmistoversion päivitys. Laite voidaan päivittää myös manuaalisesti\nkirjautumalla laitteen asetussivuille, valitsemalla sivun alareunasta\n**Lisäasetukset** -valikon takaa kohta **Päivitä** ja painamalla sen jälkeen\n**Tarkista** ja mikäli uusi versio havaitaan, toimimalla esiin tulevan popup-\nikkunan ohjeiden mukaisesti.\n\n#### **MF289F on saanut päivityksen 5.6.2023 alkaen:**\n\nOhjelmistoversio sisältää useita pieniä korjauksia ja parannuksia laitteen\ntoimintaan.\n\nUusi ohjelmistoversio: CR_DNAFIMF289FV1.0.0B12\n\n",
+                "heading": "DNA Kotimokkula 4G WiFi MF289F"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:59+00:00",
+        "last_modified": "2025-06-20T18:52:00.242434",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

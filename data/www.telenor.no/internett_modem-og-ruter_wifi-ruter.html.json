@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_wifi-ruter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 185,
+                "end": 3360,
+                "text": "# Hjelp til WiFi Ruter\n\nHer finner du informasjon om din WiFi Ruter, samt veiledninger og hjelp til\noppkobling.\n\nHar du WiFi Ruter II, [så kan du finne hjelp\nher.](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/)\n\n## Om WiFi Ruter\n\nWiFi Ruter er en trådløs ruter med prisvinnende design. Den fungerer like bra\nmed alle våre internettaksesser, uansett om du har bredbånd over fiber, kabel\neller Trådløst Bredbånd.\n\nMed standardkrypering WPA2-PSK og Smart WiFi sørger ruteren for at du får en\nstabil og sikker internettforbindelse. Smart WiFi er en funksjon som\nautomatisk velger det beste nettet for deg, enten dette er på 2,4GHz eller\n5GHz.\n\nHar du stor bolig eller vanskelige dekningsforhold kan du bygge ut med en\neller flere [WiFi Forsterkere](/kundeservice/internett/modem-og-ruter/wifi-\nforsterker/) til et mesh-nettverk, som gir god dekning i hele boligen.\n\n### Slik kobler du opp din WiFi Ruter\n\nHer finner du veiledninger og videoer for oppkobling av ruteren.\n\n[Koble opp ruter ➜](/kundeservice/internett/modem-og-ruter/wifi-ruter/koble-\ntil/)\n\n  * #### Hva betyr lampene på WiFi Ruter?\n\n **Nederste Lampe:**\n\n    * Stabil hvit farge = Tilkoblet sstrøm\n\n    * Blinker hvit = Starter opp\n\n    * Blinker gul = Programvareoppdatering pågår\n\n    * Blinker blå = WPS pågår\n\n    * Stabilt grønn = Tilkoblet, men ikke oppdatert med nyeste programvare\n\n* * *\n\n **Øverste Lampe:**\n\n    * Stabilt grønn = Tilkoblet\n\n    * Blinker grønn = Kobler til\n\n    * Blinker gul = Tilkoblet, men mangler IP-adresse\n\n    * Stabilt gul = Bridge/Bro-modus\n\n    * Blinker rød = Tilkoblet, men mangler kontakt med Telenor\n\n    * Mørk = Ikke tilkoblet\n\n* * *\n\n  * #### Glemt passord til WiFi?\n\nSend SMS med kodeord **WIFI XXXXXXXX til 2000** for å få tilsendt\nnettverksnavn og passord til ruteren.\n\nDe 8 sifrene er de 8 siste sifrene i serienummeret (S/N). Du finner\nserienummeret og instrukser på hvordan du sender SMS på klistremerket på\nundersiden av ruteren.\n\n  * #### Detaljer om ruteren\n\n **Mål:**  \nHøyde: 175 mm. Bredde: 207 mm. Dybde: 77 mm.\n\n **WiFi-standard:**  \n802.11b/g/n på 2.4Ghz og 802.11a/n/ac på 5Ghz  \nBåndstyring: enheten som er tilkoblet vil automatisk bytte mellom 2.4 og 5GHz\nbasert på signalstyrke  \nIkke WiFi 6-støtte (802.11ax **)**\n\n **Standard kryptering:  \n** WPA2 PSK\n\n## Endre innstillinger på din ruter?\n\nØnsker du å endre innstillingene på ruteren din, som å endre nettverksnavn\neller passord? Det kan du gjøre ved å logge deg inn på Mitt WiFi, på\n<https://wifi.telenor.no/>\n\nFor å logge deg på, må du være tilkoblet ditt hjemmenett, og du logger deg inn\nmed admin-passordet som du finner klistrelappen under din WiFi Ruter.\n\nTrenger du mer hjelp eller veiledning til å endre innstillinger på din ruter?\nVi har laget en egen side med mer info, den finner du ved å trykke på knappen\nunder.\n\n[Gå til Mitt WiFi](/kundeservice/internett/wifi/administrere-ruter/)\n\n## Opplever du problemer med Internett?\n\nSvært mange problemer løses ved at man skrur utstyret av og på. Opplever du\nallikevel problemer, kan vi hjelpe deg med veiledninger for de vanligste\nproblemstillingene.\n\n[Tregt, ustabilt eller manglende\nnett](/kundeservice/internett/problemer/index.page)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:06+00:00",
+        "last_modified": "2025-05-30T08:55:23.317408",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_dit-kob-hos-telenor_telefoni-via-bredband-voip.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1448,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Fastnet telefoni via bredbånd (VoIP)\n\n| Telefoni - (Efter forbrug)  | Telefoni - (Frit til fastnet) | All Inclusive  \n---|---|---|---  \nPris pr. måned | 0 kr. (Pris fra d. 16. juli 49 kr) | 99 kr. (Pris fra d. 16.\njuli 149 kr) | 89 kr. (Pris fra d. 16. juli 139 kr)  \nTrafik til: |  | Minutpris |\n\nOpkaldsafgift  \n/Opkaldsforsøgsafgift  \n  \n---|---  \n| Minutpris |\n\nOpkaldsafgift  \n/Opkaldsforsøgsafgift  \n  \n---|---  \n| Minutpris |\n\nOpkaldsafgift  \n/Opkaldsforsøgsafgift  \n  \n---|---  \nOpkald til fastnetnumre i Danmark (hele døgnet)  \n  \n|  | 29 øre |\n\n  \n35 øre  \n  \n---|---  \n| 0 kr. |\n\n  \n0 kr.  \n  \n---|---  \n| 0 kr. |\n\n  \n0 kr.  \n  \n---|---  \nOpkald til mobilnumre i Danmark (hele døgnet)  \n  \n|  | 1,29 kr. | 35 øre  \n---|---  \n| 1,29 kr. |\n\n  \n35 øre  \n  \n---|---  \n| 0 kr | 0 kr.  \n---|---  \nOpkald til 70-numre (hele døgnet)  \n  \n|  | 29 øre |\n\n  \n35 øre  \n  \n---|---  \n| 29 øre |\n\n  \n35 øre  \n  \n---|---  \n| 29 øre |\n\n  \n35 øre  \n  \n---|---  \nOpkald til alarm  \n  \n|  | 0 kr. |\n\n  \n0 kr.  \n  \n---|---  \n| 0 kr. |\n\n  \n0 kr.  \n  \n---|---  \n| 0 kr. |\n\n  \n0 kr.  \n  \n---|---  \nOpkald til udenlandske numre  \n  \n|  | Download  \nnedenfor |\n\n25 øre  \n  \n---|---  \n| Download  \nnedenfor |\n\n25 øre  \n  \n---|---  \n| Download  \nnedenfor |\n\n25 øre  \n  \n---|---  \nOprettelse | Ikke åben for nysalg | Ikke åben for nysalg | Ikke åben for\nnysalg  \n  \nDownload udenlandstaktster\n[her](/imagevault/publishedmedia/fh20uyq7qmblqsvvkvnq/voip_tarif.pdf)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:37+00:00",
+        "last_modified": "2025-05-21T15:15:48.886577",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

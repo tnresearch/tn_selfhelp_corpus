@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kontakt-oss_index.page.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 80,
+                "end": 2917,
+                "text": "# Kontakt kundeservice\n\nVi er her for å hjelpe deg, på telefon, e-post eller chatboten Telmi!\n\n[Gjelder det bedrift? Trykk her](/bedrift/kundeservice/kontakt-oss/)\n\n[\n\n### Chat med Telmi\n\n  \nTelmi kan hjelpe deg med alle Telenors tjenester og produkter.\n\n](javascript:void\\(window.startChat\\(\\)\\))\n\n[\n\n### Ring oss på 915 09000\n\n **  \nÅpningstider:**\n\nHverdager - 08 - 19  \nLørdag - 09 - 16  \nSøndag/Helligdag - Stengt\n\n](tel:+4791509000)\n\n### Innlogging med Vipps!\n\nNår du ringer kundeservice (og har Vipps knyttet til nummeret du ringer fra)\nkan du nå logge inn mens du er i menyen!  \nPå den måten kan vi hjelpe deg på en mer effektiv og tryggere måte!\n\n[\n\n### Kontakt oss på e-post\n\n  \nFyll ut e-postskjema slik at vi kan hjelpe deg\n\n](/kundeservice/kontakt-oss/e-post/)\n\n  * #### Pris for å ringe kundeservice\n\nSamtaler til kundeservice på 915 09000 følger ordinær takst for samtaler til\nmobil. Har du inkludert ringetid i ditt mobilabonnement, er også samtaler til\nkundeservice inkludert.\n\n[Priser for\nkontantkort](https://www.telenor.no/privat/mobil/mobilabonnement/kontantkort/)\n\n[Priser for mobilabonnement som ikke lengre er i\nsalg](https://www.telenor.no/privat/kundeservice/mobilhjelp/utgaatte/)\n\n[Priser for fasttelefon](https://www.telenor.no/privat/telefoni/#tab1=0)\n\n  * #### ID-sjekk med Vipps\n\nVi har nylig tatt i bruk Vipps i vår talemeny, slik at det blir sikrere og mer\neffektivt å ringe kundeservice.\n\nNår du ringer til oss vil du få et valg i menyen om å motta en\nidentifiseringsforespørsel. Når du godtar dette, vil du få et varsel fra Vipps\npå din mobiltelefon. Trykk på dette varselet, og du blir tatt inn i Vipps for\nå identifisere deg. Når dette er gjort blir du satt videre til kundeservice på\ntelefon. **Du må ha Vipps knyttet til mobilnummeret du ringer fra.**\n\nOBS: Hvis du har skrudd av varsler fra Vipps, må du åpne Vipps manuelt for å\nfullføre identifiseringen.\n\n### Har du fått en mistenkelig e-post eller SMS?\n\nHer gir vi deg tips og råd om hva du bør gjøre når du har mottatt en tvilsom\nSMS eller e-post.\n\nHar du mottatt en svindelmelding på SMS eller e-post som du gjerne vil tipse\noss om? Da kan du [rapportere det inn\nher.](https://www.telenor.no/kundeservice/svindel/#rapporter)\n\n[Les mer om svindelforsøk ➜](/kundeservice/svindel/)\n\nContact us\n\nYou can contact customer service by phone, chat or email\n\n[Les mer](/kundeservice/kontakt-oss/contact-customer-service/)\n\nSpesialtilpasset\n\nVi har produkter og tjenester for hørselshemmede og eldre\n\n[Les mer](/kundeservice/nedsatt-funksjonsevne/)\n\nBygge eller grave?\n\nSkal du bygge, grave eller legge kabel kan du kontakte Telenor kabelnett\n\n[Les mer](/kundeservice/kabelnett/)\n\nDAB-radio\n\nOpplever du feil eller problemer med mottak av radiosignaler?\n\n[Les mer](/kundeservice/dab-radio/)\n\nOppsigelse\n\nSkal du flytte?\n\nKundeservice for bedriftskunder"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:30+00:00",
+        "last_modified": "2025-05-30T09:06:30.390299",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "contact info - mixed content"
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_brug-ogsaa-mobilen-til_opret-et-hotspot.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 744,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Brug din mobil som hotspot\n\nFølg guiden trin for trin og kom online via din mobil i løbet af et øjeblik.\n\nNår du går online via din mobil, bruger du af den mængde data, der er inklusiv\ni dit mobilabonnement. Bruger du ofte din mobil som hotspot, har du måske brug\nfor et abonnement med mere data?\n\n[Se vores abonnementer](/shop/abonnementer/abonnementer-til-dig/)  \n[Opgrader dit abonnement på Mit Telenor](/mit-telenor/abonnement/)\n\n  * ## Tryk på \"Indstillinger\"\n\n  * ## Tryk på \"Mobilt hotspot og internetd.\"\n\n  * ## Tryk på \"Mobilt hotspot\"\n\n  * ## Tryk \"ok\"\n\nFor at akrivere Mobilt hotspot skal du trykke \" **ok** \"\n\n  * ## Tilslut dine enheder\n\nNår knappen er grøn, er dit mobile hotspot aktiveret, og du kan nu tilslutte\ndine enheder."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:47+00:00",
+        "last_modified": "2025-05-21T15:15:59.246062",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_installationsguider_installationsguider_technicolor-tc4210.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 352,
+                "end": 1464,
+                "text": "#  Kom igång med ditt bredband\n\nÄr du redo? Börja med att välja vilken sorts uttag du har.\n\n[ ](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-bredband/fiberuttag-\nhur-vill-du-koppla-upp-dig/)\n\n## Fiberuttag\n\nSitter oftast på väggen i hallen, men kan även finnas i andra rum.\n\n[Ja, jag har ett fiberuttag](/support/fast-bredband/surfa-nu/kom-igang-med-\nditt-bredband/fiberuttag-hur-vill-du-koppla-upp-dig/)\n\n[ ](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-\nbredband/tjanstefordelare-hur-vill-du-koppla-upp-dig/)\n\n## Tjänstefördelare/mediaomvandlare\n\nSitter oftast på väggen i hallen och har **flera uttag**.  \n  \n[Ja, jag har en tjänstefördelare](/support/fast-bredband/surfa-nu/kom-igang-\nmed-ditt-bredband/tjanstefordelare-hur-vill-du-koppla-upp-dig/)\n\n[ ](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-\nbredband/fiberkonverterare-hur-vill-du-koppla-upp-dig/)\n\n## Fiberkonverterare\n\nSitter vanligtvis i hallen och har oftast **ett enda uttag**.  \n  \n[Ja, jag har en fiberkonverterare](/support/fast-bredband/surfa-nu/kom-igang-\nmed-ditt-bredband/fiberkonverterare-hur-vill-du-koppla-upp-dig/)\n\n",
+                "heading": " Kom igång med ditt bredband"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:22+00:00",
+        "last_modified": "2025-05-30T14:08:10.250689",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

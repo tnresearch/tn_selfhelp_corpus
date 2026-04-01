@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-e3131.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 275,
+                "end": 1323,
+                "text": "# DNA Mokkula E3131\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3131/vianrajaus)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje\n(pdf)](/documents/753910/853450/K%C3%A4ytt%C3%B6opas%20Huawei%20E3131.pdf/77895678-f186-eafa-04b1-8cc236b5ad1d?t=1558355955108)\n\n[DNA Netti käyttöopas\n(pdf)](/documents/753910/853450/DNA%20Netti%20k%C3%A4ytt%C3%B6opas.pdf/da2f559d-d9f4-a25b-7589-7bf1c37ddce3?t=1558355954535)\n\n",
+                "heading": "DNA Mokkula E3131"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:12:37+00:00",
+        "last_modified": "2025-06-20T19:12:13.056242",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

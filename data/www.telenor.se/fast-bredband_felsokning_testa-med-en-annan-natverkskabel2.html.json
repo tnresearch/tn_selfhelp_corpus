@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_testa-med-en-annan-natverkskabel2.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 585,
+                "text": "# Testa med en annan nätverkskabel\n\nKanske är det kabeln det är fel på?\n\nByt ut din nätverkskabel och testa med en annan. Både nätverkskabeln mellan\ndatorn och routern samt mellan routern och tjänstefördelaren kan behöva\nkollas.\n\n## Hjälpte det?\n\n[ Ja! ](/support/lost-problem/)\n\n[ Nej, jag behöver mer hjälp. ](/support/ring-oss-direkt/)\n\n[ Jag har ingen extra nätverkskabel. ](/support/ring-oss-direkt/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:59+00:00",
+        "last_modified": "2025-05-30T14:05:38.624415",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

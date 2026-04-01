@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_betaling.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 4734,
+                "reason": "Selected by user",
+                "start": 2230,
+                "text": "# Betaling hos Telenor\n\nI Telenor er vi i gang med at udfase PBS og manuel betaling som\nbetalingsmuligheder. Vi tror på, at fremtiden er 100 % digital og uden\nregninger, som vi kender dem. Vi arbejder på, at du i fremtiden ikke behøver\nforholde dig til regninger og betalingsgebyrer, men blot kan følge dit forbrug\ni Mit Telenor – nøjagtigt som du kender det fra streamingtjenester som Netflix\nog Spotify.\n\nDet betyder, at vi trækker din betaling automatisk fra dit betalingskort -\nhelt uden gebyrer. Du tilmelder dig med dit betalingskort, og så ordnes\nbetalingen hver måned, uden du behøver at tænke over det.\n\nTilmeld dig automatisk kortbetaling [her](/mit-\ntelenor/login/?blockedMode=TelenorLogin&returnUrl=%252fmit-\ntelenor%252fbetalingsmetode%252f).  \nPå Mit Telenor kan også du se dine regninger og forbrug.\n\n## Manuel betaling og betalingsservice\n\nHvis du får tilsendt din regning og skal betale den manuelt koster det 49 kr.\npr. regning. Med PBS betaling er der gebyr på 19 kr. Hen mod 2026 udfaser vi\nmanuel betaling og PBS for i fremtiden at kunne tilbyde mere gennemsigtighed\nomkring forbrug og betaling.\n\nHvornår trækkes min betaling?\n\nBetalingen trækkes den 26. hver måned og hvis den 26. falder på en lørdag,\nsøndag eller helligdag trækkes betalingen på den næste hverdag.\n\nKan jeg tilmelde min betaling PBS?\n\nNej, hos os kan du betale med kort. Det koster ikke ekstra, og betalingen sker\nhelt automatisk.\n\nHvordan skifter jeg mit betalingskort?\n\nHar du fået nyt betalingskort, kan du nemt selv opdatere dine kortoplysninger\npå [Mit Telenor](/login/).\n\nHvilke betalingskort kan jeg betale med?\n\nDu kan tilmelde følgende kort til automatisk betaling: Dankort, VISA,\nMasterCard, JCB og Maestro.\n\nHusk at opdatere dine kortoplysninger, hvis dit registrerede betalingskort\nudløber eller bliver spærret.\n\nHvordan tilmelder jeg mig automatisk kortbetaling?\n\nDet gør du på Mit Telenor - det er nemt og hurtigt. Klik [her](/mit-\ntelenor/login/?blockedMode=TelenorLogin&returnUrl=%252fmit-\ntelenor%252fbetalingsmetode%252f) og kom i gang med det samme.\n\nGodt at vide om betalingen hos os\n\n  * Betalingsperioden går fra den 16. til den 15. i måneden.\n  * Du betaler forud for dit abonnement og tilvalgte services – det vil sige inden, at du har brugt det.\n  * Du betaler bagud for eventuelt ekstra forbrug – det vil sige efter, at du har brugt det.\n  * Smartaftale: Første afdrag falder typisk måneden efter aftalen er indgået, og derfor falder sidste afdrag også måneden efter Smartaftalen stopper."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:09+00:00",
+        "last_modified": "2025-05-21T15:15:45.407347",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

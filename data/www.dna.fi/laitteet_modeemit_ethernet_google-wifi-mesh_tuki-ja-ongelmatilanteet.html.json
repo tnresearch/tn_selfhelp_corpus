@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_google-wifi-mesh_tuki-ja-ongelmatilanteet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 397,
+                "end": 2685,
+                "text": "# Google WiFi Mesh -järjestelmä\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/google-\nwifi-mesh/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/google-wifi-\nmesh/kayttoonotto) [ Tuki ja ongelmatilanteet\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/google-wifi-mesh/tuki-ja-\nongelmatilanteet)\n\n## Tuki ja ongelmatilanteet\n\nGoogle WiFillä on 24 kk:n takuu ostohetkestä.\n\nDNA:n asiakaspalvelu auttaa sinua tarvittaessa asennuksessa, ominaisuuksien\nkuvailussa sekä ongelmanratkaisussa liittyen laitteen käyttöönottoon tai\nvirhetilanteisiin\n\nDNA:n asiakaspalvelu ohjaa ja välittää kysymyksiä tarvittaessa myös Googlen\ntukeen.  \n  \nSuorat yhteystiedot Googlen tukeen löydät\n[täältä](https://support.google.com/wifi/answer/7348866?hl=en)\n(englanninkielinen).\n\n## Yleisohje ongelmatilanteisiin\n\n  1. Käynnistä Google WiFi uudelleen tai irrota ethernet-johto hetkeksi.\n  2. Sulje sovellus puhelimestasi pakotetusti.\n  3. Käynnistä Google WiFi uudelleen.\n  4. Jos yllä olevat keinot eivät auta ongelmaan, tee lopuksi tehdasasetusten palautus Google WiFi -laitteelle sekä mahdollisesti modeemille.\n\n## Tehdasasetusten palautus\n\n  1. Paina Reset-näppäintä 10 sekunnin ajan ja päästä irti. Huom! Jos pidät painiketta pohjassa yli 15 sekuntia, laite alkaa näyttämään oranssia tai punaista LED-valoa ja tehdasasetusten palautus pitää aloittaa uudelleen.\n  2. Odota noin 5 minuuttia, kunnes laite alkaa vilkuttamaan hitaasti sinistä pulssivaloa.\n  3. Tee käyttöönotto uudestaan.\n\n## Google WiFi -laite ei käynnisty\n\n  1. Palauta tehdasasetukset.\n  2. LED-valot saa pois päältä sovelluksella, joten tarkista ettet ole ottanut valoja pois päältä. Tehdasasetusten palautus palauttaa toki myös valot toimintaan.\n  3. Kokeile toista virtapistoketta.\n  4. Tarkista mobiilisovelluksesta, ettei laite ole offline-tilassa.\n  5. Jos ongelma ei ratkennut, ota yhteyttä DNA:n asiakaspalveluun.\n\n## SSID ei näy ja/tai LED-valo on punainen\n\n  1. Palauta tehdasasetukset.\n  2. Varmista, että nettipiuha on liitetty oikein.\n  3. Jos ongelma ei ratkennut, ota yhteyttä DNA:n asiakaspalveluun.  \n\n",
+                "heading": "Google WiFi Mesh -järjestelmä"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:17+00:00",
+        "last_modified": "2025-06-20T15:01:22.500119",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

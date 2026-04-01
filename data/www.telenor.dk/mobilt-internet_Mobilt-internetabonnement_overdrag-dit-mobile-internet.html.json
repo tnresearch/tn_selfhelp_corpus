@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_Mobilt-internetabonnement_overdrag-dit-mobile-internet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 493,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Overdrag abonnement på mobilt internet\n\nØnsker du at overdrage eller overtage et abonnement på mobilt Internet, skal\nabonnementet være ude af binding.\n\nDen person, der ønsker at få abonnement overdraget, skal henvende sig i en\n[butik](/find-butik/ \"Find butik\") eller [kontakte\nos](/kundeservice/kontakt/).\n\n**Hvornår træder overdragelsen i kraft?**  \nNår abonnementer er overdraget, får den nye ejer besked, der bekræfter, at\nabonnementet nu er hans. Indtil da betaler du for abonnementet."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:02+00:00",
+        "last_modified": "2025-05-21T15:16:06.309333",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

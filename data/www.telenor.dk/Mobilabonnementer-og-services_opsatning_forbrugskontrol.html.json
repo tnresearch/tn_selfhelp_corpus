@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_opsatning_forbrugskontrol.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1594,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Forbrugskontrol\n\nForbrugskontrol holder styr på alt det, der kommer ud over dit månedlige\nabonnement. Altså de beløb der bliver lagt til din abonnementspris, når du fx\nringer til udlandet eller handler på nettet og betaler med en sms.\n\nDu tilmelder Forbrugskontrol på [Mit Telenor](/login/) eller i Mit Telenor\nApp.\n\n## Vælg selv dit maksimum\n\nDet er helt op til dig, hvor meget du vil have mulighed for at bruge ekstra om\nmåneden. Bemærk, at forbrugskontrol skal være på minimum 50 kr. udover det\ninkluderede forbrug. Det er derfor ikke muligt at lave en forbrugskontrol, der\nspærrer, så snart det inkluderede forbrug er opbrugt.\n\nNår du har brugt 80% af dit maksbeløb, sender vi dig en sms. Og overskrider du\ndit maksimum, bliver din mobil automatisk spærret inden for 24 timer.\n\nØnsker du at ændre dit maksbeløb, kan du gøre dette via [Mit Telenor\n](/login/)eller i Mit Telenor App.\n\n## Selvom din mobil er spærret, kan du:\n\n  * Modtage opkald\n  * Ringe til 112\n\nHvad gør jeg, hvis min mobil bliver spærret?\n\nEr din mobil blevet spærret på grund af forbrugskontrol, kan du ringe til os\nog få den åbnet igen. Når den nye regningsperiode starter, vender dit\nmaksbeløb tilbage til det oprindelige.\n\nØnsker du at hæve dit maksbeløb, kan du gøre dette via [Mit Telenor ](/mit-\ntelenor/login/)eller i Mit Telenor App\n\nForbrugskontrol i udlandet\n\nNår du rejser udenfor Danmarks grænser, har du automatisk forbrugskontrol i\nudlandet og et dataloft. Det kalder vi for Surfkontrol. Du kan læse meget mere\nom Surfkontrol [her](/kundeservice/Mobilabonnementer-og-\nservices/udland/surfkontrol-udland/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:50+00:00",
+        "last_modified": "2025-05-21T15:15:29.517814",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

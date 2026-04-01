@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_hjaelp-til-dit-internet_jeg-har-problemer-med-mit-wifiinternet_mit-internet-er-langsomt.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3927,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# **Mit internet er langsomt**\n\nTager det usædvanligt lang tid at downloade filer, sende og modtage mails\neller at åbne hjemmesider? Så er du kommet til det rette sted. I denne guide\nvil vi hjælpe dig med at finde eventuelle fejl på dit setup, så du kan blive\nflyvende på nettet igen.\n\nOmfatter fejlen kun enkelte af de tilsluttede enheder, er det tegn på, at der\ner problemer med enheden og ikke routeren/internetforbindelsen. Prøv at\ngenstarte enheden, for at se om dette afhjælper problemet​.\n\nGuiden er til dig, der oplever, at dit internet er langsommere, end den\nhastighed, du betaler for. Start med at tage en speedtest ved at downloade\nOokla's speedtest-app, [Speedtest by Ookla](https://www.speedtest.net/apps).\nTager du testen på dit WiFi-netværk, er det vigtigt, at du fysisk befinder dig\nlige ved siden af din router, når du tager testen.\n\nDin reelle hastighed er afhængig af mange ting, men som en god\ntommelfingerregel bør du kunne få din fulde hastighed, hvis du laver en\nspeedtest via en speedtest-app, på en nyere enhed, via LAN-kabel. Hastigheder\nmålt via WiFi vil ofte være lavere end det abonnerede, da selv de nyeste WiFi-\nteknologier ikke kan understøtte de højeste hastigheder, vi tilbyder.​\n\n##  Er udfordringerne sporadiske eller konstante?​\n\nSporadiske\n\nHvis du er online via WiFi, har dine enheders placeringer i forhold til\nrouteren stor indflydelse på den oplevede hastighed.​ For at opnå den bedst\nmulige forbindelse mellem din router og de forbundne enheder, kan du med\nfordel placere din router og dine enheder efter følgende retningslinjer:​\n\n  * Højt​\n  * Frit fremme​\n  * Centralt i det rum, hvor du har behov for dækning​\n  * Væk fra andre elektroniske enheder, kabler og lign.​\n\nLøste dette ikke dit problem, så kontakt Telenor Support. Før du ringer op, må\ndu meget gerne have noteret følgende:​\n\n  * Dato og klokkeslæt, hvor du oplevede langsom hastighed​\n  * ​Enheder, som du oplevede langsomt internet på\n\nOplevede du langsom forbindelse på en computer, bedes du notere, hvilket\nnetkort du har samt sikre dig, at driveren til netkortet er opdateret.​\n\nKonstante\n\nPrøv følgende, før du kontakter kundeservice:\n\n  1. Prøver du på at gå online via WiFi, så tjek, at din enhed er forbundet til det rigtige netværk. Hvis du ikke har ændret WiFi-navn, kan du se navnet på din forbindelse under bunden af routeren. Er din enhed ikke tilsluttet til netværket, skal du blot oprette forbindelsen igen\n  2. Hvis dine enheder er tilsluttet med LAN-kabel, så prøv at trykke alle stikkene i bund, og tjek, at der ikke er synlige skader på kablet​. Tjek også, om kablet er af typen Cat5e, Cat6, Cat6e eller nyere. Du kan læse på kablet, hvilken type det er. Er kablet af typen Cat5, er det forældet\n  3. Mobile/trådløse enheder kan selv skifte mellem WiFi og mobildata. Tjek derfor, om din enhed er på mobilt netværk, når du oplever fejlen\n  4. For at opnå den bedst mulige forbindelse mellem din router og de forbundne enheder, kan du med fordel placere din router og dine enheder efter følgende retningslinjer:​\n\n  * Højt​\n  * Frit fremme​\n  * Centralt i det rum, hvor du har behov for dækning​\n  * Væk fra andre elektroniske enheder, kabler og lign. Læs den fulde guide med gode råd til bedre WiFi-dækning [her](/shop/landingpage/bedre-wifi/).\n\n**Langsom forbindelse på arbejdscomputer**\n\nOplever du langsom forbindelse på en arbejdscomputer, kan det være forårsaget\naf en VPN-forbindelse eller et lokalt installeret sikkerhedssoftware. Kontakt\ndin arbejdsgivers IT-afdeling for at se, om de kan hjælpe dig.\n\nFik du ikke løst dit problem? Så kontakt Telenor Support på 72 100 100. Før du\nkontakter os, må du meget gerne have noteret følgende:\n\n  * Dato og klokkeslæt, hvor du oplevede langsom hastighed​\n  * ​Enheder, som du oplevede langsomt internet på\n\nOplevede du langsom forbindelse på en computer, bedes du notere, hvilket\nnetkort du har, og sikre dig at driveren til netkortet er opdateret.​"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:04+00:00",
+        "last_modified": "2025-05-21T15:15:40.119243",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

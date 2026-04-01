@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_kaapeli_dna-kaapelimodeemi-wifi-6-f-3896_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 413,
+                "end": 1818,
+                "text": "# DNA Kaapelimodeemi WiFi 6 F-3896\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-\nkaapelimodeemi-wifi-6-f-3896/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-kaapelimodeemi-\nwifi-6-f-3896/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-kaapelimodeemi-\nwifi-6-f-3896/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-kaapelimodeemi-\nwifi-6-f-3896/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-kaapelimodeemi-\nwifi-6-f-3896/vianmaaritys)\n\n## Ominaisuudet\n\nKäytettävissä DOCSIS 3.1 ja EuroDOCSIS 3.0 kaapeliverkoissa. Modeemi toimii\nensimmäisenä mesh-pisteenä ja voidaan laajentaa yhden tai useamman F-266 Mesh-\nlaajentimen kanssa.\n\n#### Mitat\n\n  * Korkeus 237 mm\n  * Leveys 187 mm\n  * Syvyys 65 mm\n\n**Asennustavat:** pöydälle (pystyyn), seinäkiinnitys\n\n**Sähkönkulutus:** 36W\n\n#### Tiedot\n\n**Valmistaja** : Sagemcom\n\n**Malli:** F-3896\n\n**Valmistajan takuu** : 24 kk\n\n**Verkkoliitännät:**\n\n  * **kaapeli** (coax), EuroDOCSIS 3.0 (32x8), DOCSIS 3.1 (2x2)\n\nLähiverkkoliitännät:\n\n  * ethernet 1 kpl 2.5 Gbit/s + 3 kpl 1 Gbit/s\n  * **WiFi 6** (802.11ax), 5 GHz (4x4) ja 2.4 GHz (4x4)\n\n#### Myyntipaketin sisältö\n\nDNA Kaapelimodeemi WiFi 6 F-3896, käyttöopas, virtajohto ja adapteri,\nantennijohto ja datajaotin, ethernet-johto, turvallisuusohje\n\n",
+                "heading": "DNA Kaapelimodeemi WiFi 6 F-3896"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:12:59+00:00",
+        "last_modified": "2025-06-20T18:42:51.878825",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

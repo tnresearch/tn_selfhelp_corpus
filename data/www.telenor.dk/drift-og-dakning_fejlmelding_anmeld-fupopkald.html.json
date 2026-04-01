@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/drift-og-dakning_fejlmelding_anmeld-fupopkald.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1437,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Anmeld fupopkald eller sms'er\n\nHer kan du give os besked, hvis du har modtaget sms'er eller opkald fra en\nmistænkelig afsender (typisk fra et udenlandsk nummer). Vi undersøger numrene\nog spærrer for dem, hvis det er nødvendigt.  \n  \nGenerelt opfordrer vi til ikke at klikke på links eller lignende fra numre, du\nikke kender. Derudover bør du undgå at udlevere personlige oplysninger over\ntelefonen, hvis det ikke er i forbindelse med opkald, du selv har taget\ninitiativ til.  \n  \nHar du spørgsmål vedrørende fupopkald eller sms’er, så ring til os på 72 100\n100.  \n  \nBemærk venligst, at vi kun kan hjælpe med fupopkald og sms’er sendt til\nTelenor kunder.\n\n**Hvis dit nummer bliver misbrugt til spoofing**\n\nSpoofing er opkald fra udlandet maskeret med et ægte dansk telefonnummer. Hvis\ndu oplever at modtage mange opkald fra personer, som siger, du har haft ringet\ntil dem, er dit nummer muligvis blevet misbrugt af svindlere til spoofing.\n\nHvis det er tilfældet, har vi desværre ikke mulighed for at spærre dit nummer,\nda det ville betyde, at du ikke selv ville kunne bruge din telefon. Vi kan i\nstedet give dig et nyt telefonnummer, men vores erfaring er, at svindlerne som\nregel kun benytter et nummer til spoofing i 1-2 uger. Vi anbefaler derfor at\nvente, selv om det kan være voldsomt belastende, mens det står på.\n\nHvis dit nummer bliver misbrugt til spoofing, og du ønsker et nyt\ntelefonnummer, kan du ringe til os på 72 100 100."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:02+00:00",
+        "last_modified": "2025-05-21T15:15:36.676281",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

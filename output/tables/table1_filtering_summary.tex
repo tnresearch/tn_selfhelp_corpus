@@ -1,0 +1,20 @@
+\begin{table*}[t]
+\centering
+\caption{Number of documents remaining after filtering steps for each website.}
+\begin{tabular}{lrrrrr}
+\toprule
+\textbf{Filtering Step} & \textbf{DNA FI} & \textbf{Telenor DK} & \textbf{Telenor NO} & \textbf{Telenor SE} & \textbf{Total} \\
+\midrule
+Initial documents & 382 & 234 & 187 & 449 & 1{,}252 \\
+Excluded: Contains PII & 1 & 0 & 0 & 0 & 1 \\
+Excluded: Not customer service & 12 & 25 & 1 & 17 & 55 \\
+Excluded: Not self help & 2 & 0 & 2 & 24 & 28 \\
+Excluded: Duplicates & 4 & 30 & 8 & 3 & 45 \\
+Excluded: Empty content & 1 & 0 & 0 & 0 & 1 \\
+\midrule
+Total excluded & 20 & 55 & 11 & 44 & 130 \\
+\textbf{Total accepted} & \textbf{362} & \textbf{179} & \textbf{176} & \textbf{405} & \textbf{1{,}122} \\
+\bottomrule
+\end{tabular}
+\label{tab:filtering_summary}
+\end{table*}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-5g-wifi-mc8020.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 296,
+                "end": 1384,
+                "text": "# DNA Kotimokkula 5G WiFi MC8020\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-mc8020/vianmaaritys)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje\n(pdf)](/documents/753910/853450/DNA_Kotimokkula_5G_Wifi_MC8020_opas.pdf/)\n\n[Lataa pikaopas\n(pdf)](/documents/753910/853450/DNA_Kotimokkula_5G_WiFi_MC8020_pikaopas.pdf/)\n\n[ Ladda ner manual\n(pdf)](/documents/753910/853450/DNA_Kotimokkula_5G_Wifi_MC8020_guide_SE.pdf/)\n\n[ Ladda ner snabbguide\n(pdf)](/documents/753910/853450/DNA_Kotimokkula_5G_WiFi_MC8020_Snabbguide_SE.pdf/)\n\n",
+                "heading": "DNA Kotimokkula 5G WiFi MC8020"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:03+00:00",
+        "last_modified": "2025-06-20T18:58:27.698957",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

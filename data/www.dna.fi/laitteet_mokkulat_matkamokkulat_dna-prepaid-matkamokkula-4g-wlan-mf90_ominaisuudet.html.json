@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-prepaid-matkamokkula-4g-wlan-mf90_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 423,
+                "end": 2060,
+                "text": "# DNA Prepaid Matkamokkula 4G WLAN MF90+\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nprepaid-matkamokkula-4g-wlan-mf90/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-prepaid-\nmatkamokkula-4g-wlan-mf90/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-prepaid-\nmatkamokkula-4g-wlan-mf90/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-prepaid-\nmatkamokkula-4g-wlan-mf90/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-prepaid-\nmatkamokkula-4g-wlan-mf90/vianmaaritys)\n\n## Ominaisuudet\n\n### DNA Prepaid Matkamokkula 4G WLAN MF90+\n\n**Tuotenimi: ZTE MF90+**  \n  \nPrepaid Matkamokkula, joka tukee 4G-yhteyttä. Mokkula on myynnissä Prepaid-\nasiakkaille.  \nVoit jakaa mobiiliyhteyden langattomasti Wi-Fi-yhteyden avulla, mutta MF90+\ntoimii myös USB-mokkulana.\n\n  * 4G LTE (CAT3) enimmäisnopeus verkosta 100 Mbit/s\n  * 3G Dual Carrier enimmäisnopeus 42 Mbit/s Dual Carrier enimmäisnopeus 42 Mbit/s \n  * HSPA+ enimmäisnopeus 21,1 Mbit/s\n  * MicroSD-muistikorttipaikka Micro SDHC, 2G-32 GByte Capacity, SD 2.0 Class 6\n  * TS9-liitäntä ulkoiselle antennille\n  * Mokkula kiinnitetään suoraan tietokoneen USB-porttiin.\n  * Mini-SIM eli normaalikokoinen SIM-kortti\n\n### Myyntipaketin sisältö:\n\nDNA Prepaid Matkamokkula 4G WLAN MF90+, USB-jatkojohto, pikakäyttöopas.\n\n### Laitteistovaatimukset / Tuetut käyttöjärjestelmät:\n\n  * Tuetut käyttöjärjestelmät Windows XP SP2/SP3, Vista SP1/SP1, Windows 7, Windows 8 / 8.1, Windows 10, MAC OSX: 10.8,-9,-10,-11\n\n",
+                "heading": "DNA Prepaid Matkamokkula 4G WLAN MF90+"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:38+00:00",
+        "last_modified": "2025-06-20T19:08:34.999128",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

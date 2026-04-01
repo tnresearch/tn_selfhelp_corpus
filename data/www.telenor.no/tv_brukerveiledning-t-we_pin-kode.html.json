@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_pin-kode.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 176,
+                "end": 1904,
+                "text": "# PIN-kode for T-We\n\nPIN-koden din er knyttet til Owner-profilen på T-We, men kan også settes for\nandre profiler. Her viser vi deg hvordan du finner, endrer eller\ntilbakestiller PIN-koden.\n\n## Hva er PIN-koden til T-We?\n\n **PIN-koden til T-We er som standard satt til 1-2-3-4.**\n\nHvis koden ikke er 1-2-3-4 betyr dette at du har endret koden til noe du selv\nhar valgt, eller at det er satt en annen kode til en ny profil.\n\nDu trenger blant annet PIN-koden når du endrer [innstillinger på T-We\nboksen](/kundeservice/tv/brukerveiledning-t-we/innstillinger/), [leier\nfilm](/kundeservice/tv/brukerveiledning-t-we/filmleie/) eller [endrer og\nsletter profiler](/kundeservice/tv/brukerveiledning-t-we/profiler/).\n\n## Slik endrer du PIN-koden\n\n  1. Trykk på knappen merket MENU eller T-We på fjernkontrollen avhengig av hvilken fjernkontroll du har\n\n  2. Velg profil-ikonet øverst til venstre\n\n  3. Trykk på blyant-tegnet under profilen du vil endre\n\n    * Blyanten blir først synlig når du navigerer til profilen\n\n  4. Velg **Endre profil**\n\n  5. Velg **Endre PIN-kode** og trykk **OK** på fjernkontrollen\n\n  6. Angi den gamle PIN-koden\n\n  7. Angi ny PIN-kode to ganger for å bekrefte endringen\n\nEndre PIN-kode:Velg profilen du vil endre PIN-koden til.\n\n## Tilbakestille PIN-koden\n\nHar du glemt PIN-koden til Owner-profilen? Du kan tilbakestille den på Mine\nSider.\n\n  1. [Logg inn på Mine Sider](https://www.telenor.no/mitt-telenor/tv-internett/twe/tilbakestill-twe-pin/)\n\n  2. Velg TV-abonnementet det gjelder\n\n  3. Trykk **Tilbakestill T-We pin**\n\n  4. Koden stilles nå tilbake til 1-2-3-4\n\n **NB!** Dersom koden ikke oppdateres kan du restarte T-We boksen ved å ta ut\nstrømmen. Vent 5 sekunder før du setter strømmen på plass igjen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:48+00:00",
+        "last_modified": "2025-05-30T09:33:23.458427",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

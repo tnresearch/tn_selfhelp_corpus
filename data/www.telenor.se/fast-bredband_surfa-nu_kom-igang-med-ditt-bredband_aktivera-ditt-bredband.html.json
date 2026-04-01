@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu_kom-igang-med-ditt-bredband_aktivera-ditt-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 623,
+                "text": "# Aktivera ditt bredband\n\nNu behöver du aktivera ditt bredband.\n\n1\\. Använd en dator eller mobil. Se till att du är **uppkopplad via wifi**\n(eller nätverkskabel). Om du använder din mobil ska du även **stänga av\nmobildata.  \n  \n** **2\\. Öppna en webbläsare och skriv in adressen:**  \n  \naktivering.telenor.se  \n  \n3\\. Välj **Privatkund** och fyll i de uppgifter som efterfrågas.  \n  \n **4\\. Vänta 15 minuter.**  \n  \n **5\\. Starta om routern.**"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:19:47+00:00",
+        "last_modified": "2025-05-30T14:08:42.154493",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

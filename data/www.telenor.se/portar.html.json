@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/portar.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 4237,
+                "text": "#  Så kopplar du in rätt port\n\nKom igång med bredband eller tv från Telenor. Sök efter din adress och se\nvilken port som ska användas.\n\n##\n\n###\n\nByt adress\n\n## Sök efter din adress\n\nSkriv in din adress, utan postnummer. I listan väljer du din adress t.ex.\nStorgatan 1, Uppsala\n\nNågot blev fel. Vi saknar information om vilken port du ska använda. Kontakta\nkundservice på 020-222 222 så hjälper vi dig.\n\nTips!\n\n  * Använd **kablarna som följer med** routern eller tv-boxen. Äldre kablar kan ha en annan strömstyrka som gör att det inte fungerar.   \n  \n\n  * Om du köpt både bredband och tv från oss behöver du **installera bredbandet först**.  \n  \n\n  * **Rätt placering av routern** är viktigt för att den fungera riktigt bra. Här kan du läsa allt om [var din router ska stå för ett maxat wifi](/handla/bredband/allt-om-wifi/placering-av-router/).  \n  \n\n  * Har du ett skåp i hallen med en massa uttag i? Grattis, då slipper du ha kablar dragna kors och tvärs i ditt hem! Skåpet innehåller en **patchpanel** , och skapar ett lokalt trådbundet nätverk (bostadsnät). Koppla in nätverkskabeln mellan uttaget märkt IN och rummet du vill ha routern i. [Läs mer](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-bredband/fiberuttag-hur-vill-du-koppla-upp-dig/fiberuttag--koppla-in-routern-fran-telenor/)  \n  \n\n  * **Tv-boxen** behöver inte stå synlig eftersom den drivs via radiosignaler från fjärrkontrollen. Men den **ska inte stå i ett stängt skåp** , eller ovanpå annan elektronisk utrustning, då kan den överhettas. Lämna minst 20 centimeter ovanför för bra ventilation.\n\nFungerar det inte?\n\n  * Prova **starta om** tjänstefördelaren, routern och tv-boxen. Om fel port varit inkopplad tar det upp till 10 minuter innan det börjar fungera.  \n  \n\n  * Dubbelkolla att **rätt port** är inkopplad.   \n  \n\n  * Kontrollera att du valt **rätt hdmi-källa (source)** med fjärrkontrollen.  \n  \n\n  * Om det fortfarande inte fungerar, [kontakta kundservice](/support/old-kontakta-oss/)[ ](/support/)så hjälper vi dig.\n\n## Vanliga frågor\n\n  * Kan jag få hjälp med bredbandsinstallationen?\n\nAbsolut! På telenor.se/surfa-nu får du hjälp oavsett om du just packat upp\nroutern ur lådan, eller redan kommit en bit och undrar varför det inte\nfungerar.  \n  \n[Till telenor.se/surfa-nu](/link/a481b520caa74fa78c97823e1292d558.aspx)\n\n  * Kan jag använda en annan router eller tv-box?\n\nJa, du kan använda en annan router än den vi skickar ut. Om du behöver\nkontakta kundservice har vi dock inte samma möjligheter att felsöka när du\nanvänder en egen router.\n\nDäremot kan du inte använda en annan tv-box än den som följer med eftersom\nprogramkortet kopplas ihop med tv-boxen.\n\n  * Vad är en tjänstefördelare?\n\nEn tjänstefördelare kallas ibland för switch, mediaomvandlare eller\nfiberkonverterare. Det är den apparat som används för att du ska kunna koppla\nin bredband eller tv via fiber om du bor i en bostad med öppet nät.\n\nDet är fastighetsägaren eller stadsnätet som tillhandahåller din\ntjänstefördelare, ofta finns den redan installerad i din bostad.\n\n  * Vad är en patchpanel?\n\nI en del hus och lägenheter finns en patchpanel. Med hjälp av den skapas ett\nlokalt trådbundet nätverk (bostadsnät) som gör att du kan välja exakt var du\nvill koppla in din router och tv-box – utan att behöva ha sladdar i hela\nhemmet. Väldigt praktiskt!  \n  \nPatchpanelen sitter ofta i ett kopplingsskåp i hallen, tillsammans med en\nförteckning på vilka uttag som finns i vilka rum.\n\n  * Vad behöver jag för att kunna koppla in mitt bredband eller tv?\n\nFör att koppla in bredband eller tv när du bor i öppet nät behövs\nnätverkskabel, router eller tv-box samt\n[tjänstefördelare](/link/844b799355d547ef88cb7536aa04f518.aspx). När du\nbeställer från oss skickar vi ut router eller tv-box samt de kablar som\nbehövs. Tjänstefördelare finns vanligtvis redan i bostaden.\n\n  * Vad är ett öppet nät?\n\nÖppet nät innebär att du som kund har möjlighet att välja fritt bland alla\nfiberleverantörer som finns i nätet. Motsatsen är ett slutet fibernät där\noftast en leverantör har ensamrätt på att leverera tjänster.\n\n",
+                "heading": " Så kopplar du in rätt port"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:00+00:00",
+        "last_modified": "2025-05-30T14:54:37.889548",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

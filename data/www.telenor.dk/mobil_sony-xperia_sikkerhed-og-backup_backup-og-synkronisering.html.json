@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_sony-xperia_sikkerhed-og-backup_backup-og-synkronisering.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1019,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Backup og synkroniser din mobil\n\nTager du jævnligt backup og synkroniserer du automatisk, kan du minimere\nrisikoen for at miste fx billeder, hvis du er uheldig og mister mobilen eller\nhar brug for at gendanne den og starte helt forfra.\n\n**Backup:** Din sikkerhedskopi af alt indhold og alle indstillinger. Du kan\nmed en backup genskabe din mobil og nemmere sætte nye enheder op med samme\nindhold, kontakter mv.\n\n**Synkroniser:** Din garanti for, at alle dine enheder altid er opdateret og\nhar samme indhold, billeder etc. Du har måske i løbet af dagen skrevet en ny\nkontakt i din telefonbog eller taget nye billeder. Når du har synkroniseret,\nhar du ikke taget backup af dine indstillinger.\n\n  * ## Tryk på menuknappen på startskærmen\n\n  * ## Vælg \"Indstillinger\"\n\n  * ## Vælg den konto, du ønsker at synkronisere\n\n  * ## Tryk på menuknappen øverst til højre\n\nHusk at vælge hvilke tjenester du ønsker at synkronisere, inden du trykker på\nmenuknappen.\n\n  * ## Vælg \"Synkroniser nu\"\n\nDin konto bliver nu synkroniseret."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:41+00:00",
+        "last_modified": "2025-05-21T15:16:04.697155",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/e-post_oppsett_huawei.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 158,
+                "end": 1477,
+                "text": "# Online e-post for Huawei\n\nHer viser vi deg hvordan du setter opp Telenor e-post eller endrer\ne-postinnstillinger på din Huawei-mobil.\n\n## Endre innstillinger eller sette opp e-post for første gang?\n\nHvis du opplever problemer med å sende eller motta e-post, bør du sjekke\ninnstillingene i e-postprogrammet du bruker. Her viser vi deg hvordan du\nendrer de utgående e-postinnstillingene, men du kan også følge veiledningen\nfor å kontrollere andre innstillinger i e-postprogrammet.\n\nDenne veiledningen viser deg også hvordan du setter opp en e-postkonto på\nHuawei-mobil for første gang.\n\n# Hva ønsker du å gjøre?\n\n[Sette opp e-postkonto ➔](javascript:)\n\n[Endre innstillinger ➔](javascript:)\n\n# Steg 1\n\n### Åpne E-postappen på din mobil for å legge til en ny konto\n\nNeste steg\n\nKontoinnstillinger for Online e-post\n\n **Kontonavn** : Valgfritt\n\n **Brukernavn** : Din e-postadresse (det som er før \"@online.no\", maks 8 tegn)\n\n **Passord** : Ditt passord. [Har du glemt\npassordet](/kundeservice/e-post/glemt-passord/index.page)?\n\n **Innkommende server**\n\n  * Server: mail.online.no\n\n  * Port: 993 m/SSL\n\n **Utgående server**\n\n  * Server: mail.online.no\n\n  * Port: 465 m/SSL (Du kan også bruke 587 m/SSL eller TLS)\n\nGammelt oppsett med innkommende server \"imap.online.no\" og utgående server\n\"smtp.online.no\" vil også fungere."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:01+00:00",
+        "last_modified": "2025-05-30T08:20:35.843398",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

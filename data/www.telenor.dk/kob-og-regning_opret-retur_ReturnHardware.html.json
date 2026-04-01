@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_opret-retur_ReturnHardware.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1004,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "## Sådan returnerer du\n\n1\n\n###  Opret retur på Telenor.dk\n\nUdfyld vores returformular med det reference nr. som står på din følgeseddel.\n\n2\n\n###  Du modtager en QR-kode\n\nDu modtager en mail eller SMS med en QR-kode, som du skal vise i en PostNord\npakkeshop.\n\n3\n\n###  Aflever pakken i PostNord\n\nPostNord scanner din QR-kode og sørger for at printe en returlabel til dig. Du\nfår også en kvittering for indlevering.\n\n4\n\n###  Vi modtager din pakke\n\nDu kan følge hele pakkens rejse, og se hvornår den er fremme hos os.\n\n1\n\n###  Opret retur på Telenor.dk\n\nUdfyld vores returformular med det reference nr. som står på din følgeseddel.\n\n2\n\n###  Du modtager en QR-kode\n\nDu modtager en mail eller SMS med en QR-kode, som du skal vise i en PostNord\npakkeshop.\n\n3\n\n###  Aflever pakken i PostNord\n\nPostNord scanner din QR-kode og sørger for at printe en returlabel til dig. Du\nfår også en kvittering for indlevering.\n\n4\n\n###  Vi modtager din pakke\n\nDu kan følge hele pakkens rejse, og se hvornår den er fremme hos os."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:33+00:00",
+        "last_modified": "2025-05-21T15:15:49.277145",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

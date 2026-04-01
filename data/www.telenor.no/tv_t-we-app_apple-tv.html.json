@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app_apple-tv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 150,
+                "end": 1936,
+                "text": "# T-We App - Apple TV\n\nHer finner du hjelp til innlogging og bruk av T-We app med Apple TV\n\n## Apple TV\n\nHvis du har **Apple TV HD (4. generasjon) eller Apple TV 4K (alle\ngenerasjoner)** , last ned T-We App fra App Store, og bruk Apple TV\nfjernkontrollen til å navigere.\n\nHvis du har en **eldre Apple TV (3. generasjon og tidligere)** , kan du bruke\nT-We App på iPhone eller iPad til å navigere/finne innhold, og spille av\ninnholdet på Apple TV ved hjelp av Airplay. Dette fungerer kun når Apple TV og\niPhone/iPad befinner seg på samme nettverk.\n\nDu finner Airplay-ikonet når du har startet en avspilling i T-We App. Når du\nklikker på det, så vil du kunne velge hvilken Apple TV du skal spille av på\n(om du har flere). Du kan også bruke denne metoden med nyere Apple TV.\n\nDersom du har satt begrensninger på å bruke AirPlay mot din Apple TV må du\ngodkjenne den enheten du forsøker å benytte først.\n\n### Innlogging på Apple TV\n\n **Åpne T-We appen på AppleTV - resten av innloggingen skjer på mobil.  \n**\n\n  1. Åpne kameraet på mobilen\n\n  2. Scan QR-koden som vises på TV-skjermen\n\n  3. Logg inn via mobilen. Mobilnummeret til den som logger inn må være registrert i våre systemer\n\n  4. Følg stegene på mobilen\n\n  5. Når du ser tilkoblingsbildet fortsetter du på AppleTV (se bildet)\n\n## Favorittliste\n\nMed T-We kan du sette opp en liste med [dine\nfavorittkanaler](/kundeservice/tv/brukerveiledning-t-we/favorittliste/).\n\nHvis du ønsker å kun bla i din favorittliste når du ser på TV, kan du gjøre\nfølgende:\n\n  1. Gå til direkte-TV\n\n  2. Bla ned på fjernkontrollen for Apple TV\n\n  3. Gå til Favorittkanaler\n\n  4. Velg ønsket kanal\n\nNår du velger kanal fra favorittlisten, kan du kun bla mellom disse. For å\nkomme tilbake til oversikten for alle kanaler, kan du gjenta veiledningen\novenfor."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:13+00:00",
+        "last_modified": "2025-05-30T09:40:02.893762",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter_apne-porter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 242,
+                "end": 2259,
+                "text": "# Åpne porter\n\nHer finner du informasjon om hvordan du kan åpne porter på din trådløse ruter\n\n### Hva er viderekobling eller åpning av porter?\n\nKort fortalt er det en måte å gi andre tilgang til å kontakte en datamaskin\neller enhet i ditt nettverk fra et annet eksternt nettverk.\n\nRuteren din vil normalt begrense denne tilgangen for å gjøre deg mer sikker,\nog derfor må man åpne eller viderekoble porter når man ønsker å tillate denne\ntypen trafikk.\n\n **NB!** Husk at åpning av porter innebærer en sikkerhetsrisiko. Før du gjør\ndette bør du være sikker på at tjenesten som eksponeres på Internett er sikret\npå en god måte. Du bør unngå å åpne opp porter dersom du er usikker på hvilken\nsikkerhetsrisiko dette innebærer.\n\n### Når trenger jeg det?\n\nDet er få tilfeller der du trenger å åpne eller viderekoble en port i ruteren.\nTil daglig bruk på nettet klarer du deg fint med standardinnstillingene, men\ndet finnes noen unntak. De vanligste er i forbindelse med dataspill, IP-kamera\neller lignende enheter.\n\n  *  **Dataspill:** Dersom du skal «hoste en server», det vil si tilrettelegge for at spillet kan kjøres via ditt nettverk. På den måten kan andre koble seg til din «server» og dere kan spille sammen. NB: De fleste spill krever ikke at du gjør du dette.\n\n  *  **IP-kamera:** Dette kan være kameraer du setter opp til å overvåke inngangspartiet, f.eks. på hytta. Kameraet i seg selv krever ingen portåpning eller viderekobling, men dersom du ønsker tilgang til kameraet over Internett, må du sette opp muligheten for dette.\n\n# Slik gjør du det\n\nFør du går i gang med å lage reglene, må du vite hvilke porter du skal åpne.\nOfte kan du finne disse ved å søke på spillet eller enheten på nett.\n\n# Hvilken ruter har du?\n\n###\n\nNyere WiFi-rutere levert av Telenor\n\nHuawei B818\n\n## Du vil kanskje også lese om\n\n### Ekstra nettverk og gjestenett\n\nHer viser vi deg hvordan du kan sette opp ekstra trådløse nettverk på din\nruter\n\n### Foreldrekontroll\n\nHer viser vi deg hvordan du setter opp foreldrekontroll på din ruter"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:58+00:00",
+        "last_modified": "2025-05-30T09:03:23.715279",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

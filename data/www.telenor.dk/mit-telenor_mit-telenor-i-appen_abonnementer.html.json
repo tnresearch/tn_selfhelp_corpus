@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_mit-telenor-i-appen_abonnementer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2420,
+                "reason": "Selected by user",
+                "start": 1236,
+                "text": "# Abonnementer\n\nI Mit Telenor-appen får du et nemt og hurtigt overblik over dit forbrug. Hvis\ndu har et mobilabonnement, kan du fx se, hvor meget data du har tilbage. Du\nkan også se, hvor mange sms’er du har sendt, og hvor mange minutter du har\ntalt.\n\nMit Telenor-appen dig overblik over alle abonnementer i hjemmet, du kan fx\nfølge med i, om børnene er ved at løbe tør for data. Tryk på ”Abonnementer”\nnederst i menuen og vælg det ønskede abonnement.\n\nFamiliens andre brugere kan se forbrugsdetaljer for deres egne abonnementer.\n\nHar du samlerabat vil dette også indgå under dine abonnementer.\n\n_Køb ekstra data  \n_ Er du løbet tør for data, kan du købe ekstra GB – eller fortsætte med nedsat\nhastighed (64 Kbit). Du kan købe ekstra data i Mit Telenor-appen via forsiden\neller under det ønskede abonnement.Når du har brugt din datamængde, får du\nogså en sms med et link, hvorfra du kan købe ekstra data via et link.\n\nBetalinger for køb af ekstra data bliver først trukket på din næste regning.\nDet er et engangskøb, og eventuelt ubrugt data overføres ikke til næste\nregningsperiode. Regningsperioden for privatkunder løber fra d. 16. til d. 15.\ni måneden. Priserne fremgår i appen.  "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:58+00:00",
+        "last_modified": "2025-05-21T15:15:53.916490",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

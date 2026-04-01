@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_daligt-ljud-och-dalig-bild.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 594,
+                "text": "# Dåligt ljud och dålig bild\n\nÄr det dåligt ljud och dålig bild när du tittar på tv?\n\nGör så här:\n\n  * kolla att din tv-box är korrekt inkopplad\n  * kolla att antennkabeln är kopplad direkt till ditt antennuttag och inte via någon extra utrustning, till exempel en T-koppling eller någon typ av adapter.\n\nHär intill ser du var du ska koppla in de olika kablarna.  \n1\\. Antennkabel  \n2\\. Hdmi-kabel  \n3\\. Strömkabel"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:58+00:00",
+        "last_modified": "2025-05-30T17:40:00.400295",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-mesh-wifi-wa8021v5_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 438,
+                "end": 1685,
+                "text": "# DNA Mesh WiFi WA8021V5 -modeemi\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-\nwifi-wa8021v5/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/wa8021v5/asetukset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/vianmaaritys) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/paivitykset)\n\n## Päivitykset\n\n#### Uuden version V5R020C10S280 julkaisupäivä 3.4.2024.\n\nPäivityksestä aiheutuu pieni katkos, jolloin laite käynnistyy uudestaan.\n\n  * Topologianäkymän parannukset\n  * Laitteen sarjanumero lisätty asetussivulle \n  * WiFi-diagnostiikan parannuksia (esim. suositus käytettävästä salauksesta)\n  * Muita yleisiä parannuksia\n\n#### Uusi ohjelmistoversio V5R020C10S226 päivitetään loka-marraskuussa 2022\nviikoilla 42-46\n\n  * Laite päivittyy automaattisesti yöaikaan eikä vaadi toimenpiteitä\n  * Päivityksestä aiheutuu pieni katkos, jolloin laite käynnistyy uudestaan\n  * Mikäli laite ei ole verkossa päivityksen aikaan, päivitys ajetaan laitteen käynnistämisen jälkeen\n\n",
+                "heading": "DNA Mesh WiFi WA8021V5 -modeemi"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:12:45+00:00",
+        "last_modified": "2025-06-20T14:55:52.676464",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

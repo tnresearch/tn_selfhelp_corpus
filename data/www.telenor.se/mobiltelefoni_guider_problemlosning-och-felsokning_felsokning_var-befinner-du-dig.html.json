@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_felsokning_var-befinner-du-dig.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 739,
+                "text": "# Var befinner du dig?\n\nI vissa länder har vi spärrat surfen eftersom den är så dyr.\n\nFör att du inte ska få en oförutsedd hög kostnad, har vi spärrat ditt\nabonnemang från surf i följande länder:\n\n**Angola, Benin, Burundi, Djibouti, Ekvatorialguinea, Guam, Guinea, Jemen,\nKuba, Laos, Libyen, Namibia, Nya Kaledonien, Syrien, Togo**  \n  \nBehöver du använda surf kan du kostnadsfritt ringa till oss på [+46 (0)708 222\n222](tel:46708222222). Då hjälper vi dig att bort spärren och höja nivån på\nSaldospärr för data utomlands. Kostnaden för att surfa är 199kr/MB."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:19:53+00:00",
+        "last_modified": "2025-05-30T14:45:03.827485",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

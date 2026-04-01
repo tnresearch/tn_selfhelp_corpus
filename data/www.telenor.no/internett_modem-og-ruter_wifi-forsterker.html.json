@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_wifi-forsterker.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 190,
+                "end": 3094,
+                "text": "# Hjelp til WiFi Forsterker\n\nHer finner du informasjon om din WiFi Forsterker, samt veiledninger og hjelp\ntil oppkobling.\n\n## Om WiFi Forsterker\n\nEn WiFi Forsterker fungerer som et bindeledd mellom din [WiFi\nRuter](/kundeservice/internett/modem-og-ruter/wifi-ruter/) og området der du\nsliter med dårlig dekning. Den trenger ikke å kobles til med kabel - den\nkommuniserer trådløst med WiFi-ruteren. Forsterkeren har også 2 ethernet-\nporter, slik at du kan koble til utstyr som krever kabel.\n\nEn forsterker er derfor en rask og enkel løsning for å gi bedre dekning på\nsteder der det eksisterende trådløse nettverket ikke når frem.\n\nWiFi Forsterkeren er kun kompatibel med vår [WiFi\nRuter](/kundeservice/internett/modem-og-ruter/wifi-ruter/), og med en eller\nflere forsterkere koblet til WiFi ruter får man MESH-nettverk hjemme.\n\n## Plassering av forsterkeren\n\nEn forsterker bør plasseres midt mellom ruteren og stedet der enhetene du\nønsker på nett vanligvis befinner seg. Hvis den plasseres for nær ruteren, har\nden ingen funksjon, fordi den da ikke øker rekkevidden til det trådløse\nnettverket i særlig grad.\n\nPlasser altså forsterkeren i utkanten av dekningsområdet til den trådløse\nruteren din. Men pass på å ikke plassere forsterkeren for langt unna WiFi-\nruteren – du bør plassere den et sted hvor du fortsatt har god fart på det\ntrådløse nettet. Test gjerne flere plasseringer for å finne ut hvor du får\nbest dekning.\n\n**Har du WiFi Forsterker fra Telenor lyser forsterkeren grønt hvis den er\nplassert riktig. Gul lampe betyr at signalet er ok. Rød lampe betyr at du bør\nflytte den nærmere WiFi-ruteren.**\n\n### Slik kobler du opp din WiFi Forsterker\n\nHer finner du veiledninger og video for oppkobling av forsterkeren.\n\n[Koble opp forsterker...](/kundeservice/internett/modem-og-ruter/wifi-\nforsterker/koble-til/)\n\n  * #### Lampestatus\n\nForsterkeren har 2 lamper på siden av boksen. Den ene indikerer strøm, og den\nandre indikerer dekning.\n\n **Strømlampe:**\n\n    * Mørk: Ikke tilkoblet strøm\n\n    * Hvit: Tilkoblet strøm\n\n **Dekningslampe** :\n\n    * Mørk: Ikke tilkoblet\n\n    * Rød: Svak dekning\n\n    * Oransje: God dekning\n\n    * Grønn: Meget god dekning\n\n  * #### Nullstille forsterker\n\nTrykk kort på reset-knappen ved å bruke en penn eller annen tynn gjenstand i\nreset-hullet på baksiden av forsterkeren.\n\n  * #### Detaljer om forsterkeren\n\n **Mål:**  \nHøyde: 176 mm. Bredde: 180 mm. Dybde: 68 mm.\n\n **WiFi-standard:  \n** 802.11b/g/n på 2.4Ghz og 802.11a/n/ac på 5Ghz  \nBåndstyring: enheten som er tilkoblet vil automatisk bytte mellom 2.4 og 5GHz\nbasert på signalstyrke\n\n **Standard kryptering:  \n** WPA2 PSK\n\n## Opplever du problemer med Internett?\n\nSvært mange problemer løses ved at man skrur utstyret av og på. Opplever du\nallikevel problemer, kan vi hjelpe deg med veiledninger for de vanligste\nproblemstillingene.\n\n[Tregt, ustabilt eller manglende nett](/kundeservice/internett/problemer/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:15+00:00",
+        "last_modified": "2025-05-30T08:54:14.511510",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

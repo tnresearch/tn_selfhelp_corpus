@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_wifi-ruter_koble-til_kabel.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 329,
+                "end": 1012,
+                "text": "# Oppkobling av WiFi Ruter - Kabel/Coax\n\n# Stegvis installering\n\n# 1\\. Koble nettverkskabel mellom Modem og WAN-kontakt på WiFi Ruter.\n\n# 2\\. Koble andre nettverkskabler du måtte ha til ruteren (LAN).\n\n# 3\\. Koble til ny strømforsyning og slå på ruteren.\n\n# 4\\. Når øverste lampe lyser grønt er ruteren tilkoblet Internett.\n\n# 5\\. Snu ruteren på hodet.\n\n# 6\\. Send en SMS med kodeordet “wifi” til 2000 med den åttesiffrede koden som\nstår på merkelappen.\n\n# 7\\. Følg anvisning fra mottatt SMS og trykk på WPS-knappen på ruteren.\n\n# 8\\. Du mottar en ny SMS med nettverksnavn og passord.\n\n[Koble opp TV-boksen din til ruteren](/kundeservice/tv/dekodere-og-\nfjernkontroller/indexer.page)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:47+00:00",
+        "last_modified": "2025-05-30T08:55:50.181787",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

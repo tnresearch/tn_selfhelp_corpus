@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/puhelinliittymat_puk-koodi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 152,
+                "end": 958,
+                "text": "# PUK-koodi\n\nJos olet syöttänyt PIN-koodin väärin kolme kertaa, tarvitset lukituksen\npurkamista varten PUK-koodin.\n\n## Näin löydät oman PUK-koodisi\n\n### Kirjautumalla dna.fi-sivustolle\n\nVoit tarkistaa puhelinliittymäsi tai liikkuvan laajakaistan PUK-koodin\nveloituksetta kirjautumalla DNA:n sivuille. Löydät PUK-koodin liittymäsi\ntiedoista. Tee näin: kirjaudu ja valitse **Liittymät ja palvelut**. Valitse\nkyseessä oleva liittymä, ja valitse **SIM-kortti** ja **PUK-koodit**.\n\n[ Siirry kirjautumaan ](https://minunpalveluni.dna.fi/kirjautuminen)\n\n### Oma DNA -sovelluksesta\n\nVoit tarkistaa puhelinliittymäsi PUK-koodin myös Oma DNA -sovelluksesta\nkyseisen liittymän tiedoista. Voit ladata sovelluksen käyttöösi helposti\nomasta sovelluskaupastasi.\n\n[ Lataa sovellus ](https://www.dna.fi/oma-dna-sovellus)\n\n#",
+                "heading": "PUK-koodi"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:05+00:00",
+        "last_modified": "2025-06-20T19:20:45.468429",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

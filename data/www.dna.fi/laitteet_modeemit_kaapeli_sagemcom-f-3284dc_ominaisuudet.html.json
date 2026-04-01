@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_kaapeli_sagemcom-f-3284dc_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 383,
+                "end": 1121,
+                "text": "# Sagemcom F-3284DC\n\n[ Ominaisuudet\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/sagemcom-f-3284dc/ominaisuudet)\n[ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/sagemcom-f-3284dc/kayttoonotto)\n[ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/sagemcom-f-3284dc/asetukset)\n[ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/sagemcom-f-3284dc/paivitykset)\n\n## Ominaisuudet\n\n  * Docsis 3.0 -yhteensopiva kaapelimodeemi (8 DS ja 4 US kanavaa)\n  * Langaton yhteys: Wi-Fi 802.11b/g/n dual band, 2.4GHz ja 5 GHz\n  * IPv6-tuki\n  * 4 kpl 1Gb LAN-portteja (esim. digiboksille tai tietokoneelle)\n  * USB-portti esimerkiksi massamuistin jakamiseksi lähiverkkoon\n  * DNA:n kustomoidut asetukset\n\n",
+                "heading": "Sagemcom F-3284DC"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:16+00:00",
+        "last_modified": "2025-06-20T18:48:03.985863",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

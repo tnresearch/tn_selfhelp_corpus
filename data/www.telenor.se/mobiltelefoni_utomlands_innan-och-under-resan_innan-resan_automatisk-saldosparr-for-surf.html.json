@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands_innan-och-under-resan_innan-resan_automatisk-saldosparr-for-surf.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 443,
+                "end": 5111,
+                "text": "#  Automatisk saldospärr för surf\n\nOväntat höga räkningar när du kommer hem från utlandsresan är ett minne blott.\nDet finns nämligen en automatisk surfspärr på ditt abonnemang. Tjänsten är\ndessutom gratis.\n\nDet betyder att om du surfar utomlands för 625 kr under samma månad, spärrar\nvi dig från att surfa vidare. Du kommer heller inte kunna skicka eller ta emot\nmms.\n\n## Så här fungerar det\n\nNär du har surfat för 500 kronor (eller 80 % av din surfspärr) skickar vi ett\nförsta sms. Nästa sms kommer när du har surfat upp hela summan. Ifall du vill\nsurfa vidare, höjer du bara spärrnivån till nästa summa. Allt står i sms:en vi\nskickar.  \n  \nFlera länder, samma spärrnivå  \nDu behåller samma spärrnivå även om du besöker flera länder under din\nutlandsresa. Exempel: du surfar upp summan i Mexiko och reser vidare till\nGuatemala. Då är spärren kvar. Vill du fortsätta surfa – höj spärrnivån.  \n[Här hittar du information om roaming i olika länder.](/roaming/)\n\n## Om du vill höja din spärrnivå\n\nDe nivåer du kan välja mellan är:\n\n  * 625 kr/mån inkl. moms (din automatiska nivå från start)\n  * 2 500 kr/mån inkl. moms\n  * 10 000 kr/mån inkl. moms\n\nDu väljer genom att skicka MAX följt av spärrnivån till 222. Till exempel \"MAX\n2500\" Det kan ta upp till en timme från det att du höjt spärrnivån till dess\natt tjänsten är aktiv igen. Därför rekommenderar vi att du redan innan resan\nser till att välja rätt nivå. Tänk på att saldospärren återställs när\nfaktureringsperioden går ut. Du ser din faktureringsperiod genom att logga in\ni Mitt Telenor – antingen här [på webben](/mitt-telenor/) eller i [vår\napp](/archive/2019/mitt-telenor-old/). Det kostar ingenting att använda\nsaldospärr.\n\n## Vanliga frågor om att surfa utomlands\n\n  * Vad kostar det att ringa/sms:a/surfa utomlands?\n\n[Här hittar du information om våra\nutlandspriser](/link/a728a2eee9b24f87867517e059303cae.aspx)\n\n  * Behöver jag stänga av surfen utomlands?\n\nDet beror på vart du ska resa, och på vilket abonnemang du har. Men inom\nEU/EES surfar du till samma pris som du gör hemma, och behöver alltså inte\nstänga av surfen.\n\nSka du till ett land i Europa som inte ingår i EU/EES? Då kan du ta reda på\nvad som gäller för just dig och ditt abonnemang i landet du ska besöka genom\natt sms:a [namnet på landet du ska besöka till 10615.\n](/link/eb119f9f060843c0b746b0831425f9b6.aspx)Då får du välkomst-sms:et med\ndina priser redan nu.\n\n  \nOm du ska resa till ett land där du inte har fri surf och vill undvika\nkostnader helt och hållet rekommenderar vi att du [stänger av data-\nroaming](/link/bc7779ed9f1648b88dbd9442d51a3bc5.aspx) innan du kliver på\nplanet hemma i Sverige.\n\n  * Så här slår du på surfen på resan\n\nFör att kunna surfa på resan måste du aktivera data-roaming.\n\n[Instruktioner för hur du gör i din\nmobiltelefon](/link/288523ae6c5a4fe083145390f68c3609.aspx)  \n  \n\n**Har du ett mobilt bredband?**\n\n    1. Se till att ditt abonnemang är öppet för roaming. Har du ett modem: se menyn i klienten. Har du en wifi-puck, se menyn i routern.\n    2. Se till att routern/modemet/surfplattan är öppen för roaming.\n    3. I vissa klienter/routers kan det finnas behov av att manuellt koppla upp vid roaming och bekräfta att man accepterar det.\n\n  * Vad gör jag om surfen tar slut när jag är utomlands?\n\n**När du är i ett land där du _kan_ använda abonnemangets/kontantkortets\ndatapott utan extra kostnad (ex. ett EU/EES-land)**\n\nNär surfen är slut får du ett sms med frågan om du vill köpa ytterligare surf.\nDu beställer valfri önskad surfmängd genom att svara på sms:et. Du kan också\nvänta tills det kommer ny surf. Du hittar datumet under Surf i appen [Mitt\nTelenor](https://uu429.app.goo.gl/htwC).  \n  \n\n**När du är i ett land där du _inte_ kan använda abonnemangets/kontantkortets\ndatapott utan extra kostnad (ex. Mexiko)**\n\nNär den dagliga surfvolymen (dvs. Surfpassets volym) är slut får du ett sms\nmed frågan om du vill köpa ytterligare surf (ett Surfpass). Du beställer genom\natt svara på sms:et. Köper du inte ytterligare surf, blockeras data.\nBlockeringen släpps igen när nytt dygn startat (svensk tidzon), varpå du\nkommer att debiteras för ett Surfpass (ett fast pris per dag för en fast\nsurfvolym per dag), så länge roamingdata är [aktiverat\n](/link/dc6ac35e5cf8424fad51b9f66abadf5f.aspx)på din smartphone förutsatt att\ndin [spärrnivå för surf ](/link/db8a67240a624315add9b688c4511c3a.aspx)inte\növerskridits. Vill du inte ha mer roamingdatakostnader efter att Surfpaketets\nvolym tagit slut, [stänger du av roaming-data\n](/link/bc7779ed9f1648b88dbd9442d51a3bc5.aspx)när du får sms som säger att\nSurfpaketets volym börjar ta slut (du får ett sådant sms när 80% av\nSurfpaketets volym är förbrukad).\n\n",
+                "heading": " Automatisk saldospärr för surf"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:01+00:00",
+        "last_modified": "2025-05-30T14:52:34.442475",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

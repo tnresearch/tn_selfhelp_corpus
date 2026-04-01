@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_felsokning_kolla-mottagningsforhallanden.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1616,
+                "text": "# Kolla om mottagningen kan bli bättre\n\nDet kan finnas saker runt omkring dig som försvagar signalerna från närmaste\nsändare. Kolla igenom nedan!\n\n### Bebyggelse\n\nÄr det en stor betongbyggnad mellan dig och närmaste sändare så försvagas\nsignalen. Och om du befinner dig i en byggnad med många väggar kan täckningen\nuppfattas som dålig. Prova att ställa dig vid ett fönster och se om det är\nbättre täckning där.\n\n### Väder och vind\n\nMobilsignalen blir påverkad av de olika årstiderna. Den bästa täckningsdagen\när faktiskt en frostklar vintermorgon. Medan blåst, regn och snö kan dämpa\nsignalen. Avvakta ett väderomslag för att se vad som händer med täckningen.\n\n### Berg och träd\n\nOm du står i en sluttning, eller om du är omgiven av berg eller träd, kan\nnätverkssignalen ha svårt att nå din mobil. Gå upp på en höjd eller ställ dig\npå en öppen yta för att se om täckningen är bättre där.\n\n### Många människor på ett och samma ställe\n\nOm du står mitt i en folksamling kämpar många mobiler samtidigt om att fånga\nsignalen. För att kunna behålla en stabil signal krävs det en hel del från din\nmobilantenn. Testa igen när det inte är så många människor och mobiler i\nnärheten.\n\n### Mobilskal\n\nEn del mobilskal kan dämpa radiosignalerna till din mobil påtagligt vilket i\nsin tur påverkar uppkopplingen. Prova att ta av mobilskalet för att se om\ntäckningen förbättras.\n\n  \nOkej, kanske lite mycket att läsa, men hoppas du tog dig igenom allt."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:58+00:00",
+        "last_modified": "2025-05-30T14:37:41.824105",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

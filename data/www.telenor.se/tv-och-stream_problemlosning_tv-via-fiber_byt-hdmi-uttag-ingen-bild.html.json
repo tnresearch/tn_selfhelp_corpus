@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-fiber_byt-hdmi-uttag-ingen-bild.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 362,
+                "end": 506,
+                "text": "# Byt hdmi-uttag\n\nSätt hdmi-kabeln i ett annat uttag i tv:n. Kom ihåg att välja samma uttag\nunder Source med hjälp av fjärrkontrollen till tv:n."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:56+00:00",
+        "last_modified": "2025-05-30T17:37:17.658611",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

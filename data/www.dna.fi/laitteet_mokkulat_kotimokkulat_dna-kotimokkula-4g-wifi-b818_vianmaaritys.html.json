@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wifi-b818_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 401,
+                "end": 4385,
+                "text": "# DNA Kotimokkula 4G WiFi B818\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/kayttoonotto/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/vianmaaritys)\n\n##  Vianmääritys\n\nMiten tehdasasetukset palautetaan?\n\nKun mokkula on päällä, paina Reset/Palauta-painiketta teräväkärkisellä\nesineellä noin 10 sekuntia, tai siihen asti kunnes virran merkkivalo sammuu.\nTämän jälkeen valot alkavat vilkkua ja laitteen tehdasasetukset palautuvat.\nTehdasasetusten palauttaminen palauttaa asetukset oletusarvoihin. Voit\nmäärittää ne uudelleen sen jälkeen, kun mokkula on palautettu\ntehdasasetuksiin.\n\nMitä teen, jos unohdin WiFi-salasanan tai -käyttäjätunnuksen sekä\nverkkopohjaisen hallintasivun salasanan?\n\nPalauta mokkula tehdasasetuksiin ja yritä uudelleen käyttämällä infotarrasta\nlöytyvää oletusarvoista WiFi-salasanaa, käyttäjätunnusta ja\nsisäänkirjautumissalasanaa.\n\nMitä teen, jos Tila-merkkivalo on punainen tai en saa yhteyttä nettiin?\n\n  1. Tarkista, että mikro-SIM-kortti on paikoillaan. Katso SIM-kortin koko ja oikea asennustapa kohdasta ”Käyttöönotto” > ”Mokkulan asennus”.\n  2. Jos ongelma ei poistu, palauta mokkulan tehdasasetukset ja yritä uudelleen.\n  3. Tarkista DNA:lta, onko SIM-kortti poistettu käytöstä.\n\nMitä teen, jos netin nopeus on alhainen?\n\n  1. Tarkista mokkulan signaalin merkkivalot. Jos signaali on heikko, säädä reitittimen asentoa tai siirrä se lähemmäs ikkunaa parantaaksesi signaalin vastaanottoa.\n  2. Jos laite on yhdistetty mokkulaan WiFi-verkolla, kokeile siirtää laitetta saadaksesi paremman signaalin.\n  3. Vaihda WiFi 5 GHz:n kaistalle, jos laitteesi tukee sitä.\n  4. Käynnistä mokkula ja laite uudestaan ja yritä uudelleen.\n\nMiten yhdistän mokkulan WiFi Protected Setup (WPS) -toiminnolla?\n\n  1. Varmista, että käyttölaitteessa on WiFi otettu käyttöön.\n  2. 2\\. Pidä reitittimen Hi/WPS-painiketta painettuna vähintään sekunti ja vapauta se sitten; WiFi-merkkivalo alkaa vilkkua.\n\nMiksi en voi käyttää mokkulan nettipohjaista hallintasivua?\n\n  1. Varmista, että tietokone on yhdistetty mokkulaan Ethernet-kaapelilla tai WiFi-yhteydellä.\n  2. Varmista, että tietokone on asetettu hakemaan IP-osoite ja DNA-palvelimen osoite automaattisesti.\n  3. Käynnistä selain uudelleen tai kokeile toista nettiselainta tai laitetta.\n  4. Jos ongelma ei poistu, palauta mokkulan tehdasasetukset.\n\nMiksi nettipohjaisen hallintasivun sisältö ei ole ajan tasalla?\n\nJos hallintasivun sisältö ei ole ajan tasalla, kokeile tyhjentää selaimen\nvälimuisti manuaalisesti (esimerkiksi avaa selain ja valitse **Internet-\nasetukset > Yleiset > Selaushistoria > Poista**) ja käynnistä nettipohjainen\nhallintasivu uudelleen.\n\nTukeeko mokkula 5 GHz:n WiFi-yhteyttä? Miten muodostan yhteyden siihen?\n\n  1. Mokkulasi tukee 5 GHz:n WiFi-verkkoa, joka on nopeampi ja vähemmän häiriöaltis. Se ei kuitenkaan läpäise seiniä yhtä hyvin kuin 2,4 GHz:n WiFi ja sitä voidaan käyttää vain laitteilla, jotka tukevat 5 GHz:n WiFiä.\n  2. Jos olet ottanut käyttöön ominaisuuden, joka priorisoi 5 GHz:ä reitittimessäsi, 2,4 GHz:n ja 5 GHz:n verkot jakavat saman verkon nimen ja yhteys muodostetaan automaattisesti nopeampaan verkkoon. Jos tämä ominaisuus on pois käytöstä, näytössä näkyy kaksi WiFi-verkon nimeä. Yhdistä WiFi-verkkoon, jonka nimen lopussa on \"_5GHz\". Voit hallita tätä ominaisuutta mokkulan verkkopohjaisella hallintasivulla.\n\nJos sinulla on ongelmia mokkulan kanssa:\n\n  1. Käynnistä mokkula uudelleen.\n  2. Palauta mokkulan tehdasasetukset.\n  3. Katso verkkopohjaisen hallintasivun ohjeosio.\n  4. Ota yhteyttä DNA:han.\n\n",
+                "heading": "DNA Kotimokkula 4G WiFi B818"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:09:29+00:00",
+        "last_modified": "2025-06-20T18:51:26.686641",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

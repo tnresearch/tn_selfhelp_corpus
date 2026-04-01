@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_ipad.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1049,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Sikkerhed på din iPad\n\nBruger du også din tablet til at opdatere Facebook, sende e-mails og til at\nbetale regninger, anbefaler vi, at du gør dig overvejelser om din\nonlinesikkerhed.\n\nSelvom der aldrig er nogen garantier, kan du med enkle midler gøre det sværere\nfor fremmede at skaffe sig adgang til dine data.\n\n**Gode råd til din sikkerhed**\n\n  * Brug låsekode\n  * Gør din tablet synlig, så du kan finde den igen: Slå Find min iPad til\n  * Giv ikke personlige oplysninger til personer, du ikke kender eller har tillid til\n  * Download aldrig programmer eller apps fra leverandører, du ikke har tillid til\n  * Sig ja tak til softwareopdateringer. Opdateringer er rettelser af større eller mindre fejl i softwaren, og rettelserne styrker din sikkerhed, når du er online\n\n## Bliver din tablet stjålet\n\n  * Har du Mobilt Bredbånd, så ring og få simkortet spærret. Kundeservice kan også hjælpe med at fx skaffe en købskvittering til dit forsikringsselskab\n  * Skift adgangskoder til fx Facebook, din bank og andre websteder med personlige oplysninger"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:40+00:00",
+        "last_modified": "2025-05-21T15:16:09.971510",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

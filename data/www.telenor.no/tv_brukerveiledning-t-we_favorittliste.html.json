@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_favorittliste.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 181,
+                "end": 2286,
+                "text": "# T-We Favorittliste\n\nMed favorittlister på T-We kan du enkelt bytte mellom alle kanaler og de du\nser mest på. Her viser vi deg hvordan.\n\n[Bytt mellom favorittlister](/kundeservice/tv/brukerveiledning-t-\nwe/favorittliste/#bytt)[Fjerne eller endre\nfavorittlister](/kundeservice/tv/brukerveiledning-t-\nwe/favorittliste/#endre)[Favorittkanaler i T-We\nApp](/kundeservice/tv/brukerveiledning-t-\nwe/favorittliste/#favorittkanal)[Videoer om\nfavorittlister](/kundeservice/tv/brukerveiledning-t-we/favorittliste/#video)\n\n## Bytt mellom favorittlister og alle kanaler\n\nDu kan bytte mellom kanallistene dine mens du ser på TV.\n\n  1. Trykk på ☰ eller OPTIONS-knappen på fjernkontrollen for å få opp alternativer-vinduet\n\n  2. Trykk på høyre piltast for å velge Lister\n\n  3. Velg den kanallisten du ønsker ved å trykke opp eller ned på piltastene\n\n  4. Trykk OK for å bekrefte\n\n### Hvor mange kanallister kan jeg ha?\n\nDu kan ha en favorittliste per [T-We\nprofil](/kundeservice/tv/brukerveiledning-t-we/profiler/).\n\nBytt mellom kanallister:Bruk piltastene for å bytte mellom alle kanaler og tv-\nfavorittene\n\n## Fjerne eller endre favorittlister i T-We\n\nDet er ikke mulig å fjerne favorittlister på T-We helt, men du kan fjerne\nkanalene du har lagt til favorittlisten slik at den ikke lenger inneholder\nnoe.\n\nØnsker du å gjøre endringer, kan du både fjerne, legge til og endre\nrekkefølgen på kanalene du har i din T-We favorittliste.\n\n **Slik gjør du det:**\n\n  1. Velg ☰ øverst til venstre i menyen\n\n  2. Velg Favorittlister\n\n  3. Trykk OK på kanalen du ønsker å gjøre noe med under TV-favoritter\n\n    * Bruk piltastene til høyre/venstre for å flytte kanalen\n\n    * Bruk \"pil ned\" på fjernkontrollen for å fjerne kanalen fra favorittlisten\n\nHvis du ønsker å legge til en kanal igjen trykker du OK på kanalen under TV-\nkanaler. Da legger du den til i favorittlisten.  \n\n## Velg favorittkanaler i T-We App\n\n  1. Gå til **Hjem**\n\n  2. Velg **TV** øverst på siden\n\n  3. Bla ned til **Alle kanaler**\n\n  4. Velg **Se mer**\n\n  5. Trykk på hjertet ved ønsket kanal\n\nDu finner dine favorittkanaler under **Mitt innhold** i appen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:20+00:00",
+        "last_modified": "2025-05-30T09:32:44.208550",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

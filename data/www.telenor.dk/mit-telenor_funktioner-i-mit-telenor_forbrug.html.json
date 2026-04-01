@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_funktioner-i-mit-telenor_forbrug.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1860,
+                "reason": "Selected by user",
+                "start": 1236,
+                "text": "# Følg med i dit forbrug\n\nHvis du vil se forbruget på et specifikt abonnement, skal du vælge på\n”Abonnementer” fra menuen, klikke på ”Se detaljer” ud for det ønskede\nabonnement og derefter vælge ”Forbrug”.\n\nHvis du har et mobilabonnement, kan du fx se, hvor meget data du har tilbage.\nDu kan også se, hvor mange sms’er du har sendt, og hvor mange minutter du har\ntalt. Nederst på siden finder du desuden en detaljeret oversigt over, hvem du\nhar ringet og sendt beskeder til.\n\nTil højre på skærmen kan du se, hvornår din forbrugsperiode udløber.\nForbrugsperioden for privatkunder løber altid fra d. 16. til den 15. i\nmåneden."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:53+00:00",
+        "last_modified": "2025-05-21T15:15:52.328537",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobilt-bredband_ipad_appar_avinstallera-appar.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 341,
+                "end": 730,
+                "text": "# Avinstallera appar i iPad\n\nHär visar vi hur du tar bort appar från en iPad. Följ den enkla guiden steg\nför steg.\n\n  * ### Bläddra fram till den app du vill avinstallera\n\n  * ### Håll fingret på den app du vill ta bort.\n\nHåll kvar till du ser ett kryss i kanten på appen.\n\n  * ### Tryck på krysset\n\n  * ### Tryck \"Radera\" för att bekräfta.\n\nNu är appen avinstallerad. Det gjorde du bra.\n\n",
+                "heading": "Avinstallera appar i iPad"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:00+00:00",
+        "last_modified": "2025-05-30T14:19:08.557107",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

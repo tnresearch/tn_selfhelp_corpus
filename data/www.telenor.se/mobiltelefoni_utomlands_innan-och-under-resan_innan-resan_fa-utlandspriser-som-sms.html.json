@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands_innan-och-under-resan_innan-resan_fa-utlandspriser-som-sms.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 437,
+                "end": 1808,
+                "text": "#  Få utlandspriser som sms\n\nVill du ha sms:et som berättar vad det kostar att ringa och surfa i just det\nland du ska besöka – redan innan du har landat?\n\nDu kan beställa sms:et när du vill. Det här är samma sms som du får\nautomatiskt när du anländer till ett land.\n\nSå här gör du om du vill ha priserna skickade till dig innan du påbörjar din\nresa:\n\n  1. Sms:a namnet på landet du ska besöka till [10615](sms:10615). Om du skriver landets namn med stora eller små bokstäver spelar ingen roll.\n  2. Efter några sekunder får du välkomst-sms:et. \n\nTänk på att om du har [köpt Surfpaket gäller de priserna för\ndig](/support/mobiltelefoni/utomlands/innan-och-under-resan/innan-\nresan/surfpaket-fast-pris-for-surfen/), även om de inte står med i välkomst-\nsms:et.\n\n## Vanliga frågor om priser i utlandet\n\n  * Så här slår du på surfen på resan\n\nFör att kunna surfa på resan måste du aktivera data-roaming.\n\n[Instruktioner för hur du gör i din\nmobiltelefon](/link/288523ae6c5a4fe083145390f68c3609.aspx)  \n  \n\n**Har du ett mobilt bredband?**\n\n    1. Se till att ditt abonnemang är öppet för roaming. Har du ett modem: se menyn i klienten. Har du en wifi-puck, se menyn i routern.\n    2. Se till att routern/modemet/surfplattan är öppen för roaming.\n    3. I vissa klienter/routers kan det finnas behov av att manuellt koppla upp vid roaming och bekräfta att man accepterar det.\n\n",
+                "heading": " Få utlandspriser som sms"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:40+00:00",
+        "last_modified": "2025-05-30T14:52:39.061221",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

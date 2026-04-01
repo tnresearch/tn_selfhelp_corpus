@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 116,
+                "end": 1772,
+                "text": "# WiFi og hjemmenett\n\nHer finner du hjelp og veiledninger til installasjon, oppkobling, oppsett og\nadministrasjon av det trådløse nettet ditt\n\n## Nytt utstyr? La oss hjelpe deg med å komme på nett!\n\nHer finner du en fullstendig steg-for-steg veiledning og hjelp for oppsett og\ninstallasjon av WiFi Ruter og forsterker.\n\n[Gå til full oppsettsguide](/kundeservice/internett/oppsettsguide/)\n\n[\n\n### Oppsett av ruter\n\nVeiledning for oppsett og plassering av WiFi-ruter\n\n](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/koble-til/)\n\n[\n\n### Oppsett av forsterker\n\nVeiledning for oppsett og plassering av forsterker\n\n](/kundeservice/internett/modem-og-ruter/wifi-forsterker-2/koble-til/)\n\n[\n\n### Tilkobling av enheter\n\nHer finner du veiledning for hvordan du kobler enheter til ditt trådløse\nnettverk\n\n](/kundeservice/internett/wifi/koble-til-wifi/)\n\n[\n\n### Mitt WiFi - Ruteradministrasjon\n\nHer finner du veiledninger for å gjøre endringer på innstillingene på din\nruter, f.eks. endre navn eller passord\n\n](/kundeservice/internett/wifi/administrere-ruter/)\n\n[\n\n### Tilkobling av T-We Boks\n\nHer finner du veiledning for å koble T-We boks til internett\n\n](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-ii/koble-til/)\n\n[\n\n### Oppsett av annet utstyr\n\nHer finner du veiledninger til eldre rutere og modem\n\n](/kundeservice/internett/modem-og-ruter/)\n\n## Slik får du bedre trådløst nett\n\n## Les mer\n\n### Derfor trenger du en forsterker\n\nHvis du har et stort hus kan det være smart å bygge ut med en eller flere\nforsterkere.\n\n### Slik får du bedre WiFi-dekning\n\nSliter du med dårlig WiFi-signal i hele eller deler av huset? Det kan skyldes\nfeil plassering."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:52+00:00",
+        "last_modified": "2025-05-30T09:02:12.057322",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

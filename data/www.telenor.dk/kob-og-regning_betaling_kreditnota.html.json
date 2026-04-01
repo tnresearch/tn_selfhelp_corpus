@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_betaling_kreditnota.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 795,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Kreditnota\n\nHvis du modtager en kreditnota eller et tilgodehavende betyder det, at du har\npenge til gode. Vi trækker pengene fra på din næste regning, hvor beløbet vil\nstå som \"Tilgodehavende fra tidligere\".\n\nHar du penge til gode på din sidste regning, efter du har opsagt dit\nabonnement, bliver beløbet automatisk udbetalt til din NemKonto 6 dage efter,\nat din sidste regning er gjort op. Hvis du skylder noget fra tidligere, vil\ndet skyldige beløb blive nedbragt.\n\nDu skal ikke selv foretage dig noget, hvis du modtager en kreditnota. Du kan\nfinde gamle kreditnotaer sammen med dine regninger på Mit Telenor.\n\nVi udbetaler ikke pengene, hvis du skylder noget på andre konti. Hvis vi ikke\nhar dit CPR-nummer, kan vi heller ikke udbetale pengene til din NemKonto – i\nså fald kontakter vi dig."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:08+00:00",
+        "last_modified": "2025-05-21T15:15:46.258954",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

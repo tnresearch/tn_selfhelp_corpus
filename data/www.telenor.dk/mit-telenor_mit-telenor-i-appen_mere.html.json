@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_mit-telenor-i-appen_mere.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1958,
+                "reason": "Selected by user",
+                "start": 1236,
+                "text": "# Mere\n\nI Mit Telenor-appen finder du vigtige informationer under knappen ”Mere”.\n\n_Ordrer_\n\nHer har du mulighed for at se dine igangværende ordrer\n\n_Familiegruppe_\n\nLæs mere om vores nye Samlerabat [her](/shop/landingpage/samlerabat/)\n\n_Dækning_\n\nDu kan se hvad der påvirker din dækning, og blive klogere på, hvad\nomgivelserne betyder for din dækning. Du kan også fejlmelde din dækning og\ntippe os om eventuelle fejl på dit netværk. Oplever du derimod mere permanente\nproblemer, kan du bruge vores dækningskort til at undersøge dækningen i dit\nområde.\n\n_Hjælp_\n\nHer finder du 'ofte stillede spørgsmål'.\n\n_Historik_\n\nDin historik giver dig et overblik over dine abonnementer i det interval du\nønsker at blive orienteret.  "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:26+00:00",
+        "last_modified": "2025-05-21T15:15:54.473540",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

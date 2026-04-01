@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 126,
+                "end": 2001,
+                "text": "# Utstyrsoversikt\n\nTrenger du hjelp til oppkobling av utstyr, ønsker mer informasjon eller andre\nveiledninger?  \nVi hjelper deg med utstyr til alle bredbåndstyper.\n\n## Ruter og Forsterker\n\n[\n\n### WiFi Ruter II\n\n](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/)\n\n[\n\n### WiFi Forsterker II\n\n](/kundeservice/internett/modem-og-ruter/wifi-forsterker-2/)\n\n[\n\n### WiFi Ruter & Forsterker\n\n](/kundeservice/internett/modem-og-ruter/wifi-ruter/)\n\n[\n\n### Zyxel 8702\n\n](/kundeservice/internett/modem-og-ruter/zyxel-8702/)\n\n[Se våre Fiberbokser (ONT)](/kundeservice/internett/modem-og-\nruter/fiberbokser/ \"Her finner du mer informasjon om de ulike fiberboksene vi\nleverer internett med\")\n\n[Bytte fiberboks](/kundeservice/internett/modem-og-ruter/bytte-fiberboks/ \"Har\ndu fått beskjed av oss om å bytte Fiberboks selv?\")\n\n## Modem\n\n[\n\n### Kaon\n\n](/kundeservice/internett/modem-og-ruter/kaon-kabelmodem/)\n\n[\n\n### Cisco\n\n](/kundeservice/internett/modem-og-ruter/koble-kabelmodem/)\n\n[\n\n### Thompson 470\n\n](/kundeservice/internett/modem-og-ruter/koble-kabelmodem/)\n\n[\n\n### Thompson 420\n\n](/kundeservice/internett/modem-og-ruter/koble-kabelmodem/)\n\n## Trådløst Bredbånd\n\n[\n\n### Utendørsantenne med adapter - Zyxel NR7302\n\n](/kundeservice/internett/modem-og-ruter/tbb-antenne-nr7302/)\n\n[\n\n### Utendørsantenne med adapter - Zyxel NR7101\n\n](/kundeservice/internett/modem-og-ruter/tbb-antenne-nr7101/)\n\n[\n\n### Huawei B818\n\n](/kundeservice/internett/modem-og-ruter/huawei-b818/)\n\n## Mobilt Bredbånd\n\n[\n\n### Zyxel NR5307\n\n](/kundeservice/internett/modem-og-ruter/zyxel-nr5307/)\n\n[\n\n### ZTE MU5120\n\n](/kundeservice/internett/modem-og-ruter/zte-mu5120/)\n\n[\n\n### Zyxel NR5103\n\n](/kundeservice/internett/modem-og-ruter/zyxel-nr5103/)\n\n[\n\n### Zyxel LTE5388\n\n](/kundeservice/internett/modem-og-ruter/zyxel-lte5388/)\n\n[ **Se eldre utstyr ➜**](/kundeservice/internett/modem-og-ruter/mobilt-\nbredband/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:42+00:00",
+        "last_modified": "2025-05-30T08:48:11.402380",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "only urls"
+}

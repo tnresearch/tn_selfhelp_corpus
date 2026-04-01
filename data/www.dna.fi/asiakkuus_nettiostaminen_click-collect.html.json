@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/asiakkuus_nettiostaminen_click-collect.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 218,
+                "end": 4632,
+                "text": "# Click & Collect\n\nOsan tuotteista voit varata netissä tai valita tilauksen noutopaikaksi\nmyymälän. Lue ohjeet alta!\n\n## Tilaa ja maksa netissä, nouda myymälästä\n\n#### Tee näin:\n\n#### **1\\. Tee tilaus**\n\nVoit tilata tuotteen netissä ja noutaa sen mistä tahansa DNA Kaupan\nmyymälästä. Toimitus myymälään on mahdollista osassa tuotteista: näet\nnettikaupassa toimitustapavaihtoehtona “Nouto DNA Kaupasta” silloin, kun\nkyseinen tuote on tilattavissa netistä ja noudettavissa myymälästä.\n\n#### 2\\. Odota viestiä\n\nSaat viestin, kun tuote on noudettavissa, 1-3 arkipäivän kuluessa. Tilaustasi\nsäilytetään myymälässä 7 vuorokautta. Ota henkilötodistus mukaan!\n\n#### 3\\. Nouda tuote DNA Kaupasta\n\nLähimmän DNA Kaupan ja aukioloajat löydät täältä:\n\n[Sijainnit ja aukioloajat](https://www.dna.fi/dnakaupat)\n\n## Varaa netissä, nouda ja maksa myymälässä\n\n#### Tee näin:\n\n#### **1\\. Varaa tuote netissä**\n\nVoit varata tuotteen netissä ja noutaa sen myymälästä samantien tai\nviimeistään seuraavana arkipäivänä. Tuotteen varaaminen on mahdollista\nsilloin, kun kyseinen tuote on heti toivomasi myymälän varastossa. Tiedät,\nettä tuote on varattavissa, jos nettikaupan ostoskorin alla on näkyvissä\npainike ”Nouda myymälästä”.\n\nTarkistathan valitsemasi myymälän aukioloajat jo varausta tehdessäsi; jos\nvalitsemasi DNA Kauppa on suljettuna noutohetkellä, varaus ei ole\nsiirrettävissä toiseen myymälään.\n\n#### 2\\. Nouda tuote viimeistään seuraavana arkipäivänä\n\nSaat tekstiviestin, kun varaus on tehty. Tuote on noudettavissa tämän\nvahvistuksen jälkeen. Varaus säilyy seuraavaan päivään saakka ja poistuu\nautomaattisesti, jos et nouda tuotetta varausaikana.\n\n#### 3\\. Maksa tuote DNA Kaupassa\n\nVaraus ei ole sitova – voit tehdä lopullisen ostopäätöksen vasta myymälässä.\nLähimmän DNA Kaupan ja aukioloajat löydät täältä:\n\n[Sijainnit ja aukioloajat](https://www.dna.fi/dnakaupat)\n\n## Varausehdot\n\nHuomaathan, että varaus ei ole verkko-ostamista eikä muodosta sitovaa\ntilausta. Varaus ei myöskään ole vielä sitova ostotoimeksianto tai sopimus\ntuotteen ostamisesta tai myymisestä. Varauksen jälkeen myymälässä tapahtuvaan\nostoon ei sovelleta kuluttajasuojalain etämyyntisäännöksiä eikä sen\nperuutusoikeutta.\n\nOstoa koskevat samat ehdot kuin ostaessa tuotteita myymälästä ilman varausta.\nVarsinainen sopimus tuotteen kaupasta tehdään myymälässä. DNA:lla on oikeus\nolla tekemättä sopimusta alle 18-vuotiaan kanssa.\n\n## Anna DNA Apurin auttaa\n\nPoikkea myymälään, aloita chat, tai varaa soitto- tai palveluaika. Kysy mitä\nvain, me autamme mielellämme.\n\nAvaa chat  [ Valitse asiointitapa ](/yhteystiedot)\n\n##  Usein kysyttyjä kysymyksiä\n\nVoinko varata kaikki tuotteet myymälään?\n\nTällä hetkellä vain osa DNA Nettikaupan tuotteista on Click & Collectin\npiirissä. Vaihtoehtoja on kaksi:\n\n_Tuotteen varaaminen myymälään:_\n\nVoit varata osan tuotteista valitsemaasi myymälään. Se onnistuu silloin, kun\ntuotetta on varaushetkellä kyseisen myymälän varastossa. Jos tuotteen\nesittelysivulla on ostoskorin alla painike ”Nouda myymälästä”, tuote on\nlähtökohtaisesti varattavissa.\n\n_Tilatun tuotteen toimitus myymälään:_\n\nToimitus myymälään on mahdollista osassa tuotteita: näet nettikaupassa\ntilausvaiheessa toimitustapavaihtoehtona “Nouda myymälästä” silloin, kun\nkyseinen tuote on tilattavissa netistä ja noudettavissa myymälästä.\n\nMitkä myymälät ovat Click & Collectissa mukana?\n\nKaikki DNA Kaupan myymälät ovat mukana. Toimituskäytäntö vaihtelee sen mukaan,\noletko varaamassa tuotetta myymälästä vai tilaamassa tuotetta verkkokaupasta\nmyymälänoudolla:\n\n_Tuotteen varaaminen myymälään:_\n\nVoit varata tuotteen niihin DNA Kaupan myymälöihin, joissa se on\nvaraushetkellä heti saatavilla. Näet myymälät tuotteen esittelysivulla, kun\nklikkaat ostoskorin alla olevaa painiketta: ”Nouda myymälästä”.\n\n_Tilatun tuotteen toimitus myymälään:_\n\nKun tilaat ja maksat tuotteen heti netissä, voit valita sen toimituspaikaksi\nminkä tahansa DNA Kaupan[ myymälöistä](https://www.dna.fi/dnakaupat). Saat\nviestin, kun tuote on noudettavissa.\n\nKuinka nopeasti voin noutaa tuotteen?\n\nVaraamasi tuote on noudettavissa vielä saman päivän aikana. Varaus odottaa\nseuraavaan arkipäivään. Jos jo tilasit tuotteen ja valitsit sen\ntoimituspaikaksi myymälän, toimitusaika on 1-3 arkipäivää. Myymälään tilattu\ntuote tulee noutaa viikon sisällä tilauksesta.\n\nMolemmissa tapauksissa saat viestin, kun tuote on noudettavissa.\n\nVoiko tuotteen noutaa kuka tahansa?\n\nKyllä, valtakirjalla."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:35+00:00",
+        "last_modified": "2025-06-21T13:41:40.223398",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

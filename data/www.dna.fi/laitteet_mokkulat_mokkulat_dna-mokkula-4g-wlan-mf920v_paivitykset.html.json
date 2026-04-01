@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-4g-wlan-mf920v_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 384,
+                "end": 3224,
+                "text": "# DNA Mokkula 4G WLAN MF920V(A)\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-wlan-mf920v/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-4g-wlan-\nmf920v/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-4g-wlan-\nmf920v/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-4g-wlan-\nmf920v/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-4g-wlan-\nmf920v/vianrajaus)\n\n## Päivitykset\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\nMokkula saa ajoittain päivityksiä, jotka on syytä tehdä.\n\n### Ohjeet päivitykseen:\n\n  1. Avaa nettiselain, kun olet kytkeytynyt DNA Kotimokkulan WiFi-verkkoon tai yhdistänyt laitteen Ethernet-johdolla.\n  2. Kirjoita osoiteriville http://dna.mokkula tai http://192.168.1.1 \n    * Oletuskäyttäjänimi on admin\n    * Oletussalasana on 1234.\n  3. Valitse aloitussivulta lisäasetukset.\n  4. Valitse ylävalikosta päivitä.\n  5. Valitse tarkista.\n  6. Seuraa käyttöliittymän ohjeita. Älä sammuta tai irroita virtajohtoa laitteesta päivityksen aikana. Päivitys voi kestää 5-30 minuuttia.\n\nJos päivitystä ei löydy tai se keskeytyy yllättäen, kokeile resetoida laite ja\ntyhjentää selaimen välimuisti ja kokeile uudestaan.\n\n**Laitteelle on julkaistu päivitys 15.8.2018**\n\nMuutoksina edelliseen versioon:\n\n  * GDPR ilmoitus\n  * Parannuksia akkuturvaan\n\nUusi versio on: **ZTE_DNA_MF920V_B08** (MF920V) ja **ZTE_DNA_MF920V_B06**\n(MF920VA)**\n\nPäivitys tapahtuu portaittain eli kaikki eivät saa päivitystä samaan aikaan.\nSelaimen välimuistin tyhjennys auttaa, jos uudet ominaisuudet eivät näy\npäivityksen jälkeen.\n\n**Laitteelle on julkaistu päivitys 23.8.2017**\n\n**Muutoksina edelliseen versioon:**\n\n  * Mobiiliversion DNA-ulkoasu on lisätty\n  * Parannus päivitysilmoituksiin ja ns. pakkopäivitykseen\n  * 700 MHz:n lukko\n  * Mahdollisuus aikatauluttaa päivityksien automaattisen tarkastuksen\n  * Tekstiviestien saapuminen ei häiritse netin käyttöä\n  * Muita suorituskykyyn, tietoturvaan ja käytettävyyteen liittyviä korjauksia.\n\n  \nUusi versio on: **ZTE_DNA_MF920V_B05**\n\n**Laitteelle on julkaistu päivitys 7.12.2016.**\n\nMuutoksina edelliseen versioon:\n\n  * Tieto yhdistetystä tukiasemasta (Cell ID) on lisätty lisätietoja-näkymään\n  * DNA APN:t on lisätty valikkoon ja oletus-APN muutettu tulevan tuotteistuksen muotoon\n  * Käännöskorjauksia\n  * Siltaavaan tilaan korjauksia, mm. parannettu tukea kun laite yhdistetään ulkoiseen reitittimeen USB-väylän kautta\n  * Wi-Fi poistuu käytöstä kun siltaava tila otetaan käyttöön. Kyseessä on piirisarjasta tuleva rajoite.\n\n  \nUusi versio on: **ZTE_DNA_MF920V_B03**\n\n",
+                "heading": "DNA Mokkula 4G WLAN MF920V(A)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:04+00:00",
+        "last_modified": "2025-06-20T19:12:02.346762",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/faktura_avtalegiro-og-efaktura.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 130,
+                "end": 5108,
+                "text": "# Hva er eFaktura og AvtaleGiro?\n\nPå denne siden finner du hjelp til hvordan du oppretter Avtalegiro eller\neFaktura. Du kan også kombinere begge, og på den måten slippe gebyr for\npapirfaktura.\n\nMed eFaktura kommer fakturaen rett i nettbanken istedenfor som papirfaktura i\nposten, og med AvtaleGiro betales den automatisk ved forfall. Enkelt for deg\nog smart for miljøet!\n\n[AvtaleGiro](/kundeservice/faktura/avtalegiro-og-\nefaktura/#avtalegiro)[Reservasjon eFaktura](/kundeservice/faktura/avtalegiro-\nog-efaktura/#reservasjon)\n\nOpprettelse av avtalegiro/eFaktura\n\n **Ønsker du å opprette avtalegiro eller eFaktura kan du enkelt gjøre dette\nselv i din nettbank**\n\nAvtaleGiro og/eller eFaktura er en enkel, billig og miljøvennlig måte å betale\nfaktura på.\n\n  *  **AvtaleGiro** \\- Avtale der fakturabeløpet trekkes automatisk fra kundens bankkonto ved forfall\n\n    * Avtalen opprettes og administreres via nettbank/banken. For å aktivere avtalen må du ha KID-nummer fra din nyeste faktura (14 siffer som du finner på din faktura)\n\n  *  **eFaktura** \\- Avtale der du får regningen rett i nettbanken og du trenger kun å godkjenne eFakturaen i nettbanken for at beløpet skal trekkes\n\n    * Du må skru på _Ja Takk til Alle / Alltid eFaktura / Automatisk eFaktura_ via nettbanken for at tjenesten skal aktiveres\n\n  *  **Brevgiro -** Avtale der du giroblankett signeres og sendes per post etter avtale med banken din\n\n    * Trenger du giroblankett fra Telenor, så ta kontakt med kundeservice\n\n## Kom i gang med eFaktura\n\nFor å få eFaktura må du gi en generell aksept for dette i nettbanken eller\nbetalingsappen din.\n\nDette blir kalt _«Ja takk til alle», «Automatisk eFaktura», «Alltid eFaktura»\neller «eFaktura fra alle»_ , avhengig av hvilken bank eller betalingsapp du\nbruker.  \nNår dette er aktivert, vil du automatisk få eFaktura på fremtidige faktura fra\nalle som tilbyr dette - du trenger med andre ord **kun bestille det én gang!**\n\n* * *\n\nMåten du bestiller eFaktura på ble endret i _desember 2021_ , og etter dette\ner det kun Ja Takk til Alle som er gjeldende for bestilling av eFaktura-\navtaler.  \n **Fra 01.03.2024 stopper bankene utsending av de gamle eFaktura-avtalene.**\nHvis du ikke har Ja Takk til Alle vil du etter denne datoen få fakturaen på\npapir i posten.\n\nDu kan lese mer om hvordan du løser dette her: [Endringer på eFaktura-\navtaler.](/kundeservice/faktura/avtalegiro-og-efaktura/endringer/)\n\n## Hvordan fungerer det?\n\nEtter at du har akseptert Alltid eFaktura vil fakturaene komme rett i\nnettbanken istedenfor i posten. eFakturaen vil ligge i nettbanken til den\ngodkjennes av deg.\n\nEtter at du har godkjent gjennomføres betalingen. Har du AvtaleGiro i tillegg,\nslipper du å godkjenne - da skjer betalingen helt automatisk.\n\nDu mister heller ikke oversikten: Med eFaktura kan du kan fortsatt gå inn i\nnettbanken og se alle fakturaene dine.\n\n **Utsette betaling med eFaktura  \n** Har du behov for å utsette betalingen, kan du endre forfallsdato i\nnettbanken etter at du har ordnet med [betalingsutsettelse på Mine\nSider](https://www.telenor.no/mitt-telenor/faktura/).\n\n **Unngå papirfaktura-gebyr  \n** Hvis du oppretter eFaktura, slipper du gebyret for papirfaktura (6,50 kr).\n\n### Kan man reservere seg mot eFaktura fra enkelte selskap?\n\nJa, du kan legge inn reservasjon i din nettbank.\n\n **Ønsker du å reservere deg mot eFaktura fra oss, er det følgende tilbydere\ndu kan velge:**\n\n  *  ** _Telenor Norge AS_** __ \\- Brukes på faktura for mobil, hjemmetelefon eller bredbånd\n\n  *  ** _Telenor Norge AS TV/BREDBÅND_** \\- Brukes på faktura for TV og bredbånd\n\nVi vil da sende faktura i posten, og gjør deg oppmerksom på at du vil bli\nbelastet gebyr for papirfaktura.\n\nTrenger du mer hjelp eller veiledning på hvordan du legger inn reservasjon, ta\nkontakt med banken din.\n\n## Kom i gang med AvtaleGiro\n\nI de fleste nettbanker vil du få tilbud om å opprette AvtaleGiro etter at du\nhar betalt en faktura. Takker du ja til dette, blir avtalen registrert. Dersom\ndu trenger hjelp til å opprette AvtaleGiro, kan banken din hjelpe deg med\ndette.\n\n## Hvordan foregår det?\n\nAvtaleGiro gjør at fakturaen din betales automatisk ved forfall. Dette skjer\nved at vi sender en kopi av fakturaen til banken din, og at banken trekker\nsummen fra kontoen din for deg.\n\nHusk at det er lurt å ha eFaktura i tillegg. Har du bare AvtaleGiro uten\neFaktura vil du fortsatt få en papirfaktura i posten. Med eFaktura har du\nfortsatt tilgang til fakturaene dine i nettbanken.\n\n **Hva hvis jeg ikke har dekning på konto?  \n** Dersom du ikke har dekning på konto, vil banken forsøke å trekke beløpet\nfra kontoen din de fire påfølgende virkedagene. Har du fortsatt ikke dekning\npå kontoen etter det, må du betale manuelt.\n\n## Opplever du problemer med aktivering Avtalegiro eller eFaktura?\n\n  1. AvtaleGiro - Slett avtalen  \neFaktura - Skru av og på \"Alltid eFaktura/Automatisk eFaktura\" i nettbanken\n\n  2. Prøv å bestille på nytt om et par dager. Fortsetter problemet må du ta kontakt med banken."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:36+00:00",
+        "last_modified": "2025-05-30T08:24:00.466020",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

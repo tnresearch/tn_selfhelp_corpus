@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_installationsguider.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 269,
+                "end": 1815,
+                "text": "# Installationsguider\n\n##\n\n## Guider\n\n  * [ Kom igång med bredband  ](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-bredband/)\n  * [ Wifi-router - Telenor i4882  ](/support/fast-bredband/installationsguider/installationsguider/router--telenor-i4882/)\n  * [ Wifi-router - Technicolor 799 Xtream  ](/support/fast-bredband/installationsguider/installationsguider/router-technicolor-799-xtream/)\n  * [ Wifi-router - Technicolor 784  ](/support/fast-bredband/installationsguider/installationsguider/installation-av-router-technicolor-784/)\n  * [ Modem - Technicolor TC4210  ](/support/fast-bredband/installationsguider/installationsguider/technicolor-tc4210/)\n\n## Fast ip\n\n  * [ Ställa in fast ip på Technicolor 784, 789 och 799  ](/support/fast-bredband/installationsguider/fast-ip/stalla-in-fast-ip-pa-technicolor/)\n  * [ Ställa in fast ip på Zyxel 2601  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921131)\n  * [ Ställa in fast ip på Zyxel 2602  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921132)\n  * [ Inställningar för ip-adress i Windows 7  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921104)\n  * [ Inställningar för ip-adress i Windows Vista  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921133)\n  * [ Inställningar för ip-adress i Windows XP  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921102)\n  * [ Inställningar för ip-adress i Mac  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921103)\n\n",
+                "heading": "Installationsguider"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:57+00:00",
+        "last_modified": "2025-05-30T14:06:47.856010",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "mainly urls"
+}

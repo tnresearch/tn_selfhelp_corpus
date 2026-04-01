@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/klager-og-forbedringer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3085,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "## Fortæl os om din oplevelse\n\nVi er kede at, at vi ikke levede op til dine forventninger. Fortæl os om din\noplevelse - vi vil meget gerne hjælpe. Hos Telenor tager vi ansvar, så derfor\nsidder vi klar til at lytte dig. Vi kan ofte løse din henvendelse med det\nsamme.  \n  \n\nDu kan ringe direkte til os på 72 100 100 eller skrive til os på\n[kundeservice@telenor.dk](mailto:kundeservice@telenor.dk)\n\n**Klage over reparation**  \nØnsker du at klage til Telenor over en reparation eller et reparationsforløb,\nskal du skrive til [info@care1.dk](mailto:info@care1.dk). Skriv\nreparationsklage i emnefeltet.\n\n## Hvad gør Telenor - sådan behandler vi din henvendelse\n\n###\n\n1\n\nFortæl os om din oplevelse\n\n###\n\n2\n\nVi lytter og undersøger årsagen\n\n###\n\n3\n\nVi finder en løsning sammen\n\n###\n\n4\n\nVi bruger din oplevelse til at blive bedre\n\n## Bliver vi ikke enige om en løsning\n\n**Regningsklagenævn  \n** Skulle du mod forventning ikke få løst din klage, kan du skrive til\nTelenors Regningsklagenævn på\n[regningsklagenaevn@telenor.dk](mailto:regningsklagenaevn@telenor.dk).\n\nTelenors Regningsklagenævn er blevet etableret pr. 1. februar 2020 og er en\nintern undersøgelsesenhed, som består af en jurist og et særligt team af\nkundeservice-medarbejdere. Regningsklagenævnet undersøger og behandler din\nsag. Du kan forvente at modtage afgørelse i din sag inden for 6 uger. Hvis du\ner uenig i Telenors afgørelse, kan du henvende dig til nedenstående nævn.\n\n**Fysiske varer (mobil, router mv.)  \n** Drejer din klage sig om en vare, du har købt hos os, kan du klage til\nNævnenes Hus Center for Klageløsning:\n\nToldboden 2  \n8800 Viborg  \nTelefon: 72 40 56 00  \n[nh@naevneneshus.dk](mailto:nh@naevneneshus.dk)\n\nDu kan oprette din klage på forbrug.dk, hvor du også kan læse mere om\nklageprocessen.\n\n**  \nAbonnementer (regninger, forbrug mv.)**  \nDrejer din klage sig om dit abonnement eller forbrug, kan du indbringe sagen\nfor Teleankenævnet:\n\nAxeltorv 6, 1. sal.  \n1609 København V  \nTelefon: 33 18 69 00  \nE-mail: [teleanke@teleanke.dk](mailto:teleanke@teleanke.dk)  \n[www.teleanke.dk](https://teleanke.dk/)  \n  \n\n**  \nMobilforsikring**  \nHvis du vil klage over selve forsikringsaftalen, kan du skriftligt henvende\ndig til Squaretrade:\n\nCustomer Experience Manager, Squaretrade  \nHerstedøstervej 27-29, Unit A  \n2620 Albertslund  \nE-mail: [kundesupport@squaretrade.com](mailto:kundesupport@squaretrade.com)  \n[www.squaretrade.dk](http://www.squaretrade.dk)\n\nHvis du ikke kan blive enig med Squaretrade, kan du klage til Ankenævnet for\nForsikring:\n\nAnker Heegaards Gade 2, 1.  \n1572 København V  \nTelefon: 33 15 89 00  \nE-mail:\n[ankeforsikring@ankeforsikring.dk](mailto:kundesupport@squaretrade.com)  \n[www.ankeforsikring.dk](https://ankeforsikring.dk/)\n\n**  \nODR - Den europæiske online klageportal  \n** Hvis dit køb er foretaget online på telenor.dk, kan du også oprette en\nklage på EU-kommissionens online klageportal, hvilket er særligt relevant for\ndig, som er statsborger i en anden EU-medlemsstat end Danmark.\n\nKlageportalen findes her:\n[www.ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:16+00:00",
+        "last_modified": "2025-05-21T15:15:45.012543",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

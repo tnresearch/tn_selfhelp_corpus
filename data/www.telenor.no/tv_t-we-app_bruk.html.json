@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app_bruk.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 146,
+                "end": 3052,
+                "text": "# T-We App\n\nHer finner du informasjon om innlogging, hvordan du legger til flere\nfamiliemedlemmer i T-We App, samt hvilke enheter som støtter T-We App.\n\n[Innlogging](/kundeservice/tv/t-we-app/bruk/#innlogging)[Legg til\nfamiliemedlemmer](/kundeservice/tv/t-we-\napp/bruk/#familiemedlemmer)[Enheter](/kundeservice/tv/t-we-app/bruk/#enheter)\n\nDette trenger du for å bruke T-We app eller nett-TV på t-we.no\n\n  * Et aktivt TV-abonnement og én T-We Boks eller kortleser fra Telenor\n\n  * Mobilnummeret til eier av abonnementet må være registrert i våre systemer\n\n  * Internettforbindelse via mobilnett eller WiFi\n\n  *  **Kun for T-We app:** Hvis du vil ha tilgang til innhold som er låst til hjemmet, må du også ha en T-We Boks oppkoblet på samme nettverk. Dette vil ikke være tilgjengelig på t-we.no.\n\n## Innlogging\n\n **Slik logger du inn som eier av abonnementet:**\n\nFor å logge inn må du bruke mobilnummeret ditt. Mobilnummeret til deg som er\neier av abonnementet, må være registrert i våre systemer for at du skal få\ntilgang til appen/nett-TV og kunne gi familiemedlemmer tilgang. Har vi ikke\nregistrert ditt mobilnummer må du opprette en bruker på [Mine\nSider](https://www.telenor.no/minesider) på telenor.no.\n\nTrenger du hjelp til å opprette en bruker på Mine Sider:\n\n[Les mer om Telenor ID og få hjelp til innlogging.](/telenor-id/)\n\n **NB:** Eier av TV-abonnementet må logge inn i appen/på t-we.no før det kan\ngis tilgang til flere familiemedlemmer.\n\n## Legg til flere familiemedlemmer\n\nBruk en profil med adminrettigheter for å legge til nye mobilnummer og gi\ntilgang til inntil 5 familiemedlemmer. Når mobilnummeret er lagt til, kan\npersonen logge inn i appen eller på twe.no.  \n\n  1. Velg **☰ Mer**\n\n  2. Trykk på **Tilgang og profiler**\n\n  3. Velg **Legg til mobilnummer**\n\n  4. Oppgi PIN-koden (dette er den samme som administrator-profilen på T-We boksen. 1-2-3-4 som standard dersom den ikke er endret.)\n\n  5. Skriv inn mobilnummeret til personen som skal ha tilgang til appen eller nett-TV.\n\nI tillegg til å gi tilgang til appen/nett-TV kan du opprette brukerprofiler\ntilpasset hvert familiemedlem. Disse kan du [opprette direkte i\nappen](/kundeservice/tv/t-we-app/profiler/index.page), og de fungerer på tvers\nav alle enheter.\n\n## Hvilke enheter kan jeg bruke?\n\nAppen kan lastes ned på mobiler og nettbrett med iOS eller Android og er\ntilgjengelig som egen app på Apple TV 4 eller nyere, Chromecast med Google TV\nog for enheter som har Android TV operativsystem.  \n  \nAppen støtter inntil fire samtidige brukere, slik at flere i familien kan se\npå forskjellig innhold samtidig.\n\n **twe.no** er tilgjengelig for Windows og Mac, og støtter per nå alle\nnettlesere med unntak av Microsoft Edge.\n\nTotalt kan det være opptil 10 enheter påkoblet samtidig.\n\nI appen kan du også sende innholdet til din T-We boks. Ønsker du flere T-We\nbokser kan du [bestille en T-We Boks II her.](/privat/tv/t-we/dekoder/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:14+00:00",
+        "last_modified": "2025-05-30T09:40:11.553625",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

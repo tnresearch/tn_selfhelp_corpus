@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_huawei-e3276_mobilt-bredband-med-4g.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 958,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Mobilt Bredbånd og 4G-netværk\n\nVores 4G-netværk dækker en meget stor del af landet, og derfor sælger vi kun\nmobile bredbåndsabonnementer og udstyr, som er gearet til 4G.\n\nSelvom dit udstyr er parat til 4G, vil du opleve lavere hastighed, når du\nbefinder dig i et område med kun 3G-dækning. Og tager du fx dit mobile\nbredbånd med i sommerhus, kan lavninger eller høje træer forværre dit signal.\n\n[Tjek vores dækning](/kundeservice/drift-og-dakning/dakning/dakningskort/\n\"Tjek vores dækning\")\n\n## Har du et gammelt abonnement?\n\nHvis dit abonnement er købt før d. 20. marts 2013 har du muligvis kun udstyr\ntil at bruge 3G-nettet. Der er sket rigtig meget siden, og du har derfor højst\nsandsynnligt 4G, der hvor du bor.\n\nEr du i tvivl om dit udstyr er fungerer med 4G, kan du [kontakte\nos](/kundeservice/kontakt/) eller [kigge forbi en af vores butikker](/find-\nbutik/) med dit udstyr. Vi kan hurtigt hjælpe dig med at finde et abonnement,\nder passer til dig."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:51+00:00",
+        "last_modified": "2025-05-21T15:16:07.364609",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

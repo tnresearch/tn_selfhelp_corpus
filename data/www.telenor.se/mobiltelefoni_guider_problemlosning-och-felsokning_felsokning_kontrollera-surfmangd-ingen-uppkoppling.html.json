@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_felsokning_kontrollera-surfmangd-ingen-uppkoppling.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 884,
+                "heading": "Checking Data Usage",
+                "start": 180,
+                "text": "# Kontrollera surfmängd\n\nOm du har ett abonnemang med begränsad mängd surf och har använt upp den kan\ndu inte surfa*. I Mitt Telenor kan du se om din surfmängd har överskridits.\nOch enkelt köpa mer surf om du vill!\n\nI Mitt Telenor, som finns både här [på webben](/mitt-telenor/) och som[\napp](/handla/tjanster/appar/mitt-telenor/), ser du inte bara hur mycket surf\ndu har förbrukat. Du kan också köpa ny surf.\n\n* Du kan fortfarande komma åt följande sajter: [Telenor.se](/), [Mitt Telenor](/mitt-telenor/), [ladda.telenor.se](/handla/kontantkort/ladda-kontantkort/#products), [Vimla.se](https://vimla.se/). Du kan även hämta och skicka mms och använda Telenor-appen (om du laddat ner den sedan tidigare)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:09+00:00",
+        "last_modified": "2025-05-30T14:44:42.465916",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

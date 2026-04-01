@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wifi-mf971v.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 300,
+                "end": 1287,
+                "text": "# DNA Matkamokkula 4G+ WiFi MF971V\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971v/vianrajaus)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje (pdf)](https://staging.lrdxp-\nprod.dna.fi/documents/753910/853450/DNA_Matkamokkula_4G%2B_WiFi_MF971V_ZTE_CAT6_ohjeet.pdf/)\n\n[Lataa pikaopas (pdf)](https://staging.lrdxp-\nprod.dna.fi/documents/753910/853450/DNA_Matkamokkula_4G%2B_WiFi_MF971V_ZTE_CAT6_pikaopas.pdf/)\n\n",
+                "heading": "DNA Matkamokkula 4G+ WiFi MF971V"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:09:44+00:00",
+        "last_modified": "2025-06-20T19:03:18.532926",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_byt-hdmi-kabel.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 351,
+                "end": 691,
+                "text": "# Byt hdmi-kabel\n\nDet kan vara fel på din hdmi-kabel – prova att byta till en annan.\n\n  \n**Vill du att vi ska skicka en ny hdmi-kabel?**  \n[Skriv ett mejl till oss](/support/old-kontakta-oss/mejla/) och berätta att du\nbehöver en ny kabel. Att beställa en ny hdmi-kabel kostar inget.  \n  \nOm du vill kan du förstås köpa en hdmi-kabel själv.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:19:38+00:00",
+        "last_modified": "2025-05-30T17:39:36.944419",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

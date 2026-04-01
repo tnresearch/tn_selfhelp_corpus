@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/drift-og-dakning_gode-rad-til-bedre-dakning_sadan-far-du-bedre-indendorsdakning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2563,
+                "reason": "Selected by user",
+                "start": 617,
+                "text": "##  Spørgsmål og svar til WiFi-opkald\n\nHvilke telefoner kan bruges til WiFi-opkald?\n\nDe nyeste mobiler har som oftes WiFi-opkald. Du kan læse, om din mobil har\nWiFi-opkald under dens specifikationer.\n\nHvad koster det at bruge WiFi-opkald?\n\nDet koster det samme, som du normalt betaler. Har du fri tale, er der altså\ningen omkostninger ved at ringe over det trådløse netværk. Betaler du normalt\nen minuttakst, vil du gøre det samme ved WiFi-opkald.\n\nKan man bruge WiFi-opkald i udlandet eller på et fly?\n\nNej, det er desværre ikke muligt.\n\nEr der særlige krav til WiFi-forbindelsen?\n\nNej, din telefon skal blot være tilsluttet WiFi-netværket. Så vil telefonen\nautomatisk vælge dette netværk, hvis det er stærkere end mobilnetværket.\n\nJeg oplever dårlig dækning, når jeg taler via trådløst netværk?\n\nKvaliteten af dit opkald via WiFi kan ikke blive bedre, end selve WiFi'et er.\nDvs. at hvis du normalt har problemer med din trådløse forbindelse i et\nbestemt rum, så vil du også opleve det, når du bruger forbindelsen til WiFi-\nopkald.\n\nDet samme gælder, hvis der er mange på netværket samtidigt; så vil det også\npåvirke dit opkald negativt.\n\nKan WiFi-opkald bruges til nødopkald?\n\nJa, de valgte indstillinger vil også være gældende under nødopkald for at\nsikre, at mobilen vælger det stærkeste signal. Men vær opmærksom på at\nopkaldet kan blive afbrudt, hvis du bevæger dig væk fra WiFi-dækningen under\nopkaldet.\n\nSkal modtagerens mobil også have WiFi-opkald slået til?\n\nNej, det er ikke nødvendigt at bruge samme opkaldstype.\n\nHvad sker der, hvis jeg går ud af døren, mens jeg taler i telefon?\n\nHvis der er 4G dækning udenfor bygningen, vil der blive foretaget handover,\nhvilket betyder, at opkaldet vil fortsætte uden afbrydelse. Hvis der ingen\ndækning er, eller der kun er 2G- eller 3G-dækning, vil dit opkald blive\nafbrudt, når du bevæger dig udenfor rækkevidde af WiFi-netværket, og du vil\nskulle ringe op igen for at kunne fortsætte samtalen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:50+00:00",
+        "last_modified": "2025-05-21T15:15:38.272873",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_zyxel-8702_koble-til.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 254,
+                "end": 653,
+                "text": "# Koble opp Zyxel P8702N\n\nHvordan du kobler til ruteren, avhenger av om du har kabel, fiber eller\nTrådløst Bredbånd.\n\n## Velg din tilkobling\n\n[\n\n### Kabel\n\n](/kundeservice/internett/modem-og-ruter/zyxel-8702/koble-til/kabel/)\n\n[\n\n### Fiber\n\n](/kundeservice/internett/modem-og-ruter/zyxel-8702/koble-til/fiber/)\n\n[\n\n### Trådløst Bredbånd\n\n](/kundeservice/internett/modem-og-ruter/tbb-antenne-nr7101/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:56+00:00",
+        "last_modified": "2025-05-30T08:57:18.051254",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

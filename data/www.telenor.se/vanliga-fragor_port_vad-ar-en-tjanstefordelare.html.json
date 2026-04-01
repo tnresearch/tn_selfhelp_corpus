@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_port_vad-ar-en-tjanstefordelare.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 302,
+                "end": 679,
+                "text": "# Vad är en tjänstefördelare?\n\nEn tjänstefördelare kallas ibland för switch, mediaomvandlare eller\nfiberkonverterare. Det är den apparat som används för att du ska kunna koppla\nin bredband eller tv via fiber om du bor i en bostad med öppet nät.\n\nDet är fastighetsägaren eller stadsnätet som tillhandahåller din\ntjänstefördelare, ofta finns den redan installerad i din bostad.\n\n",
+                "heading": "Vad är en tjänstefördelare?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:18+00:00",
+        "last_modified": "2025-05-30T17:46:29.486872",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

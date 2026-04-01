@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 242,
+                "end": 2091,
+                "text": "#  Fast bredband\n\nHär hittar du hjälp oavsett om du ska komma igång med ditt nya bredband eller\nom du plötsligt får problem. Hundratals kunder hittar rätt här varje dag.\n\nKan du inte surfa?\n\n**Funkar det inte alls?** Ta en titt i [Mitt Telenor](/mitt-telenor/)! Om en\ndrifstörning påverkar ditt abonnemang just nu syns det där. Du kan även se\nstörningar på vår [driftkarta](/support/driftinformation/driftstorningar-pa-tv\n--och-bredbandsnatet/)  \n  \n **Funkar det dåligt** trots att det inte är en driftstörning?\n[Felsök](/support/fast-bredband/surfa-nu/dags-att-felsoka/)\n\nNy kund?\n\n[ ](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-bredband/)\n\nHjälp att komma igång\n\nHär visar vi, **steg för steg, hur du installerar ditt bredband.** Det tar max\nen kvart, sedan kan du surfa.\n\n[Till guiden](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-bredband/)\n\nMaxa ditt wifi\n\n[Wifikontroll – appen som kontrollerar ditt wifi](/support/fast-\nbredband/wifi/wifikontroll/ \"Telenor Wifikontroll\")\n\n[Alla våra bästa wifi-tips](/handla/bredband/allt-om-wifi/)\n\nAnnat\n\n[Faktura](/support/faktura/)  \n  \n[Prislistor och blanketter](/support/priser-villkor-och-blanketter/fast-\nbredband-tv-telefoni/)  \n  \n[Retur av utrustning](/support/retur-av-utrustning/)  \n  \n[Proffshjälp med installationen](/handla/tjanster/smarta-hemmet/digihjalpen/)  \n  \n[Avsluta abonnemang](/support/fast-bredband/annat/avsluta-abonnemang-pa-tv-\nbredband-eller-hemtelefoni-via-bredband/)\n\n[Nätskydd](/support/fast-bredband/annat/natskydd/)\n\n## Hittade du inte svaret på din fråga?\n\n####  \n[Kontakta kundservice. ](/support/old-kontakta-oss/)\n\n  \nÖppet vardagar kl 8-18. Teknisk support för bredband, tv och hemtelefoni via\nbredband har dessutom öppet på vardagar kl 8-18 och på lördagar 10-17.  \n  \n _När du ringer oss behöver du identifiera dig med BankID eller personlig\nkod._\n\n",
+                "heading": " Fast bredband"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:09+00:00",
+        "last_modified": "2025-05-30T14:00:10.196728",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

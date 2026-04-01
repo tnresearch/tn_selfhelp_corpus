@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/index.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 40,
+                "end": 3161,
+                "text": "# Tuki ja ohjeet\n\nTarvitsetko apua tai tukea? Etsi ratkaisu ongelmaasi tukisivuilta tai ota\nyhteyttä asiakaspalveluumme.\n\n#### Laitteet\n\n[ Modeemit ](https://www.dna.fi/tuki/laitteet/modeemit) [ Mokkulat\n](https://www.dna.fi/tuki/laitteet/mokkulat) [ Puhelimet ja tabletit\n](https://www.dna.fi/tuki/laitteet/puhelimet-ja-tabletit) [ Älykellot\n](https://www.dna.fi/tuki/laitteet/alykellot) [ Huoltokumppanit ja takuu\n](https://www.dna.fi/tuki/laitteet/huolto)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/laitteet)\n\n#### Puhelinliittymät\n\n[ PUK-koodi ](https://www.dna.fi/tuki/puhelinliittymat/puk-koodi) [ Liittymän\naktivointi ](https://www.dna.fi/tuki/puhelinliittymat/aktivointi) [\nNumeronsiirto ](https://www.dna.fi/tuki/puhelinliittymat/numeronsiirto) [\nLiittymän käyttö ulkomailla ](https://www.dna.fi/tuki/puhelinliittymat/kaytto-\nulkomailla) [ eSIM ](https://www.dna.fi/tuki/puhelinliittymat/esim)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/puhelinliittymat)\n\n#### Netti\n\n[ Vianrajaus ](https://www.dna.fi/tuki/netti/vianrajaus) [ Käyttöönotto\n](https://www.dna.fi/tuki/netti/kayttoonotto) [ WiFi-verkko\n](https://www.dna.fi/tuki/netti/wifi)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/netti)\n\n#### Viihde\n\n[ Suoratoistopalvelut ](https://www.dna.fi/tuki/viihde/suoratoistopalvelut) [\nDNA viihdeboksi ](https://www.dna.fi/tuki/viihde/dnahubi) [ DNA TV\n-mobiilisovellus ](https://www.dna.fi/tuki/viihde/dnatv-mobiilisovellus) [ DNA\nTV selaimessa ](https://www.dna.fi/tuki/viihde/dnatv-selaimessa) [ DNA TV\nApple TV:llä ](https://www.dna.fi/tuki/viihde/dnatv-appletv)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/viihde)\n\n#### Tietoturva\n\n[ DNA Digiturva ](https://www.dna.fi/tuki/tietoturva/digiturva) [ DNA\nSelausturva ](https://www.dna.fi/tuki/tietoturva/selausturva) [\nMobiilivarmenne ](https://www.dna.fi/tuki/puhelinliittymat/mobiilivarmenne)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/tietoturva)\n\n#### Palvelut\n\n[ SquareTrade-laiteturva ](https://www.dna.fi/tuki/palvelut/laiteturva) [\nDeezer ](https://www.dna.fi/tuki/palvelut/deezer) [ DNA sähköposti\n](https://www.dna.fi/tuki/palvelut/webmail)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/palvelut)\n\n#### Asiakkuus\n\n[ Laskutus ](https://www.dna.fi/tuki/asiakkuus/laskutus) [ Nettiostaminen\n](https://www.dna.fi/tuki/asiakkuus/nettiostaminen) [ Hinnastot ja ehdot\n](https://www.dna.fi/tuki/asiakkuus/hinnastot-ja-ehdot) [ Valtakirjat\n](https://www.dna.fi/tuki/asiakkuus/valtakirjat) [ Kirjautuminen\n](https://www.dna.fi/tuki/asiakkuus/kirjautuminen)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/asiakkuus)\n\n#### Verkot ja häiriötilanteet\n\n[ Kuuluvuus ja verkot ](https://www.dna.fi/tuki/verkot-ja-\nhairiotilanteet/kuuluvuus-ja-verkot) [ Viat ja häiriöt\n](https://www.dna.fi/tuki/verkot-ja-hairiotilanteet/viat-ja-hairiot)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/verkot-ja-hairiotilanteet)\n\n#### Yhteystiedot\n\n[ Asiakaspalvelu ](https://www.dna.fi/tuki/yhteystiedot/asiakaspalvelu) [\nMyyntipalvelu ](https://www.dna.fi/tuki/yhteystiedot/myyntipalvelu) [\nAsennusapu ](https://www.dna.fi/tuki/yhteystiedot/asennusapu)\n\n[ Näytä kaikki ](https://www.dna.fi/tuki/yhteystiedot)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:25+00:00",
+        "last_modified": "2025-06-20T14:28:39.106505",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

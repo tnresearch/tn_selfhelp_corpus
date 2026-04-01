@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_huawei-e3276_opsatning-af-dit-mobile-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 983,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Sådan sætter du dit modem op\n\nSe nedenstående guide for opsætning af dit modem. Har du allerede forsøgt at\ninstallere modemet uden held, anbefaler vi at du starter med at afinstallere\ndet.\n\n  * ## Åbn din Mobilt Bredbånd-software\n\nHvis programmet **ikke dukker op** af sig selv, kan du finde det i\n**filhåndtering** sammen med dit C-drev. Ikonet ser sådan ud:\n\n  * ## Vælg sprog\n\nNår du har valgt dit sprog, tryk \" **ok** \"\n\n  * ## Tryk på \"Næste\"\n\n  * ## Tryk på \"Jeg accepterer\"\n\n  * ## Vælg, hvor du vil installere programmet\n\nHerefter vælger du \" **Næste** \"\n\n  * ## Vælg navn til genvejen i startmenuen\n\nTryk herefter på \" **Installer** \"\n\n  * ## Programmet er nu i gang med at blive installeret\n\n  * ## Installationen er nu afsluttet\n\n  * ## Indtast pukkode og vælg personlig pinkode\n\nNår du første gang starter programmet, skal du indtaste den medfølgende\n**pukkode** \\- og herefter vælge en **personlig pinkode**.\n\n  * ## For at komme på nettet tryk på \"Opret forbindelse\""
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:17+00:00",
+        "last_modified": "2025-05-21T15:16:07.577020",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

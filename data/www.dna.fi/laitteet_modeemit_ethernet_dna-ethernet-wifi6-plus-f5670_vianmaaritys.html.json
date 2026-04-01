@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-ethernet-wifi6-plus-f5670_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 413,
+                "end": 4487,
+                "text": "# DNA Ethernet-modeemi WiFi 6 Plus F-5670\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nethernet-wifi6-plus-f5670/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/vianmaaritys)\n\n## Vianmääritys\n\nModeemissa ei pala mitään valoja (virtajohto on kiinni)\n\n**Mahdollinen syy:**\n\nModeemi ei saa virtaa. Muuntaja tai modeemi saattaa olla viallinen.\n\n**Korjausehdotus:**\n\nKytke virtajohto kiinni ohjekirjan mukaisesti ja tarkista, että pistokkeeseen\ntulee virtaa. Tuo muunta- ja sekä modeemi DNA Kauppaan vaihdettavaksi.\n\nKaikki nettiyhteydestä kertovat valot palavat, mutta nettiin ei saa yhteyttä\n\n**Mahdollinen syy:**\n\nModeemi voi olla jumittunut.\n\n**Korjausehdotus:**\n\nKytke modeemin virtajohto irti noin minuutiksi ja odota, että nettiyhteyden\ntilavalot syttyvät uudelleen. Käynnistä tietokone uudelleen. Kokeile myös\nethernet-johdolla. Voit myös resetoida laitteen.\n\nKaikki nettiyhteydestä kertovat valot palavat (Tietokone ilmoittaa ”rajoitettu\nyhteys”)\n\n**Mahdollinen syy:**\n\nModeemi ei saa yhteyttä nettiin.\n\n**Korjausehdotus:**\n\nTarkista yhteys ja liitännät. Tarkista myös tietokoneen/päätelaitteen\nasetukset (esim. internet-asetukset ja verkkokortti). Tarvittaessa resetoi\nmodeemi, kytke modeemin virtajohto irti noin minuutiksi ja odota, että valot\nsyttyvät uudelleen.\n\nKaikki nettiyhteydestä kertovat valot palavat (asetukset tarkistettu)\n\n**Mahdollinen syy:**\n\nPalomuuri saattaa estää liikenteen.\n\n**Korjausehdotus:**\n\nTarkista tietokoneen palomuurin asetukset.\n\nKaikki nettiyhteydestä kertovat valot palavat (asetukset tarkistettu, käytössä\noma yhteyttä jakava laite, esim. reititin)\n\n**Mahdollinen syy:**\n\nOma yhteyttä jakava laite on jumissa tai viallinen.\n\n**Korjausehdotus:**\n\nKytke modeemi ethernet-johdolla suoraan tietokoneeseen tai käytä modeemin\nlangatonta yhteyttä. Voit kokeilla myös modeemin asettamista siltaavaan\ntilaan. Ota yhteyttä reitittimiä tai muita lisälaitteita myyvään tahoon.\n\nLangaton verkko ei toimi\n\n**Mahdollinen syy:**\n\nJos yhteys toimii ethernet-johdolla vika on WiFi-verkossa.\n\n**Korjausehdotus:**\n\nKäynnistä modeemi uudelleen, tarkasta asetukset ja kokeile WiFi-vinkkejä\nosoitteesta: [dna.fi/tuki-wifi](http://dna.fi/tuki-wifi). Jos nämä eivät\ntoimi, ota yhteyttä asiakaspalveluun.\n\nEn pääse kirjautumaan modeemiin 192.168.101.1 tai dna.wifi/ -osoitteella\n\n**Mahdollinen syy:**\n\nF-266-modeemi on Standalone-tilassa, jolloin F-266 on kytketty olemassa\nolevaan muun kuin Sagemcom-merkkiseen modeemiin tai mokkulaan.\nVaihtoehtoisesti F-266 on kytketty Sagemcomin F-3890-, F-3896- tai\nF-5670-modeemiin, jolloin käytössä on päämodeemina toimivan modeemin WiFi-\nverkko.\n\n**Ratkaisuehdotus:**\n\nKirjaudu ensimmäisenä käytössä olevaan modeemiin tai mokkulaan ja selvitä\nminkä ip-osoitteen F-266-modeemi on saanut. Osoite on 192.168-alkuinen.\nKirjaudu tämän jälkeen selvitettyyn ip-osoitteeseen.\n\nVanhemmat laitteet eivät yhdistä WiFi:llä\n\n  * Kirjaudu laitteen asetussivulle ja paina WiFi-valikon oikeassa reunassa näkyvää rattaan kuvaa.\n  * Muuta Security-alasvetovalikosta WPA2/WPA3 Personal valintaan **WPA2/WPA Personal**.\n  * Tallenna muutos valitsemalla **Apply** sivuston alaosasta. \n\nModeemista kuuluu sirittävä ääni\n\n**Mahdollinen syy:**\n\nModeemin viallinen virtalähde aiheuttaa laitteessa sirittävän äänen. Äänestä\nhuolimatta laitteen käytöstä ei aiheudu minkäänlaista vaaraa tai ongelmaa\nlaitteen toimivuuden suhteen.\n\n**Korjausehdotus:**\n\nOle yhteydessä DNA:n kuluttaja-asiakaspalveluun ja ilmoita ongelmasta, jolloin\nDNA toimittaa veloituksetta uuden F-266-modeemin virtalähteen.\nVaihtoehtoisesti uuden virtalähteen voi hakea DNA Kaupasta ilmoitettuasi\nsiellä ongelmasta.\n\n",
+                "heading": "DNA Ethernet-modeemi WiFi 6 Plus F-5670"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:58+00:00",
+        "last_modified": "2025-06-20T14:52:55.544431",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

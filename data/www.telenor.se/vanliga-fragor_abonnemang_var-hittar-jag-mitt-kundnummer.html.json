@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_abonnemang_var-hittar-jag-mitt-kundnummer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 470,
+                "heading": "How to find your Telenor customer number",
+                "start": 263,
+                "text": "# Var hittar jag mitt kundnummer?\n\nDitt kundnummer (kallas även betalarnummer, till exempel när du ansöker om\nautogiro hos din bank) står på fakturan. Och fakturan hittar du i [Mitt\nTelenor](/mitt-telenor/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:39+00:00",
+        "last_modified": "2025-05-30T17:43:26.788998",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

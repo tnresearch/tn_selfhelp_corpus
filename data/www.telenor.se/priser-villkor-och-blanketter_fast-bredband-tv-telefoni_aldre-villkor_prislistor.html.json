@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/priser-villkor-och-blanketter_fast-bredband-tv-telefoni_aldre-villkor_prislistor.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 428,
+                "end": 1815,
+                "text": "#  Äldre prislistor\n\nFast bredband, tv och fast telefoni\n\n[Bredbandsabonnemang via fiber i stadsnät feb\n2024](https://mediearkivet.telenor.se/Data/mw/Pdf/TG921164.pdf) (pdf)\n\n[Bredbandsabonnemang via fiber i stadsnät nov\n2023](https://mediearkivet.telenor.se/Data/mw/Pdf/TF921164.pdf) (pdf)\n\n[Tv-abonnemang via fiber nov\n2023](https://mediearkivet.telenor.se/Data/mw/Pdf/TD921165.pdf) (pdf)\n\n[Bredband via fiber i stadsnät maj\n2023](https://mediearkivet.telenor.se/Data/mw/Pdf/TE921164.pdf) (pdf)\n\n[Tv-abonnemang via fiber jan\n2023](https://mediearkivet.telenor.se/Data/mw/Pdf/TC921165.pdf) (pdf)\n\n[Prislista utland special\n2022](https://mediearkivet.telenor.se/Data/mw/Pdf/TB921032.pdf) (pdf)\n\n[Bredband via fiber i stadsnät aug\n2022](https://mediearkivet.telenor.se/Data/mw/Pdf/TA921164.pdf) (pdf)  \n  \n[Bredband via fiber i stadsnät nov\n2022](https://mediearkivet.telenor.se/Data/mw/Pdf/TB921164.pdf) (pdf)\n\n[Bredband via fiber i stadsnät dec\n2022](https://mediearkivet.telenor.se/Data/mw/Pdf/TD921164.pdf) (pdf)  \n  \n[Bredband via fiber aug\n2022](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921163)\n(pdf)  \n  \n[Tv-abonnemang via fiber aug\n2022](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921165)\n(pdf)\n\n[Särskilda villkor för villafiber LLUB aug\n2022](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TB31132)\n(pdf)\n\n",
+                "heading": " Äldre prislistor"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:51+00:00",
+        "last_modified": "2025-05-30T14:55:23.695704",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

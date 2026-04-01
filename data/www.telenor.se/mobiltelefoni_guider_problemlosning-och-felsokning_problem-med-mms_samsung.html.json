@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_problem-med-mms_samsung.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 443,
+                "end": 1590,
+                "text": "#  Problem med mms\n\nKan du inte skicka eller ta emot mms med din Samsung kan du ofta själv lösa\nproblemet. Här har vi samlat en lista på de vanligaste problemlösarna.\n\n  * Har du precis skaffat ditt mobilabonnemang hos oss måste du först skicka ett mms för att i fortsättningen kunna ta emot mms.\n  * Starta om din Samsung och kolla om det finns några uppdateringar att hämta.\n  * Kontrollera att du är ansluten till internet via ett mobildatanät eller Wi-Fi.\n  * Kontrollera att mobilens minne inte är slut.\n  * Kontrollera din APN-inställning. \"Inställningar\" > \"Mobilnätverk\" > \"Åtkomstpunktsnamn\". Gå till ”Telenor MMS”, om det inte finns så tryck på ”Lägg till”. Inställningarna ska vara:  \n **Namn:** Telenor SE  \n **APN:** services.telenor.se  \n **Proxy:** Skall vara tom  \n **Port:** Skall vara tom  \n **Användarnamn:** Skall vara tom  \n **Lösenord:** Skall vara tom  \n **Server:** Skall vara tom  \n **MMSC:** http://mms  \n **MMS-proxy:** 172.30.253.241  \n **MMS-port:** 8799  \n **MCC:** 240 MNC: 08  \n **Verifieringstyp:** PAP  \n **APN-typ:** mms  \n **APN-protokoll:** IPv4  \n **APN-protokoll vid roaming:** IPv4  \n **Bärare:** Ej angiven"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:45+00:00",
+        "last_modified": "2025-05-30T14:46:01.628130",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

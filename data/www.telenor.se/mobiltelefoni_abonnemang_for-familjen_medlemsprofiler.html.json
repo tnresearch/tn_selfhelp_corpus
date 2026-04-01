@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_for-familjen_medlemsprofiler.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 344,
+                "end": 1895,
+                "text": "#  Detta kan du som har Telenor Familj göra i Mitt Telenor\n\nI en familj har alla sin egen roll, och samma sak gäller i din Telenor Familj.\n\nNi kan alla logga in i Mitt Telenor (antingen [här på webben](/mitt-telenor/)\neller [i appen](/archive/2019/mitt-telenor-old/)), men ni kommer att kunna se\noch göra olika saker.\n\nDu som tecknade och därmed står som betalningsansvarig för abonnemanget är\n**ägare** och kan göra fler ändringar i abonnemanget än de andra användarna,\nsom vi kallar för **medlemmar**.\n\nNedan ser du vilka funktioner du som ägare eller medlem kan använda i Telenor\nFamilj.\n\n###\n\nÄgare\n\nSom ägare till huvudabonnemanget kan du administrera de olika medlemmarna. Det\ninnebär att du kan:\n\n  * lägga till och ta bort tjänster och inställningar för dig och övriga familjen genom kostnadskontrollen, till exempel **blockera samtal och sms till utlandet** eller **blockera köp i appar, spel och sms-tjänster**\n  * se fakturor\n  * fördela surf\n  * köpa extra surf\n  * se all dataförbrukning, alltså både den totala, varje enskild medlems och din egen\n\nFör att du som ägare ska få tillgång till alla dina tjänster behöver du\nverifiera ditt ägarskap av abonnemanget. [Här kan du läsa mer om hur det går\ntill.](/link/0044777ae98a4461b3616bdf3cb5f4c5.aspx#legitimera)\n\nMedlem\n\nSom medlem kan du bland annat se din egen surfförbrukning och familjens totala\nförbrukning.  \n  \nDu kan även **se inställningar** för ditt abonnemang, till exempel blockera\nsamtal och sms när du är utomlands, men det är bara ägaren som kan **ändra\ninställningarna**.\n\n",
+                "heading": " Detta kan du som har Telenor Familj göra i Mitt Telenor"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:56+00:00",
+        "last_modified": "2025-05-30T14:24:12.477774",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

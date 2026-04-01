@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kontakt-oss_contact-customer-service.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 140,
+                "end": 650,
+                "text": "# Contact Customer Service\n\nYou can contact us by phone, email or try our chatbot Telmi.\n\n[\n\n### Chat with Telmi\n\nOur chatbot Telmi is on standby to help you.\n\nTelmi can understand English, but communicates in Norwegian.\n\n](javascript:void\\(window.startChat\\(\\)\\))\n\n[\n\n### Call us - 915 09000\n\n **Opening hours:  \n  \nMonday - Friday**: 08-19  \n **Saturday:** 09-16  \n **Sunday/Holidays:** Closed\n\n](tel:+4791509000)\n\n[\n\n### Send us an email\n\nForms are in Norwegian.\n\n](/privat/kundeservice/kontakt/e-post.jsp)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:08+00:00",
+        "last_modified": "2025-05-30T09:05:35.024347",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "contact info"
+}

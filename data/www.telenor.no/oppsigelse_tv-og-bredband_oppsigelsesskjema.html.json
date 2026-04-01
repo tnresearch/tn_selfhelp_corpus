@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/oppsigelse_tv-og-bredband_oppsigelsesskjema.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 195,
+                "end": 1125,
+                "text": "## Oppsigelse Internett, TV eller Hjemmetelefon\n\nOppsigelsestiden er inneværende måned pluss én måned. Dette er perioden du\nblir fakturert for abonnementet og regnes fra dagen du melder inn oppsigelsen.\n\n## Oppsigelseskjema\n\nFornavn\n\nEtternavn\n\nFødselsdato\n\nDato for oppsigelse regnes normalt sett fra dagen du sender inn skjemaet, men\nhvis du ønsker oppsigelse fra en annen dato kan du skrive det inn i dette\nfeltet.\n\nØnsket dato for oppsigelse\n\nHva ønsker du å si opp?\n\nTV og Bredbånd\n\nTV\n\nBredbånd\n\nHjemmetelefon\n\nTV, Bredbånd og Hjemmetelefon\n\nHvilken adresse gjelder det?\n\nVed oppsigelse av bredbånd, skriv inn kundenummer\n\nVed oppsigelse av hjemmetelefon, skriv inn telefonnummer\n\nHva er årsaken til oppsigelsen?\n\nFlytting\n\nDødsfall\n\nHva er din e-postadresse?\n\nHvilken nummer kan vi nå deg på?\n\nLast opp vedlegg (valgfritt)\n\nSend inn skjema\n\nSvartid på e-post er inntil 5 virkedager. Du vil motta en kopi av din\nhenvendelse."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:30+00:00",
+        "last_modified": "2025-05-30T09:30:47.717016",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

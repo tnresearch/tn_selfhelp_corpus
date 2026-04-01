@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/delt.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 250,
+                "end": 897,
+                "text": "### Er du ny hos oss?\n\nEr du på vei over til Telenor eller har nylig blitt kunde hos oss på mobil-,\nbredbånd-, eller TV-abonnement?\n\nHer finner du svar og hjelp til vanlige spørsmål\n\n### Leter du etter dette?\n\n[PUK-kode](/kundeservice/mobil/sim-kort/pin-og-puk-kode/)[Problemer med\ninternett](/kundeservice/internett/problemer/)[Flytting](/kundeservice/flytting/)[Feilkoder\npå T-We Boks](/kundeservice/tv/problemer-med-tv/feilkoder/)[Mobildata og\nMMS](/kundeservice/mobil/din-mobil/mobildata-og-mms/)[Glemt passord til\ne-post](/kundeservice/e-post/glemt-\npassord/)[Svindelforsøk](/kundeservice/svindel/)[Smart feilsøking](/mitt-\ntelenor/feilsok/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:29+00:00",
+        "last_modified": "2025-05-30T08:18:18.598483",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "thin"
+}

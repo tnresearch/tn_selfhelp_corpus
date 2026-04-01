@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_guider-och-manualer_tv-via-fiber_installera-tradlos-tv_tradlos-tv-med-tva-wifi-forstarkare.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 491,
+                "end": 1535,
+                "text": "# Installera trådlös tv om du har Arris 2853 med två wifi-förstärkare\n\nFör att trådlös tv ska funka för dig behöver du använda två wifi-förstärkare:\nen som sänder tv-signalerna, och en som tar emot dem.  \n  \n **Innan du sätter igång:** börja med att ta reda på vilken port på din\ntjänstefördelare som du ska använda för tv. [Hitta rätt\nport](/support/portar/)  \n  \nFölj sedan instruktionerna nedan.\n\n  * ### Koppla den första wifi-förstärkaren till tv-porten i tjänstefördelaren\n\nAnvänd en vanlig nätverkskabel.\n\n  * ### Placera den andra wifi-förstärkaren där du har din tv-box\n\nKoppla sedan ihop den andra wifi-förstärkaren med tv-boxen. Använd en\nnätverkskabel.\n\n  * ### Starta båda wifi-förstärkarna \n\nVänta tills wifi-förstärkarens lampa lyser med ett vitt sken.\n\n  * ### Tryck på synkroniseringsknapparna på baksidan på båda wifi-förstärkarna \n\nKnappen är märkt med **WPS**.  \n  \nNär enheterna synkroniseras blinkar wifi-förstärkarnas lampor med ett blått\nsken. När lamporna går över till att lysa med ett fast grönt sken är allt\nklart.\n\n",
+                "heading": "Installera trådlös tv om du har Arris 2853 med två wifi-förstärkare"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:49+00:00",
+        "last_modified": "2025-05-30T14:58:58.389161",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

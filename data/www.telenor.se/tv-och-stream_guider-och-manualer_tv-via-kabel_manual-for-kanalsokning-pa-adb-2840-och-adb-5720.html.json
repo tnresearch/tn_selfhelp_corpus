@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_guider-och-manualer_tv-via-kabel_manual-for-kanalsokning-pa-adb-2840-och-adb-5720.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 395,
+                "end": 770,
+                "text": "# Manual för kanalsökning på ADB 2840\n\n  * ### Klicka på Meny på fjärrkontrollen\n\n  * ### Navigera till Inställningar och klicka på OK\n\n  * ### Bläddra i sidled till Installation\n\nIkonen för Installation ser ut som en hammare och en skiftnyckel.\n\n  * ### Ange PIN-koden till din box. Standardpinkoden är 1234.\n\n  * ### Välj Kanalsökning och sedan Snabbsökning\n\n  * ### Klart!"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:05+00:00",
+        "last_modified": "2025-05-30T14:59:08.244374",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

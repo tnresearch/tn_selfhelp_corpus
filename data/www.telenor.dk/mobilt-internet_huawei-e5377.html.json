@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_huawei-e5377.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 629,
+                "heading": "Guide to setting up your modem",
+                "start": 0,
+                "text": "#  Sådan sætter du dit modem op\n\nSe nedenstående guide for opsætning af dit modem. Har du allerede forsøgt at\ninstallere modemet uden held, anbefaler vi at du starter med at afinstallere\ndet.\n\n  * ## Find din router på listen over trådløse netværk\n\n  * ## Indtast den medfølgende netværksnøgle\n\nFind netværksnøglen i dit velkomstbrev fra os.\n\n  * ## Automatisk forbindelse\n\nNu skal du vælge, om du fremover ønsker at oprette automatisk forbindelse til\nnetværket.\n\n  * ## Indtast pukkode og vælg ny pinkode\n\nNår du første gang starter programmet, skal du indtaste din pukkode. Herefter\nskal du vælge en personlig 4-cifret pinkode."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:17+00:00",
+        "last_modified": "2025-05-21T15:16:09.130067",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

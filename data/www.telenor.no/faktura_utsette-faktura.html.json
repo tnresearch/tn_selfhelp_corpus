@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/faktura_utsette-faktura.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 123,
+                "end": 1433,
+                "text": "# Utsette faktura\n\nNoen måneder kan være vanskeligere enn andre økonomisk sett. Du kan selv\nutsette betaling når du har behov for det, og her viser vi deg hvordan du gjør\ndet.\n\nHvis du utsetter fakturaen på Mine Sider eller i Mitt Telenor vil det påløpe\net gebyr på 70 kr på din neste faktura. Utsettelsen gjelder i 21 dager fra\ndagen du utsetter.\n\n **Unntak:**\n\n  * Det er ikke mulig å utsette samme faktura flere ganger\n\n  * Det er ikke mulig å utsette mer enn to forskjellige fakturaer samtidig\n\n  * Du kan ikke utsette den første fakturaen du får fra oss\n\n  * Faktura som er sendt til inkasso kan ikke utsettes\n\n## Slik utsetter du\n\n## Mine Sider\n\n **Slik utsetter du faktura på Mine Sider:**\n\n  1. [Logg inn på Mine Sider](https://www.telenor.no/mitt-telenor/faktura/)\n\n  2. Finn fakturaen du ønsker å utsette, og trykk på Utsett\n\n[Utsette faktura på Mine Sider](https://www.telenor.no/mitt-telenor/faktura/)\n\n## Mitt Telenor\n\n **Slik utsetter du faktura i Mitt Telenor:**\n\n  1. Åpne appen\n\n  2. Bla ned til Faktura og trykk på banneret\n\n  3. Velg så fakturaen du ønsker å utsette\n\n  4. Hvis fakturaen kan utsettes, får du opp en knapp med 'Utsett betalingen'\n\n  5. Trykk på knappen  \n\nDersom fakturaen ikke kan utsettes, får du opp en forklaring på hvorfor.\n\n[Åpne Mitt Telenor-appen](https://tlnr.no/mt)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:26+00:00",
+        "last_modified": "2025-05-30T08:25:52.032996",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

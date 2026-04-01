@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-mesh-wifi-wa8021v5_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 397,
+                "end": 5656,
+                "text": "# DNA Mesh WiFi WA8021V5 -modeemi\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-\nwifi-wa8021v5/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/wa8021v5/asetukset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/vianmaaritys) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/paivitykset)\n\nVianmääritys\n\nModeemissa ei pala mitään valoja (virtajohto on kiinni)\n\n**Mahdollinen syy:**\n\nModeemi ei saa virtaa. Muuntaja tai modeemi saattaa olla viallinen.\n\n**Korjausehdotus:**\n\nKytke virtajohto kiinni ohjekirjan mukaisesti ja tar- kista, että\npistokkeeseen tulee virtaa. Tuo muunta- ja sekä modeemi DNA Kauppaan\nvaihdettavaksi.\n\nKaikki nettiyhteydestä kertovat valot palavat, mutta nettiin ei saa yhteyttä\n\n**Mahdollinen syy:**\n\nModeemi voi olla jumittunut.\n\n**Korjausehdotus:**\n\nKytke modeemin virtajohto irti noin minuutiksi ja odota, että nettiyhteyden\ntilavalot syttyvät uudelleen. Käynnistä tietokone uudelleen. Kokeile myös\nethernet-johdolla. Voit myös resetoida laitteen.\n\nKaikki nettiyhteydestä kertovat valot palavat (Tietokone ilmoittaa ”rajoitettu\nyhteys”)\n\n**Mahdollinen syy:**\n\nModeemi ei saa yhteyttä nettiin.\n\n**Korjausehdotus:**\n\nTarkista yhteys ja liitännät. Tarkista myös tietokoneen/päätelaitteen\nasetukset (esim. internet-asetukset ja verkkokortti). Tarvittaessa resetoi\nmodeemi, kytke modeemin virtajohto irti noin minuutiksi ja odota, että valot\nsyttyvät uudelleen.\n\nKaikki nettiyhteydestä kertovat valot palavat (asetukset tarkistettu)\n\n**Mahdollinen syy:**\n\nPalomuuri saattaa estää liikenteen.\n\n**Korjausehdotus:**\n\nTarkista tietokoneen palomuurin asetukset.\n\nKaikki nettiyhteydestä kertovat valot palavat (asetukset tarkistettu, käytössä\noma yhteyttä jakava laite, esim. reititin)\n\n**Mahdollinen syy:**\n\nOma yhteyttä jakava laite on jumissa tai viallinen.\n\n**Korjausehdotus:**\n\nKytke modeemi ethernet-johdolla suoraan tietokoneeseen tai käytä modeemin\nlangatonta yhteyttä. Voit kokeilla myös modeemin asettamista siltaavaan\ntilaan. Ota yhteyttä reitittimiä tai muita lisälaitteita myyvään tahoon.\n\nLangaton verkko ei toimi\n\n**Mahdollinen syy:**\n\nJos yhteys toimii ethernet-johdolla vika on WiFi-verkossa.\n\n**Korjausehdotus:**\n\nKäynnistä modeemi uudelleen, tarkasta asetukset ja kokeile WiFi-vinkkejä\nosoitteesta: [dna.fi/tuki-wifi](http://dna.fi/tuki-wifi). Jos nämä eivät\ntoimi, ota yhteyttä asiakaspalveluun.\n\nUseamman modeemin parittaminen yhdeksi mesh-verkoksi ei onnistu\n\n**Mahdollinen syy:**\n\nEnnen useamman DNA Mesh WiFi -modeemin liittämistä mesh-verkoksi, tulee\nkäytettävän mesh-verkon nimi ja salasana vahvistaa laitteen\nhallintasivustolta. Jos et ole käynyt laitteen hallintasivustolla, ei useamman\nlaitteen paritusprosessi käynnisty normaalisti.\n\n**Korjausehdotus:**\n\nEnnen kuin aloitat useamman DNA Mesh WiFi -modeemin yhdistämisen saumattomaksi\nmesh-verkoksi, tulee sinun vahvistaa tai asettaa WiFi-verkon nimi ja salasana\nlaitteen hallintasivustolta.\n\n  * Asenna ensimmäinen DNA Mesh -modeemi [ohjeen mukaisesti](https://www.dna.fi/dna-mesh-wifi-wa8021v5-modeemi#kayttoonotto). \n    * Kun ensimmäinen DNA Mesh WiFi -modeemi on toiminnassa, kirjaudu modeemin hallintasivulle verkkoselaimella osoitteessa dna.wifi/ tai 192.168.101.1. Avautuessa hallintasivusto pyytää syöttämään oletussalasanan 1234.\n    * Kirjauduttua voit valita mesh-verkollesi haluamasi langattoman WiFi-verkon nimen (SSID) sekä salasanan. Voit myös jatkaa käyttämällä ensimmäisen DNA Mesh WiFi -modeemin oletussalasanoilla, jotka löydät laitteen pohjassa olevasta tarrasta, valitsemalla 'Ohita'.\n\nTämän jälkeen voit aloittaa useamman modeemin liittämisen toisiinsa. Voit\nkäyttää kahta tai useampaa DNA Mesh WiFi -modeemia kattavan Mesh WiFi-verkon\nmuodostamiseen:\n\n  1. Asenna ensimmäinen DNA Mesh -modeemi [ohjeen mukaisesti](https://www.dna.fi/dna-mesh-wifi-wa8021v5-modeemi#kayttoonotto).\n  2. Sijoita toinen DNA Mesh WiFi -laite (eli mesh-tukiasemana käytettävä laite) lähelle, korkeintaan 2 metrin päähän, reitittimenä käytettävää laitetta (eli ensimmäistä DNA Mesh WiFi -modeemia) ja liitä mesh-tukiasemana toimivan laitteen virtajohto pistorasiaan.\n  3. Odota noin minuutti kytkettyäsi virran mesh-tukiasemana käytettävään laitteeseen\n  4. Tarkista reitittimenä toimivan laitteen merkkivalo. Jos merkkivalo vilkkuu hitaasti, reititin on tunnistanut mesh-tukiaseman\n  5. Paina reitittimenä toimivan laitteen pariliitoksen muodostuspainiketta kerran. Kummankin DNA Mesh WiFi -laitteen merkkivalot vilkkuvat nopeasti. Odota, että mesh-tukiaseman merkkivalo alkaa palaa tasaisesti valkoisena. Tämä on merkki siitä, että pariliitos on onnistunut.\n  6. Irrota mesh-tukiasemana käytettävä laite pistorasiasta ja siirrä se paikkaan, jonne haluat langattoman yhteyden ulottuvan. Kytke laitteeseen virta. Kun merkkivalo palaa tasaisesti valkoisean, laite pystyy muodostamaan internet-yhteyden. Mita toimenpiteitä ei tarvita.\n  7. Voit lisätä useamman DNA Mesh WiFi -laitteen langattomaan mesh-verkkoon toistamalla edellä kuvatut toimenpiteet.\n\n",
+                "heading": "DNA Mesh WiFi WA8021V5 -modeemi"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:08:34+00:00",
+        "last_modified": "2025-06-20T14:56:03.725626",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

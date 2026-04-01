@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_fabriksaterstall-din-tv-box.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 738,
+                "text": "# Fabriksåterställ din tv-box\n\nTa fram fjärrkontrollen och gör sedan så här:\n\n  1. Välj Home på fjärrkontrollen och därefter Inställningar\n  2. Välj Systeminställningar och sedan Fabriksåterställning\n  3. Välj Återställ användarinställningar\n  4. Nu ser du denna text: \"Alla kanaler och schemaläggningar kommer att raderas. Alla användarinställningar kommer att återställas till fabriksåterställningar. Fortsätta?\". Välj JA.\n  5. Ange ditt lösenord om du vill fortsätta. Standardlösenordet är 0000.\n  6. Boxen startar om. Följ instruktionerna på tv-skärmen.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:24+00:00",
+        "last_modified": "2025-05-30T17:40:25.983625",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

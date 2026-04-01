@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter-b818_foreldrekontroll.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 257,
+                "end": 1098,
+                "text": "# Foreldrekontroll\n\nHer finner du informasjon om hvordan du setter opp regler for foreldrekontroll\ni din Huawei B818-ruter\n\n## Logg inn på ruteren\n\n  1. Sjekk at du er koblet til ditt hjemmenettverk\n\n  2. Åpne en nettleser og skriv inn http://192.168.1.1 i adressefeltet, og trykk enter.\n\n  3. Skriv inn ditt passord\n\n  4. Passordet er det samme som ditt opprinnelige trådløse passord. Du finner det på klistrelappen på baksiden av ruteren etter **WIFI**.   \n**Merk:** Har du selv endret passordet til menyen, skriver du inn det du selv\nhar valgt.\n\n## Sette opp regler\n\n  1. Trykk på **Verktøy**\n\n  2. Velg **Foreldrekontroll** i menyen til venstre\n\n  3. Trykk på **pluss-tegnet** for å sette opp regler\n\n  4. Fyll inn ønsket tidsintervall (F.eks. 21:00 til 07:00), man-fre\n\n  5. Huk av for enhetene regelen skal gjelde for, og trykk **OK**."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:38+00:00",
+        "last_modified": "2025-05-30T09:02:50.743776",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

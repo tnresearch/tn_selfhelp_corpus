@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-4g-mf823_vianrajaus.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 371,
+                "end": 2295,
+                "text": "# DNA Mokkula 4G MF823\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf823/vianrajaus)\n\n##  Viarajaus\n\nTietokone ei löydä mokkulaa\n\nIrroita mokkula ja käynnistä tietokone uudestaan. Kiinnitä mokkula samaan\nporttiin kuin aiemmin. Jos mokkulaa ei vieläkään löydy, kokeile toista USB-\nporttia.\n\nIrroita mokkula koneesta ja poista yhteysohjelmat koneelta (Windows\nlisää/poista -toiminto). Käynnistä kone uudelleen. Kytke mokkula uudestaan\nkoneeseen ja asenna sen yhteysohjelma uudelleen.\n\nEn saa muodostettua nettiyhteyttä mokkulalla\n\nVarmista, että olet peittoalueella. Jos käytät kiinteää laajakaistaa\nlangattomalla reitittimellä, sulje langaton verkko, kun haluat käyttää\nmobiililaajakaistaa.\n\nYhteys vaihtelee 2G-, 3G- ja 4G-verkkojen välillä\n\nMokkulan hallintasivustolla (http://192.168.0.1) voit lukita mokkulasi\ntiettyyn verkkoon (voit tehdä tämän vain, kun mokkula ei ole kytketty\ntietokoneeseen):\n\nValitse **Yhteys** ja sen jälkeen **Verkon valinta** vasemmalla olevasta\nvalikosta. Saat seuraavat vaihtoehdot: **4G Mieluummin, Vain 4G, Vain 3G, Vain\n2G**. Kun olet valinnut jonkin näistä, napsauta Käytä-painiketta.\n\nJos laajakaistan nopeus ei vaikuta parhaalta mahdolliselta\n\nVoit parantaa nettiyhteyttä sijoittamalla mokkula mahdollisimman lähelle\nikkunaa (käytä tarvittaessa USB-jatkojohtoa) tai käyttämällä ulkoista\nTS9-antennia.\n\nKatso [sivuiltamme](https://www.dna.fi/kuuluvuus-ja-peittoalueet) missä\npeittoalue on parhaimmillaan ja millaisia nopeuksia voit odottaa.\n\n",
+                "heading": "DNA Mokkula 4G MF823"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:47+00:00",
+        "last_modified": "2025-06-20T19:10:58.107901",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

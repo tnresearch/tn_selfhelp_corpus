@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_kaapeli_dna-valokuitu-plus-f-3890v3_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 403,
+                "end": 3223,
+                "text": "# DNA Kaapelimodeemi F-3890v3\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-\nvalokuitu-plus-f-3890v3/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-valokuitu-\nplus-f-3890v3/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-valokuitu-\nplus-f-3890v3/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-valokuitu-\nplus-f-3890v3/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/dna-valokuitu-\nplus-f-3890v3/vianmaaritys)\n\n##  Vianmääritys\n\nModeemin merkkivalot ovat pimeinä, vaikka virtajohto on kiinni\n\nModeemi ei saa virtaa. Muuntaja tai itse modeemi on mahdollisesti viallinen.  \nVarmista, että virtajohto on kiinnitetty ohjeiden mukaisesti ja että\npistorasiaan tulee virtaa. Jos ongelma ei ratkea, tuo muuntaja sekä modeemi\nDNA Kauppaan vaihdettavaksi.  \n\nKaikki nettiyhteyden merkkivalot palavat, mutta nettiin ei pääse\n\nModeemi saattaa olla jumittunut.  \nIrrota modeemin virtajohto noin minuutin ajaksi. Kiinnitä se uudestaan ja\nkäynnistä modeemi. Odota että merkkivalot syttyvät ja kokeile toimiiko yhteys.\nKokeile myös käynnistää tietokoneesi uudestaan, tai koeta yhdistää se\nmodeemiin Ethernet-johdolla.  \n\nKaikki nettiyhteyden merkkivalot palavat, mutta tietokone antaa ilmoituksen\n”Rajoitettu yhteys”\n\nModeemi ei saa yhteyttä nettiin.  \nTarkista yhteys ja että kaikki liitännät ovat oikein kiinni. Varmista myös,\nettä tietokoneen tai muun nettiin yhdistettävän laitteen nettiasetukset ovat\nkunnossa. Tarvittaessa palauta modeemin tehdasasetukset, irrota virtajohto\nnoin minuutiksi ja kokeile sen jälkeen käynnistää se uudelleen.  \n\nNetti katkeilee\n\nNetin katkeilu voi johtua useista eri syistä. Kokeile seuraavia keinoja\nselvittääksesi, onko syy katkeiluun modeemissa:\n\n  * Kytke yhdistettävä laite modeemiin Ethernet-johdolla.\n  * Palauta modeemin tehdasasetukset.\n  * Tarkasta kaikkien johtojen, antennirasian sekä pistorasian kunto.\n  * Tarkista tietokoneesi sekä muiden laitteiden asetukset.\n  * Soita DNA:n asiakaspalveluun ja tarkista linja-arvot.\n  * Varmista myös, että ilma pääsee kiertämään hyvin modeemin ympärillä.  \n\nKaikki nettiyhteyden merkkivalot palavat erillistä reititintä käytettäessä\n\nReititin tai muu käytössä oleva yhteyttä jakava laite on mahdollisesti\njumissa, tai viallinen.  \nYhdistä modeemi Ethernet-johdolla suoraan tietokoneeseen, tai käytä langatonta\nWiFiä. Ota yhteyttä reitittimen valmistajaan tai myyjään selvittääksesi\nmahdollisen siihen liittyvän vian.  \n\nWiFi ei toimi\n\nJos netti toimii Ethernet-kaapelilla, mutta ei langattomasti, on vika WiFi-\nverkossa.  \nKäynnistä modeemi uudelleen, tarkasta asetukset ja kokeile [WiFi-\nvinkkejä](http://dna.fi/tuki-wifi). Mikäli ongelma ei ratkea, ota yhteyttä\nasiakaspalveluun.  \n\n",
+                "heading": "DNA Kaapelimodeemi F-3890v3"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:08:27+00:00",
+        "last_modified": "2025-06-20T18:47:39.332683",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

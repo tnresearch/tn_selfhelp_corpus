@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/puhelinliittymat_aktivointi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 163,
+                "end": 3597,
+                "text": "# Puhelinliittymän aktivointi\n\nPostin toimipisteestä, DNA Kaupasta tai DNA:n jälleenmyyjän myymälästä\nnoudettua liittymää **ei tarvitse aktivoida erikseen** , vaan liittymä on heti\nkäyttövalmis.\n\nSuoraan kotiin toimitettujen tuotteiden ja palveluiden sopimukset aktivoituvat\nautomaattisesti käyttövalmiiksi viimeistään tunnin kuluttua Postin\nseurantakoodin sisältävän lähetyksen vastaanottamisen jälkeen.\n\nMuussa tapauksessa tilaus täytyy aktivoida osoitteessa:\n[aktivoi.dna.fi](http://aktivoi.dna.fi)\n\n## Näin aktivoit liittymän\n\n  * Aktivointiin tarvitset henkilökohtaiset verkkopankkitunnuksesi tai mobiilivarmenteen. Tilausnumeron löydät sähköpostitse tai postilla lähetetystä tilausvahvistuksesta. Saat tilausnumeron myös tekstiviestinä heti, kun tilaus on valmis aktivoitavaksi.\n  * Yritysasiakkaana aktivoinnin voi tehdä vain tilauksen tekijä henkilökohtaisilla verkkopankkitunnuksilla. Saat lisäohjeita aktivointia tehdessäsi.\n\n[Siirry aktivointiin](https://aktivoi.dna.fi/)\n\n## Liittymän asetukset ja käyttäminen\n\nUseimmissa laitteissa on automaattisesti oikeat asetukset. Tarvittaessa voit\ntilata asetukset viestinä tai määrittää ne manuaalisesti:\n\n  * Tilaa kaikki asetukset tekstiviestillä. Lähetä tekstiviesti ASETUKSET numeroon 14 000\n  * Tilaa multimedia- eli MMS-asetukset tekstiviestillä. Lähetä tekstiviesti ASETUKSET MMS numeroon 14 000\n  * Tallenna asetukset manuaalisesti\n\n#### Liittymän manuaaliset asetukset\n\nMMS-asetukset\n\nNimi | DNA MMS  \n---|---  \nYhteyspiste / Yhteysosoite (APN) | mms  \nVälityspalvelin | Ei asetettu  \nPortti | Ei asetettu  \nKäyttäjänimi / Käyttäjätunnus | Ei asetettu  \nSalasana | Ei asetettu  \nPalvelin | Ei asetettu  \nAloitussivu / Kotisivu / MMSC (URL) | http://mmsc.dna.fi  \nMMS-välityspalvelimen osoite / WAP-yhdyskäytävän osoite | 10.1.1.2  \nPortti (MMSC, välitysportti & WAP-yhdyskäytävän portti) | 8080  \nMCC (Matkapuhelimen maakoodi) | 244  \nMNC (Matkapuhelinverkon koodi) | 12  \nTodennustapa | Ei asetettu  \nAPN-tyyppi | mms  \nProtokolla / IP-tyyppi | IPv4  \nYhteystapa | Määrittelemätön  \n  \nInternet-asetukset\n\nNimi | DNA Internet  \n---|---  \nYhteyspiste (APN) | internet  \nVälityspalvelin | Ei asetettu  \nPortti | Ei asetettu  \nKäyttäjänimi | Ei asetettu  \nSalasana | Ei asetettu  \nPalvelin | Ei asetettu  \nMMSC | Ei asetettu  \nMMS-välityspalvelin | Ei asetettu  \nMMS-portti | Ei asetettu  \nMCC | 244  \nMNC | 12  \nTodennustapa | PAP  \nAPN-tyyppi | internet  \n  \nSMS-asetukset\n\nSanomakeskuksen numero: | +358 44 798 3500  \n---|---  \n  \n## Aktivointi eri palveluissa\n\nPuhelinliittymät\n\nMikäli tilasit uuden liittymänumeron, se on käyttövalmis heti aktivoinnin\njälkeen ja voit vaihtaa uuden SIM-kortin laitteeseen.\n\nMikäli olet siirtämässä puhelinliittymääsi toiselta operaattorilta, lähetämme\naktivoinnin jälkeen tekstiviestin, jossa kerromme, milloin liittymä on\nkäyttövalmis. Vaihda uusi SIM-kortti laitteeseen vasta sen jälkeen.\n\nNettiliittymät\n\nMikäli tilasit uuden nettiliittymän, se on käyttövalmis heti aktivoinnin\njälkeen ja voit vaihtaa uuden SIM-kortin laitteeseen.\n\nMuut palvelut\n\n#### DNA Digiturva\n\nMikäli tilasit DNA Digiturvan, saat aktivoinnin jälkeen asennuslinkin\ntekstiviestillä tai sähköpostilla. [Lue ohjeet\nkäyttöönottoon](https://www.dna.fi/tuki-tietoturva).\n\n#### Deezer Premium ja Deezer Family -musiikkipalvelu\n\nAktivoinnin jälkeen saat Deezer-käyttäjätunnukset ja käyttöönotto-ohjeet\nsähköpostisoitteeseen, jonka annoit liittymätilausta tehdessäsi.\n\n",
+                "heading": "Puhelinliittymän aktivointi"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:48+00:00",
+        "last_modified": "2025-06-20T19:19:21.144084",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_kop-och-forlangning_nar-far-jag-min-leverans.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 257,
+                "end": 1817,
+                "text": "# När får jag min leverans?\n\nLeveranstiderna varierar beroende på produkt.\n\n### Mobiltelefon, mobilt bredband och hemtelefoni\n\nOm produkterna du beställt finns på lager är leveranstiden 1-3 arbetsdagar. Om\nde inte finns på lager levereras produkterna vanligtvis inom 1-3 veckor.\nLeveranstiden för hemtelefoni via bredband är normalt 3-5 veckor.\n\n### Bredband via fiber\n\nI de allra flesta fall kan du aktivera din bredbandstjänst via fiber direkt\nmed ditt personnummer eller med uppgifterna vi skickar till dig via SMS.\nObservera dock att du förverkar din ångerrätt på 14 dagar om du väljer att\naktivera tjänsten innan ångerperioden har gått ut. I vissa fall där Telenor\ninte har ensamrätt på bredband kan det ta upp till 10 arbetsdagar innan du kan\nbörja använda tjänsten.\n\n### TV\n\nLeveranstiden från beställning är 5-10 dagar.\n\nSå här går det till:  \nI samband med leveransen kommer din bredbandsuppkoppling justeras för att\nstödja tv. En HD-box, fjärrkontroll, HDMI-kabel, nätverkskabel samt i enstaka\nfall nytt DSL-modem kommer skickas ut till dig. Ett programkort skickas även\nseparat.\n\nFör dig som har bredband via telejacket (DSL) kommer en av modemets portar att\nkonfigureras om (denna indikeras antingen med en färgmarkering direkt på\nmodemets port eller står noterad i modemets medföljande manual). Den kommer\ndärefter bara fungera för HD-boxen, inte för en vanlig dator. Har du en dator\nansluten där idag, flytta den till en annan port, till exempel 3X eller 4X\n(det kan ta upp till 30 min innan uppkoppling börjar fungera efter att du\nbyter port).\n\n",
+                "heading": "När får jag min leverans?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:20+00:00",
+        "last_modified": "2025-05-30T17:45:43.716227",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-kytkin-tl-sg-108_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 393,
+                "end": 2143,
+                "text": "# DNA Kytkin TL-SG108\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nkytkin-tl-sg-108/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-kytkin-tl-\nsg-108/kayttoonotto)\n\n## Käyttöönotto\n\nKytkinkaappiin laitettava DNA Kytkin TL-SG108 antaa mahdollisuuden jakaa\nnettiyhteys ja sisäverkko huoneiston kaikkiin ethernet-pistorasioihin.\nKytkimen lisäksi tarvitset WiFi-modeemin, jolla luot WiFi:n ja sisäverkon.Tämä\npikaohje opastaa kytkimen asennuksessa kytkinkaappiin. Voit käyttää kytkintä\nmyös ilman kytkinkaappia WiFi-modeemin ethernet-porttien määrän\nkasvattamiseen. WiFi-modeemin ohjeet löydät ko. laitteen mukana tulevista\nohjeista.\n\n### Kytkimen asennus kytkinkaappiin\n\nAseta kytkin kytkinkaappiin tai sen läheisyyteen. Kytkinkaappi löytyy yleensä\nhuoneiston eteisestä tai kellarista.\n\nAsenna WiFi-modeemi huoneeseen, jossa on paras WiFi-kuuluvuus. Vie modeemin\nWAN-portista ethernet-johto huoneen seinärasiaan (kuvassa 1.2). Siirry\nkytkinkaapille ja tuo nettiyhteys modeemille yhdistämällä asunnon netin tulo\n(kuvassa NOUSU 1) ethernet-johdolla siihen huoneeseen, mihin sijoitit WiFi-\nmodeemin (kuvassa HUONE 1.2).\n\nNyt WiFi ja netti toimivat. Seuraavaksi viedään netti huoneiston muihin\nethernet-rasioihin. Yhdistä ensin mikä tahansa modeemin LAN-porteista\nethernet-johdolla samaisen huoneen ethernet-rasiaan (kuvassa 1.1).\n\nKytke kytkinkaapista WiFi-modeemilta tuleva portti (kuvassa HUONE 1.1)\nkytkimen mihin tahansa LAN-porttiin.\n\nValitse ne huoneet, joihin netti viedään ethernet-johdolla. Kuvassa netti on\nviety huoneen kaksi molempiin liittymiin (HUONE 2.1 ja 2.2). Netti toimii\nWiFi-modeemin kautta langattomasti sekä kytkimen avulla jokaisen huoneen\nethernet-rasian kautta.\n\n",
+                "heading": "DNA Kytkin TL-SG108"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:21+00:00",
+        "last_modified": "2025-06-20T14:53:21.904027",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

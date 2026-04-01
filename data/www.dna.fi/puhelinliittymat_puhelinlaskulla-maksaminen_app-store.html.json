@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/puhelinliittymat_puhelinlaskulla-maksaminen_app-store.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 263,
+                "end": 2435,
+                "text": "# App Store- ja iTunes Store -sovelluskaupoissa tekemäsi ostosten maksaminen\npuhelinlaskulla\n\n## Tee näin:\n\n  1. Avaa iPhonesta \"Asetukset\" ja klikkaa Apple ID:täsi.\n  2. Valitse \"Maksu ja toimitus\" ja kirjaudu sisään Apple ID:lläsi.\n  3. Valitse \"Lisää maksutapa\" ja \"Matkapuhelin\".\n\nValmista! Saat ostoksista tilausvahvistuksen sähköpostitse. Tilausvahvistus\nlähetetään Apple ID -tilisi sähköpostiosoitteeseen.\n\nTarkemmat ohjeet maksutapojen muuttamisesta, lisäämisestä tai poistamisesta\nlöydät [Applen tukisivuilta](https://support.apple.com/fi-fi/HT201266).\n\n### Viihteen maailma. Maksa helposti.\n\nVoit käyttää DNA:n liittymääsi App Store-, Apple Music-, iTunes- ja iBooks-\nostojen maksamiseen. Se on turvallinen ja helppo tapa maksaa\nsuosikkiviihteestäsi.\n\n##  Usein kysytyt kysymykset\n\nMitä palvelulla voi tehdä?\n\nVoit maksaa App Store, iTunes, iBooks ja Apple Music -palveluissa tekemäsi\nostokset DNA:n puhelinlaskulla tai DNA:n prepaid-liittymän saldolla.\nHuomaathan, että palvelu ei toimi liikkuvan laajakaistan liittymissä ml.\ndataprepaid-liittymät.\n\nMiten maksutavan voi ottaa käyttöön?\n\nMaksutavan voi lisätä palveluiden maksuasetuksista, esim. App Storessa.\nTarkemmat ohjeet löytyvät ylempänä sivulla.\n\nMissä laitteissa palvelu toimii?\n\nMaksutapa toimii iPhone, iPad ja iPod touch laitteissa, joissa on iOS 7.0 tai\nuudempi käyttöjärjestelmä sekä iTunesin Mac ja Windows-versioissa. Maksutavan\nlisäämisen jälkeen sitä voi käyttää myös Apple TV ja Apple Watch –laitteissa.\n\nOnko palvelussa käyttörajaa?\n\nOletuskäyttöraja lisäarvopalveluostoille on puhelinliittymissä 150 €/kk,\nmaksimikertaostos 50 €. Saat kaikista ostoksista tilausvahvistuksen\nsähköpostitse Apple-tiliisi liitettyyn sähköpostiosoitteeseen.\n\nMiten voin estää ostot liittymässäni?\n\nVoit estää operaattorilaskuostokset sovelluskaupoissa P3- tai sitä tiukemmalla\nviestiestolla (ajanviete- ja aikuisviihde-estopalvelut). Lue lisää\nrajoituksista ja estoista [täällä](https://www.dna.fi/rajoitukset-ja-estot).\n\nMinua on laskutettu virheellisesti. Mihin voin olla yhteydessä?\n\nMahdolliset reklamaatiot ostoksista onnistuvat sivun\n[https://getsupport.apple.com](https://getsupport.apple.com/) kautta.\n\n",
+                "heading": "App Store- ja iTunes Store -sovelluskaupoissa tekemäsi ostosten maksaminen"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:30+00:00",
+        "last_modified": "2025-06-20T19:20:10.225270",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

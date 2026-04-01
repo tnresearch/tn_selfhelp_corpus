@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_kaon-kabelmodem.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 190,
+                "end": 1896,
+                "text": "# Hjelp til KAON Modem (VM3000G)\n\n## KAON Modem (VM3000G)\n\nDette modemet takler de høyeste hastighetene vi kan tilby og er optimalt for å\noppnå det beste resultatet ved streaming av 4K Ultra HD-video og VR-gaming.\n\n### Oppkobling KAON\n\nHer finner du hjelp og veiledning for oppkobling av modemet.\n\n[Koble opp modem ➜](/kundeservice/internett/modem-og-ruter/koble-kabelmodem/)\n\n  * #### Lampestatus\n\n.\n\n **POWER:**\n\n    * Ingen lys - Ikke tilkoblet strøm\n\n    * Stabilt blå lampe - Tilkoblet strøm\n\n **DS (Downstream)**\n\n    * Ingen lys - Ingen signalforbindelse\n\n    * Blinker grønt - Søker etter frekvens\n\n    * Stabilt grønt - Signalforbindelse OK\n\n **US (Upstream)**\n\n    * Ingen lys - Ingen signalforbindelse\n\n    * Blinker grønt - Søker etter frekvens\n\n    * Stabilt grønt - Signalforbindelse OK\n\n **ONLINE:**\n\n    * Ingen lys - Ikke tilkoblet internett\n\n    * Blinker grønt - Kobler til internett\n\n    * Stabilt grønt - Tilkoblet internett\n\n **ETHERNET:**\n\n    * Ingen lys - Ingen forbindelse til annet utstyr\n\n    * Stabilt grønt - Forbindelse ok  \n  \n---  \n  \n  * #### Nullstille modem\n\n    1. Modem skal være tilkoblet strøm\n\n    2. Finn noe tynt som f.eks en kulepenn/binders\n\n    3. Trykk inn knappen i hullet markert RESET\n\n    4. Hold inne knappen i 5 sekunder\n\n    5. Modemet vil restarte automatisk.\n\n _NB: Lampene vil blinke en stund før de stabiliseres._\n\n## Opplever du problemer med Internett?\n\nSvært mange problemer løses ved at man skrur utstyret av og på. Opplever du\nlikevel problemer, kan vi hjelpe deg med veiledninger for de vanligste\nproblemstillingene - Tregt, ustabilt eller manglende nett\n\n[Løs problemer med\nbredbånd](https://www.telenor.no/kundeservice/internett/problemer/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:47+00:00",
+        "last_modified": "2025-05-30T08:52:14.972439",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

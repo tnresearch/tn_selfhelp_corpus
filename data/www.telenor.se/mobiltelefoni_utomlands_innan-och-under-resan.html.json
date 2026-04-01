@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands_innan-och-under-resan.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 348,
+                "end": 4410,
+                "text": "# Innan och under din resa\n\n## Här hittar du information som kan vara bra att ha – både innan du reser,\noch när du är utomlands. Trevlig resa!\n\n## Innan resan\n\n  * [ Automatisk saldospärr för surf  ](/support/mobiltelefoni/utomlands/innan-och-under-resan/innan-resan/automatisk-saldosparr-for-surf/)\n  * [ Få utlandspriser som sms  ](/support/mobiltelefoni/utomlands/innan-och-under-resan/innan-resan/fa-utlandspriser-som-sms/)\n  * [ Surfpaket – fast pris för surfen  ](/support/mobiltelefoni/utomlands/innan-och-under-resan/innan-resan/surfpaket-fast-pris-for-surfen/)\n  * [ Priser när du reser inom och utanför EU/EES  ](/roaming/)\n\n## Så surfar du utomlands...\n\n  * [ ...med iPhone  ](/support/mobiltelefoni/guider/andra-installningar/valj-mobil/iphone/aktivera-inaktivera-roaming/)\n  * [ ...med Samsung-mobil  ](/support/mobiltelefoni/guider/andra-installningar/valj-mobil/android/aktivera-inaktivera-roaming/)\n  * [ ...med Sony-mobil  ](/support/mobiltelefoni/guider/andra-installningar/valj-mobil/android/aktivera-inaktivera-roaming/)\n\n## Under resan\n\n  * [ Använd landsnummer när du ska ringa  ](/support/mobiltelefoni/utomlands/innan-och-under-resan/under-resan/anvand-landsnummer-nar-du-ska-ringa/)\n  * [ Köpa extra surf  ](/support/mobiltelefoni/abonnemang/surf/kop-extra-surf/)\n  * [ Om du inte kan surfa  ](/support/mobiltelefoni/guider/problemlosning-och-felsokning/felsokning/felsokning-surf/)\n  * [ Om du inte kan ringa  ](/support/vanliga-fragor/utomlands/jag-kan-inte-ringa-utomlands.-vad-gor-jag/)\n\n## Bra att veta\n\n  * [ Vad är roaming?  ](/support/mobiltelefoni/utomlands/vad-ar-roaming/)\n  * [ Så fungerar Röstbrevlådan utomlands  ](/support/mobiltelefoni/utomlands/innan-och-under-resan/bra-att-veta/sa-fungerar-rostbrevladan-utomlands/)\n\n## Vanliga frågor om vad som gäller utomlands\n\n  * Vad gäller när jag reser inom EU/EES?\n\nNär du reser i [länder som ingår i\nEU/EES](/link/47f42c4a02df4e3c8ea6d8a800c339a5.aspx) kan du surfa, ringa och\nmms:a till samma kostnad som hemma. Det gäller för våra abonnemang samt för\nvåra kontantkort.\n\nHar du kontantkort kan du använda all surf du har laddat på med.\n\nMed våra abonnemang kan du använda all din surf på din resa inom EU/EES. Har\ndu obegränsad surf kan du använda max 100 GB/månad.\n\nSka du vara borta en längre tid och vet att du kommer använda ditt abonnemang\nmer i utlandet än i Sverige under denna period? Då bör du läsa mer i våra\n[särskilda villkor.](/link/750c93522f4e4c5cb65e1efb9d7c9518.aspx)\n\n  * Hur mycket av min surfpott kan jag använda utomlands?\n\nDu kan använda hela din surfmängd inom EU/EES samt i Thailand, Malaysia,\nMyanmar (Burma), USA, Schweiz, Storbritannien (inkl. Gibraltar), Turkiet,\nAndorra, Serbien och Montenegro. Om du har obegränsad surf kan du använda 100\nGB.\n\n  * Fungerar mitt kontantkort utanför Sverige?\n\nVåra kontantkort fungerar i de allra flesta länder. Reser du inom EU/EES så\nfungerar ditt kontantkort precis likadant som hemma. För att ditt kontantkort\nska fungera i utlandet måste du först ha ringt med det i Sverige.\n\n[Läs mer om vad som gäller i det land du besöker\nhär](/link/a728a2eee9b24f87867517e059303cae.aspx).\n\n  * Vad kostar det att använda kontantkortet i utlandet?\n\nReser du inom EU/EES så kostar det som hemma. Reser du utanför EU/EES [ser du\nhär](/link/a728a2eee9b24f87867517e059303cae.aspx) vad det kostar. Reser du\nutanför EU/EES måste du ladda på med Extrasaldo. För att ditt kontantkort ska\nfungera i utlandet måste du först ha ringt med det i Sverige.\n\n  * I vilka länder ingår surf, samtal och sms/mms?\n\nSamtal, sms/mms och hela eller delar av din surf ingår i [länderna inom\nEU/EES](/link/47f42c4a02df4e3c8ea6d8a800c339a5.aspx). Priser för [samtal från\nSverige till andra länder hittar du\nhär](/link/6149e35098254a5e945467a22d4f5872.aspx).\n\nI våra abonnemang ingår även surf i Thailand, Malaysia, Myanmar (Burma), USA,\nTurkiet, Schweiz, Storbritannien (inkl. Gibraltar), Andorra, Serbien och\nMontenegro.\n\n**Tips!** Logga in i appen [Mitt\nTelenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx) så hittar du allt om\nditt abonnemang."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:20+00:00",
+        "last_modified": "2025-05-30T14:52:24.182013",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

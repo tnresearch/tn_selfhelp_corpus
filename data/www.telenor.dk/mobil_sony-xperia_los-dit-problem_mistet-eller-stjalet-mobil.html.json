@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_sony-xperia_los-dit-problem_mistet-eller-stjalet-mobil.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1501,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Har du mistet din mobil\n\nHvis du har mistet din mobil, skal du [kontakte os](/kundeservice/kontakt/)\neller [henvende dig i din nærmeste Telenor-butik](/find-butik/). Vi spærrer\nstraks dit simkort, så ingen kan misbruge dit mobilabonnement. Det er muligt\nat få lukket sin mobil 24 timer i døgnet.\n\nI en Telenor-butik kan du få nyt simkort med det samme. Bestiller du et nyt\nsimkort via kundeservice, sender vi det med posten samme dag.\n\n**Godt at vide**\n\n  * Når du spærrer dit simkort, spærrer du ikke dit mobilabonnement. Du betaler abonnement, mens du venter på dit nye simkort.\n  * Spærrer du dit simkort på en hverdag, ringer vi til dig inden for 24 timer, så vi evt. kan hjælpe dig videre. Vi kan fx sende dig en kopi af din købskvittering.\n  * Finder du din mobil igen, kan du få genåbnet dit simkort i en af vores butikker eller ved at [kontakte os](/kundeservice/kontakt/).\n  * Du kan også spærre dit simkort via [Mit Telenor App](/mit-telenor/)\n\n## Er din mobil blevet stjålet?\n\n**Anmeld tyveriet til politiet  \n**[Her](https://politi.dk/da/tyveri-og-haervaerk/anmeld-tyveri-af-genstande\n\"Her\") kan du anmelde tyveriet direkte til politiet.\n\n**Anmeld tyveri til dit forsikringsselskab  \n** Når du anmelder tyveriet til dit forsikringsselskab, vil de som regel bede\nom:\n\n  * Dit policenummer\n  * Kvittering på politianmeldelse\n  * Kvittering på mobil\n  * Beskrivelse af mærke og model\n\nHar du købt din mobil hos Telenor, kan kundeservice hjælpe dig med at skaffe\nkopi af din købskvittering."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:53+00:00",
+        "last_modified": "2025-05-21T15:16:04.060551",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

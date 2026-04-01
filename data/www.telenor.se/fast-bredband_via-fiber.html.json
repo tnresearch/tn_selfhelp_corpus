@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_via-fiber.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 284,
+                "end": 3456,
+                "text": "# Fast bredband via fiber\n\n##\n\n## Kom igång\n\n  * [ Kom igång med ditt bredband  ](/support/fast-bredband/surfa-nu/)\n\n## Felsökning\n\n  * [ Felsök ditt bredband  ](/support/fast-bredband/surfa-nu/dags-att-felsoka/)\n  * [ Problem med hastigheten  ](/support/fast-bredband/via-fiber/felsokning/problem-med-hastigheten/)\n\n## Wifi\n\n  * [ Anslut till wifi via iPhone och iPad  ](/support/fast-bredband/via-fiber/wifi/anslut-till-wifi-via-iphone-och-ipad/)\n\n## Vanliga frågor om bredband via fiber\n\n  * Jag har dålig wifi-täckning hemma. Vad kan jag göra?\n\nUpplever du långsam uppkoppling via wifi? Ett internet segt som kola kanske?\nOroa dig inte, vi har en massa tips om du förbättrar ditt wifi. [Ta del av\nvåra tips.](/link/6d7579d239554cad8afcbf7a96af8e5d.aspx)\n\nHur du bor kan påverka täckningen. Många rum och tjocka väggar kan vara boven\ni dramat. En wifi-förstärkare kan lösa problemen. [Läs mer om vår wifi-\nförstärkare](/link/4e49ec2c016f4f30884a0d1f65e0922e.aspx).  \n  \n **Helt ny bredbandskund?** [Här finns\nhjälp](/link/a481b520caa74fa78c97823e1292d558.aspx)\n\n  * Jag surfar långsammare med wifi än med kabel – varför?\n\nGenerellt är trådlös anslutning långsammare än att ansluta med nätverkskabel.\nSignalerna i kabel går fortare, helt enkelt. Om det är viktigt för att dig att\nfå ut maximal hastighet, till exempel vid nedladdning av stora filer, så ska\ndu ansluta via kabel. Behöver du hjälp med att dra kabel? [Läs mer om\nDigihjälpen.](/link/76e6e1c84e1e45b0b9a123f0341ba70e.aspx)\n\n  * Jag kommer inte ut på nätet/hastigheten är långsammare än normalt, varför?\n\n### Via mobil\n\nUpplever du att du inte kan gå ut på nätet, eller att hastigheten blivit\nlångsammare än normalt, till exempel för ditt extra-sim? Kolla in våra [guider\n](/link/29a70e508a4d4e4f83a89b641f56f994.aspx)för de olika mobiltelefoner.\n\nOm du är uppkopplad på wifi via bredband från oss kan du gå igenom [vår\nfelsökningsguide här](/link/949c942f7e5648dc92ecbba4e3c7056f.aspx).\n\n### Via bredband\n\nAnvänd våra [felsökningsguider för bredband\n](/link/949c942f7e5648dc92ecbba4e3c7056f.aspx)för att ta reda på vad som är\nfel och vad lösningen på problemet är.\n\nDu kan enkelt kontrollera din bredbandshastighet på[\n](http://bradbandskollen.se)[bredbandskollen.se.](http://bredbandskollen.se)\nDär finns också en komplett guide som Post- och Telestyrelsen (PTS) har tagit\nfram över vad som kan påverka din hastighet negativt.  \n  \n**Helt ny bredbandskund?** [Här finns\nhjälp](/link/a481b520caa74fa78c97823e1292d558.aspx)\n\n  * Hur vet jag att det är Telenor som ringer på hemma hos mig?\n\nDet kan du läsa om på vår [säkerhetssida, under rubriken\nDörrförsäljning](/link/07ce73e097bd43b0a62b139ddb01ce79.aspx#dorrforsaljning).\n\n  * Hur vet jag att det är Telenor som ringer?\n\nDet kan du läsa om på vår sida om [kundkontakt, under rubriken\n\"Telefonförsäljning\"](/link/07ce73e097bd43b0a62b139ddb01ce79.aspx#telefonforsaljning)\n\n  * Kan jag få hjälp med bredbandsinstallationen?\n\nAbsolut! På telenor.se/surfa-nu får du hjälp oavsett om du just packat upp\nroutern ur lådan, eller redan kommit en bit och undrar varför det inte\nfungerar.  \n  \n[Till telenor.se/surfa-nu](/link/a481b520caa74fa78c97823e1292d558.aspx)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:42+00:00",
+        "last_modified": "2025-05-30T14:12:22.766910",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

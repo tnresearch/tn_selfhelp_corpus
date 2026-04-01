@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_felsokning_kolla-om-du-har-last-dig-till-3g-natet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1010,
+                "heading": "Instructions for switching to 4G network on iPhone and Android",
+                "start": 180,
+                "text": "# Kolla om du har låst dig till 3G-nätet\n\nGenom att växla till 4G kan du ansluta till internet snabbare än med 3G på din\nmobiltelefon. Här ser du hur du byter till 4G-nätverket på din enhet.\n\n###\n\nSå här växlar du till 4G på din iPhone\n\n  1. Gå till startskärmen.\n  2. Välj **Inställningar**.\n  3. Välj **Mobilnät**.\n  4. Välj **Alternativ för mobildata**.\n  5. Välj **Röst och data**.\n  6. Välj **4G**.\n\nDin iPhone har nu konfigurerats för 4G nätverk.\n\nSå här växlar du till 4G på din Android-telefon\n\n  1. Gå till startskärmen.\n  2. För att öppna menyn, svep uppåt på skärmen.\n  3. Välj **Inställningar**.\n  4. Skrolla ned.\n  5. Välj **Anslutningar**.\n  6. Välj **Mobilnätverk**.\n  7. Välj ett alternativ, i det här fallet **Nätläge SIM 1**.\n  8. Välj **4G/3G/2G (autoanslut)**.\n\nDin Android har nu konfigurerats för 4G nätverk."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:36+00:00",
+        "last_modified": "2025-05-30T14:44:38.064269",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

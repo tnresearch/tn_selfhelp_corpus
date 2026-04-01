@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_ipad_kan-du-ikke-komme-pa-nettet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1653,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Kan du ikke komme på nettet med din iPad?\n\nHar du haft problemer med at komme online på din iPad via mobilt bredbånd, kan\ndet skyldes, at der er ringe eller ingen dækning i området.\n\n[Tjek vores dækningskort](/kundeservice/drift-og-dakning/dakning/dakningskort/\n\"Dækningskort\")\n\n**Er der dækning i området, prøv at:**\n\n  * Genstarte din iPad\n  * Tjek om der er midlertidige [driftsproblemer](/kundeservice/drift-og-dakning/driftstatus/tjek-driftstatus/ \"Driftstatus\") med mobilnetværket.\n  * Står der ikke \"Telenor DK\" i øverste venstre hjørne af skærmen, er simkortet sandsynligvis defekt. [Kontakt os](/kundeservice/kontakt/) og få et nyt simkort tilsendt med posten – eller kig ned i [en af vores butikker](/find-butik/) og få et nyt med det samme.\n\nKan du stadig ikke komme online, prøv at nulstille netværksindstillingerne:  \n **Vælg:** Indstillinger > Generelt > Nulstil > Nulstil netværksindstillinger\n\nHar du stadig problemer med at komme online, kan du altid [kontakte\nos](/kundeservice/kontakt/).\n\n## Hvad kan blokere dit signal\n\n**Bakker og træer:** Står du i en lavning, eller er du omgivet af bakker eller\ntræer, kan netværkssignalet have svært ved at nå din mobil.\n\n**Vejr og vind:** Mobilsignalet bliver påvirket af årstiden. Den bedste\nmobilsignaldag er faktisk en frostklar vinterdag. Mens våde blade, regn og sne\nvil dæmpe signalet.\n\n**Bebyggelse:** Er der en stor betonbygning mellem dig og nærmeste sendemast,\nsænker murene signalstyrken. Og er du inden i en bygning med tykke mure, kan\ndu også opleve dårligere signal.\n\n**Mange i samme område:** Er der mange, der bruger Telenors netværk samtidig,\nkan din hastighed blive lavere."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:21+00:00",
+        "last_modified": "2025-05-21T15:16:11.205061",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

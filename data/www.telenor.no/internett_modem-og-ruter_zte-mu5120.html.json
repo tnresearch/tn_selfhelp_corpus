@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_zte-mu5120.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 185,
+                "end": 3519,
+                "text": "# Hjelp til ZTE MU5120\n\nHer finner du hjelp og veiledninger for din 5G-ruter til Mobilt Bredbånd.\n\n## Enkle steg for å komme på nett\n\n  * #### Sett inn SIM-kort\n\nHvis du har et SIM-kort av stor størrelse, må du knekke ut til Nano-SIM.\nStrømadapteret må ikke være tilkoblet når du setter inn SIM-kortet.  \n\nÅpningen for SIM-kortet finner du på siden av ruteren.  \n\n  * #### Koble til strøm\n\nTrykk og hold inne strømknappen til skjermen lyser opp. Deretter kobler\nenheten seg automatisk til Internett.  \n  \n\nDu kan også koble til datamaskinen via en USB-port, og få deretter tilgang til\nInternett.  \n\n  * #### Koble til WiFi\n\n **Windows**\n\n    1. Venstreklikk på ikonet for trådløst nettverk nede ved klokken og datoen\n\n    2. Finn nettverket som samsvarer med nettverksnavnet på undersiden av ruteren og trykk Koble til\n\n    3. Skriv inn nettverkspassordet som står på undersiden av ruteren eller det selvvalgte passordet og trykk Koble til  \n\n **Mac**\n\n    1. Trykk på Airport ikonet for trådløst nettverk\n\n    2. Finn nettverket som samsvarer med nettverksnavnet på undersiden av ruteren og trykk Koble til\n\n    3. Skriv inn nettverkspassordet som står på undersiden av ruteren eller det selvvalgte passordet og trykk Koble til  \n\n **Samsung/Android:**\n\n    1. Gå til innstillinger på mobilen\n\n    2. Velg Tilkoblinger\n\n    3. Velg Wi-Fi\n\n    4. Finn nettverket som samsvarer med nettverksnavnet på undersiden av ruteren og trykk på det\n\n    5. Skriv inn nettverkspassordet som står på undersiden av ruteren eller det selvvalgte passordet og trykk Koble til\n\n    6. Alternativt, i displayet på ruteren, trykk på WiFi-symbolet, trykk på Hoved SSID eller Gjeste SSID, åpne QR-kode leser og velg koble til  \n\n **iPhone/iPad:**\n\n    1. Gå til innstillinger\n\n    2. Velg Wi-Fi\n\n    3. Finn nettverket som samsvarer med nettverksnavnet på undersiden av ruteren og trykk på det\n\n    4. Skriv inn nettverkspassordet som står på undersiden av ruteren eller det selvvalgte passordet og trykk Koble til\n\n    5. Alternativt, i displayet på ruteren, trykk på WiFi-symbolet, trykk på Hoved SSID eller Gjeste SSID, åpne QR-kode leser og velg koble til\n\n### Brukerveiledning ZTE MU5120\n\n[ZTE MU5120](/binaries/kundeservice/internett/modem-og-ruter/zte-mu5120/zte-\nmu5120-quick_start_guide-norsk_pdf.pdf)\n\n## Spørsmål og svar om ZTE MU5120\n\n  * #### Hva betyr symbolene på ruteren?\n\nSymbolene finner du i displayet på ruteren. Her ser du hva de forskjellige\nsymbolene betyr:  \n\n  * #### Hvordan nullstiller jeg ruteren?\n\nOpplever du problemer med å koble til internett, kan det ofte hjelpe å\nnullstille ruteren. Dette stiller ruteren tilbake til de innstillingene den\nhadde da du fikk den.\n\n **Nullstilling utføres ved å:**\n\n    1. Trykk og hold inne av/på knappen i ca. 3 sekunder for å gjenopprette enheten til fabrikkinnstillingene\n\n  * #### Hvor finner jeg siste programvare?\n\nSlik finner du siste oppdatering på ruteren:\n\n    1. Trykk på \"Innstillinger\" i displayet på ruteren\n\n    2. Trykk så \"Oppdater\"\n\n    3. Trykk så på \"Se etter oppdatering\"\n\n## Opplever du problemer med Internett?\n\nSvært mange problemer løses ved at man skrur utstyret av og på. Opplever du\nallikevel problemer, kan vi hjelpe deg med veiledninger for de [vanligste\nproblemstillingene - Tregt, ustabilt eller manglende\nnett.](/kundeservice/internett/problemer/index.page)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:09+00:00",
+        "last_modified": "2025-05-30T08:56:48.699272",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

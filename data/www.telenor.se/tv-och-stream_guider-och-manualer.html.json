@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_guider-och-manualer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 294,
+                "end": 3490,
+                "text": "# Guider och manualer\n\n##\n\n## Tv via fiber\n\n  * [ Installationsguide Tv-hubb  ](/support/tv-och-stream/kom-igang/box/telenor-tv-hubb/sa-har-installerar-du-din-tv-hubb/)\n  * [ Guide för fjärrkontrollen till Tv-hubben  ](https://mediearkivet.telenor.se/Data/mw/Original/TA23031.jpg?638461170899603802\\))\n  * [ Para ihop en ny fjärrkontroll med tv-boxen  ](/support/tv-och-stream/guider-och-manualer/tv-via-fiber/para-ihop-en-ny-fjarrkontroll-med-tv-boxen/)\n  * [ Kom igång-guide Arris tv-box  ](/support/tv-och-stream/kom-igang/box/tv-boxen-arris/)\n  * [ Installationsguide Arris tv-box (pdf)  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA92990)\n  * [ Användarmanual Arris tv-box  ](/support/tv-och-stream/guider-och-manualer/tv-via-fiber/anvandarmanual-arris-tv-box/)\n  * [ Installationsguide Technicolor wifi-brygga (pdf)  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921027)\n  * [ Kom igång-guide Telenors Mediahubb  ](/support/tv-och-stream/kom-igang/box/telenor-mediahubb/)\n  * [ Användarmanual Telenors Mediahubb (pdf)  ](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TB42089)\n  * [ Fjärrkontrollen till Telenors Mediahubb (pdf)  ](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TB42088)\n  * [ Installera trådlös tv  ](/support/tv-och-stream/guider-och-manualer/tv-via-fiber/installera-tradlos-tv/)\n\n## Tv via kabel\n\n  * [ Kom igång-guide Humax CDIG-1000C  ](/support/tv-och-stream/kom-igang/box/humax-cdig-1000c-tv-box/)\n  * [ Installationsguide Humax CDIG-1000C (pdf)  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921071)\n  * [ Kom igång-guide Humax CDIG-2000C/R  ](/support/tv-och-stream/kom-igang/box/humax-cdig-2000cr/)\n  * [ Installationsguide Humax CDIG-2000C/R (pdf)  ](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921070)\n  * [ Manual för kanalsökning på Humax CDIG-1000C HD  ](/support/tv-och-stream/guider-och-manualer/tv-via-kabel/manual-for-kanalsokning-pa-humax-cdig-1000c-hd/)\n  * [ Manual för kanalsökning på Samsung-tv med tv-modul  ](/support/tv-och-stream/guider-och-manualer/tv-via-kabel/manual-for-kanalsokning-pa-samsung-tv-med-tv-modul/)\n  * [ Manual för kanalsökning på Philips-tv med tv-modul  ](/support/tv-och-stream/guider-och-manualer/tv-via-kabel/manual-for-kanalsokning-pa-philips-tv-med-tv-modul/)\n  * [ Manual för kanalsökning på Sony-tv med tv-modul  ](/support/tv-och-stream/guider-och-manualer/tv-via-kabel/manual-for-kanalsokning-pa-sony-tv-med-tv-modul/)\n  * [ Manual för kanalsökning på Humax CDIG-2000C/R (inspelningsbar)  ](/support/tv-och-stream/guider-och-manualer/tv-via-kabel/manual-for-kanalsokning-pa-humax-cdig-2000cr-inspelningsbar/)\n  * [ Manual för kanalsökning på ADB 2840 och ADB 5720  ](/support/tv-och-stream/guider-och-manualer/tv-via-kabel/manual-for-kanalsokning-pa-adb-2840-och-adb-5720/)\n  * [ Manual för kanalsökning på Zenterio  ](/support/tv-och-stream/guider-och-manualer/tv-via-kabel/manual-for-kanalsokning-pa-zenterio/)\n  * [ Tv-modeller som är kompatibla med Telenors tv-modul  ](/support/tv-och-stream/guider-och-manualer/tv-via-kabel/tv-modeller-som-ar-kompatibla-med-telenors-tv-modul/)\n\n",
+                "heading": "Guider och manualer"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:21+00:00",
+        "last_modified": "2025-05-30T14:58:44.530903",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "urls"
+}

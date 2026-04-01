@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wlan-e5577_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 408,
+                "end": 2192,
+                "text": "# DNA Matkamokkula 4G WLAN E5577\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/vianrajaus)\n\n## Ominaisuudet\n\n### DNA Matkamokkula 4G WLAN E5577\n\nTuotenimi: Huawei E5577  \n  \nHuippulaadukas matkamokkula, jolla luot langattoman netin usealle käyttäjälle\nja laitteelle.  \nLiitä mokkulaan jopa 10 WLAN-laitetta yhtäaikaisesti. Mokkulassa tehokas akku,\njolla surffaat  \nyhdellä latauksella noin 10 tuntia.\n\n  * 4G LTE enimmäisnopeus verkosta 150 Mbit/s\n  * 4G DC enimmäisnopeus 42 Mbit/s \n  * HSPA+ enimmäisnopeus 21,1 Mbit/s\n  * WLAN b/g/n, WLAN 2.4 GHz ja 5 GHz\n  * USB\n  * 14 WLAN-laitetta \n  * Liitäntä ulkoiselle antennille, liitäntätyyppi TS9\n  * Normaalikokoinen SIM-kortti\n\n### Myyntipaketin sisältö:\n\nDNA Mokkula 4G WLAN E5577 DNA asetuksilla, AC-virta-adapteri, latausjohto\n(Micro-USB), suomenkielinen pikakäyttöopas.\n\n### Laitteistovaatimukset / Tuetut käyttöjärjestelmät:\n\n  * Tuetut käyttöjärjestelmät USB: kautta: Windows® 10 (Q12017), Windows® 8 / 8.1, Windows® 7, Vista, XP SP2/SP3, Mac OS X® 10.7-10.11\n  * WLAN: 802.11b/g/n\n  * USB slot 1/2/3\n  * Internet-selain USB-liitännän tai WLAN-yhteyden kautta: Microsoft Internet Explorer 6.0 tai uudempi, Firefox 2.0 tai uudempi, Safari 4.0 tai uudempi, Opera 10.0 tai uudempi, Chrome 5.0 tai uudempi\n\n",
+                "heading": "DNA Matkamokkula 4G WLAN E5577"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:13+00:00",
+        "last_modified": "2025-06-20T19:04:31.594532",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

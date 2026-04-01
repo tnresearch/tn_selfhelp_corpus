@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_regning_du-har-betalt-med-mobilen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3911,
+                "reason": "Selected by user",
+                "start": 2230,
+                "text": "#  Du har betalt med mobilen\n\nHar du i din sidste regningsperiode handlet og betalt med mobilen, har du\nforetaget betaling til 3. part. Det står på din regning under \"Betaling med\nmobilen\", og kan dække over følgende:\n\n  * Mobile indholdstjenester (konkurrencer, ringetoner, spil mv.)\n  * Køb af bus- og togbilletter (når du viser sms-kvitteringen som billet)\n  * Køb af varer via mobilen (teaterbilletter, dvd'er, bøger mv.)\n  * Køb i App Store eller Google Play (apps, in-app-køb, licenser, abonnementer mv.)\n\nPå [Mit Telenor](/mit-telenor/ \"Mit Telenor\") kan du se en udspecificeret\nliste over sms-numre og dine transaktioner. Er du i tvivl om modtageren, kan\ndu prøve at google sms-nummeret og finde informationer om modtageren.\n\nHos Telenor har du også mulighed for at betale for dine køb i [App\nStore](/shop/landingpage/mobilbetaling-app-store/) og [Google\nPlay](/shop/landingpage/mobilbetaling-google-play/) over din regning. Disse\nkøb vil blive opkrævet på din månedlige regning fra Telenor.\n\n## Du er beskyttet af Forbrugsmax\n\nNår du vælger at betale med mobilen, er du beskyttet af Forbrugsmax. Det\nbetyder, at du maksimum kan købe indholdstjenester for 750 kroner om dagen\neller 1.500 kroner om ugen og maksimum 2.220 kroner i hele din\nregningsperiode.\n\nIndholdstjenester er alt det, du kan betale med din mobil. Det kan være alt\nlige fra nødhjælpsdonationer, sms-konkurrencer på tv, til busbilletter og fx\nparkering.\n\nServicen Forbrugsmax er automatisk inkluderet i dit abonnement og koster 0 kr.\n\n[Se dit forbrug](/mit-telenor/abonnement/ \"Se dit forbrug\")  \n[Mere om Forbrugsmax](/kundeservice/Mobilabonnementer-og-services/andre-\nservices/forbrugsmax/ \"Forbrugsmax\")"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:10+00:00",
+        "last_modified": "2025-05-21T15:15:50.121557",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

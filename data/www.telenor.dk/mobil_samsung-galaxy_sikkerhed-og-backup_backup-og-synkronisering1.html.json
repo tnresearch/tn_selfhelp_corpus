@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_sikkerhed-og-backup_backup-og-synkronisering1.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1394,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "  * ## Tryk på \"Indstillinger\"\n\n  * ## Vælg \"Backup og nulstil\"\n\n  * ## Vælg \"Sikkerhedskopiér mine data\"\n\nBrug dit Samsung-account for at sikkerhedskopiere dit indhold.\n\n  * ## Sikkerhedskopier nu\n\nDu kan vælge om du vil have automatisk sikkerhedskopiering slået til eller\nfra. Derefter tryk på \" **Sikkerhedskopiér nu** \".\n\n  * ## Vælg \"Konti\"\n\nDu har også mulighed for at tage backup af dit indhold, hvis du har en Gmail\nkonto. Gå til \" **Indstillinger** \" og tryk på \" **Konti** \".\n\n  * ## Vælg \"Google\"\n\n  * ## Indstil din konto\n\nKlik på din konto ud for de to grønne pile\n\n  * ## Synkroniseringsindstillinger\n\nVælg de ting som skal synkroniseres.\n\n#  Tag en backup af din mobil\n\nTager du jævnligt backup og synkroniserer du automatisk, kan du minimere\nrisikoen for at miste billeder og andet indhold, hvis du er uheldig fx og får\nstjålet mobilen eller har brug for at gendanne den og starte helt forfra.\n\n**Backup**  \nDin sikkerhedskopi af alt indhold og alle indstillinger. Du kan med en backup\ngenskabe din mobil og nemmere sætte nye enheder op med samme indhold,\nkontakter mv.\n\n**Synkroniser**  \nDin garanti for, at alle dine enheder altid er opdateret og har samme indhold,\nbilleder osv. Du har måske i løbet af dagen skrevet en ny kontakt i din\ntelefonbog eller taget nye billeder. Vær opmærksom på, at bare fordi du har\nsynkroniseret, har du ikke taget backup af dine indstillinger."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:52+00:00",
+        "last_modified": "2025-05-21T15:16:01.917367",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

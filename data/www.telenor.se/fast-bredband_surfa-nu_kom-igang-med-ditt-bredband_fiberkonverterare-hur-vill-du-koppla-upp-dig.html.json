@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu_kom-igang-med-ditt-bredband_fiberkonverterare-hur-vill-du-koppla-upp-dig.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1417,
+                "text": "#  Hur vill du koppla upp dig?\n\nVälj nedan om du vill surfa med eller utan router.\n\nVi rekommenderar\n\n[ ](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-\nbredband/fiberkonverterare-hur-vill-du-koppla-upp-dig/fiberkonverterare--\nkoppla-in-routern-fran-telenor/)\n\n## Telenors router\n\n  * **Anpassad** för ditt bredband\n  * **Hjälp med installationen** här på webben\n  * **Support och felsökning** om du behöver\n\n[Ja, välj](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-\nbredband/fiberkonverterare-hur-vill-du-koppla-upp-dig/fiberkonverterare--\nkoppla-in-routern-fran-telenor/)\n\n## Egen router\n\n  \nHar du en egen router kan du använda den. Tänk på att du då inte kan få lika\nbra support från oss om något krånglar.  \n  \n[Jag vill använda egen router](/support/fast-bredband/surfa-nu/kom-igang-med-\nditt-bredband/fiberkonverterare-hur-vill-du-koppla-upp-dig/fiberkonverterare--\nkoppla-in-en-annan-router/)\n\n## Ingen router\n\n  \nHar din router från Telenor inte kommit ännu? Då kan du surfa med hjälp av en\ngammal hederlig nätverkskabel.  \n  \n[Jag vill surfa med kabel](/support/fast-bredband/surfa-nu/kom-igang-med-ditt-\nbredband/fiberkonverterare-hur-vill-du-koppla-upp-dig/fiberkonverterare--\nsurfa-med-hjalp-av-en-natverkskabel/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:01+00:00",
+        "last_modified": "2025-05-30T14:08:51.813683",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

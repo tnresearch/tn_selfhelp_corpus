@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_iphone_andra-sa-att-ratt-nummer-visas-pa-iphone.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 375,
+                "end": 1678,
+                "text": "# Ändra så att rätt nummer visas på iPhone\n\nHar du flyttat ditt nummer eller gjort nummerbyte och därför använt ett\ntillfälligt nummer?  \n  \nDet tillfälliga numret registreras i din iPhone och fortsätter vara det som\ndyker upp på skärmen hos dem du ringer till, även efter nummerflytten. Men\nlugn, det är lätt att fixa!  \n  \nDen här guiden visar hur du gör i det **senaste operativsystemet (iOS)** från\nApple. Så börja gärna med att se till att det är installerat på din mobil –\ninte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/iphone/uppdatera-operativsystemet/)\n\n  * ### Gå till startskärmen\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Välj Meddelanden\n\n  * ### Avaktivera iMessage\n\n  * ### Backa ett steg och välj FaceTime\n\n  * ### Avaktivera FaceTime\n\n  * ### Backa ett steg och välj Telefon\n\n  * ### Klicka på Mitt Nummer\n\n  * ### Radera ditt nummer och tryck på Spara\n\n  * ### Starta om mobilen\n\nDet gör du enklast så här:  \n  \n\\- Backa tillbaka till Inställningar  \n\\- Välj Allmänt  \n\\- Scrolla längst ner och välj Stäng av  \n\\- Dra reglaget så att mobilen stängs av\n\n  * ### Kolla att det blev rätt\n\nKolla att rätt nummer visas under Telefon och att iMessage och FaceTime är\naktiverade."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:49+00:00",
+        "last_modified": "2025-05-30T14:35:27.272637",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

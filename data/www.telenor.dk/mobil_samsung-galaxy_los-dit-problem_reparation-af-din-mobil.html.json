@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_los-dit-problem_reparation-af-din-mobil.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1896,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Reparation af din mobil\n\nFør du indleverer din mobil til reparation, anbefaler vi, at du går\nnedenstående liste med løsningsforslag igennem. Måske kan du hurtigt selv løse\nproblemet. Vær opmærksom på at fejl eller skader ifm. brug af uoriginale\nreservedele ikke er reklamationsberettiget. Hvis en reparation ikke er udført\nkorrekt, og i et antistatisk miljø, kan det medfører følgeskader eller\nfunktionsfejl.\n\n## Indlever din mobil til reparation\n\nKan du ikke selv løse problemet, afleverer du bare din mobil i en Telenor-\nbutik. Personalet i butikken sørger for at sende den sikkert og hurtigt til\nreparation. Vi kontakter dig, så snart din mobil er tilbage fra reparation og\ner klar til afhentning. Du kan sagtens låne en telefon, mens din egen er til\nreparation, hvis du indleverer den i en butik. [Find nærmeste butik\nher.](/find-butik/ \"Find butik\")\n\nDu kan også sende din mobil med posten. Det gør du ved at [oprette en sag hos\nvores partner Care1](http://repair.care1.dk/telenor). Her kan du ogå printe en\ngratis fragtlabel til forsendelse.\n\n## Hvad sker der så?\n\nNår ordren er oprettet, får du en sms og en e-mail med dit reparationsnummer.\nHvis reparationen ikke er omfattet af reklamationsretten, får du også en\ne-mail med et pristilbud. Betaling skal ske, inden reparationen påbegyndes. I\nnogle tilfælde kan du blive bedt om kopi af din kvittering. Care1 tjekker\nogså, om din enhed er omfattet af Skærmskift mv. De kontakter dig, hvis der\nbliver behov for det.\n\n**  \nKontaktinfo på Care1**  \nTlf.: 74 63 10 18  \nAlle hverdage 10-12 og 13-15  \nE-mail: [info@care1.dk](mailto:Telenor.rep@ingrammicro.com)\n\n## 90% af alle mobiler er retur efter to uger\n\nDa alle skader er forskellige og ofte kræver en erfaren reparatør, kan\npersonalet i butikken desværre ikke vurdere, hvor lang tid reparationen af\nnetop din mobil vil tage. Men langt de fleste mobiler er repareret inden for\nto uger."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:04+00:00",
+        "last_modified": "2025-05-21T15:16:01.494321",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

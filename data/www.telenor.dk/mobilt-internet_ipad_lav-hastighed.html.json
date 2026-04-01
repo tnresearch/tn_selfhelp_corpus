@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_ipad_lav-hastighed.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1723,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Lav hastighed på din iPad\n\nEr din trådløse forbindelse pludselig langsommere end normalt, kan du som\nregel få hastigheden op igen ved at genstarte din tablet. Er din iPad på\nnettet via bredbånd fra Telenor, så tjek om din router ved en fejl er blevet\nslukket, og at alle ledninger sidder korrekt i routeren.\n\nHar du i stedet Mobilt Bredbånd, falder din internethastighed, hvis du har\nopbrugt din månedlige datamængde. Hastigheden vil også falde, hvis fx træer\neller huse blokerer signalet, eller du befinder dig langt fra en af vores\nmaster.\n\n## Hvad kan blokere dit signal\n\n**Bakker og træer:** Står du i en lavning, eller er du omgivet af bakker eller\ntræer, kan netværkssignalet have svært ved at nå din mobil.\n\n**Vejr og vind:** Mobilsignalet bliver påvirket af årstiden. Den bedste\nmobilsignaldag er faktisk en frostklar vinterdag. Mens våde blade, regn og sne\nvil dæmpe signalet.\n\n**Bebyggelse:** Er der en stor betonbygning mellem dig og nærmeste sendemast,\nsænker murene signalstyrken. Og er du inden i en bygning med tykke mure, kan\ndu også opleve dårligere signal.\n\n**Mange i samme område:** Er der mange, der bruger Telenors mobile netværk\nsamtidig, kan din hastighed blive lavere.\n\n## Det kan du selv gøre, hvis du oplever lav hastighed\n\n  * Sluk din iPad. Tænd den igen og lad den starte op\n  * Opdater din tablet til nyeste software\n  * Tjek vores [driftstatus](/kundeservice/drift-og-dakning/driftstatus/tjek-driftstatus/ \"Tjek driftstatus\")\n  * Tjek vores [dækningskort](/kundeservice/drift-og-dakning/dakning/dakningskort/ \"Tjek Telenors dækningskort\")\n  * Prøv at nulstille dine netværksindstillinger.   \n**Vælg:** Indstillinger > Generelt > Nulstil > Nulstil netværksindstillinger >\nGenstart din iPad."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:29+00:00",
+        "last_modified": "2025-05-21T15:16:11.400258",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

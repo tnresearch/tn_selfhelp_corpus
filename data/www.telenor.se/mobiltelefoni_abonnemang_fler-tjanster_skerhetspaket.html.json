@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_fler-tjanster_skerhetspaket.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 343,
+                "end": 3711,
+                "text": "#  Unikt säkerhetspaket ingår i abonnemanget\n\nMed oss har du ett riktigt säkert mobilabonnemang tack vare vårt unika\nsäkerhetspaket – här kan du läsa mer om allt det innehåller. För dig som har\nabonnemanget Obegränsat Plus ingår dessutom ett utökat säkerhetspaket med\nbland annat ID-försäkring.\n\n## Så anmäler du nätkränkning eller ID-stöld\n\nAnmälan av nätkränkning, ID-stöld eller kapning av betalkort görs till vår\nsamarbetspartner **Help Försäkring**.\n\nÖppettider: måndag - torsdag kl 9 - 17, fredag 9 - 16.  \nRing [**0771-985 200**](tel:0771-985%20200) eller mejla\n[**info@helpforsakring.se**](mailto:info@helpforsakring.se)\n\nHelp har också kundportalen [**Min sida**](https://helpforsakring.se/min-sida)\ndär du kan följa ditt ärende, ladda upp bevis och kommunicera med din jurist.\n\n## Det här händer efter anmälan\n\nNär du anmäler någon typ av nätkränkning, ID-stöld eller kapning av betal- och\nkreditkort via Help Försäkring får du svar samma dag eller senast på morgonen\nnästa arbetsdag. Du får hjälp och rådgivning av en jurist som följer just ditt\närende, hela vägen fram till rättegång om så skulle behövas.\n\n## Vanliga frågor om säkerhetspaketet i våra mobilabonnemang\n\n  * Vad ingår i försäkringen som ger hjälp vid nätkränkning?\n\nI försäkringen ingår:\n\n    * 5 timmar kostnadsfri juridisk rådgivning per år \n    * Ersättning för psykologhjälp upp till 5 000 kr \n    * Ersättning för förlorad arbetsinkomst upp till 5 000 kr \n    * Ersättning för rättegångskostnader vid rättstvister upp till 200 000 kr\n\n  * Vilka villkor gäller för säkerhetspaketet?\n\nVårt säkerhetspaket ingår i alla nya och befintliga mobilabonnemang oavsett\nnär de tecknats, med undantag för försäkringen som ger hjälp vid nätkränkning.\nFörsäkringen ingår i alla mobilabonnemang tecknade efter 2022-05-18. Om du\ntecknade ditt mobilabonnemang innan det så kan du enkelt byta till något av\nvåra uppdaterade abonnemang för att få hjälp vid nätkränkning inkluderat.\nFörsäkringen gäller den som har abonnemanget och om ni är flera som delar på\nTelenor Familj så gäller den er alla.\n\n[Här kan du läsa fullständiga villkor för försäkringen vid\nnätkränkning.](/link/750c93522f4e4c5cb65e1efb9d7c9518.aspx)\n\n  * Vad ingår i Säkerhetspaket Plus som är inkluderat i abonnemanget Obegränsat Plus?\n\nUtöver säkerhetstjänsterna som ingår i alla abonnemang får du som har\nabonnemanget Obegränsat Plus också skärmförsäkring, ID-försäkring och utökat\nrättsskydd.\n\n  * Hur aktiverar jag spärr av skadliga sidor?\n\n**Aktivera på mobilen**\n\nSpärren är aktiverad i alla våra mobilabonnemang från start. Har du stängt av\nden slår du på den igen i Mitt Telenor här på webben. Klicka dig vidare till\nAbonnemang och sedan till Inställningar och betaltjänster. Eller gå in i appen\noch välj Abonnemang och sedan Inställningar.\n\nSpärren av skadliga sidor ingår även i våra bredbandsabonnemang. [Se hur du\naktiverar den här.](/handla/tjanster/natskydd/)\n\n  * Hur stänger jag av spärr av skadliga sidor?\n\nVi rekommenderar att du alltid har spärren påslagen, för din egen säkerhet.\nVäljer du ändå att stänga av den kan du göra det i Mitt Telenor här på webben\nunder Abonnemang och Inställningar och betaltjänster eller i appen under\nAbonnemang och Inställningar.\n\nSpärren av skadliga sidor ingår även i våra bredbandsabonnemang. [Se hur du\nstänger av den här.](/handla/tjanster/natskydd/)[\n](/handla/tjanster/natskydd/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:23+00:00",
+        "last_modified": "2025-05-30T14:23:22.285467",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

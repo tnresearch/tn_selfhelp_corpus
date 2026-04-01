@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_rostbrevladan_sa-anvander-du-rostbrevladan_sa-fungerar-rostbrevladan-utomlands.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 435,
+                "end": 2550,
+                "text": "#  Så fungerar röstbrevlådan utomlands\n\nDet är alltid kostnadsfritt att ta emot meddelanden utomlands. Däremot betalar\ndu samma pris som när du ringer hem till Sverige (från landet du befinner dig\ni) om du vill lyssna på dina röstmeddelanden.\n\nDu behöver alltså inte stänga av eller inaktivera Röstbrevlådan även om du\nåker utomlands. Se [fullständiga priser utomlands](/roaming/).\n\n## Vanliga frågor om röstbrevlådan utomlands\n\n  * Kan jag stänga av röstbrevlådan tillfälligt?\n\nSjälvklart kan du det.\n\n### För mobiltelefoni\n\nLogga in i [appen Mitt Telenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx)\noch välj \"Inställningar\" och därefter ”Röstbrevlåda och vidarekoppling”. Dra\nsedan reglaget till höger så att ”Aldrig” är markerat.\n\n### För hemtelefoni via bredband\n\n[Gå till guide för\nhemtelefoni](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921041)\n\n  * Vad kostar medflyttning/vidarekoppling av samtal som går till röstbrevlådan?\n\nKostnaden är densamma som din normala minuttaxa.\n\n  * Hur tar jag bort medflyttning/vidarekoppling av samtal som går till röstbrevlådan?\n\n### Ta bort vidarekoppling till röstbrevlådan (mobil)\n\n[Logga in på appen Mitt Telenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx\n\"Mitt Telenor\") och klicka på inställningar i menyn och välj \"Röstbrevlåda och\nvidarekoppling\" för att ta bort vidarekopplingen till röstbrevlådan. Det går\ninte att ändra inställningar via vår kundservice på telefon.\n\n### Ta bort vidarekoppling till ett annat telefonnummer (mobil)\n\n[Logga in på appen Mitt Telenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx\n\"Mitt Telenor\") och klicka på inställningar i menyn och välj \"Röstbrevlåda och\nvidarekoppling\" för att ta bort en vidarekoppling till ett annat\ntelefonnummer. Det går inte att ändra inställningar via vår kundservice på\ntelefon.\n\nFör att ta bort dina vidarekopplingar ska du dra reglaget hela vägen till\nhöger.\n\n### För hemtelefoni via bredbandet\n\nFör att koppla in vidarekoppling:\n\n    * Tryck 1. Funktionen vidarekoppling är påslagen\n\nFör att koppla ur vidarekoppling:\n\n    * Tryck 2. Funktionen vidarekoppling är avslagen\n\n",
+                "heading": " Så fungerar röstbrevlådan utomlands"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:26+00:00",
+        "last_modified": "2025-05-30T14:27:09.955289",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

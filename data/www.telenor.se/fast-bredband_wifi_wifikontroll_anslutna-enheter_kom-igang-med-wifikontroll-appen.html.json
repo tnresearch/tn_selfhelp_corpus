@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_wifikontroll_anslutna-enheter_kom-igang-med-wifikontroll-appen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 420,
+                "end": 1691,
+                "text": "# Kom igång med Wifikontroll\n\n  * ### Ladda ned\n\nDu hittar appen i [AppStore](https://apps.apple.com/se/app/my-telenor-\nsweden/id1154435018) om du har en iPhone och i [Google\nPlay](https://play.google.com/store/apps/details?id=se.telenor.mytelenor&hl=sv&referrer=utm_source%3Dtelenor_se%26utm_medium%3Dlandingpage%26utm_content%3Dbottom_cta)\nom du har en Android-mobil. Sök på Telenor Wifikontroll.  \n  \nTips! Appen tar inte stor plats, men se till att du har ledigt lagringsutrymme\ni din mobil.\n\n  * ### Logga in i appen\n\nDet gör du med samma uppgifter som du loggar in i Mitt Telenor här på webben\neller genom att följa instruktionerna i appen. Om du inte har ett Mitt\nTelenor-konto så behöver du skapa det först.\n\n  * ### Klicka på kom igång\n\n  * ### Välj routern som du vill konfigurera\n\n  * ### Anslut till strömkälla\n\n  * ### Anslut till din wifi-punkt\n\n  * ### Enheten kopplar upp sig\n\nAvvakta medan din enhet kopplar upp sig mot ditt konto. Om uppkopplingen inte\nlyckas kommer du bli ombedd att ange routerns MAC adress manuellt, eller att\nskanna QR-koden på undersidan av din router.\n\n  * ### Du är uppkopplad\n\nTips! Byt namn och lösenord till det du hade för ditt förra nätverk så slipper\ndu lägga in det nya nätverkets uppgifter för alla dina enheter i hemmet."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:25+00:00",
+        "last_modified": "2025-05-30T14:15:04.405757",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

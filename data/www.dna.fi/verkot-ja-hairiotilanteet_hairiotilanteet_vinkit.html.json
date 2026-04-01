@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/verkot-ja-hairiotilanteet_hairiotilanteet_vinkit.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 286,
+                "end": 5293,
+                "text": "# Vinkit kuuluvuuden parantamiseksi\n\n##  Paranna kuuluvuuttasi\n\nMatkapuhelimella\n\nKuuluvuutta voi yrittää parantaa siirtymällä rakennuksessa toiseen huoneeseen\ntai kokeilemalla kuuluvuutta ulkona. Voit parantaa kuuluvuutta myös\nasentamalla ulkoantennin esim. talon katolle.\n\nKuuluvuuteen voivat vaikuttaa maaston muodot ja lähimmän tukiaseman sijainti,\nympäröivät rakennukset ja niissä käytetyt rakennusmateriaalit (esimerkiksi\nselektiivilasit).\n\nMobiililaajakaistalla\n\nVoit parantaa mobiililaajakaistan kuuluvuutta tukiaseman ja ulkoisen antennin\navulla ja varmistamalla ettei päätelaitettasi ole lukittu millekään tietylle\ntaajuudelle.\n\nDNA Kotimokkula 4G WLAN on langattoman lähiverkon tukiasema, jolla luot\nlangattoman laajakaistayhteyden. Sijoittamalla kotimokkula paikkaan, jossa\nmatkaviestinverkko kuuluu parhaiten, voit parantaa laajakaistan kuuluvuutta.\n\nDNA:n mokkula-antennilla parannat mobiililaajakaistayhteyttäsi. Tutustu\nantenneihin DNA:n Nettikaupassa.\n\nMonet päätelaitteet on mahdollista lukita eri taajuuksille ja siitä voi\ntietyissä tilanteissa olla kuuluvuudelle paljon hyötyä. Jos kuuluvuus\nkuitenkin heikkenee yllättäen, on syytä tarkistaa, ettei päätelaitetta ole\nlukittu millekään yksittäiselle taajuudelle, koska matkaviestinverkon kaikissa\ntukiasemissa ei esimerkiksi ole kaikkia tajuuksia käytössä.\n\n[DNA:n mokkulat](https://www.dna.fi/mokkulat)\n\nUlkoantennilla\n\nSisätilojen kuuluvuusongelmat johtuvat usein rakennusmateriaaleista. Uudet\nrakennusmateriaalit kuten paksut betoniseinät, peltirakenteet ja energiaa\nsäästävät ikkunat saattavat heikentää radiosignaalin voimakkuutta.\n\nVoit parantaa kuuluvuutta asentamalla ulkoantennin esim. talon katolle.\nUlkoantennin asennus kannattaa jättää ammattilaisen harteille, jos sinulla ei\nole kokemusta antenniasennuksesta.\n\n#### Asennus:\n\n  1. Selvitä DNA:n asiakaspalvelusta, mistä suunnatta matkaviestinasema lähettää signaalia\n  2. Kiinnitä antenni mahdollisimman korkealle pylvääseen tai seinään. Antennin tulee osoittaa kohti lähintä tukiasemaa.\n  3. Vedä antenninkaapelit asunnon sisätilaan päätelaitteen käyttöpaikkaan.\n  4. Kytke antennikaapelit päätelaitteen antenniliittimiin.\n\n####  Onko matkapuhelimesi kuuluvuudessa ongelmia? Tutustu ohjeisiin:\n\nMistä tiedän, onko alueellani kuuluvuushäiriöitä?\n\nJos huomaat matkapuhelinverkon kuuluvuuden tai toiminnan heikentyneen,\nkannattaa tarkistaa mahdollinen vikatilanne esim. DNA:n häiriökartalta tai\nseurata häiriötiedotteita. Löydät häiriötiedotteet tältä sivulta kohdasta\nHäiriötiedotteet ja\n[Häiriötiedotteet](https://corporate.dna.fi/hairiotiedotteet)-sivulta.\n\n#### Lisätietoa Viestintäviraston sivuilta\n\nHyödyllistä tietoa matkapuhelimen kuuluvuuden parantamisesta löydät myös\nViestintäviraston\n[neuvontasivulta](https://www.viestintavirasto.fi/internetpuhelin/puhelin-\njalaajakaistaliittymantoimivuus/matkaviestinverkonkuuluvuus.html).\n\nMiten parannan liikkuvan laajakaistan kuuluvuutta?\n\nVoit parantaa liikkuvan laajakaistan kuuluvuutta lisäantennilla. Useimpiin\nmobiilipäätelaitteisiin voidaan liittää erillinen lisäantenni, joka parantaa\nkuuluvuutta sisätiloissa.\n\nMokkula-antenni M: Magneetilla kiinnitettävä lisäantenni voidaan asentaa joko\npöydälle tai ulos ikkunalaudalle. Se on hyvä valinta, jos kaipaat kohtalaista\n4G-verkon vahvistusta. [Tutustu.](https://kauppa4.dna.fi/Lis%C3%A4laitteet-ja-\ntarvikkeet/4G-magneettiantenni-imukupeilla/p/UA00056)\n\nMokkula-antenni 4G: Jos kaipaat tehokkaampaa lisäantennia, kannattaa harkita\nsuuntaavaa antennia. Se suunnataan kohti lähintä tai parhaiten palvelevaa\ntukiasemaa. [Tutustu.](https://kauppa4.dna.fi/Lis%C3%A4laitteet-ja-\ntarvikkeet/DNA-Mokkula-antenni-4G-LTE-800-Mimo/p/UA00059)\n\nDNA Kaupoissa on myynnissä erilaisia lisäantenneja, joilla parannat mokkulan\ntoimivuutta. Voit myös olla yhteydessä [DNA:n\nasiakaspalveluun](https://www.dna.fi/yhteystiedot). Autamme sinua löytämään\noikean antennityypin ja tarjoamme ohjeita antennin sijoituspaikalle sekä\nsuuntaukselle.\n\nTutustu myös Viestintäviraston\n[neuvontasivuun](https://www.viestintavirasto.fi/internetpuhelin/puhelin-\njalaajakaistaliittymantoimivuus/matkaviestinverkonkuuluvuus/ohjematkapuhelimenkuuluvuudenjamobiililaajakaistantoimivuudenparantamiseen.html).\n\nMiten toimin jos häiriö pitkittyy?\n\nJos häiriö pitkittyy, tee ilmoitus. Vika- ja katveilmoituksia otetaan vastaan\n24h/vrk numerossa 044 144 044.\n\nVoit tehdä matkapuhelinverkon vika- ja katveilmoituksen myös sähköpostitse\npalvelu@dna.fi\n\nJokaiselle on oikeus toimivaan puhelimeen tai 2 Mbit/s:n laajakaistayhteyteen.\n\n[Lue lisää DNA:n yleispalvelutuotteista.](https://www.dna.fi/dna-\nyleispalvelulaajakaista)\n\n## Video: Kolme vinkkiä liikkuvan laajakaistan käyttäjälle\n\nKatso Viestintäviraston ja teleyritysten yhdessä kokoamat vinkit.\n\nKatso video\n\n## Aiheeseen liittyvää sisältöä\n\n[Lue Liikenne- ja viestintäviraston ohjeet matkapuhelimen ja\nmobiililaajakaistan kuuluvuuden\nparantamiseksi](https://www.traficom.fi/fi/viestinta/laajakaista-ja-\npuhelin/ohjeita-liittyman-saatavuus-ja-toimintaongelmiin)\n\n",
+                "heading": "Vinkit kuuluvuuden parantamiseksi"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:44+00:00",
+        "last_modified": "2025-06-20T19:22:38.400521",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

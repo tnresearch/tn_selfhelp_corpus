@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_utomlands_jag-kan-inte-ringa-utomlands.-vad-gor-jag.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 274,
+                "end": 1303,
+                "text": "# Jag kan inte ringa utomlands. Vad gör jag?\n\nTesta det här!\n\n1\\. **Starta om mobilen**\n\n2\\. Kontrollera att du är **ansluten till ett nätverk**. Kolla högst upp på\nskärmen: där ska du se symbolen som visar signalstyrka (oftast fyra streck i\nrad där det första är svag signal och det sista är stark signal).\n\n3\\. Kolla att du inte har **blockerat samtal och sms till utlandet**. Den\ninställningen finns i Mitt Telenor, så logga in här [på webben](/mitt-\ntelenor/) eller i [vår app](/archive/2019/mitt-telenor-old/). Om du har\nTelenor Familj så tänk på att bara den som står som\n[ägare](/support/mobiltelefoni/abonnemang/for-familjen/medlemsprofiler/) av\nabonnemanget kan ändra inställningen.\n\n  \n4\\. **Har du kontantkort?** Kolla att ditt kontantkort fungerar i det land du\nbefinner dig i [här](/roaming/). Befinner du dig utanför EU/EES? Då bör du\näven kolla att du har [laddat med\nRörligt/Saldo](/support/mobiltelefoni/kontantkort/ladda-och-saldo/ladda-\nkontantkort/olika-laddningar/). Är du inom EU/EES behövs det inte. ****\n\n",
+                "heading": "Jag kan inte ringa utomlands. Vad gör jag?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:31+00:00",
+        "last_modified": "2025-05-30T17:46:44.098586",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

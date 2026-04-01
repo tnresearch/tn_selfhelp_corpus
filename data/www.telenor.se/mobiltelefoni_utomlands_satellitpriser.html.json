@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands_satellitpriser.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 341,
+                "end": 3420,
+                "text": "#  Att ringa, surfa och skicka sms när du befinner dig på fartyg eller flyg\n\nPå fartyg och flyg kan du hamna i ett så kallat satellitnät när du använder\ndin mobil. I prislistan nedan ser du vad det kostar att ringa, surfa och\nskicka sms eller mms via satellitnätet när du har mobilabonnemang eller\nkontantkort hos oss.\n\nPå många färjor, till exempel mellan Sverige och Danmark, Polen och Tyskland,\neller på flygplan, hamnar du i ett så kallat satellitnät när du använder din\nmobil. Det innebär att du kopplas via satellit istället för det vanliga\nmobilnätet. På så sätt kan du få täckning på annars otillgängliga platser.\n\nPå vissa flyg och kryssningsfartyg kan det vara andra satellitoperatörer som\nerbjuder täckning. För att se vilka operatörer vi har avtal med samt vilka\npriser som gäller, se nedan.  \n  \nBra att känna till:\n\n  * **Samtal i satellitnät ingår inte** om du har Telenor Familj.\n  * **Priserna i satellitnät skiljer sig från övriga priser i det land du utgår från**. Vi skickar ut ett sms med prisinformation när du kommer in i ett satellitnät. Reser du in i samma satellitnät inom sju dagar går inget nytt sms ut. Är du kvar i samma satellitnät får du ett nytt sms först nästa gång du reser ut och in i samma satellitnät igen.\n  * **Data via satellitnät är avstängt**. Vill du kunna surfa via satellitnät? Ring kostnadsfritt till vår kundservice för att aktivera det.\n\n## Prislista för att ringa, sms:a och surfa via ett satellitnät\n\n  \nAlla priser är inklusive moms.\n\n**Zon 1 (Telenor Maritime, tidigare MCP)** | **Pris**  \n---|---  \nRinga till EU (per min) | 15 kr  \nRinga till övriga Europa (per min) | 25 kr  \nRinga till övriga länder (per min) | 50 kr  \nSvara (per min) | 15 kr  \nSms (per mottagare och sms) | 6,25 kr  \nSurf (per MB) |\n\n123,75 kr  \n  \n**Zon 2 (Aero Mobil, AT &T Wireless Service, Satellit ON-AIR, Thuraya) **\n\n| **Pris**  \n---|---  \nRinga till EU (per min) | 32,50 kr  \nRinga till övriga Europa (per min) |\n\n50 kr  \n  \nRinga till övriga länder (per min) | 50 kr  \nSvara (per min) | 20 kr  \nSms (per mottagare och sms) | 10 kr  \nSurf (per MB) | 123,75 kr  \n  \n**Zon 3 (On Waves (Oceancell) - Ferry, On Waves (Oceancell) - Cruise,**\n**Telekom Italia Spa Maritime**\n\n| **Pris**  \n---|---  \nRinga till EU (per min) | 50 kr  \nRinga till övriga Europa (per min) | 50 kr  \nRinga till övriga länder (per min) | 50 kr  \nSvara (per min) | 45 kr  \nSms (per mottagare och sms) | 12,50 kr  \nSurf (per MB) | 123,75 kr  \n  \n## Prislista för att ringa från Sverige till ett satellitnummer\n\n**Satellit/Nr** | **Pris/min***  \n---|---  \nAEROMOBILE - 0088299 | 100 kr  \nGLOBALSTAR - 008818 | 37,50 kr  \nINMARSAT AERO - 008705 | 62,50 kr  \nINMARSAT BGAN - 0087077 | 62,50 kr  \nINMARSAT BGAN HSD - 0087078 | 62,50 kr  \nINMARSAT MINI M/GAN/FLEET/SWIFT - 0087076 | 25 kr  \nIRIDIUM 8816 - 008816 | 62,50 kr  \nIRIDIUM 8817 - 008817 | 62,50 kr  \nTHURAYA UAE - 0088216 | 25 kr  \n  \n##\n\n*Priserna i tabellen gäller om du ringer någon med satellittelefon + satellit-sim. Hela numret du behöver ringa för att nå personen med satellittelefon får du av personen i fråga.\n\n",
+                "heading": " Att ringa, surfa och skicka sms när du befinner dig på fartyg eller flyg"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:42+00:00",
+        "last_modified": "2025-05-30T14:53:36.518964",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

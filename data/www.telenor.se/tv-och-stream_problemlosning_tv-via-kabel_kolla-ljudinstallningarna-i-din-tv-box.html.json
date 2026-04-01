@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_kolla-ljudinstallningarna-i-din-tv-box.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 698,
+                "text": "# Kolla ljudinställningarna i din tv-box\n\nDu kan behöva ändra ljudinställningarna i din tv-box.\n\nTa fram fjärrkontrollen och gör sedan så här.  \n  \n**Humax CDIG-1000:**\n\n  1. Tryck på Menu och sedan på Inställningar\n  2. Tryck på Systeminställningar och sedan på Ljud\n  3. Tryck på Digital ljudutgång och sedan på Stereo\n\n**  \nHumax CDIG-2000:**\n\n  1. Tryck på Home och sedan på Inställningar\n  2. Tryck på Allmänna inställningar och sedan på Ljud\n  3. Gå in på S/PDIF, HDMI och Ljudsignal och välj Stereo för alla tre"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:43+00:00",
+        "last_modified": "2025-05-30T17:41:56.527170",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

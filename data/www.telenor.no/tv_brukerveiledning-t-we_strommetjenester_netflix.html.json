@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_strommetjenester_netflix.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 257,
+                "end": 4543,
+                "text": "# Hjelp til Netflix\n\nHer finner du veiledninger til å bestille, aktivere eller få hjelp til Netflix\nvia T-We\n\n[Glemt passord](/kundeservice/tv/brukerveiledning-t-\nwe/strommetjenester/netflix/#passord)[Spørsmål og\nsvar](/kundeservice/tv/brukerveiledning-t-we/strommetjenester/netflix/#sos)\n\n## Slik får du tilgang til Netflix:\n\nHvis du ikke har en Netflix-konto fra før, er det slik du oppretter en med\nT-We. Har du Netflix-konto fra før, finner du veiledninger for dette lengre\nned på siden.\n\n  1. Gå til enten [Netflix Standard](https://www.telenor.no/mitt-telenor/tv-internett/twe/innholds-velger/?channelId=CH0285) eller [Netflix Premium](https://www.telenor.no/mitt-telenor/tv-internett/twe/innholds-velger/?channelId=CH0286) i innholdsvelgeren på Mine Sider (linkene tar deg direkte til pakkene)\n\n  2. Bestill ønsket pakke\n\n  3. Når pakken er aktivert, trykk på **Aktiver Netflix-konto**\n\n  4. E-postadresse er autoutfylt, men du kan endre til en annen adresse hvis du ønsker\n\n  5. Velg et passord og fullfør oppsettet\n\n  6. Begynn å se dine favorittfilmer og serier!\n\n **Trenger du hjelp til å legge til eller fjerne innhold på Mine Sider?** Her\nviser vi deg hvordan du [velger kanaler og\nstrømmetjenester](https://www.telenor.no/kundeservice/tv/velge-kanaler/) inn i\ninnholdsvelgeren for din T-We.\n\n### Ikke aktivert konto?\n\nHar du valgt Netflix i innholdsvelgeren, men ikke aktivert Netflix-konto?\nTrykk her for å aktivere\n\nAktiver Netflix-konto\n\n## Jeg har Netflix-konto fra før\n\nHvis du allerede har en konto og/eller abonnement hos Netflix i dag, kan du\nkoble den sammen med T-We abonnementet ditt. På den måten får du samlet alt på\net sted!\n\n  * #### Jeg betaler direkte til Netflix i dag\n\nNår du bytter til bruk av poeng, blir faktureringen fra Netflix fryst. Det er\nviktig at du derfor bruker samme konto til innlogging hos oss, slik at du ikke\nfår to Netflix-abonnement.\n\n **Slik bytter du til bruk av poeng:**\n\n    1. Gå til enten [Netflix Standard](https://www.telenor.no/mitt-telenor/tv-internett/twe/innholds-velger/?channelId=CH0285) eller [Netflix Premium](https://www.telenor.no/mitt-telenor/tv-internett/twe/innholds-velger/?channelId=CH0286) i innholdsvelgeren på Mine Sider (linkene tar deg direkte til pakkene)\n\n      * Logg inn med Telenor ID hvis du ikke allerede er logget inn på Mine Sider\n\n    2. Bestill ønsket pakke\n\n    3. Trykk på Aktiver konto her\n\n    4. Logg på med din eksisterende Netflix-konto\n\n  \nDu beholder din eksisterende Netflix-profil, så lenge du bruker samme\ne-postadresse til innlogging. Netflix vil fryse faktureringen av deg, og det\nforblir fryst frem til du eventuelt velger bort Netflix i innholdsvelgeren.\nNetflix vil da starte faktureringen av deg igjen.\n\n _Hvis du ønsker å se detaljene om Netflix-kundeforholdet ditt, kan du gå til\nKonto-sidene på_[ _netflix.com_](https://www.netflix.com/no-en/login)\n\n  * #### Jeg har Netflix via Telenor-faktura i dag\n\nHvis du betaler for Netflix via Telenor-faktura i dag, men ønsker å bytte til\npoeng, så er det veldig enkelt å fikse!\n\nDu trenger bare velge en av de to pakkene vi leverer i innholdsvelgeren, så\nordner vi resten og svitsjer over for deg.\n\n    1. Gå til enten [Netflix Standard](https://www.telenor.no/mitt-telenor/tv-internett/twe/innholds-velger/?channelId=CH0285) eller [Netflix Premium](https://www.telenor.no/mitt-telenor/tv-internett/twe/innholds-velger/?channelId=CH0286) i innholdsvelgeren på Mine Sider (linkene tar deg direkte til pakkene)\n\n      * Logg inn med Telenor ID hvis du ikke allerede er logget inn på Mine Sider\n\n    2. Bestill ønsket pakke\n\n    3. Trykk på Aktiver konto her\n\n    4. Logg på med din eksisterende Netflix-konto\n\nDin konto og profil overføres i sin helhet så lenge du logger inn med samme\nkonto som du bruker fra før.\n\n## Glemt passord eller brukernavn til Netflix?\n\nHvis du har glemt passordet eller e-postadressen du har brukt til innlogging\npå Netflix, kan du få tak i det ved **å trykke på knappen under**.\n\nLogg inn med Telenor ID hvis du ikke allerede er logget inn. Du blir så tatt\nvidere til Netflix, hvor du får se hvilken e-postadresse som skal brukes til\ninnlogging.  \nTrenger du passordet, trykker du bare på \" _Trenger du hjelp?_ \" under\ninnloggingsfeltet.\n\n[Glemt passord/brukernavn](https://telenor.no/gjenopprett/netflix)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:31+00:00",
+        "last_modified": "2025-05-30T09:34:47.172867",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

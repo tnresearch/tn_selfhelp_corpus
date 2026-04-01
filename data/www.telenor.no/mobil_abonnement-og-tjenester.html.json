@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_abonnement-og-tjenester.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 127,
+                "end": 1941,
+                "text": "# Mobilabonnement og tjenester\n\nHer finner du hjelp og informasjon om mobilabonnement, kontantkort, og alle\nvåre mobiltjenester.\n\n## Ønsker du bestille nytt abonnement?\n\nVi har mobilabonnement som passer for alle, men det er ikke alltid like lett å\nvite hvilket man skal velge. Vi har derfor flere hjelpemidler og sider som kan\nhjelpe deg med å få en god oversikt og ta et valg som er rett for nettopp deg.\n\n[Les mer om hvilke mobilabonnement som passer til ditt\nbruk.](/mobilabonnement/)\n\n **Nå kan du prøve oss i 2 måneder!** Er du ikke fornøyd, får du månedsprisene\ntilbake.\n\n## Endre abonnement\n\nDet er ingen bindingstid på våre mobilabonnement, og du kan dermed endre når\ndu måtte ønske. Er du usikker på hvordan du går frem, finner du hjelp med alle\nendringer på linken under.\n\n[Hjelp til abonnementsendring](/kundeservice/mobil/abonnement-og-\ntjenester/endre-abonnement/)\n\n### Trenger du å sperre eller åpne abonnementet ditt?\n\nHar du mistet mobilen? Har du funnet mobilen din igjen?\n\nHer får du hjelp\n\n### Kontantkort\n\nFinn svar på det du lurer på om kontantkort. Les mer om hvordan du lader,\naktiverer eller sjekker saldo.\n\n[Hjelp til Telenor Kontant ➜](/kundeservice/mobil/abonnement-og-\ntjenester/kontantkort/)\n\n## Mobiltjenester\n\nDet finnes en rekke tilleggstjenester du kan aktivere til ditt abonnement.\nTrenger du f.eks. mobilsvar, ekstra data, eller en tjeneste som sperrer for\nuønsket bruk? Les mer om de forskjellige tjenestene og finn informasjon og\nhjelp om hver enkelt.\n\n### Innholdstjenester\n\nØnsker du å sperre eller åpne for bruk av tjenester via SMS til 4- og\n5-sifrede nummer?\n\n### Alle mobiltjenester\n\nFå full oversikt over alle våre mobiltjenester og finn hjelp med det du lurer\npå.\n\n### Sperretjenester\n\nSperr mobilen mot uønskede utgifter og få oversikt over alle våre\nsperretjenester."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:01+00:00",
+        "last_modified": "2025-05-30T09:21:19.978021",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

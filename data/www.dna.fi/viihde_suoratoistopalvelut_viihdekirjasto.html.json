@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/viihde_suoratoistopalvelut_viihdekirjasto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 218,
+                "end": 846,
+                "text": "# DNA TV Viihdekirjaston tuki\n\nDNA TV Viihdekirjasto poistuu DNA TV -palvelusta 31.1.2025.\n\n31.1.2025 asti DNA TV Viihdekirjaston elokuvia on voinut katsoa eri\npäätelaitteilla DNA TV -tilauksella, joka sisältää DNA viihdeboksin.\n\nOlemme tiedottaneet asiakkaat, joita muutos koskee sähköpostitse tai SMS-\nviestillä joulukuussa 2024.\n\n##  Usein kysyttyjä kysymyksiä\n\nMinkälaisia ohjelmia DNA TV Viihdekirjasto sisälsi?\n\nDNA TV Viihdekirjastossa sisälsi noin 200 elokuvaa. Elokuvien valikoimasta\nlöytyi aikaisempien vuosien menestyselokuvia, kriitikoiden suosikkeja, koko\nperheen elokuvia, romantiikkaa, komediaa, sekä toimintaa.\n\n",
+                "heading": "DNA TV Viihdekirjaston tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:08+00:00",
+        "last_modified": "2025-06-20T19:26:35.415760",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

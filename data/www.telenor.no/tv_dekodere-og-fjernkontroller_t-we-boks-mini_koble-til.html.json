@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller_t-we-boks-mini_koble-til.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 273,
+                "end": 1406,
+                "text": "# Koble til T-We Box Mini (ADB 2840)\n\nStart alltid med å koble kabler fra boksen til tv. Strøm til boksen skal\nkobles helt til slutt.\n\n  1. Koble til antennekabelen.\n\n  2. Koble til tv med HDMI-kabel, eller SCART om det er en eldre tv.\n\n  3. Koble til internett med en nettverkskabel (ethernet-kabel). Gjør du dette vil T-We appen vite at du er hjemme og du vil ha tilgang til alt T-We innhold i appen.\n\n  4. Koble til strøm.\n\n  5. Sett inn programkortet med gullbrikken ned og inn.\n\n  6. Slå på dekoder og tv.  \n\nFølg nå installasjonsveiledningen som dukker opp på skjermen.  \n(Du kan også se vår [installasjonsveiledning](/kundeservice/tv/dekodere-og-\nfjernkontroller/t-we-boks-mini/installasjon/).)  \n\nTrenger du mer hjelp eller ønsker sette opp TV i flere rom/Multiroom, kan du\nse eller laste ned PDF'ene vi har listet opp under.\n\n### Hjelp til oppkobling av ADB2840 ( T-We Boks Mini)\n\n[Oppkobling T-We Boks\nMini](/binaries/privat/kundeservice/tvhjelp/utstyr/abd2840/Lavkarbo%20veiledning%202840mars2020.pdf)\n\n[TV i flere rom](/binaries/privat/kundeservice/tvhjelp/oppkobling/t-we-boks-\nmini/MR-veiledning%20mars%202020%20v2.pdf)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:41+00:00",
+        "last_modified": "2025-05-30T09:37:57.565673",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

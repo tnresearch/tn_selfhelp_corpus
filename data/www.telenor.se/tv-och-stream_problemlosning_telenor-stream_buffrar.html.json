@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_telenor-stream_buffrar.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 373,
+                "end": 2955,
+                "text": "#  Det buffrar bara – vad ska jag göra?\n\nHar du problem med bildstörningar när du tittar på Telenor Stream? Börja med\natt kolla om du har den senaste versionen av appen nedladdad. Detta gör du\ngenom att gå in i Google Play eller App Store och tittar under Uppdateringar.\n\nProblemen kan även bero på dålig uppkoppling eller hög belastning. Omgivningen\nkan påverka ditt datanätverk, till exempel tjocka betongväggar, radiovågor\neller många som streamar samtidigt.\n\n### Gör så här:\n\nOm du tittar via datorn\n\n  * Starta om streamingtjänsten.\n  * Kontrollera att du har en nedladdningshastighet på minst 6 Mbit/s. Det kan du enkelt göra på [Bredbandskollen.se](http://www.Bredbandskollen.se \"Bredbandskollen\").\n  * Har du den senaste versionen av webbläsaren? Om inte, behöver du uppdatera.\n  * Se efter så att det inte finns några [driftstörningar](/link/7efe29cb89ca42a083e61f0ffa35e282.aspx) just nu.\n  * Kolla om tjänsten fungerar bättre på en annan enhet, till exempel mobilen.\n  * Minska avståndet mellan den trådlösa routern och datorn. Eller koppla bort routern helt och sätt i en nätverkskabel direkt mellan vägguttaget och datorn.\n  * Om det fungerar när du direktkopplar till väggen ska du fabriksåterställa din router: Ta ett gem och tryck in i hålet märkt Reset på baksidan av routern. Tryck in knappen tills routern startar om och avvakta ungefär fem minuter. \n\nOm du tittar via mobilen eller surfplattan\n\n  * Testa att starta om streamingtjänsten.\n  * Kontrollera om det finns några aktuella [driftstörningar](/link/c27c15a8727d44248258b57663b3b491.aspx).\n  * Om du har tillgång till wifi – prova att koppla upp dig där istället.\n  * Har du testat om du har tillräckligt snabb surf? För att streama behöver man ha minst 6 Mbit/s i nedladdningshastighet. Gå in på [Bredbandskollen.se](http://www.Bredbandskollen.se \"Bredbandskollen\") och kolla.\n  * Du kan även testa att streama via en annan enhet, exempelvis datorn. Du får då en bättre bild av var felet ligger.\n\nOm du använder Apple Tv\n\n  * Kontrollera om det finns några [driftstörningar](/link/7efe29cb89ca42a083e61f0ffa35e282.aspx).\n  * När du använder Apple TV behöver en nedladdningshastighet på minst 10 Mbit/s. Gå in på [Bredbandskollen.se](http://www.Bredbandskollen.se \"Bredbandskollen\") och testa.\n  * Har du uppdaterat din mjukvara nyligen? Om inte, gå in och gör det.\n\nOm du använder Chromecast\n\n  * Kontrollera om du har den senaste mjukvaran.\n  * Starta om genom att dra ut och sätta in kontakten igen.\n\n[Mer om Chromecast hos Google](https://support.google.com/chromecast/?hl=sv\n\"google.com/chromecast\")\n\n",
+                "heading": " Det buffrar bara – vad ska jag göra?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:26+00:00",
+        "last_modified": "2025-05-30T17:35:57.483831",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

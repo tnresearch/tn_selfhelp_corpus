@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_andra-installningar_valj-mobil_iphone_aktivera-inaktivera-wifi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 348,
+                "end": 1454,
+                "text": "# Aktivera wifi\n\nSäkerheten kan vara lite sisådär i offentliga wifi-nätverk, som finns i till\nexempel köpcentrum, i kollektivtrafiken och på flygplatser. Så tänk på var och\nnär du kopplar upp dig mot. Det kan också vara bra att använda\n[VPN](/sakerhet/vpn/).\n\nDen här guiden visar hur du gör i det **senaste operativsystemet (iOS)** från\nApple. Så börja gärna med att se till att det är installerat på din mobil –\ninte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/iphone/uppdatera-operativsystemet/)  \n  \nNu har du senaste iOS installerat, eller hur? Då kör vi!\n\n  * ### Gå till startskärmen\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Välj \"Wi-Fi​\"\n\n  * ### Slå på Wi-Fi\n\n  * ### Välj nätverk\n\nNu ser du en lista över tillgängliga nätverk. Välj det du vill ansluta dig\ntill. Är inte nätverket du vill ansluta till med på listan? Se till att det är\naktivt samt inom telefonens räckvidd. ​\n\n  * ### Ange eventuellt lösenord\n\nÄr nätverket du vill ansluta till lösenordsskyddat anger du lösenordet nu."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:40+00:00",
+        "last_modified": "2025-05-30T14:31:00.016560",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

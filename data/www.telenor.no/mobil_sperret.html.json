@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_sperret.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 111,
+                "end": 4742,
+                "text": "# Sperre eller åpne abonnement\n\nTrenger du hjelp til å sperre, eller åpne ditt mobil-, eller trådløst\nbredbånds-abonnement? Her finner du hjelpen du trenger.\n\n[Sperre eller åpne abonnement/SIM-\nkort](/kundeservice/mobil/sperret/#sperre)[Sperret Trådløst\nBredbånd](/kundeservice/mobil/sperret/#geolock)[Inkasso/Stengt](/kundeservice/mobil/sperret/#faktura)\n\n## Sperre eller åpne abonnement/SIM-kort\n\nHer finner du informasjon om hva du gjør hvis mobilen din blir frastjålet,\nhvordan du kan melde forsikringssak, og hvordan du kan åpne abonnementet igjen\ndersom mobilen kommer tilrette.\n\n  * #### Sperre/Åpne abonnement\n\n **Sperre abonnement  \n** Vi anbefaler at du sperrer abonnementet så fort som mulig etter at du\noppdager at mobilen er borte. Dette er for å sikre at ikke andre kan ta det i\nbruk. Du sperrer abonnementet ved å låse SIM-kortet, og du kan gjøre dette i\n[Mitt Telenor-appen](/privat/mobil/app/mitt-telenor/) eller på [Mine\nSider](/mine-sider/).\n\n    * Velg **Mobil**\n\n    * Velg **SIM-kort**\n\n    * Velg **Blokker SIM-kort**\n\n    * Skriv inn en 4-sifret kode (denne velger du selv)\n\n    * Trykk på **Blokker SIM-kort**\n\n[Chatboten Telmi](javascript:window.startChat\\('elVWyO09DX'\\)) kan også hjelpe\ndeg med dette.\n\nMerk at abonnementsavgiften fortsetter å løpe selv om SIM-kortet er sperret.\nDu kan [bestille nytt SIM-kort](/kundeservice/mobil/sim-kort/) dersom du\nønsker å bruke abonnementet med en annen mobil.  \n  \n **Åpne abonnement  \n** Dersom mobilen kommer til rette senere, kan du gjenåpne abonnementet ved å\nfølge samme prosedyre og oppgi koden du skrev inn da du sperret abonnementet.\n\n  * #### Jeg har mistet mobilen\n\nDet er flere ting du burde gjøre dersom mobilen din er mistet eller stjålet:\n\n    1.  **Anmeld tyveriet  \n** Er telefonen stjålet må du anmelde tyveriet til politiet før du kan melde\ninn en forsikringssak. Dette gjør du ved å møte opp på en politistasjon eller\nvia nett. Politiet kan også få den stjålne mobilen sperret i EIR, et\ninternasjonalt register som sørger for at mobiltelefoner ikke kan brukes eller\nselges videre.\n\n    2. **Sperre abonnementet  \n** Vi anbefaler at du sperrer abonnementet så fort som mulig etter at du\noppdager at mobilen er borte. Dette er for å sikre at ikke andre kan ta det i\nbruk. Du sperrer abonnementet ved å låse SIM-kortet, og du kan gjøre dette i\n[Mitt Telenor-appen](/privat/mobil/app/mitt-telenor/), på [Mine Sider](/mine-\nsider/):\n\n      * Velg **Mobil**\n\n      * Velg **SIM-kort**\n\n      * Velg **Blokker SIM-kort**\n\n      * Skriv inn en 4-sifret kode (denne velger du selv)\n\n      * Trykk på **Blokker SIM-kort**\n\n[Chatboten Telmi](javascript:window.startChat\\('elVWyO09DX'\\)) kan også hjelpe\ndeg med dette.  \n  \nMerk at abonnementsavgiften fortsetter å løpe selv om SIM-kortet er sperret.\nDu kan [bestille nytt SIM-kort](/kundeservice/mobil/sim-kort/) dersom du\nønsker å bruke abonnementet med en annen mobil.\n\n    3.  **Åpne abonnementet:** Dersom mobilen kommer til rette senere, kan du gjenåpne abonnementet ved å følge samme prosedyre og oppgi koden du skrev inn da du sperret abonnementet.\n\n    4.  **Slett innhold på mobilen og registrer forsikringssak**  \n[ **Les mer om hvordan hvordan du enkelt kan melde inn en\nforsikringssak**](/forsikring/jeg-har-mistet-mobilen/)\n\n  * #### Åpne mobiltelefon som er kommet til rette\n\nNår du anmelder tyveriet til Politiet vil de sperre mobiltelefonen i EIR.\n\nHvis du har funnet/fått tilbake telefonen igjen så må du kontakte Kundeservice\nfor å få den åpnet.\n\n## Sperret Trådløst Bredbånd\n\nHar du fått SMS om bruk utenfor installasjonsadressen?\n\nDersom du tar med deg Trådløst Bredbånd og bruker det andre steder enn\ninstallasjonsadressen vil bli sperret. Du kan [**lese mer om dette i våre\nvilkår**](/privat/vilkar/).\n\nDet kan være ulike grunner til at du har fått varselet. Har du flyttet? Står\nabonnementet hjemme, og du opplever at varslingen er feil? Kontakt\nKundeservice slik at de kan hjelpe deg videre.\n\n## Faktura\n\nHvis du ikke betaler fakturaen din ved forfall, vil du få en purring. Hvis\nfaktura forblir ubetalt for lenge kan abonnementet ditt bli stengt.\n\n  * #### Inkasso og stengt abonnement\n\nHvis du ikke betaler fakturaen din ved forfall, vil du få en purring.\n\nHvis du ikke betaler purringen innen fristen, vil fakturaen kunne gå til\ninkasso. Når fakturaen går til inkasso overtar inkassobyrået kravet fra\nTelenor, og du må betale regningen til dem.\n\nHvis faktura forblir ubetalt for lenge kan abonnementet ditt bli stengt. Hvor\nlang tid det tar varierer for mobil, internett og TV.\n\n **[Les mer om hvordan du kan få åpnet ditt\nabonnement](/kundeservice/faktura/for-sen-betaling/)**"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:41+00:00",
+        "last_modified": "2025-05-30T09:25:44.511193",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

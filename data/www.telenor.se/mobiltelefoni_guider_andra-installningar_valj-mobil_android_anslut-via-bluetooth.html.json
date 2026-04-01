@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_andra-installningar_valj-mobil_android_anslut-via-bluetooth.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 355,
+                "end": 1567,
+                "text": "# Anslut via Bluetooth\n\n## Samsung, Sony och Xiaomi\n\nGenom att använda Bluetooth kan du ansluta din mobil till andra enheter, till\nexempel högtalare och hörlurar.\n\nDen här guiden visar hur du gör i den **senaste versionen av operativsystemet\nAndroid.** Så börja gärna med att se till att det är installerat på din mobil\n– inte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/android/uppdatera-operativsystem/)  \n  \nNu har du senaste versionen installerad, eller hur? Då kör vi!\n\n  * ### Gå till startskärmen och svep uppåt så att menyn öppnas\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Sök på, och välj, \"Bluetooth\"\n\n  * ### Välj \"Bluetooth\"\n\nDe enheter som är tillgängliga och inom räckvidd kommer nu visas. Välj den\nenhet du vill ansluta till.  \n  \nVisas inte enheten? Kolla att bluetooth-funktionen är aktiverad på enheten\nsamt att den befinner sig inom räckvidden.\n\n  * ### Bekräfta eventuell kod\n\nFår du en begäran om sammankoppling, bekräfta koden och välj \"Sammankoppla\".\n\n  \n  \nFår du inte en begäran, ange pin för enheten du försöker koppla upp mot. Den\npinkoden finner du i handboken för enheten."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:14+00:00",
+        "last_modified": "2025-05-30T14:29:52.270634",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

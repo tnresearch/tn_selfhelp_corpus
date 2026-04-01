@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-4g-wlan-mf920v.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 284,
+                "end": 1290,
+                "text": "# DNA Mokkula 4G WLAN MF920V(A)\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-wlan-mf920v/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-4g-wlan-\nmf920v/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-4g-wlan-\nmf920v/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-4g-wlan-\nmf920v/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-mokkula-4g-wlan-\nmf920v/vianrajaus)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje\n(pdf)](/documents/753910/853450/DNA_Matkamokkula_MF971RS2_opas.pdf/)\n\n[Ladda ner manual\n(pdf)](/documents/753910/853450/20170928_DNA_Mokkula_4G_WLAN_MF920V_130x85_SWE_WEB.PDF/)\n\n",
+                "heading": "DNA Mokkula 4G WLAN MF920V(A)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:48+00:00",
+        "last_modified": "2025-06-20T19:11:01.524411",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

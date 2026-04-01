@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_dna-ulkomokkula-5g-mc889a.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 19,
+                "end": 1985,
+                "text": "# DNA Ulkomokkula 5G MC889A\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/kayttoonotto) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/vianmaaritys) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/asetukset)\n\n## Käyttöoppaat pdf-muodossa\n\n[Käyttöopas suomeksi\n(pdf)](/documents/753910/853450/DNA%20Ulkomokkula%205G%20MC889A%20opas.pdf/257f2855-2f09-f288-4b44-541043861705?t=1710938727771)\n\n[Guide på svenska\n(pdf)](/documents/753910/853450/DNA%20Ulkomokkula%205G%20MC889A%20Swedish%20Guide.pdf/8cf7d043-5b19-92b4-6fba-309a7d3b7657?t=1710938769787)\n\n[Lataa pikaopas\n(pdf)](/documents/753910/853450/202404_MC889A_DNA_Ulkomokkula_5G_pikaopas_190x190mm_web%20%281%29.pdf/e1bee1ce-5103-4402-ce8d-1e3c34efa9b7?t=1713254974491)\n\n[Ladda ner snabbguide\n(pdf)](/documents/753910/853450/202403_MC889A_DNA_Ulkomokkula_5G_pikaopas_190x190mm_ruotsi_web.pdf/1a3cf324-2f60-10b4-4d05-61d1a24d06d0?t=1713255034658)\n\n### Katso videolta ohjeet asennukseen\n\nKatso video\n\n### DNA Laatutakuu modeemeille ja mokkuloille\n\nDNA Laatutakuu modeemeille ja mokkuloille varmistaa, että saat luotettavan,\nturvallisen ja suorituskykyisen netin. Helppo käyttöönotto, DNA:n verkkoon\noptimoitu suorituskyky, jatkuvat päivitykset ja 3 vuoden takuu takaavat\nmielenrauhan pitkälle tulevaisuuteen. DNA Laatutakuu tulee takautuvasti\nkaikille DNA:n myymille netin päätelaitteille jotka on ostettu tai joiden\nsopimus on alkanut 1.1.2025 jälkeen.\n\n[ Lue lisää\n](https://www.dna.fi/laatutakuu?itm_source=tukisivut&itm_medium=card&itm_campaign=laatutakuu&itm_format=vakio&itm_content=vakio)\n\n",
+                "heading": "DNA Ulkomokkula 5G MC889A"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:30+00:00",
+        "last_modified": "2025-06-20T19:14:16.383989",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

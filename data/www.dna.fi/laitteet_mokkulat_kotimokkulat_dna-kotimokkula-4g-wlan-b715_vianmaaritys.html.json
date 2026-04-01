@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b715_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 402,
+                "end": 3610,
+                "text": "# DNA Kotimokkula 4G+ WLAN B715\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/b715-k%C3%A4ytt%C3%B6%C3%B6notto/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/vianmaaritys)\n\n##  Vianmääritys\n\nMiten tehdasasetukset palautetaan?\n\nKun mokkula on päällä, paina Reset/Palauta-painiketta teräväkärkisellä\nesineellä noin 30 sekuntia, kunnes mokkulan merkkivalo alkaa vilkkua.\nTehdasasetusten palauttaminen palauttaa asetukset oletusarvoihin. Voit\nmäärittää ne uudelleen sen jälkeen, kun reititin on palautettu\ntehdasasetuksiin.\n\nMitä teen, jos unohdin WiFi-salasanan tai -käyttäjätunnuksen sekä\nverkkopohjaisen hallintasivun salasanan?\n\nPalauta mokkula tehdasasetuksiin ja yritä uudelleen käyttämällä infotarrasta\nlöytyvää oletusarvoista WiFi-salasanaa, käyttäjätunnusta ja\nsisäänkirjautumissalasanaa.\n\nMitä teen, jos mobiiliverkon merkkivalo on punainen tai en saa yhteyttä\nnettiin.\n\n  1. Tarkista, että mikro-SIM-kortti on paikoillaan. Katso SIM-kortin koko ja oikea asennustapa kohdasta ”Käyttöönotto” > ”Mokkulan asennus”.\n  2. Jos ongelma ei poistu, palauta mokkulan tehdasasetukset ja yritä uudelleen.\n  3. Tarkista DNA:lta, onko SIM-kortti poistettu käytöstä.\n\nMitä teen, jos nettiyhteyteni hidastuu?\n\nTarkista mokkulan signaalin merkkivalo. Jos signaali on heikko, käännä mokkula\nympäri tai siirrä se lähemmäksi tukiaseman läheisintä ikkunaa, jotta signaalin\nvastaanotto paranee ([lisätietoa nopeuden parantamisesta](/tuki-\nnetti#liikkuva)).\n\n  1. Jos laite on yhdistetty reitittimeen WiFi-verkolla, kokeile siirtää laitetta saadaksesi paremman signaalin.\n  2. Vaihda WiFi-yhteys 5 GHz:n kaistalle, jos laitteesi tukee sitä.\n  3. Käynnistä mokkula ja laite uudestaan ja yritä uudelleen.\n\nMiten yhdistän mokkulan WiFi Protected Setup (WPS) -toiminnolla?\n\n  1. Varmista, että käyttölaitteessa on WiFi otettu käyttöön.\n  2. Muodosta 2,4 GHz:n WPS-yhteys pitämällä mokkulan WPS-painike painettuna 2-5 sekuntia tai muodosta 5 GHz:n WPS-yhteys pitämällä mokkulan WPS-painike painettuna yli viisi sekuntia.\n\nMiksi en voi käyttää mokkulan nettipohjaista hallintasivua?\n\n  1. Varmista, että tietokone on yhdistetty mokkulaan Ethernet-kaapelilla tai WiFi-yhteydellä.\n  2. Varmista, että tietokone on asetettu hakemaan IP-osoite ja DNA-palvelimen osoite automaattisesti.\n  3. Käynnistä selain uudelleen tai kokeile toista nettiselainta.\n  4. Jos ongelma ei poistu, palauta mokkulan tehdasasetukset.\n\nJos sinulla on ongelmia mokkulan kanssa:\n\n  1. Käynnistä mokkula uudelleen.\n  2. Palauta mokkulan tehdasasetukset.\n  3. Katso verkkopohjaisen hallintasivun ohjeosio.\n  4. Ota yhteyttä DNA:han.\n\n",
+                "heading": "DNA Kotimokkula 4G+ WLAN B715"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:12:30+00:00",
+        "last_modified": "2025-06-20T18:54:16.298924",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

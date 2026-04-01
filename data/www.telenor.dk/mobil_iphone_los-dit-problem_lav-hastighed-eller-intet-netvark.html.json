@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_iphone_los-dit-problem_lav-hastighed-eller-intet-netvark.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1618,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Lav hastighed eller intet netværk\n\nOplever du pludselig, at din mobil ikke kan gå på nettet, eller at hastigheden\ner væsentligt lavere end normalt? Prøv at gennemgå tjeklisten herunder.\n\n  1. Sluk din mobil og vent 5 sekunder, før du starter den igen. En genstart løser meget ofte problemet.\n  2. Opdater din mobil til det nyeste software. Gå ind i mobilens indstillinger, og se om der er ny opdatering klar til din mobil\n  3. [Tjek vores driftstatus](/kundeservice/drift-og-dakning/driftstatus/tjek-driftstatus/). Måske er der midlertidige problemer med mobilnetværket\n  4. [Tjek vores dækningskort](/kundeservice/drift-og-dakning/dakning/dakningskort/). Måske befinder du dig i et område, hvor dækningen er dårlig?\n  5. Kan du tage batteriet ud af din mobil? Sluk mobilen og tag batteriet ud. Vent et øjeblik og sæt det i mobilen igen. Prøv nu at tænde mobilen.\n\n## Er der noget, der forringer dit signal?\n\n**Bakker og træer**  \nStår du i en lavning, eller er du omgivet af bakker eller træer, kan\nnetværkssignalet have svært ved at nå din mobil.\n\n**Vejr og vind  \n** Mobilsignalet bliver påvirket af årstiden. Den bedste mobilsignaldag er\nfaktisk en frostklar vinterdag. Mens våde blade, regn og sne vil dæmpe\nsignalet.\n\n**Bebyggelse  \n** Er der en stor betonbygning mellem dig og nærmeste sendemast, sænker murene\nsignalstyrken. Og er du inden i en bygning med tykke murer, kan du også opleve\ndårligere signal.\n\n**Mange mobiler på ét sted  \n** Står du midt i en menneskemængde, kæmper din mobil med mange andre mobiler\nom at fange signalet. Det kræver en del af din mobilantenne at kunne holde\nsignalet stabilt."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:23+00:00",
+        "last_modified": "2025-05-21T15:15:57.408455",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

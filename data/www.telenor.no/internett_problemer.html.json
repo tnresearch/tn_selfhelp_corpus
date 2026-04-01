@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_problemer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 121,
+                "end": 1515,
+                "text": "# Løs problemer med Internett\n\nProblemer med tregt, ustabilt eller manglende nett? Prøv våre veiledninger for\nå feilsøke forbindelsen, eller sjekk om det er meldt feil i ditt område.\n\n## Smart feilsøking\n\nLøs ditt internett problem eller meld feil direkte til våre feilrettere i vår\nnye Smart feilsøkingstjeneste.\n\nGjelder kun internett over fiber eller coax\n\n[Gå til Mine Sider for å feilsøke](/mitt-telenor/feilsok/)\n\n## Har du forsøkt å skru utstyret av og på igjen?\n\nI mange tilfeller er det kun en restart av utstyret som trengs for å fikse\nproblemer med hjemmenettet!\n\nFør du fortsetter feilsøkingen, anbefaler vi at du restarter både **ruter,\nforsterker og fiberboks/modem/antenneadapter** ved å trekke ut strømmen, la\ndet stå uten strøm en stund og så koble til igjen. Restart også **din\nmobiltelefon eller pc** ved å skru den helt av og så på igjen.\n\nLøser ikke dette problemet, velg problemstillingen du opplever under for å\nfortsette feilsøking.\n\n### Slik restarter du ruter og forsterker:\n\n  1. Trekk ut strømkontakten eller bruk av/på-bryteren\n\n  2. La utstyret stå uten strøm i 10 sekunder\n\n  3. Koble til strømmen igjen. NB! Det kan ta noen minutter før ruteren kobler seg til Internett igjen.\n\n### Slik restarter du fiberboks eller modem\n\n  1. Ta ut strømkontakten\n\n  2. Vent i 1 minutt\n\n  3. Sett inn strømkontakten\n\nNB: Det kan ta noen minutter før forbindelsen gjenopprettes."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:32+00:00",
+        "last_modified": "2025-05-30T08:59:58.261126",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

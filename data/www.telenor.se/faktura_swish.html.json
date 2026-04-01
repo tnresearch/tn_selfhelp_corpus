@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/faktura_swish.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 268,
+                "end": 996,
+                "text": "#  Betala din faktura med Swish\n\nOm du vill kan du betala dina fakturor med Swish i Mitt Telenor.\n\nBetalningen sker smidigt och du slipper fylla i ocr-nummer, summa, etc. Mitt\nTelenor finns både här [på webben](/mitt-telenor/) och som[\napp](/handla/tjanster/appar/mitt-telenor/).\n\n##  \nBra att veta\n\n  * Du behöver inte vara orolig att råka betala en faktura med Swish flera gånger. Det går helt enkelt inte.\n  * Du kan inte ladda kontantkort eller köpa extra surf med Swish.\n  * Det går inte att schemalägga eller tidsinställa betalningar.\n  * Har du autogiro? Då betalas ju din faktura automatiskt varje månad, och du varken kan eller behöver betala den med Swish.\n  * Du kan inte ta emot återbetalningar från oss via Swish.\n\n",
+                "heading": " Betala din faktura med Swish"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:42+00:00",
+        "last_modified": "2025-05-30T13:59:39.750424",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

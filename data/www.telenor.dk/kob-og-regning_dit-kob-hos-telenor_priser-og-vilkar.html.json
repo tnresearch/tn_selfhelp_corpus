@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_dit-kob-hos-telenor_priser-og-vilkar.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 402,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Vilkår\n\nDer gælder forskellige vilkår for dit abonnement, afhængigt af hvornår du har\nkøbt det. Er du i tvivl om, hvornår dit abonnement er købt, kan du tjekke [Mit\nTelenor](/mit-telenor/) eller [kontakte os](/kundeservice/kontakt/).\n\nFor at læse abonnementsbetingelserne skal du bruge programmet Adobe Reader,\n[som du kan downloade gratis her](https://get.adobe.com/dk/reader/ \"Hent Adobe\nReader\")."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:27+00:00",
+        "last_modified": "2025-05-21T15:15:48.201266",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

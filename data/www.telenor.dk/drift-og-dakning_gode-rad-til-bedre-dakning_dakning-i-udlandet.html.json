@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/drift-og-dakning_gode-rad-til-bedre-dakning_dakning-i-udlandet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1152,
+                "reason": "Selected by user",
+                "start": 386,
+                "text": "##  Spørgsmål og svar om dækning i udlandet\n\nHvad skal jeg være særlig opmærksom på, når jeg befinder mig på en færge?\n\nNår du sejler med færge i internationalt farvand, så rækker mobilnetværket\nikke altid, og du bliver koblet til et sattelitnetværk, som takserer prisen på\nforbrug uden for vores indflydelse. Du bør derfor sørge for at slå mobildata\nog roaming fra. Brug i stedet evt. tilgængeligt WiFi ombord.\n\nHvad sker der, når jeg slår mobildata til og fra?\n\nNår du slår mobildata fra, forhindres apps og tjenester i at bruge\nmobilnetværket til at oprette forbindelse til internettet.\n\nNår mobildata er slået til, bruger apps og tjenester din mobildataforbindelse,\nnår der ikke er noget tilgængeligt WiFi-netværk, eller hvis du har slået WiFi-\nforbindelsen fra."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:18+00:00",
+        "last_modified": "2025-05-21T15:15:37.352252",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_annat_avsluta-abonnemang-pa-tv-bredband-eller-hemtelefoni-via-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 324,
+                "end": 3675,
+                "text": "#  Avsluta eller överlåta bredband eller tv\n\nBehöver du avsluta ditt bredbands- eller tv-abonnemang, kanske för att du ska\nflytta? Då har du några olika alternativ.\n\nHandlar det om att avsluta ett mobilabonnemang [hittar du information\nhär](/support/mobiltelefoni/abonnemang/hantera-abonnemang/avsluta-\nabonnemang/).\n\nEnklast!\n\nTa med\n\nFör att kolla om du kan ta med dig ditt abonnemang söker du på din nya adress\ni vårt adressök. Erbjuder vi samma tjänster som du har nu kan du flytta med\ndig abonnemangen. Det enda du behöver göra är att ringa oss på [020-222\n222](tel:020222222) och berätta att du ska flytta.  \n  \n[Adressök bredband](/handla/bredband/)  \n  \n[Adressök tv](/handla/tv/)\n\nWin-win!\n\nÖverlåta\n\nOm du ska flytta och har bindningstid på ditt abonnemang är det absolut bästa\natt överlåta abonnemanget – förslagsvis till den som ska flytta in efter dig.\nDu slipper att få en hög slutfaktura och krångel med att returnera utrustning.\nOch den som tar över slipper startavgifter och kan börja använda tjänsten\nsamma dag som hen flyttar in.  \n  \n[Mer om att flytta](/support/om-du-ska-flytta/)  \n  \n[Mer om överåtelse](/support/priser-villkor-och-blanketter/fast-bredband-tv-\ntelefoni/overlatelse2/overlata-tv--eller-bredbands-abonnemang/)\n\nAvsluta eller ändra\n\n**Snabbt och säkert!** Ring oss på nummer [020-222 222](tel:020222222)  \n **Säkert!** Skriv till oss via [Mina meddelanden i Mitt Telenor](/mitt-\ntelenor/)  \n **Har du inget Bank-Id?** Använd vårat [kontaktformulär](/support/old-\nkontakta-oss/skriv-till-oss/)\n\n**Telefontider:**  \nVardagar 8-18\n\nOm du kontaktar oss via Mina meddelanden i Mitt Telenor eller via\nkontaktformuläret så blir din uppsägningsdag samma datum som vi mottar ditt\nmeddelande.\n\nHantera abonnemang vid dödsfall\n\nNär en person har avlidit avslutas abonnemanget automatiskt. Vill du i stället\natt abonnemanget ska överlåtas behöver du meddela oss.\n\n[Här kan du läsa om hur allt går till](/support/det-har-hander-med-abonnemang-\nvid-dodsfall/)\n\n## Vanliga frågor om att avsluta abonnemang\n\n  * Vilken uppsägningstid har mitt abonnemang?\n\n### Mobiltelefoni\n\nUppsägningstiden för mobilabonnemang är en månad.\n\nDu hittar ditt avtal i Mitt Telenor - antingen [här på\nwebben](/link/a4531ddbfeef48d3a256e369df95234d.aspx) eller i\n[appen.](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx)\n\n### Bredband och TV\n\nOlika abonnemang har olika uppsägningstider. Vad som gäller för ditt\nabonnemang hittar du i de kampanjvillkor som du fick när du beställde\nabonnemanget. Från och med 1 maj 2014 är uppsägningstiden för alla nytecknade\noch uppgraderade abonnemang 1 månad. Tecknade du ditt abonnemang innan 1 maj\n2014 är uppsägningstiden i normala fall 3 kalendermånader.\n\n  * Hur tar jag reda på min bindningstid?\n\nDu ser eventuell bindningstid i Mitt Telenor [här på\nwebben](/link/a4531ddbfeef48d3a256e369df95234d.aspx). Har du mobilabonnemang\nser du det även i vår [app](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\n\n  \n[Information om **uppsägningstid** hittar du\nhär](/link/8ea002ab5007459a87a3d2f6bf776146.aspx)\n\n  * Kan jag pausa mitt abonnemang?\n\nDet går inte att pausa mobilabonnemang eller bredbandsabonnemang. Men har du\nmobilt bredband kan du byta surfmängd till 1GB när du vill, till exempel när\ndu lämnar sommarstugan inför vintern. Du byter surfmängd i [Mitt\nTelenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx).\n\n",
+                "heading": " Avsluta eller överlåta bredband eller tv"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:12+00:00",
+        "last_modified": "2025-05-30T14:01:30.522443",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

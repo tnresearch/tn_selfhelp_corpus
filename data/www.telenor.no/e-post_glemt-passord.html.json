@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/e-post_glemt-passord.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1763,
+                "heading": "Forgotten Password for Online Email",
+                "start": 119,
+                "text": "# Glemt passordet til din Online e-post?\n\nLogg inn med Telenor ID og følg stegene for å få et nytt passord. Du kan velge\nhvilken e-postkonto du vil endre passordet til, dersom du har flere.\n\n### Få nytt passord til din Online e-post\n\nDu må være logget inn med Telenor ID for å få et nytt passord. Har du ikke\nTelenor ID får du muligheten til å opprette en ny. Klikk på knappen for å gå\nvidere.  \nNår du kommer inn på Mine Sider, trykker du på **Endre passord** på den\ne-postkontoen du vil endre på.\n\n[Logg inn med Telenor ID](/mitt-telenor/e-post/)\n\nHar du problemer med å logge inn med Telenor ID? [Få hjelp til innlogging\nher.](/telenor-id/hjelp-med-innlogging/)\n\n### Regler for valg av passord:\n\n  * Velg et passord uten bokstavene æ, ø, å og som består av minst 12 tegn. \n\n  * Passordet må inneholde minst ett tall, ett spesialtegn (@$!%*?&), én stor bokstav, og én liten bokstav.\n\n  * #### Fått byttet passord uten at du har gjort det selv? \n\nHvis vi har mistanke om at passordet ditt er på avveie så vil det eksisterende\npassordet bli deaktivert. Du må da bytte til nytt passord på e-postkontoen.\n\nHvis dette skjer ofte, bør du vurdere å oppdatere sikkerheten på din pc eller\naktivere antivirus-programvare for å minimere risikoen.\n\n### Passord på SMS eller brevpost?\n\nNå som Online e-post er flyttet over til ny e-postløsning, er det ikke lengre\nmulig å sende SMS \"Passord\" til 1980 for å få nytt passord.  \nVi kan heller ikke sende ut nytt e-postpassord på brevpost, blant annet av\npersonvernhensyn.  \n  \nHvis du ikke får byttet passord på Mine Sider, [ta kontakt med oss på\nkundeservice](/kundeservice/kontakt-oss/), så hjelper vi deg!"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:44+00:00",
+        "last_modified": "2025-05-30T08:19:28.950047",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

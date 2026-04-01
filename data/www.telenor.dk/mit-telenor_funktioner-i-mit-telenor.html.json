@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_funktioner-i-mit-telenor.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1767,
+                "reason": "Selected by user",
+                "start": 1236,
+                "text": "# Få overblik over abonnementer og indstillinger\n\nI Mit Telenor finder du et overblik over alle dine abonnementer. Under menuen\n”Abonnementer” kan du se alle dine aftaler for mobil, mobilt internet og\ninternet – og hvis du har Telenor Trin-abonnementer, er det også her, du kan\nskabe dig det store overblik.\n\nDu kan se, hvad abonnementerne hedder, og hvor meget du betaler om måneden.\nTryk på ”Se detaljer” ud for ethvert abonnement for at finde oplysninger om\nalt fra kontonummer og bindingsperiode til simkort-nummer og puk-kode."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:26+00:00",
+        "last_modified": "2025-05-21T15:15:51.893315",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

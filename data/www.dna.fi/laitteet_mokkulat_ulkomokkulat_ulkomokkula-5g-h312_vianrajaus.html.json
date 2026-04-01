@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_ulkomokkula-5g-h312_vianrajaus.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 385,
+                "end": 2182,
+                "text": "# DNA Ulkomokkula 5G H312\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n[ Ominaisuudet\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/ominaisuudet)\n[ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/kayttoonotto)\n[ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/vianrajaus)\n\n##  Vianrajaus\n\nUlkomokkulan WiFi-yhteyttä ei löydy\n\nUlkomokkulan WiFi poistuu käytöstä, mikäli siihen ei yhdistetä laitetta kahden\ntunnin kuluessa. WiFin saa aktivoitua uudelleen Huawei AI Life -sovelluksella,\nnettiselaimella avattavan hallintasivun avulla tai uudelleenkäynnistämällä\nUlkomokkulan.\n\nSaatat myös olla liian kaukana Ulkomokkulasta. Siirry lähemmäs ja yritä\nuudelleen.\n\nUlkomokkulan WiFi on hidas\n\nUlkomokkulan WiFi-yhteys on tarkoitettu ainostaan laitteen asetusten\nmäärittämistä varten. Nettikäyttöä varten yhdistä erillinen WiFi-reititin\n(esim. Google WiFi) Ulkomokkulaan.\n\nAlkuperäisten asetusten palauttaminen\n\nYhdistä Ulkomokkula virtalähteeseen ja käynnistä. Odota, kunnes Ulkomokkulan\nmerkkivalo palaa jatkuvasti. Paina virtalähteessä olevaa Reset-painiketta\nkapeakärkisellä esineellä yli 5 sekunnin ajan, kunnes Ulkomokkulan merkkivalo\nvilkkuu.\n\nTehdasasetusten palauttamisen jälkeen Ulkomokkulan asetukset on määriteltävä\nuudestaan.\n\nMerkkivalo ei syty käynnistäessä\n\nMikäli Ulkomokkulaa käytetään alle -30 °C:n lämpötilassa, täytyy sen\nesilämmetä hetken ajan ennen kuin se alkaa toimia. -40 °C:n lämpötilassa\nesilämmitys kestää noin 10 minuuttia. Mikäli Ulkomokkulan käyttöympäristön\nlämpötila on todella alhainen, odota hetki ja tarkista toimiiko Ulkomokkula\noikein.\n\n",
+                "heading": "DNA Ulkomokkula 5G H312"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:57+00:00",
+        "last_modified": "2025-06-20T19:14:54.604630",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

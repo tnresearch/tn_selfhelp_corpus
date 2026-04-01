@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobilt-bredband_router-och-modem_zte_uppdatera-mjukvaran-for-zte.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 374,
+                "end": 1315,
+                "text": "# Uppdatera mjukvaran för ZTE\n\nHär visar vi hur du uppdaterar mjukvaran i en router från ZTE, till exempel\nZTE MF910.\n\n  * ### Se till att en strömkälla är kopplad till enheten.\n\nDet är viktigt att batteriet inte tar slut under tiden mjukvaran uppdateras.\n\n  * ### Öppna webbläsaren och skriv in http://192.168.0.1 i adressfältet\n\n  * ### Du kommer nu till modemets administrationsgränssnitt\n\nOm du inte har bytt lösenord är ditt lösenord admin. Det är mycket viktigt att\ndu för framtiden [byter lösenord. ](/support/mobilt-bredband/router-och-\nmodem/zte/kom-igang-och-byt-losenord/)\n\n  * ### Klicka på \"Inställningar\" > \"Enhetsinställningar\" > \"Uppdatering\" och därefter på knappen \"Sök\"\n\n  * ### Om en ny mjukvara finns tillgänglig kommer ett meddelande upp\n\nTryck \"Ja\" för att påbörja uppdateringen.\n\nDet är mycket viktigt att du inte avbryter installationen genom att stänga av\nenheten eller göra den strömlös (om batterinivån är låg).\n\n",
+                "heading": "Uppdatera mjukvaran för ZTE"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:29+00:00",
+        "last_modified": "2025-05-30T14:21:33.780740",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

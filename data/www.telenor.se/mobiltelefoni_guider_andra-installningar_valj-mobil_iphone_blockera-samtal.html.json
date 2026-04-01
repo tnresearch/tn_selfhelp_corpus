@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_andra-installningar_valj-mobil_iphone_blockera-samtal.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 350,
+                "end": 1095,
+                "text": "# Blockera samtal\n\nVill du inte ha samtal från ett visst telefonnummer? Så här gör du för att\nblockera oönskade nummer.\n\nDen här guiden visar hur du gör i det **senaste operativsystemet (iOS)** från\nApple. Så börja gärna med att se till att det är installerat på din mobil –\ninte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/iphone/uppdatera-operativsystemet/)  \n  \nNu har du senaste iOS installerat, eller hur? Då kör vi!\n\n  * ### Gå till startskärmen\n\n  * ### Klicka på telefon-ikonen\n\n  * ### Klicka på \"Senaste\"\n\n  * ### Välj det telefonnummer du vill blockera genom att klicka på i-symbolen\n\n  * ### Scrolla ner, välj \"Blockera\""
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:59+00:00",
+        "last_modified": "2025-05-30T14:31:41.355138",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

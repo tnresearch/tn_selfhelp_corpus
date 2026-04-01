@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_surf_kop-extra-surf.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 344,
+                "end": 2131,
+                "text": "#  Köp extra surf\n\nOavsett om du är hemma eller utomlands kan du fylla på din surf till ett fast\npris om surfen börjar ta slut eller om du behöver mer surf en månad.\n\n[ ](/mitt-telenor/)\n\nAllt om att köpa extra surf\n\n  * 1 GB kostar 99 kr\n  * 3 GB kostar 149 kr\n  * 10 GB kostar 249 kr\n  * **Du köper mer surf i Mitt Telenor** – antingen här [på webben](/mitt-telenor/) eller i [vår app. ](/archive/2019/mitt-telenor-old/)Appen kommer du alltid åt, även om din surf har tagit slut.\n  * Du kan även beställa mer surf via sms. Skicka \"LADDA1/3/10GB\" till 222. Det vill säga om du vill ha 3GB skriver du \"LADDA3GB\". \n  * Surfen laddas på direkt och kan användas nästa månad ut.\n  * Är ni flera användare? Din nya surf är tillgänglig för alla användare, du kan däremot inte fördela surfen.\n\nBehöver du köpa extra surf ofta? Då kanske du ska byta surfmängd helt enkelt.\nDet är smidigare än du tror! [Läs mer om att byta\nsurfmängd](/support/mobiltelefoni/abonnemang/surf/byta-surfmangd/)\n\n## Allt om att köpa extra surf\n\n  * 1 GB kostar 99 kr\n\n  * 3 GB kostar 149 kr\n\n  * 10 GB kostar 249 kr\n\n  * **Du köper mer surf i Mitt Telenor** – antingen här [på webben](/mitt-telenor/) eller i [vår app. ](/archive/2019/mitt-telenor-old/)Appen kommer du alltid åt, även om din surf har tagit slut.\n\n  * Du kan även beställa mer surf via sms. Skicka \"LADDA1/3/10GB\" till 222. Det vill säga om du vill ha 3GB skriver du \"LADDA3GB\". \n\n  * Surfen laddas på direkt och kan användas nästa månad ut.\n\n  * Är ni flera användare? Din nya surf är tillgänglig för alla användare, du kan däremot inte fördela surfen.\n\nBehöver du köpa extra surf ofta? Då kanske du ska byta surfmängd helt enkelt.\nDet är smidigare än du tror! [Läs mer om att byta\nsurfmängd](/support/mobiltelefoni/abonnemang/surf/byta-surfmangd/)\n\n",
+                "heading": " Köp extra surf"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:40+00:00",
+        "last_modified": "2025-05-30T14:27:26.021738",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

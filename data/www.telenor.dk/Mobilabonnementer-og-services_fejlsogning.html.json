@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_fejlsogning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2578,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Inaktivt SIM eller ingen tjeneste\n\nStår der **ingen tjeneste** eller **inaktivt simkort** på din telefon, har den\nikke har registreret dit simkort. Her kommer en række mulige grunde til,\nhvorfor dit simkort ikke er registreret:\n\n  * **Du er ny kunde hos Telenor  \n** Vores system har endnu ikke registreret dit simkort. Ring til\n[kundeservice](/kundeservice/kontakt/) på 72 100 100, så hjælper vi med at få\ndet aktiveret\n\n  * **Din mobil er spærret  \n** Mobilen spærres fx, hvis du har overset en regning eller har overskredet\ndit maksbeløb på forbrugskontrol Log ind på [Mit Telenor](/mit-telenor/), og\nbetal din regning, eller hæv forbrugskontrol\n\n  * **Du har fået ny mobil, og dit gamle simkort er forældet  \n** Så skal du bestille et nyt simkort - se dine muligheder længere nede på\nsiden\n\n  * **Du har ikke brugt dit simkort i seks måneder eller længere  \n** Hvis du ikke har brugt dit simkort i en længere periode, skal du bestille\net nyt\n\n  * **Du har opsagt dit mobilabonnement  \n** Hvis du har opsagt dit abonnement, deaktiveres dit simkort. Se vores\nabonnementer [her](/shop/abonnementer/abonnementer-til-dig/), hvis du ønsker\net nyt abonnement eller kontakt os på 72 100 100\n\n## Passer ingen en af de ovenstående på dig?\n\nPasser intet af ovenstående på dig, kan du prøve at aktivere dit simkort ved\nat gøre følgende:\n\n  * Hvis du har et fysisk simkort, kan du prøve at slukke din mobil og tage simkortet ud. Rens simkortet forsigtigt med en tør og ren klud. Indsæt simkortet igen og tænd mobilen\n  * Indsæt simkortet i en anden mobil. Virker simkortet i den anden mobil, tyder det på, at din mobil trænger til en softwareopdatering\n\n## Få et nyt SIM\n\nHar du stadig problemer med dit simkort, har du mulighed for at bestille en\nnyt med postforsendelse eller få et nyt med det samme ved at henvende dig i en\nTelenor-butik. Et nyt fysisk simkort koster 49 kr.\n\n  * **Nyt fysisk simkort**  \nHvis du gerne vil have et nyt simkort med det samme, skal du henvende dig i en\n[Telenor-butik](/find-butik/), hvor vi kan hjælpe dig med et nyt. Hvis du kan\nvente, har du mulighed for at ringe til vores kundeservice på 72 100 100 – vi\nsender dit nye simkort med posten samme dag. Du kan også bestille et nyt\nsimkort på [Mit Telenor](/mit-telenor/), hvorefter det vil blive sendt til dig\nmed posten\n\n  * **Nyt eSIM**  \neSIM er et smart og digitalt alternativ til det fysiske simkort. Med eSIM\ngenereres en ny QR-kode i løbet af få minutter, og det koster dig ikke noget.\neSIM er gratis hos Telenor. Læs mere om\n[eSIM](/kundeservice/Mobilabonnementer-og-services/opsatning/esim/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:48+00:00",
+        "last_modified": "2025-05-21T15:15:26.786075",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

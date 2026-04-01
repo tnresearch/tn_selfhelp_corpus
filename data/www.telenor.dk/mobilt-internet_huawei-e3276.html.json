@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_huawei-e3276.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1779,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Lav hastighed på Mobilt Bredbånd\n\nMobilt Bredbånd kører over det mobile datanetværk. Det betyder, at hastigheden\nkan svinge afhængt af, hvor du befinder dig, om du fx har opdateret din\ncomputer / tableteller om du har flere online-programmer åbne på samme tid.\n\nDin hastighed vil automatisk falde, hvis du har brugt din datamængde for denne\nmåned – præcis som du kan opleve med din mobil, hvis du sidst på måneden har\nbrugt din datapakke.\n\n[Tjek din 4G-dækning](/kundeservice/drift-og-dakning/dakning/dakningskort/\n\"Tjek din 4G-dækning\")  \n[Tjek dit dataforbrug](/privat/mit-telenor/mobil-selvbetjening/forbrug/ \"Tjek\ndit dataforbrug\")  \n[Læs mere om iPad og lav hastighed](/kundeservice/mobilt-internet/ipad/lav-\nhastighed/ \"Læs mere om iPad of lav hastighed\")\n\n**Løs problemet hurtigt**\n\n  1. Tjek din [dækning](/kundeservice/drift-og-dakning/dakning/dakningskort/ \"Dækningskort\")\n  2. Luk åbne programmer, som bruger din internetforbindelse  \nVent ca. 30 sekunder og gå på internettet igen\n\n  3. Genstart din tablet / computer og gå online igen\n\n## Hvad kan blokere dit signal?\n\n**Bakker og træer:** Står du i en lavning, eller er du omgivet af bakker eller\ntræer, kan netværkssignalet have svært ved at nå din mobil.\n\n**Vejr og vind:** Mobilsignalet bliver påvirket af årstiden. Den bedste\nmobilsignaldag er faktisk en frostklar vinterdag. Mens våde blade, regn og sne\nvil dæmpe signalet.\n\n**Bebyggelse:** Er der en stor betonbygning mellem dig og nærmeste sendemast,\nsænker murene signalstyrken. Og er du inde i en bygning med tykke mure, kan du\nogså opleve dårligere signal.\n\n## Er din hastighed stadig lav?\n\n[Kontakt os](/kundeservice/kontakt/), hvis din forbindelse ikke er blevet\nbedre. Vi kan bedst hjælpe dig, hvis du har dit udstyr lige ved hånden, når du\nringer.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:34+00:00",
+        "last_modified": "2025-05-21T15:16:06.725975",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

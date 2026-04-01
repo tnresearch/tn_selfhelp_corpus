@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 4053,
+                "end": 5884,
+                "text": "## Vanliga frågor om mobilabonnemang\n\n  * Hur ser jag när jag tecknade mitt mobilabonnemang?\n\nDet ser du genom att logga in i Mitt Telenor. Där hittar du dina avtal. Mitt\nTelenor finns både [här på\nwebben](/link/a4531ddbfeef48d3a256e369df95234d.aspx) och som\n[app](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\n\n  * Hur går det med min nummerflytt?\n\nOm du har valt att flytta ditt mobilnummer till Telenor från en annan operatör\nkan du se status på flytten i Mitt Telenor – antingen här [på\nwebben](/link/a4531ddbfeef48d3a256e369df95234d.aspx) eller i[\nappen](/link/f80d97c00f0d437fbce32ae0510e86ed.aspx).\n\n  \nDär ser du även ditt tillfälliga nummer som du kan använda innan flytten är\ngenomförd.  \n  \n[Mer om att flytta ditt nummer till eller från\nTelenor](/link/6d4c5eb9c1b64f5fbbfbf2237b92d400.aspx)\n\n  * Hur uppgraderar jag mobilen med Telenor Change?\n\nDet gör du i en av [våra\nbutiker](/link/28137742ca7249e2abe4b813fdb8c583.aspx). Ta med din gamla mobil\nså att vi kan besiktiga den. Tänk på att din gamla mobil måste vara i [okej\nskick](/link/7701e66610884224af0402a27bf13ea2.aspx).\n\n[Läs mer om vad som krävs för att få uppgradera\nmobilen](/link/3a3fff6a51ce46b3973b1016a3a1eb35.aspx)\n\n  * Hur vet jag att det är Telenor som ringer?\n\nDet kan du läsa om på vår sida om [kundkontakt, under rubriken\n\"Telefonförsäljning\"](/link/07ce73e097bd43b0a62b139ddb01ce79.aspx#telefonforsaljning)\n\n  * Hur vet jag att jag kan uppgradera min mobil till en ny?\n\nDet ser du i Mitt Telenor. Antingen [här på\nwebben](/link/a4531ddbfeef48d3a256e369df95234d.aspx) eller i\n[appen](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx \"Mitt Telenor\").\n\nSe fler\n\nFixa själv i Mitt Telenor\n\nI Mitt Telenor-appen kan du bland annat:\n\n  * Kolla hur mycket du har surfat\n  * Fördela surf\n  * Se när du kan byta mobil \n  * Se hur många delbetalningar du har kvar"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:17+00:00",
+        "last_modified": "2025-05-30T14:22:24.908968",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

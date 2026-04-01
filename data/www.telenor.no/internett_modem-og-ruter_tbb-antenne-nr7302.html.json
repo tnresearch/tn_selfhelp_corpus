@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_tbb-antenne-nr7302.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 193,
+                "end": 4965,
+                "text": "# Antenne NR7302 - Trådløst Bredbånd\n\nHer finner du hjelp og veiledninger for oppsett av Trådløst Bredbånd med\nfastmontert utendørsantenne - Zyxel NR7302\n\n## Om Trådløst Bredbånd\n\nTrådløst Bredbånd er et sikkert og fremtidsrettet bredbånd til hjemmet ditt\nover et mobilnett i verdensklasse. Trådløst Bredbånd finnes i to utgaver - en\nny versjon med utendørs antenne, mottaker eller antenneadapter inne og vanlig\ntrådløs ruter, og en eldre versjon med egen type ruter.  \nHar du vår forrige versjon av utendørs antenne, kan du lese mer om den her -\n[Zyxel NR7101](/kundeservice/internett/modem-og-ruter/tbb-antenne-nr7101/).\nHar du den eldste utgaven, kan du lese mer om den her - [Huawei\nB818](/kundeservice/internett/modem-og-ruter/huawei-b818/).\n\n* * *\n\n## Antennemontering\n\n **Skal du sette opp og montere utendørs antenne selv?**  \nHer finner du veiledning for hvordan du gjør dette:\n[Antennemontering](/kundeservice/internett/modem-og-ruter/montere-antenne/)\n\n **Har du bestilt montør?**  \nDa er SIM-kort allerede installert og montøren setter opp antennen for deg.\nDet eneste du trenger å gjøre for å komme på nett er å koble deg på med din\ntrådløse ruter. Under finner du en veiledning for hvordan du gjør dette.\n\n## Enkle steg for å komme på nett\n\nFremgangsmåten under vises med vår [WiFi Ruter\nII](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/), men du kan følge\nsamme steg med andre rutere.\n\n  * #### Koble til antenneadapter (PoE)\n\nKoble nettverkskabel mellom LAN-kontakt i PoE/antenne-adapter og blå WAN-\nkontakt i WiFi Ruter II.\n\nAntenneadapteret ser ut som et vanlig svart strømadapter, med to utganger\nmerket LAN og POE. Kabelen som står i PoE-utgangen går ut til selve antennen,\nmens LAN er den som skal brukes for videre kabling inne.\n\n  * #### Koble nettverkskabel til ruter\n\nHvis du ønsker å koble til datamaskin, T-We boks eller andre enheter med\nkabel, kobler du nettverkskabel mellom utstyret og de gule LAN-portene på\nruteren.\n\n  * #### Koble på strømforsyning og skru på ruter\n\nKoble til strømforsyning til ruteren og skru den på.\n\nTrådløst Bredbånd krever strøm via ordinært strømnett på adressen (230V) for\ntilkobling av antenne/ruter. Eventuelle feil eller mangler ved tjenesten som\nfølge av at du velger å koble antennen til et svakstrømsanlegg med\n230V-omformer, er ditt ansvar. Dersom du likevel, og på eget ansvar, velger å\nbruke et svakstrømsanlegg, må denne være egnet for finelektronikk.\n\n  * #### Vent til øverste lampe lyser grønt\n\nDette kan ta litt tid. Ikke slå av WiFi Ruter mens dette pågår.  \nNår øverste lys er grønt er ruteren tilkoblet internett.\n\nLyser ikke øverste lys grønt? Sjekk at alle kabler er koblet riktig\n\nHvis du ikke finner noe feil, ring oss på 915 09 000.\n\n  * #### Koble til WiFi\n\nFølg instruksene under WiFi Ruter for å motta nettverksnavn og passord til\nditt trådløse nettverk.\n\n    *  **Send en SMS med kodeordet “wifi” til 2000 med den åttesiffrede koden som står på merkelappen.  \n** Snu ruteren på hodet og se på merkelappen som er klistret på under. Husk\nmellomrom mellom “wifi” og koden.\n\n      * Har du ikke mottatt noe svar på SMS etter et par minutter? Sjekk at alle kabler er koblet riktig, og at ruteren har strøm (nederste lampe skal lyse stabilt hvit). Hvis du ikke finner noe feil, ring oss på 915 09 000.\n\n    *  **Du mottar en ny SMS med nettverksnavn og passord.  \n** Gå inn på innstillinger på din mobiltelefon for å koble deg til det\ntrådløse nettet du fikk på SMS.\n\n**Tips:** For at du enklest får opp alle dine enheter på det nye trådløse\nnettet, så bør du endre nettverksnavn og passord til det du hadde fra før.\nDette gjøres enkelt ved å gå inn på Mitt WiFi:\n[wifi.telenor.no](http://wifi.telenor.no/) når du er på hjemmenettet ditt.\n\n### Slik kobler du opp din WiFi Ruter II\n\nHar du vår nyeste ruter? Her finner du veiledninger og video for oppkobling!\n\n[Koble opp ruter ➜](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/koble-\ntil/)\n\n### Tilkobling Trådløst Bredbånd og WiFi Ruter II\n\n[Bruksanvisning](/binaries/kundeservice/internett/modem-og-ruter/tbb-antenne-\nnr7302/Quickguide%20WiFi%20ruter%20II%20og%20TBB.png?w=837&h=588)\n\n  * #### Detaljer om antennen\n\n **Mål:**  \nHøyde: 40 mm. Bredde: 200 mm. Dybde: 120 mm.\n\n **Kapslingsgrad:  \n** IP 67\n\n **Spenning:**  \n230V, 15 watt. Følger standarden: IEEE 802.3af (56V)\n\n **Frekvensområde og forsterkning:  \n** Sub-6GHz. 9dBi peak.\n\n## Trenger du mer hjelp til WiFi?\n\nVelg ruteren du bruker og gå videre til hjelpeside\n\n[\n\n### WiFi Ruter II\n\n](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/)\n\n[\n\n### WiFi ruter\n\n](/kundeservice/internett/modem-og-ruter/wifi-ruter/)\n\n[\n\n### Zyxel 8702\n\n](/kundeservice/internett/modem-og-ruter/zyxel-8702/)\n\n[\n\n### Annen ruter\n\n](/kundeservice/internett/modem-og-ruter/mobilt-bredband/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:11+00:00",
+        "last_modified": "2025-05-30T08:53:40.905439",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

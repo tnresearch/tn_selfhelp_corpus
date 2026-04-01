@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_kom_godt_i_gang_icotera-router.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 5269,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Opsætning af Icotera i4882-70\n\nDet betyder dioderne (lamperne) på routeren\n\nRouteren har to lamper: den foroven viser, om WiFi er tilsluttet, og den\nnedenunder viser, om der er forbindelse.\n\n  * Hvis den nederste lampe (WAN) lyser rød, er der ikke fysisk forbindelse til internettet.  \n **Det kan du gøre:** Tjek kablerne for at se, om de er trykket helt i bund.\n\n  * Blinker lyset i den nederste lampe, er der fysisk forbindelse, men ingen IP-adresse.  \n **Det kan du gøre:** Prøv at resette routeren ved at trykke en nål eller\nlignende genstand ind i reset-hullet i bunden af routeren. Dette skal gøres,\nmens routeren er tændt, og reset-knappen holdes inde i 10 sekunder. Hvis reset\ner korrekt udført, vil lamperne begynde at blinke, efter at reset-knappen er\nsluppet\n\n  * Lyser den nederste lampe fast grøn, modtager routeren en IP-adresse og er online.  \n **Det kan du gøre:** Tjek derfor, om dine enheder er forbundet til det\nkorrekte WiFi, og om kabler er trykket i bund.\n\n  * Når den øverste lampe (WiFi) lyser grøn er WiFi slået til, hvis lampen er slukket er WiFi slået fra. Hvis lampen blinker, er WPS aktiveret.\n\n##  Flere indstillinger\n\nSådan logger du ind på routeren (fx for at ændre WiFi-navn og password)\n\n  * For at logge ind på routeren kræver det, at der er oprettet forbindelse til routeren fra den enhed, der anvendes til login\n  * I en browser taster du **http://10.0.0.1:80** og trykker **Enter** for at åbne login-siden  \n **Username:** admin  \n**Password:** står på undersiden af routeren, og hedder \"Router Kode\". Hvis\nikke der er en Router Kode, anvendes dit WiFi-password.\n\nSådan ændrer du WiFi-navn og password\n\n  * Log ind på din router ved at følge guiden 'Sådan logger du ind på routeren'. Når du er logget ind, skal du vælge menupunktet **Settings** og derefter **WiFi 2,4 GHz** eller **WiFi 5 GHz** , afhængigt af hvilket netværk du ønsker at ændre navn på  \n **Bemærk:** hvis du ikke ønsker 2 forskellige netværk, anbefales det, at du\nnavngiver dem med samme navn og password. På den måde får routeren mulighed\nfor at flytte din enhed over på det netværk, der er bedst i forhold til\nsignalstyrke og hastighed\n\n  * Når du har indtastet de nye oplysninger, vælger du **Apply** , øverst på siden.  \n **Bemærk:** Hvis du har været tilsluttet via WiFi, vil din enhed blive logget\naf netværket, og du skal logge på med de nye oplysninger\n\nSådan opsætter du Port Forward\n\nPort Forwarding er en måde at give internetadgang til forskellige enheder -\ndet kan fx være et overvågningskamera eller en PlayStation. Har du problemer\nmed at forbinde enheden, får du koden **Strict Nat** , og så gør du følgende:\n\n  * Log ind på din router ved at følge guiden 'Sådan logger du ind på routeren'. Når du er logget ind på routeren i et browser-vindue, skal du vælge menupunktet **Port Forward**\n  * Sæt flueben i **Enable** ud for første ledige linje i højre side af vinduet\n  * Indtast de portoplysninger, der skal forwardes samt den IP-adresse, der skal forwardes til   \n**Bemærk:** Der skal laves en separat linje for hver regel, der opsættes\n\n  * Når du har indtastet de nye oplysninger, vælger du **Apply** øverst på siden\n\nSådan aflæser du signalstyrken på dit WiFi\n\n  * Log ind på din router ved at følge guiden 'Sådan logger du ind på routeren'. Når du er logget ind, skal du under menupunktet **Status** vælge enten **Wi-Fi 2,4 GHz** eller **Wi-Fi 5 GHz**\n  * På oversigten over tilsluttede enheder, **Associated Clients** , finder du den enhed, du oplever, er langsom eller har udfald\n  * I kolonnen **RSSI** aflæser du signalstyrken. Hvis værdien er i spændet **-20 til -50** , indikerer det, at enheden modtager et godt signal. Fra **-50 til -70** vil signalet være acceptabelt, men du vil kunne opleve, at den modtagne hastighed er lavere. Signalstyrke Fra **-70 til -100** indikerer, at der er lavt signal mellem routeren og enheden, du måler på. Dette vil kunne opleves i form af udfald på WiFi eller meget lav hastighed. Oplever du langsommere WiFi end forventet, er et godt råd at flytte enheden og routeren tættere på hinanden\n\nSådan tilslutter du enheder til routeren via WPS\n\nHvis du har en enhed (printer, smart device, WiFi-extender eller lignende),\nder skal tilsluttes via WPS, gøres det på følgende måde:\n\n  * Placer den enhed, du ønsker at WPS-parre i umiddelbar nærhed af den tændte router\n  * På forsiden af routeren findes en knap ved navn **WPS**. Tryk én gang og kortvarigt på denne. Er WPS-parring aktiveret, blinker den nederste diode på routeren. Du har nu to minutter til at gennemføre de følgende steps:\n\n  1. Tryk på **WPS** -knappen på dit device, og vent i op til to minutter\n  2. WPS-Parring er nu gennemført\n\nRouterens specifikationer\n\n**Porte:**\n\n  * 1x 2.5Gbit WAN port - benyttes ved tilkobling til fibermodem\n  * 1x 2.5Gbit LAN port\n  * 2x 1Gbit LAN porte\n  * 1x USB 3.0 port\n\n**WiFi-tilslutning:**\n\n  * IEEE 802.11b/g/n 2.4 GHz\n  * IEEE 802.11ax 2.4 GHz\n  * IEEE 802.11ac 5 GHz\n  * IEEE 802.11ax 5 GHz\n\n**Kendte begrænsninger:**\n\n  * Opsætning af Fast LAN IP (static lease) er ikke muligt\n  * i4882-70-routeren kan ikke sættes i Bridge Mode. For alternative løsninger, er du velkommen til at kontakte Telenor\n  * Det kan opstå problemer med at tilgå routerens GUI - dette kan løses ved at genstarte routeren"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:07+00:00",
+        "last_modified": "2025-05-21T15:15:43.318953",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

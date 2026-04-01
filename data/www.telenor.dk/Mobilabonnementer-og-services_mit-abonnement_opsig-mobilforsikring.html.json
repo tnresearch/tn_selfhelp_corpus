@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_mit-abonnement_opsig-mobilforsikring.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 347,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Hvordan opsiger jeg mit abonnement på MobilForsikring?\n\nDen nemmeste måde at opsige abonnementer hos Telenor er ved at kontakte\nkundeservice på 72 100 100.\n\nHar du ikke mulighed for at ringe til os, kan du i stedet besøge din nærmeste\n[Telenor-butik](/find-butik/) eller skrive en besked til os\n[her](/kundeservice/kontakt/), så hjælper vi dig.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:56+00:00",
+        "last_modified": "2025-05-21T15:15:28.069829",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

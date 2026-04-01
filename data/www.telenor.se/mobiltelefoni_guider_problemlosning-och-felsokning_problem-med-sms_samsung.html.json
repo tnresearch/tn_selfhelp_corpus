@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_problem-med-sms_samsung.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 443,
+                "end": 1439,
+                "text": "#  Problem med sms?\n\nKan du inte skicka eller ta emot sms med din Samsung kan du ofta själv lösa\nproblemet. Här har vi samlat en lista på de vanligaste problemlösarna.\n\n  * Starta om mobilen och kolla om det finns några uppdateringar att hämta.\n  * Kan du inte ringa heller? Då kan det vara problem med åtkomsten till nätet. Kolla vår [driftinformation ](/support/driftinformation/driftstorningar-pa-mobilnatet/)för att se om det är någon tillfällig driftstörning.\n  * Testa om du kan skicka ett sms till någon annan mottagare. Funkade det? Då kan det vara ett problem hos mottagaren.\n\nNormalt ska du inte behöva ställa in numret till meddelandecentralen, utan det\ngörs automatiskt när du stoppar in sim-kortet. Följ stegen nedan för att\nsäkerställa att numret ändå är korrekt.\n\n  1. Tryck på \"Meddelan..\"\n  2. Tryck på \"MER\".\n  3. Tryck på \"Inställningar\".\n  4. Tryck på \"Fler inställningar\".\n  5. Tryck på \"SMS\".\n  6. Tryck på \"Meddelandecentral\".\n  7. Skriv +46708000708 och tryck på \"VÄLJ\".\n\n",
+                "heading": " Problem med sms?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:12+00:00",
+        "last_modified": "2025-05-30T14:46:46.026921",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

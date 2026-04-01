@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_iphone_kom-godt-i-gang_gmail.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 359,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Sæt Gmail op på din mobil\n\nFølg nedenstående guide for at sætte Gmail op på din mobil.\n\n  * ## Tryk på \"Indstillinger\"\n\n  * ## Vælg \"E-mail, kontakter, kalendere\"\n\n  * ## Vælg \"Tilføj konto\"\n\n  * ## Vælg \"Google\"\n\n  * ## Indtast din mail og adgangskode og vælg \"Log ind\"\n\n  * ## Vælg \"Acceptér\"\n\n  * ## Tryk på \"Arkiver\"\n\nNu er Gmail sat op på din iPhone.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:26+00:00",
+        "last_modified": "2025-05-21T15:15:56.412101",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

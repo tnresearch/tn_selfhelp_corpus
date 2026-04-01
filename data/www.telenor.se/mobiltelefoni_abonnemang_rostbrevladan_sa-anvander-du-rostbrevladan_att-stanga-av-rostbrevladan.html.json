@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_rostbrevladan_sa-anvander-du-rostbrevladan_att-stanga-av-rostbrevladan.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 427,
+                "end": 1376,
+                "text": "#  Att stänga av röstbrevlådan\n\nOm du inte vill använda röstbrevlådan kan du inaktivera den i [appen Mitt\nTelenor](/archive/2019/mitt-telenor-old/). Välj \"Inställningar\" och därefter\n\"Röstbrevlåda och vidarekoppling\". Dra reglaget till höger så att \"Aldrig\" är\nmarkerat.\n\n## Vanliga frågor om att stänga av röstbrevlådan\n\n  * Hur återaktiverar jag röstbrevlådan?\n\n[Klicka här för att läsa mer om olika inställningar som du kan göra för din\nröstbrevlåda](/link/eb1553407d044617a8aad574b2747afd.aspx)\n\n  * Kan jag stänga av röstbrevlådan tillfälligt?\n\nSjälvklart kan du det.\n\n### För mobiltelefoni\n\nLogga in i [appen Mitt Telenor](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx)\noch välj \"Inställningar\" och därefter ”Röstbrevlåda och vidarekoppling”. Dra\nsedan reglaget till höger så att ”Aldrig” är markerat.\n\n### För hemtelefoni via bredband\n\n[Gå till guide för\nhemtelefoni](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921041)\n\n",
+                "heading": " Att stänga av röstbrevlådan"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:25+00:00",
+        "last_modified": "2025-05-30T14:26:13.337373",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

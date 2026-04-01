@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kabelnett_arbeid-eget-nett.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 128,
+                "end": 922,
+                "text": "# Arbeid eller tiltak på eget nett/egen inntakskabel\n\nTelenor har en landsdekkende avtale med OneCo og Eltel Networks som er\nautorisert til å utfører arbeid i Telenors kabelnett. Dette gjelder f.eks:  \n\n  * Flytte eller fjerne egen inntakskabel\n\n  * Endringer i egen installasjon/inne hos deg selv  \n\nEntreprenør vil fakturere oppdragsgiver direkte. Vennligst kontakt entreprenør\ni ditt fylke for utførelse av oppdrag.  \n\n### Eltel - tlf. 987 02530\n\n  * Telemark\n\n  * Agder   \n(Aust og Vest Agder)\n\n  * Vestland   \n(Hordaland og Sogn & Fjordane)\n\n  * Møre og Romsdal\n\n  * Nordland\n\n### OneCo - tlf. 915 02121\n\n  * Innlandet   \n(Oppland og Hedmark)\n\n  * Oslo\n\n  * Rogaland\n\n  * Trøndelag\n\n  * Troms\n\n  * Finnmark\n\n### Netel - tlf. 477 74000\n\n  * Østfold\n\n  * Akershus\n\n  * Buskerud\n\n  * Vestfold"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:22+00:00",
+        "last_modified": "2025-05-30T09:04:24.806137",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

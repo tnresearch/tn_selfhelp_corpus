@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_opptak.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 174,
+                "end": 2992,
+                "text": "# Opptak og opptakslister i T-We\n\nHer viser vi deg hvordan du bruker opptaksfunksjonen og finner tilbake til\nopptakene dine når du vil se dem. Vi viser også hvordan du kan også slette\nopptak.\n\nOpptak:Når du velger opptak fra menyen får du en oversikt over alle dine\nopptak sortert i lister. Du kan også søke etter et spesifikt program ved å\ntrykke på Opptaksliste.\n\n## Start et opptak med T-We\n\nDu kan starte et opptak ved å trykke på opptaksknappen på fjernkontrollen mens\ndu ser på et program, eller du kan starte opptaket fra informasjonssiden.\n\nInformasjon om programmet får du opp dersom du trykker Info eller OK når du\nser på programmet, eller du kan gjøre det samme fra [TV-\nguiden](/kundeservice/tv/brukerveiledning-t-we/tv-guide/).\n\nDersom du skal ta opp et program som har flere episoder, vil du også få opp et\nvalg om å \"Ta opp serie\". Da vil alle fremtidige episoder på denne kanalen tas\nopp i tillegg til det du nettopp valgte.\n\n **Visste du at:**  \nMange av programmene også er tilgjengelig opptil en uke tilbake i tid i\n[Ukesarkivet](/kundeservice/tv/brukerveiledning-t-we/ukesarkiv/). Ukesarkiv\nfor kanaler finner du ved å bla bakover i TV-guiden eller fra kanalbanneret\nnår du ser på TV.\n\n### Opptak - Nyttige knapper på fjernkontrollen\n\nStarter/Stopper et opptak\n\nStopper et opptak\n\nÅpner informasjonsvindu\n\nÅpner TV-guiden\n\n[Mer om Fjernkontroll](/kundeservice/tv/dekodere-og-fjernkontroller/)\n\n## Slik finner du opptakene dine\n\nT-We opptak finner du som et eget valg i toppmenyen. Når du trykker på\n**Opptak** får du opp to lister, en med _Alle opptak_ og en med dine _Nylige\nopptak_.\n\nDu kan bla til høyre eller venstre i listene, eller du kan åpne et filter for\nå sortere opptakene dine ved å trykke på \"Se mer...\". Denne finner du når du\nblar helt til venstre i listene.\n\nDu finner også flere lister sortert som knapper nederst, under **Flere\nopptakslister.**\n\nTrykker du på Se mer...i oversikten over dine T-We opptak, vil det åpnes en\negen visning der det er mulig å sortere opptakene dine med flere filtre.\n\n## Finn frem i alt innholdet med filtre\n\nDersom du ofte tar opp serier, filmer og annet innhold, kan det oppleves som\nvanskelig å finne frem i mengden opptak etterhvert. Med filteret for T-We\nopptak kan du sortere disse på tid og sjangere som dokumentar, action, nyheter\nosv.\n\nDu kan også søke i opptakslisten dersom du vet at det et bestemt program du er\npå jakt etter.\n\n## Slette opptak\n\nVed siden av filtrene har du en knapp merket \"Slett\". Denne bruker du for å\nmarkere et opptak du ønsker å slette.\n\nFilter-valg:På bildet ser du de forskjellige filter-valgene som er\ntilgjengelige for Nylige opptak på T-We. Her er \"Slett\" valgt.\n\nSletting:På bildet ser du hvordan man huker av de opptakene som ønskes\nslettet. Når du har gjort dine valg, trykk Bekreft for å fullføre slettingen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:45+00:00",
+        "last_modified": "2025-05-30T09:33:19.139821",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_zyxel-8702_koble-til_fiber.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 329,
+                "end": 1561,
+                "text": "# Oppkoblingsveiledning for Zyxel 8702 (fiber)\n\n## Slik kobler du opp Zyxel 8702 (fiber)\n\n  1. Koble nettverksledningen med blå plugger til kontakten merket WAN på baksiden av Zyxel-ruteren.\n\n  2. Koble den andre blå pluggen til ethernett-kontakten på fiberboksen.\n\n  3. Koble strømadapteren til ruteren og stikkontakten, og trykk deretter på strømknappen på høyre side.\n\n  4. Sjekk at lampene merket POWER og WAN på forsiden av bredbåndsruteren lyser stabilt før du går videre.\n\n  5. Koble den ene enden av nettverksledningen med gule kontakter til nettverkskontakten på datamaskinen. \n\n  6. Koble den andre enden til en av de gule nettverkskontaktene på Zyxel 8702. \n\n  7. Sjekk at Ethernet lampen lyser på ruteren. [Les mer om lampestatus.](/kundeservice/internett/modem-og-ruter/zyxel-8702/)\n\n  8. Du kan også koble deg til datamaskinen trådløst.\n\n[Mer om ruterinnstillinger og trådløst\noppsett](/kundeservice/internett/wifi/administrere-ruter/)\n\n### Brukerveiledning Zyxel P8702N (fiber)\n\n[Brukerveiledning Zyxel P8702N\n(fiber)](/binaries/Other%20files/Privat/pdf/Brukerveiledning-\nZyxel-8702-fiber_tcm94-360112.pdf)\n\n[Koble opp TV-boks](https://www.telenor.no/kundeservice/tv/dekodere-og-\nfjernkontroller/t-we-boks/koble-til/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:16+00:00",
+        "last_modified": "2025-05-30T08:57:30.734414",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

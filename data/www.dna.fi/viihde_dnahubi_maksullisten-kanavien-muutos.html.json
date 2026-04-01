@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/viihde_dnahubi_maksullisten-kanavien-muutos.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1225,
+                "heading": "Changes to Viewing Paid Channels on DNA Viihdeboksi (Hubi 1.0)",
+                "start": 216,
+                "text": "## Muutoksia maksullisten kanavien katselutavassa DNA viihdeboksilla (Hubi\n1.0)\n\n7.11.2024 alkaen DNA viihdeboksilla (Hubi 1.0) ei ole mahdollista katsella\nmaksullisia kanavia kaapeliverkon kautta. Maksukanavien katselu on mahdollista\nmuutoksen jälkeen nettiyhteyden välityksellä (IPTV). Katselutavan muutos\nkoskee myös DNA TV -tilaukseen sisältyvää V Sport+ Suomi- kanavaa ja\nkuukausittain vaihtuvaa Kuukauden kanavaa.\n\nLaitteet, joilla maksukanavia katsellaan tällä hetkellä kaapeliverkon kautta,\nvaihtavat oikean katselutavan muutoshetkellä automaattisesti. Muutoksesta ei\naiheudu katkoksia kanavien katselussa.\n\nKaapeliverkon kautta katsominen poistuu ainoastaan maksukanavilta eli\nperuskanavia voi edelleen katsoa sekä kaapeliverkon kautta, että\nnettiyhteydellä (IPTV).\n\nJos haluat katsoa maksullisia kanavia viihdeboksilla kaapelin kautta muutoksen\njälkeen, voit päivittää laitteesi uudempaan malliin ottamalla yhteyttä\nmaksuttomaan myyntipalveluumme 0800 550 044 (palveluajat arkisin klo 8.00 –\n18.00)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:13:27+00:00",
+        "last_modified": "2025-06-20T19:24:51.196268",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

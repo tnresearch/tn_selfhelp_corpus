@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller_idtv-kortleser.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 194,
+                "end": 2003,
+                "text": "# Hjelp til IDTV\n\nHar du IDTV fra Telenor? Her finner du informasjon og veiledninger for\noppkobling av din kortleser.\n\nVi stopper salget av kortlesere ved utgangen av 2025\n\nFra 2026 vil vi ikke lenger selge nye kortlesere. Vi vil fortsatt hjelpe\nkundene våre, men nye IDTV-er vil ikke bli godkjent.\n\n## Om IDTV\n\nIDTV betyr at man ikke har TV-boks, men kortleser rett i TV-en. Dette gir deg\nmulighet til å se digital-TV/HD-TV uten ekstra boks og fjernkontroll.\n\n **For å bruke IDTV, trenger du:**\n\n  * Kortleser godkjent av Telenor\n\n  * Et abonnement og programkort fra Telenor\n\n  * En TV-modell godkjent av Telenor for IDTV\n\nØnsker du heller vår nyeste dekoder med blant annet støtte for 4K og HDR? [Les\nmer om T-We boks II](https://www.telenor.no/privat/tv/t-we/dekoder/)\n\n## Installasjon\n\n **TV-er som er klargjort for IDTV har en port til kortleser (Common\nInterface) bak eller på siden:**\n\n  1. Koble fra strømkabelen til TV-en\n\n  2. Sett forsiktig ditt programkort fra Telenor i kortleseren med gullchipen opp og mot kortleseren.\n\n  3. Sett i kortleseren (med programkortet), forsiktig i TVens \"Common Interface\" inngang. Se i brukerveiledningen til TV-en hvordan kortleseren skal settes inn.\n\n  4. Koble strømmen til TV-en igjen ved å sette støpselet inn i stikkontakten og følg instruksjonene i brukerveiledningen til TV-en vedrørende kortleser.\n\n### Får du opp feilmelding på skjermen?\n\n  * Får du meldingen \"No card inserted\", så har ikke kortleseren kontakt med kortet, se Steg 1.\n\n  * Får du meldingen \"No access\", så er ikke kortet oppdatert ennå. Velg NRK1 og vent i inntil to timer for oppdatering.\n\n  * Kortleseren har ingen innvirkning på signalet, eller hva TV-apparatet finner/ikke finner av kanaler. Den åpner kun kanalene du har i ditt abonnement og som TV-en har funnet under et kanalsøk."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:47+00:00",
+        "last_modified": "2025-05-30T09:36:22.633309",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_ingen-signal-till-tvn.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 704,
+                "text": "# Ingen signal till tv:n\n\n  \nOm det inte går någon signal från tv-boxen till tv:n så visar sig det oftast\ngenom ett felmeddelande på din tv-skärm. Det kan stå ”Ingen signal” eller\nliknande.  \n  \nFör att lösa problemet behöver du installera din tv-box.  \n  \nFölj guiderna nedan:  \n  \n[Installationsguide Humax CDIG-1000C\n(pdf)](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921071)  \n[Installationsguide Humax CDIG-2000C/R\n(pdf)](http://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TA921070)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:39+00:00",
+        "last_modified": "2025-05-30T17:40:56.875171",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

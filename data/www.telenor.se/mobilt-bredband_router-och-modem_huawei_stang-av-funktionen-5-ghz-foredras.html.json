@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobilt-bredband_router-och-modem_huawei_stang-av-funktionen-5-ghz-foredras.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 383,
+                "end": 1036,
+                "text": "# Stäng av funktionen \"5 GHz föredras\"\n\nAtt byta frekvens kan göra ditt mobila bredband snabbare, eftersom olika\nfrekvensband har olika egenskaper.  \n  \n\nAlla moderna routrar har två frekvensband – 2,4 GHz och 5 GHz.\n\n\\- 2,4 GHz har **längre räckvidd** men **lägre hastighet**\n\n\\- 5 GHz har **kortare räckvidd** och **högre hastighet**  \n  \nOm du vill testa att byta frekvens för att se om anslutningen blir bättre gör\ndu så här:\n\n  * ### Logga in i routerns gränssnitt\n\nDet gör du genom att skriva in adressen 192.168.8.1 i en webbläsare och sedan\nfylla i ditt wifi-lösenord.\n\n  * ### Välj Wi-Fi-inställningar\n\n  * ### Ändra funktionen \"5 GHz föredras\""
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:33+00:00",
+        "last_modified": "2025-05-30T14:21:20.559224",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

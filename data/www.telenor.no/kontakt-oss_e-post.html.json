@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kontakt-oss_e-post.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 122,
+                "end": 2127,
+                "text": "# Send e-post til Telenor\n\nVi bruker e-postskjemaer istedenfor en åpen e-postadresse. Dette sikrer at vi\nfår den informasjonen vi trenger, slik at vi kan hjelpe deg raskt og\neffektivt.\n\nVidere behandling foregår via e-post eller telefon.\n\n[\n\nPrøv Telmi først!\n\nChatboten vår kan hjelpe deg med mer enn du tror!\n\n](javascript:void\\(window.startChat\\(\\)\\))\n\n## Hva ønsker du kontakte oss om?\n\nTrykk på knappene under for å gå videre\n\n### Mobil og Mobilt Bredbånd\n\n[Abonnement og Faktura](/kundeservice/kontakt-\noss/mobilabonnement/)[Oppsigelse](/kundeservice/oppsigelse/mobil/)\n\n### Trådløst Bredbånd med/uten TV\n\n[Abonnement og Faktura](/kundeservice/kontakt-\noss/mobilabonnement/)[Oppsigelse](/kundeservice/oppsigelse/tradlost-bredband/)\n\n### Internett, TV og Hjemmetelefon\n\n[Abonnement og Faktura](/kundeservice/kontakt-oss/tv-og-\nbredband/)[Oppsigelse](/kundeservice/oppsigelse/tv-og-bredband/)\n\nTips oss om svindelforsøk\n\nHar du mottatt en svindelmelding på SMS eller e-post som du gjerne vil tipse\noss om? Da kan du [rapportere det inn\nher.](https://www.telenor.no/kundeservice/svindel/#rapporter)\n\nVed at du som kunde rapporterer inn meldinger du mottar, kan vi raskere fange\nopp svindelforsøk og ta en vurdering på om disse bør blokkeres i våre\nsystemer. Vi tar en vurdering av alle rapporteringer vi mottar - men kan\ndessverre ikke svare opp alle meldingene vi får. Trenger du mer hjelp med\nsaken ber vi deg ta kontakt med oss på kundeservice.\n\n## Tekniske henvendelser\n\nVi har ikke mulighet til å behandle henvendelser om feil på bredbånd, Online\ne-post, TV, telefoni eller mobil **via e-post.**\n\nDu kan forsøke **våre hjelpesider** for å se om du kan løse problemet selv,\neller [kontakte oss per telefon.](/kundeservice/kontakt-oss/)  \n\n### Gå til hjelpesider:\n\n[Problemer med mobil](/kundeservice/mobil/)[Problemer med\ninternett](/kundeservice/internett/problemer/)[Problemer med\nTV](/kundeservice/tv/problemer-med-tv/)[Problemer med Online\ne-post](/kundeservice/e-post/)\n\nMer kontaktinformasjon"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:23+00:00",
+        "last_modified": "2025-05-30T09:06:04.963410",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "contact info"
+}

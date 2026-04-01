@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wifi-mf971rs2_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 414,
+                "end": 1697,
+                "text": "#  DNA Matkamokkula 4G WiFi MF971RS2\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs2/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs2/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs2/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs2/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs2/vianrajaus)\n\n## Ominaisuudet\n\n### DNA Matkamokkula 4G WiFi MF971RS2\n\n**Tuotenimi: ZTE MF971RS2**\n\nDNA Matkamokkula 4G WiFi MF971RS2 on langattoman WiFi-verkon tai USB-liittimen\nkautta toimiva akullinen mokkula, johon yhdistät useita nettiä tarvitsevia\nlaitteita. DNA:n räätälöinnit tekevät käytöstä erittäin helppoa.\n\n  * 4G LTE enimmäisnopeus verkosta 300 Mbit/s\n  * 3G DC enimmäisnopeus 42 Mbit/s \n  * WiFi b/g/n/ac Dual-Band\n  * Micro-USB -liitin\n  * 16 WiFi-laitetta \n  * 1,4” TFT-näyttö\n  * 2000 mAh:n akku\n  * Micro-SIM-kortti\n\n**Myyntipaketin sisältö**\n\n  * DNA Matkamokkula 4G WiFi MF971RS2\n  * virtalähde\n  * USB-kaapeli\n  * käyttöopas\n  * pikaopas\n\n",
+                "heading": " DNA Matkamokkula 4G WiFi MF971RS2"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:30+00:00",
+        "last_modified": "2025-06-20T19:02:37.355550",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

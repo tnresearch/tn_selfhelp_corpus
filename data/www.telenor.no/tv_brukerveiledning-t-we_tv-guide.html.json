@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_tv-guide.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 176,
+                "end": 3542,
+                "text": "# TV-guide\n\nI TV-guiden finner du oversikt over alle programmer som sendes eller har blitt\nsendt på direkte-TV. Her finner du tips og informasjon om hvordan du bruker\nden.\n\nTV-guidenviser deg hvilke programmer som går på TV. Den blå linjen viser\nnåværende tidspunkt, og så kan du bla frem og tilbake i guiden for å se hva\nsom går nå, kommer senere i kveld, eller har gått de siste dagene.\n\n## Her finner du TV-guiden\n\nDu åpner TV-guiden ved å trykke på **GUIDE** på fjernkontrollen, eller trykk\npå T-We knapp, velg ☰ fra menyen og deretter TV-guide.\n\n### Slik fungerer TV-guiden\n\nTV-guiden viser programinformasjon for alle kanaler inntil 14 dager frem i\ntid. Ved siden av programtittelen vil det vises ikoner som forteller om det er\nmulig å starte programmet forfra, eller om det er [tilgjengelig i\nukesarkivet](/kundeservice/tv/brukerveiledning-t-we/ukesarkiv/). Ønsker du for\neksempel å starte et program forfra, kan du se etter dette ikonet: ↺. Trykk på\n↺-tasten på fjernkontrollen for å starte programmet fra begynnelsen.\n\nDu kan også [starte opptak av programmer](/kundeservice/tv/brukerveiledning-t-\nwe/opptak/) som går nå og programmer som kommer frem i tid direkte fra TV-\nguiden.\n\nHvis du opplever at programinformasjonen ikke lastes inn, kan du løse det ved\nå holde inne **den gule knappen** på fjernkontrollen i 5-6 sekunder. Data vil\nda lastes inn på nytt.  \nHvis dette ikke fungerer, kan du forsøke å koble fjernkontroll sammen med T-We\nBoks på nytt. Du finner veiledning for dette her: [Hjelp til\nfjernkontroll](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-\nii/fjernkontroll/)\n\n## Nyttige knapper på fjernkontrollen\n\nHer ser du hvilke taster på fjernkontrollen som styrer de enkelte funksjonene\ni TV-guiden.\n\n **Pilknapper** brukes for å bla mellom kanaler og programmer\n\n **OK** åpner informasjonsside og bekrefter valg.\n\n **Tilbake- og fremoverspoling** brukes for å bla tilbake/frem 4 timer. For å\nendre lengden på hoppet trykk på MENU på fjernkontrollen og velg deretter\nFunksjonsmeny , Innstillinger og Språk og teksting.\n\n **Kanalskift (+ og -)** skifter kanal eller blar hele sider i TV-guide og\nandre lister.\n\n **Valg (?** ☰ **)** Med denne knappen kan du bytte mellom lister som alle\nkanaler og TV-favoritter, endre TV-guideformat eller velge en bestemt dag.\n\n ** _NB!_** _Har du en[annen fjernkontroll ](/kundeservice/tv/dekodere-og-\nfjernkontroller/t-we-boks/fjernkontroll/)enn den som er avbildet kan du bruke\nOPTIONS-knappen istedenfor ?☰_\n\n[Mer om fjernkontrollen](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-\nboks-ii/fjernkontroll/)\n\n## Se på TV - Informasjon, lyd og teksting\n\nNår du har valgt programmet du vil se fra TV-guiden eller fra \"Direkte-TV og\nukesarkiv\" i menyen, vil du få opp et kanalbanner.\n\nKanalbanneret gir deg informasjon om programmet på samme måte som TV-guiden.\n\n  * Trykk på INFO-knappen for å få opp mer informasjon om programmet\n\n  * Trykk på ?☰ eller OPTIONS-knappen for å få opp menyen for å endre lyd eller teksting på programmet. Denne menyen kan også brukes for å [bytte mellom alle kanaler og favorittkanaler.](/kundeservice/tv/brukerveiledning-t-we/favorittliste/)\n\nKanalbanner:Her ser du hvilken kanal du er på, hva programmet heter, kort\ninformasjon om programmet som reprise eller episode og hvilket program som\nkommer etter dette. Legg merke til ikonene for ukesarkiv og start forfra."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:58+00:00",
+        "last_modified": "2025-05-30T09:35:56.655029",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_felsokning_om-du-har-kontantkort-eller-telenor-familj.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 2036,
+                "text": "# Om du har kontantkort\n\n  1. Befinner du dig utanför EU/EES bör du kontrollera att du har laddat på [Rörligt/Saldo](/support/vanliga-fragor/kontantkort/vad-ar-rorligt-saldo/).\n  2. Har du nyligen surfat upp din surfmängd och fyllt på igen är det bra att starta om mobilen då gammal information kan ligga kvar och spärra för surf. \n  3. Kontrollera att du inte är i ett land där våra kontantkort inte fungerar. I så fall rekommenderar vi att du köper ett kontantkort från en lokal operatör.\n\n##\n\nLänder där våra kontantkort inte fungerar\n\nI följande länder fungerar inte Telenors kontantkort:\n\nAfghanistan, Algeriet, Angola, Anguilla, Antigua och Barbuda, Armenien, Aruba,\nBahamas, Bahrain, Barbados, Belize, Benin, Bermuda, Bhutan, Bolivia, Botswana,\nBrunei, Burkina Faso, Burundi, Caymanöarna, Centralafrikanska Republiken,\nCosta Rica, Djibouti, Dominica, Ecuador, Ekvatorialguinea, El Salvador,\nElfenbenskusten, Etiopien, Fiji, Filippinerna, Gabon, Gambia, Georgien, Ghana,\nGrenada, Guam, Guatemala, Guinea, Guinea Bissau, Guyana, Haiti, Irak, Iran,\nIsle of Man, Jamaica, Jemen, Jordanien, Jungfruöarna (brittiska), Kambodja,\nKamerun, Kazakstan, Kenya, Kirgizistan, Kongo-Brazzaville, Kongo-Kinshasa,\nKuba, Kuwait, Laos, Lesotho, Libanon, Liberia, Libyen, Madagaskar, Malawi,\nMaldiverna, Mali, Mauretanien, Mauritius, Mocambique, Moldavien, Mongoliet,\nMontserrat, Namibia, Nepal, Nicaragua, Niger, Nigeria, Oman, Palestina,\nPanama, Papua Nya Guinea, Paraguay, Peru, Qatar, Rwanda, Saint Barthelemy,\nSaint Kitts och Nevis, Saint Lucia, Saint Martin (holländska), Saint Vincent\noch Grenadines, Samoa, Saudiarabien, Senegal, Seychellerna, Sierra Leone,\nSudan, Swaziland, Sydsudan, Syrien, Tadzjikistan, Taiwan, Togo, Tonga,\nTrinidad och Tobago, Turkmenistan, Turks och Caicos, Uganda, Uruguay,\nUzbekistan, Vanuatu, Venezuela, Vitryssland, Zambia, Zimbabwe."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:31+00:00",
+        "last_modified": "2025-05-30T14:44:50.837439",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_lisalaitteet_dna-telakka-telewell-802.11ap1.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 307,
+                "end": 1417,
+                "text": "## DNA Telakka Telewell 802.11AP\n\n### Käyttöohje\n\nKäyttöohjeet voi ladata valmistajan sivulta\n[www.telewell.fi](https://www.telewell.fi/fi/tuote/tuotannosta-poistuneet-\ntuotteet/wlan-tuotteet/tw-3g-router/tw-3g-reititin-802-11n)\n\n### Valmistajan tuotenimi\n\nTelewell TW-3G reititin 80211 AP\n\n### Tuotekuvaus\n\nTelakka on erinomainen valinta käyttäjälle, joka haluaa jakaa olemassa olevan\nUSB Mokkulan yhteyden monen käyttäjän kesken.\n\n### Paketin sisältö\n\n  * Telakka\n  * Virtalähde\n  * Ethernet-kaapeli\n  * Pikaopas\n\n### Tekniset ominaisuudet\n\n  * Liitännät: 4 Ethernet-kaapeliliitäntää ( RJ45) , virtalähde ja USB liitäntä\n  * Sisäänrakennettu antenni\n  * WLAN salaukset: WEP 64/128, WPA, WPA2\n  * DHCP, NAT DNS\n  * Suomenkielinen käyttöliittymä\n  * Tuetut langattomat standardit: 802.11b/g/n\n  * Tuetut Mokkulat lista: https://www.telewell.fi/files/mokkulat.pdf\n  * Käyttöjännite 12V\n\n### Päivitysohje / Uusin FM versio\n\nPäivityksen voit ladata Telewelli sivulta osoitteesta\n[www.telewell.fi](https://www.telewell.fi/fi/tuote/tuotannosta-poistuneet-\ntuotteet/wlan-tuotteet/tw-3g-router/tw-3g-reititin-802-11n)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:33+00:00",
+        "last_modified": "2025-06-20T19:01:26.417161",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_huawei-e3276_ingen-netforbindelse-pa-mobilt-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1505,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Ingen netforbindelse på Mobilt Bredbånd\n\nHvis du ikke kan komme online med dit mobile bredbånd, kan det være fordi der\ner ringe eller ingen dækning i området.\n\n[Tjek vores dækningskort](/kundeservice/drift-og-dakning/dakning/dakningskort/\n\"Tjek vores dækningskort\")\n\nEr der dækning i området, prøv at:\n\n  * Tag simkortet ud og rens det forsigtigt med en ren og tør klud\n  * Opdater din computer/tablet til nyeste software  \n  \n\n## Kan du stadig ikke komme online?\n\n**1\\. Afinstaller og geninstaller dit modem**\n\n  * Installer softwaren til dit mobile bredbånd igen\n  * Åben en browser og du burde igen være online\n\nHar du et **Huawai-modem** , hedder softwaren \"Mobile Partner\"  \nHar du et **Option-modem** , hedder softwaren \"Globetrotter Connect\"  \nHar du et **Sony Ericsson-modem** , hedder softwaren \"Wireless Manager\"  \nEr du i tvivl om, hvordan du afinstallerer software, så tjek manualen til din\ncomputer.\n\n**2\\. Slå din firewall fra**\n\n  * Slå din firewall fra\n  * Gå på internettet\n\nHvordan du slår din firewall fra, er afhængig af din computer og model. Din\nmanual kan guide dig, hvis du er i tvivl om, hvordan du sikkert slår din\nfirewall fra og til.\n\nHusk at slå firewallen til igen med det samme og ændre opsætningen af\nfirewallen, så du fremover kan bruge dit mobile bredbånd uden problemer.\n\n## Stadig ikke online?\n\nHvis ovenstående ikke har hjulpet, er du altid velkommen til at [kontakte\nos](/kundeservice/kontakt/). Og har du dit udstyr inden for rækkevidde, kan vi\nhurtigere hjælpe.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:45+00:00",
+        "last_modified": "2025-05-21T15:16:06.944482",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

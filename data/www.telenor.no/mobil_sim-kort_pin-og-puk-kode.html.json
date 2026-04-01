@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_sim-kort_pin-og-puk-kode.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 166,
+                "end": 4703,
+                "text": "# Hjelp med PIN- og PUK-kode\n\nVi hjelper deg med å finne riktig kode når mobilen har gått i lås.\n\n[Finn PUK-kode i Mitt Telenor](/kundeservice/mobil/sim-kort/pin-og-puk-\nkode/#puk)[Lage ny PIN-kode](/kundeservice/mobil/sim-kort/pin-og-puk-\nkode/#pin)[Tastet feil PUK?](/kundeservice/mobil/sim-kort/pin-og-puk-\nkode/#feil)\n\n[\n\nFå hjelp med PIN- og PUK-kode fra Telmi\n\nTrykk her for å starte chat\n\n](javascript:void\\(window.startChat\\(\\)\\))\n\nForutsetninger for uthenting av PUK-kode\n\n  * Det er **kun bruker av abonnementet** som kan hente ut PUK-koden\n\n  * Foreldre/foresatte kan be om PUK-kode dersom bruker er under 15 år. (Det må opprettes egen profil på bruker under 15 år dersom PUK-koden skal hentes via selvbetjente løsninger.)\n\n  * PUK-kode kan hentes kostnadsfritt på Mine Sider, i [Mitt Telenor](/privat/mobil/app/mitt-telenor/) og via chatboten Telmi\n\n  * Kundeservice kan oppgi PUK-kode over telefon for 50,-  \n\nSelvbetjente løsninger krever at [du logger inn med Telenor ID](/telenor-id/)\n\n[Gjelder det bedriftsabonnement? Trykk her](/bedrift/kundeservice/mobil/finn-\npuk/)\n\n## Hent PUK-kode på Mine Sider\n\n  1. Logg inn på Mine Sider\n\n  2. Velg **Mobil og abonnement**\n\n  3. Velg abonnementet det gjelder\n\n  4. Velg enheten eller SIM-kortet det gjelder under **Enheter og SIM**\n\n  5. Trykk på knapper **Vis** under PUK1 eller PUK2 **.  \nVis-knappen **er kun synlig om du er registrert bruker av abonnementet.\n\n[Logg inn på Mine Sider](/mitt-telenor/)\n\n## Problemer med å logge inn på Mine Sider?\n\nHvis mobilen din er låst og du ikke kan motta SMS, forsøk å velge e-post som\nmottaker av engangspassord. Dette gjør du ved å **logge inn på din Telenor ID\nmed e-postadressen** i stedet for mobilnummeret.  \n  \n**NB:** Dette fungerer kun dersom du er koblet til et nettverk du har vært\nlogget inn på med Telenor ID tidligere. Er du f.eks. i utlandet vil du ikke få\nlogget inn på denne måten.\n\nHvis du ikke kan motta på e-post eller SMS, må du kontakte kundeservice for å\nfå PUK-koden over telefon.\n\n## Finne PUK-kode i Mitt Telenor\n\n  1. Bla ned til Enheter\n\n  2. Velg nummeret/enheten det gjelder\n\n  3. PUK-koden ligger øverst, sammen med info om SIM-nr, IMEI og muligheter til bestille/aktivere eller sperre SIM-kort\n\n  4. Hvis det ikke ligger PUK-kode øverst, skyldes det at du ikke er registrert som bruker av abonnementet  \n\nLåst ute fra mobilen fordi du ikke kommer forbi PIN-koden?\n\nHvis du har vært innlogget i Mitt Telenor appen med mobilen din tidligere og\nhar tilgang til WiFi, så kan du finne PUK-koden din ved å følge disse stegene:\n\n  1. Slå av mobilen\n\n  2. Ta ut SIM-kortet av mobilen\n\n  3. Slå på mobilen uten SIM-kortet i\n\n  4. Tast inn eventuell vanlig låsekode til mobilen, og åpne Mitt Telenor App\n\n## Endre eller lage ny PIN-kode\n\nNår du skrur på mobilen kan du lage ny PIN-kode ved å taste inn PUK-koden.\nHvis du ikke har PUK-koden tilgjengelig, kan du hente den ut i Mitt Telenor-\nappen, på Mine Sider eller via Telmi chatbot. Du finner mer info om dette på\ndenne siden hvis du scroller litt oppover.  \n  \n **Slik bytter du PIN:**\n\n  1. Skriv inn PIN-koden feil tre ganger\n\n  2. Oppgi PUK-koden på 8 siffer\n\n  3. Skriv inn ny PIN-kode (denne velger du selv)\n\n  4. Gjenta den nye PIN-koden\n\nNeste gang du blir bedt om å skrive inn PIN-kode kan du skrive inn den nye du\nhar laget. Det er også mulig å endre PIN-koden under Innstillinger til\nmobilen, men fremgangsmåten kan variere avhengig av type mobil.\n\n## Trenger jeg PIN, PUK eller skjermlås?\n\nNår mobilen er låst vil den be om en kode. Normalt vil det stå på skjermen\nhvilken kode den ber om, men det kan noen ganger være litt forvirrende å\nskille disse fra hverandre.\n\nDette er de vanligste kodene:\n\n  *  **Skjermlåskode**\n\nEn 4- eller 6-sifret kode, eventuelt et mønster du bruker for å åpne skjermen\npå mobilen.\n\n  *  **PIN-kode**\n\nEn 4-sifret kode som tilhører SIM-kortet. Denne koden er personlig og kan\nendres.\n\n  *  **PUK-kode**\n\nEn 8-sifret kode som tilhører SIM-kortet. Denne koden kan ikke endres.\n\nPIN-koden trenger du for å få dekning hvis mobilen har vært avskrudd. Har du\nglemt denne, kan du åpne opp mobilen med PUK-koden til SIM-kortet.\n\n **Merk** : Dersom mobilen ikke spesifikt ber om PIN- eller PUK-kode, er det\nstort sett en skjermlåskode som skal tastes inn.\n\n### Problemer med PUK-kode?\n\n  * #### Tastet feil PUK-kode\n\nDu har 10 forsøk på å taste riktig PUK-kode. Taster du feil PUK-kode mer enn\n10 ganger, blir SIM-kortet blokkert og du vil trenge et nytt kort.\n\n[Slik bestiller du nytt SIM-kort.](/kundeservice/mobil/sim-kort/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:06+00:00",
+        "last_modified": "2025-05-30T09:25:36.287534",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

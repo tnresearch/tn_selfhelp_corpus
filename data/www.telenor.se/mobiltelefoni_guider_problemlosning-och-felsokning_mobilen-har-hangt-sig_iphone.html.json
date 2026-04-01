@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_mobilen-har-hangt-sig_iphone.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 454,
+                "end": 1822,
+                "text": "#  Så här startar du om din iPhone\n\nAlla mobiler mår bra av en omstart då och då, och har mobilen hängt sig helt\när det nödvändigt att starta om den. Hur man gör skiljer sig dock åt, beroende\npå hur mobilen mår.\n\n## Om din iPhone krånglar lite\n\nDen här typen av omstart är bra att göra lite då och då, eller om man upplever\natt telefonen är seg och inte funkar som den ska.\n\n### Alla modeller från och med iPhone X:\n\n  1. Tryck och håll ner en av volymknapparna och sidoknappen samtidigt.\n  2. När reglaget visas drar du det för att stänga av.\n\n### iPhone 6, 7, 8 eller SE:\n\nHåll sidoknappen intryckt tills reglaget för avstängning visas.  \n  \n\n## Om din iPhone hängt sig\n\nHar telefonen låst sig helt måste du göra en så kallad hård omstart.\n\n### Alla modeller från och med iPhone 8, inkl. iPhone SE (2:a och 3:e\ngenerationen ):\n\n  1. Tryck ner volymknappen och släpp snabbt.\n  2. Håll ner sidoknappen tills Apple-logotypen (det vita äpplet) visas.\n\n### Har du en äldre iPhone? Så här gör du en hård omstart om du har en...\n\n###\n\niPhone 6s eller tidigare, inklusive iPhone SE (1:a generationen)\n\n  1. Tryck in både vilo-/väckningsknappen på sidan och hemknappen på framsidan.\n  2. Håll knapparna intryckta i minst 10 sekunder, tills Apple-logotypen (det vita äpplet) visas.\n\n##\n\nFör att **starta mobilen** igen håller du sidoknappen inne tills du ser Apple-\nlogotypen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:06+00:00",
+        "last_modified": "2025-05-30T14:45:25.409785",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

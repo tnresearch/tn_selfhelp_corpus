@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_mit-abonnement_overdrag-telefonnummer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 522,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Overdrag telefonnummer\n\nDu kan til enhver tid overdrage dit mobilnummer til en anden ejer – hvis du er\ni binding, vil modtageren af dit nummer overtage den resterende\nbindingsperiode.\n\n**Sådan gør du:**\n\nPersonen, der ønsker at overtage nummeret, skal henvende sig i en [Telenor-\nbutik](/find-butik/) eller [kontakte os](/kundeservice/kontakt/).  \nVi sender herefter en mail til dig, hvor du via MitID skal bekræfte, at du er\nindforstået med overdragelsen.  \nNår vi har bekræftelsen, flyttes nummeret på den valgte dato."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:06+00:00",
+        "last_modified": "2025-05-21T15:15:28.247572",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

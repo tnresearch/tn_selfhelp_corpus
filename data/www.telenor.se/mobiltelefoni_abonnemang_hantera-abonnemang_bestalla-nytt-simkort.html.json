@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_hantera-abonnemang_bestalla-nytt-simkort.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 756,
+                "heading": "Ordering a new SIM card or eSIM",
+                "start": 363,
+                "text": "#  Beställa nytt sim-kort eller e-sim\n\nDet är enkelt att beställa ett nytt sim-kort eller e-sim i Mitt Telenor.\n\nLogga in på Mitt Telenor, antingen här [på webben](/mitt-telenor/) eller [i\nappen](/archive/2019/mitt-telenor-old/). Där beställer du enkelt ett nytt sim-\nkort eller [e-sim](/support/mobiltelefoni/abonnemang/hantera-\nabonnemang/e-sim/). Oavsett vad du väljer är det kostnadsfritt."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:19:51+00:00",
+        "last_modified": "2025-05-30T14:24:32.459614",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

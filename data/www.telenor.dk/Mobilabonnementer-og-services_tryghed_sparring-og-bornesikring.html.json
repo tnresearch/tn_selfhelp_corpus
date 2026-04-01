@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_tryghed_sparring-og-bornesikring.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2264,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Spærring og børnesikring\n\nPå [Mit Telenor](/login/) kan du nemt spærre dit eller dit barns abonnement\nfor fx køb af ekstra data. Vores spærringer er designet til at hjælpe dig med\nat passe på dit eget og dine børns brug af mobilen - både i Danmark, og når I\nrejser i udlandet.\n\nPå Mit Telenor kan du spærre dit eller dit barns abonnement for:\n\n    * [Køb af ekstra data](/kundeservice/Mobilabonnementer-og-services/tryghed/sparring-og-bornesikring/ekstra-data-popup/ \"Køb af ekstra data spærring\")\n    * [Køb af fysiske varer](/kundeservice/Mobilabonnementer-og-services/tryghed/sparring-og-bornesikring/fysiske-varer/ \"Køb af fysiske varer spærring\")\n    * [Indholdstakserede sms'er](/kundeservice/Mobilabonnementer-og-services/tryghed/sparring-og-bornesikring/indholdstakserede-smser/ \"Indholdstakserede sms'er spærring\")\n    * [Sms'er](/kundeservice/Mobilabonnementer-og-services/tryghed/sparring-og-bornesikring/smser-popup/ \"Sms'er spærring\")\n    * [Dataforbrug i Danmark](/kundeservice/Mobilabonnementer-og-services/tryghed/sparring-og-bornesikring/dataforbrug-popup/ \"Dataforbrug i Danmark\")\n    * [Dataforbrug i udlandet](/kundeservice/Mobilabonnementer-og-services/tryghed/sparring-og-bornesikring/dataforbrug-i-udlandet-popup/ \"Dataforbrug i udlandet\")\n\nDesuden kan du tilmelde Børnesikring, der blokerer for køb af spil, ringetoner\nog billeder. OBS! Vær opmærksom på, at Børnesikring _ikke_ gælder køb i fx App\nStore - men udelukkende gælder for indholdstakserede tjenester.\n\n## Spær for køb af indhold i App Store eller Google Play\n\nHvis du har børn, kan det være en god idé at sætte en pinkode på de enheder,\nsom dine børn anvender, som skal bruges til at godkende hvert køb i App Store\neller Google Play. Det er selvfølgelig vigtigt, at dine børn ikke kender\nkoden. Læs mere om, hvordan du indstiller dine børns enheder [her](/digital-\ntryghed/artikler/sikker-pa-nettet/guide-til-bornesikker-surfing/)[.\n](/digital-tryghed/artikler/sikker-pa-nettet/guide-til-bornesikker-surfing/)\n\n## Hvordan tilmelder jeg børnesikring?\n\nBørnesikring er gratis at tilmelde, og du gør det i [Mit Telenor](/login/).\n\nHar du brug for hjælp til at til- eller afmelde en spærring, eller ønsker du\nandre former for spærring, kan du [kontakte os](/kundeservice/kontakt/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:27+00:00",
+        "last_modified": "2025-05-21T15:15:31.202442",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

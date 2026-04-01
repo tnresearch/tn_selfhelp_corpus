@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_wifi-ruter-2_koble-til.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 258,
+                "end": 1799,
+                "text": "# Oppkobling av WiFi Ruter II\n\nHar du vår første versjon av WiFi Ruter, [så kan du finne stegvis\ninstalleringsveiledning her](/kundeservice/internett/modem-og-ruter/wifi-\nruter/koble-til/)\n\n## Videoveiledning\n\nUnder kan du se en YouTube-video som viser og forklarer hvordan du kobler opp\ndin WiFi Ruter II. Ønsker du se en steg-for-steg-veiledning med tekst og\nbilder, trenger du bare scrolle forbi videoen.\n\nFør du begynner, må fiberboks, kabelmodem eller antenneadapter være tilkoblet\ninternett. Hva slags utstyr du har avhenger av hvilken teknologi du har inn i\nhuset ditt.\n\n### 1\\. Koble til nettverkskabelen\n\nKabelen skal kobles inn mellom den blå inngangen merket WAN på ruteren, og\nfiberboks, modem eller antenneadapter.\n\n### 2\\. Koble andre nettverkskabler du måtte ha til ruteren (LAN)\n\n### 3\\. Koble til ny strømforsyning og slå på ruteren\n\n### 6\\. Følg anvisning fra mottatt SMS og trykk på WPS-knappen på ruteren\n\n### 7\\. Du mottar en ny SMS med nettverksnavn og passord\n\nGå inn på innstillinger på din mobiltelefon for å koble deg til det trådløse\nnettet du fikk på SMS.\n\n**Tips:** For at du enklest får opp alle dine enheter på det nye trådløse\nnettet, så bør du endre nettverksnavn og passord til det du hadde fra før.\nDette gjøres enkelt ved å gå inn på [Mitt WiFi](https://wifi.telenor.no) når\ndu er på hjemmenettet ditt.\n\n## Har du WiFi Forsterker II?\n\nHer finner du en egen side med hjelp til oppkobling av forsterkeren:\n\n[Koble til WiFi Forsterker II](/kundeservice/internett/modem-og-ruter/wifi-\nforsterker-2/koble-til/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:12+00:00",
+        "last_modified": "2025-05-30T08:55:05.990365",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/priser-villkor-och-blanketter_fast-bredband-tv-telefoni_overlatelse2_overlata-tv--eller-bredbands-abonnemang.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 457,
+                "end": 3378,
+                "text": "#  Överlåta tv eller bredband\n\nHär hittar du information om hur du gör för att överlåta tv- eller bredbands-\ntjänster.\n\n###\n\nÖverlåtelse av abonnemang\n\nÖverlåtelse av abonnemang görs digitalt med BankID-signering. Klicka\n[här](https://go-\nprinter.scrive.com/public/index?hash=5572d1f6-259e-4279-8e70-c422f681cc4f) och\nfölj stegen för att signera din överlåtese med BankID. Observera att\növerlåtare och övertagare inte kan vara samma person.\n\nNär överlåtelsen signerats av både överlåtare och övertagare, tar det ett par\ntimmar innan den registreras i våra system. När förfrågan har registrerats kan\nvi börja hantera din överlåtelse. I normala fall och vid godkänd\nkreditkontroll så tar själva överlåtelsehanteringen cirka 7 veckodagar.\n\nÖverlåtelse av abonnemang från dödsbo\n\nOm du vill överlåta ett abonnemang som idag tillhör ett dödsbo fyller du i\nblanketten [Överlåtelse av abonnemang för\ndödsbo](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TG31188).  \n  \n**Tips!** Ladda ned blanketten och spara den på din dator eller mobil innan du\nfyller i eller skriver ut den.  \n  \nDu behöver också bifoga ett dödsfallsintyg, som du beställer via Skatteverket.\nSäkerställ att du som övertagare finns med på dödsfallsintyget.  \n  \nMejla intyg och ifylld blankett till oss via vårt\n[mejlformulär,](/link/315e5eb9c6e647d7bab050c041bfc2fe.aspx) eller via post\ntill Telenor, FE 100, 106 56 Stockholm. Märk kuvertet med \"överlåtelse\".  \n  \nNär överlåtelsen är genomförd får du bekräftelse via sms.  \n  \nObservera att eventuella delbetalningar på hårdvaror som mobil, surfplatta,\napple-tv och liknande, kommer att slutfaktureras vid överlåtelse.\n\nÖverlåtelse av installation av Telenorägd villafiber\n\nHar du ett avtal med oss om **framtida fiberinstallation** , men vill överlåta\ndet till någon annan? Då ska ni fylla i [den här\növerlåtelseblanketten](https://mediearkivet.telenor.se/Data/mw/Pdf/TA32160.pdf)\noch mejla den till oss genom att använda vårt\n[mejlformulär](/link/315e5eb9c6e647d7bab050c041bfc2fe.aspx). Du kan också\nskicka den via post till Telenor, FE 110, 106 56 Stockholm. Märk kuvertet med\n\"överlåtelse\".\n\nGlöm inte att blanketten ska undertecknas av båda parter.  \n  \n **Tips!** Ladda ned blanketten och spara den på din dator eller mobil innan\ndu fyller i eller skriver ut den.\n\nBra att veta om överlåtelse\n\n  * Att överlåta abonnemang är kostnadsfritt.\n  * Överlåtare och övertagare kan inte vara samma person.\n  * Personen som tar över abonnemanget tar även över dess villkor och betalansvaret. Därför gör vi en kreditkontroll innan överlåtelsen godkänns.\n  * Önskar du göra en överlåtelse av ett abonnemang men saknar BankID kan du skriva ut ett formulär [här.](https://mediearkivet.telenor.se/Data/mw/Pdf/TF921080.pdf)\n\nEfter att formuläret är ifyllt kan du [mejla](/support/old-kontakta-oss/skriv-\ntill-oss/) det till oss eller skicka via post till:\n\nTelenor  \nFE 110  \n106 56 Stockholm.\n\n",
+                "heading": " Överlåta tv eller bredband"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:55+00:00",
+        "last_modified": "2025-05-30T14:55:38.072217",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

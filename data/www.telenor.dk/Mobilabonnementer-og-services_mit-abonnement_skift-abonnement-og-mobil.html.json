@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_mit-abonnement_skift-abonnement-og-mobil.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 701,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Kan jeg skifte både abonnement og mobil?\n\nHvis dit mobilabonnement er fri af bindingsperioden, og du ønsker at skifte\nmobilabonnement, så har du samtidig mulighed for at købe en ny mobil. Det\nbetyder også, at du starter en ny bindingsperiode. Du kan se alle vores\nmobiler [her](/shop/mobiler/).\n\nDu kan også skifte, selvom du er i binding, men så kommer du til at betale af\npå den gamle, samtidig med at du betaler for den nye.\n\n## Spar penge på din nye mobil med MobilByt\n\nHvis du ønsker at skifte mobilen ud, kan du spare penge med\n[MobilByt](/shop/landingpage/mobilbyt/), bare husk, at bindingsperioden\nforbliver den samme, uanset om du vælger at beholde telefonen eller sælger den\nmed MobilByt.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:46+00:00",
+        "last_modified": "2025-05-21T15:15:28.615371",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

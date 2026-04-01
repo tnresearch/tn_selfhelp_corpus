@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_alykellot_huawei-watch.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 202,
+                "end": 1553,
+                "text": "# Huawei Watch -älykellojen tuki\n\n## Käyttöohjeet\n\nSuosittelemme tutustumaan valmistajan tarjoamiin kattavampiin käyttöohjeisiin\nja laitetukeen.\n\n[Siirry Huawei tukisivuille](https://consumer.huawei.com/fi/support/)\n\n[Huawei Watch tehdasasetusten\npalautus](https://consumer.huawei.com/fi/support/content/fi-fi15818785/)\n\n[Huawei Watch\npäivittäminen](https://consumer.huawei.com/fi/support/content/fi-fi00736897/)\n\n## Mobiiliyhteyden käyttöönotto Huawei Watch -älykelloon\n\nAloita avaamalla puhelinliittymäsi tiedot Oma DNA -sovelluksesta (Palveluni-\nvalikon alla) ja siirry ”SIM-kortti ja PUK-koodit” -näkymään.\n\nVarmista, että DNA Multi-SIM -lisäpalvelu näkyy kohdassa ”Rinnakkaiskortti”.\nValitse ”Ota eSIM käyttöön”.\n\nJos et ole vielä tilannut DNA Multi-SIM -lisäpalvelua, tilaa se Oma DNA\n-sovelluksesta, DNA Kaupasta tai DNA:n myyntipalvelusta: 0800 550 044 (ark.\n9–20, la 10–16). Numero on maksuton.\n\nKopioi eSIM-käyttöönottokoodi (käytä kopioi-painiketta) liittääksesi sen\nseuraavaksi puhelimesi Huawei Health -sovellukseen.\n\nJos sinulla ei vielä ole sovellusta, lataa se App Gallery -sovelluskaupasta.\n\nAvaa Huawei Health -sovellus puhelimestasi, valitse laitteesi ja mene eSIMin\nhallintaan.\n\nValitse ja aktivoi eSIM ja liitä eSIM-käyttöönottokoodi\n\n**Valmista tuli!** Nyt voit soittaa ja vastaanottaa puheluja älykellollasi ja\nkäyttää nettiä.\n\n",
+                "heading": "Huawei Watch -älykellojen tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:15+00:00",
+        "last_modified": "2025-06-20T14:38:05.912493",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

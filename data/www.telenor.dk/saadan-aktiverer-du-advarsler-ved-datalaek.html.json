@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/saadan-aktiverer-du-advarsler-ved-datalaek.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2609,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "Advarsler ved datalæk\n\n# Sådan kommer du i gang\n\nHer kan du læse om, hvordan du aktiverer advarsler ved datalæk (tidligere ID\nVagt) i Mit Telenor. Følg guiden og kom godt fra start.\n\n## Sådan tilføjer du et betalingskort\n\n[\n\n## 1\\. Log ind på Mit Telenor og find ID Vagt\n\nLog ind på Mit Telenor, klik på trygheds-fanen, og tryk på knappen ‘Kom i\ngang’ under NetSikker Plus.  Log ind på Mit Telenor, klik på trygheds-fanen,\nog tryk på knappen ‘Kom i gang’ under NetSikker Plus.  Log ind her ](/mit-\ntelenor/)\n\n## 2\\. Tilføj ny oplysning -> betalingskort\n\nIndtast det kortnummer, du vil have ID Vagt til at holde øje med. Du kan kun\nindtaste et ad gangen.\n\nIndtast det kortnummer, du vil have ID Vagt til at holde øje med. Du kan kun\nindtaste et ad gangen.\n\n## 3\\. Indtast dit kortnummer\n\nIndtast dit kortnummer i feltet, og tryk ‘Tilføj betalingskort’. Du kan kun\nindtaste et betalingskort ad gangen.\n\nIndtast dit kortnummer i feltet, og tryk ‘Tilføj betalingskort’. Du kan kun\nindtaste et betalingskort ad gangen.\n\n## 4\\. Så er du klar\n\nTillykke! Nu har du tilføjet dit første betalingskort! Tryk på ‘Tilføj ny’,\nhvis du vil tilføje flere.\n\nTillykke! Nu har du tilføjet dit første betalingskort! Tryk på ‘Tilføj ny’,\nhvis du vil tilføje flere.\n\n## Sådan tilføjer du en e-mailadresse\n\n[\n\n## 1\\. Log ind på Mit Telenor og find ID Vagt\n\nLog ind på Mit Telenor, klik på trygheds-fanen, og tryk på knappen ‘Kom i\ngang’ under NetSikker Plus.  Log ind på Mit Telenor, klik på trygheds-fanen,\nog tryk på knappen ‘Kom i gang’ under NetSikker Plus.  Log ind her ](/mit-\ntelenor/)\n\n## 2\\. Tilføj ny oplysning -> e-mailadresse\n\nNu skal du vælge, hvilken oplysning, du vil tilføje. Tryk på ‘E-mailadresse’.\n\nNu skal du vælge, hvilken oplysning, du vil tilføje. Tryk på ‘E-mailadresse’.\n\n## 3\\. Indtast din e-mailadresse\n\nIndtast den e-mailadresse, du vil have ID Vagt til at holde øje med. Du kan\nkun indtaste en ad gangen.\n\nIndtast den e-mailadresse, du vil have ID Vagt til at holde øje med. Du kan\nkun indtaste en ad gangen.\n\n## 4\\. Bekræft e-mailadressen\n\nNu mangler du bare at bekræfte den e-mailadresse, du har indtastet. Husk at\ntjekke dit spamfilter. Hvis du ikke når at bekræfte din e-mailadresse inden\nlinket udløber, kan du sagtens bestille en ny.\n\nNu mangler du bare at bekræfte den e-mailadresse, du har indtastet. Husk at\ntjekke dit spamfilter. Hvis du ikke når at bekræfte din e-mailadresse inden\nlinket udløber, kan du sagtens bestille en ny.\n\n## Nu er du klar til at komme i gang\n\nFølg hvert trin i guiden foroven, når du logger ind på Mit Telenor.\n\n[ Log ind på Mit Telenor ](/mit-telenor/selvbetjening/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:35+00:00",
+        "last_modified": "2025-05-21T15:16:12.912966",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

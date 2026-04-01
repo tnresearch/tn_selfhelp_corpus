@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app_ukesarkiv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 151,
+                "end": 1025,
+                "text": "# Ukesarkiv T-We App\n\nGikk du glipp av et program på TV, og vil se det på farten? Finn frem til\nprogrammet eller bla deg gjennom alt innhold som er tilgjengelig i\nukesarkivet. Her hjelper vi deg med å finne frem.\n\n## Hvilke program ligger i ukesarkivet?\n\nUkesarkiv er tilgjengelig for enkelte programmer og kanaler inntil syv dager\ntilbake i tid. Dersom et program ikke er tilgjengelig i ukesarkivene på grunn\nav rettigheter, blir dette markert med \"Ikke tilgjengelig\".\n\nUkesarkiv for kanaler finner du ved å bla bakover i [TV-\nguiden](/kundeservice/tv/t-we-app/tv-guide/) eller ved å gå direkte direkte\nfra hovedsiden i appen.\n\nFor enkelte kanaler vil du bli sendt over i kanalens egen app når du skal\nspille av programmet, f.eks. NRK TV-appen for NRK-kanaler. Hvis du ikke har\ninstallert disse appene, må du gjøre det via Appstore eller Google Play for å\nfå se programmet."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:14+00:00",
+        "last_modified": "2025-05-30T09:41:21.538175",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

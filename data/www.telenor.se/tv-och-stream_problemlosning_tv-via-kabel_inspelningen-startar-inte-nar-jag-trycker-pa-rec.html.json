@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_inspelningen-startar-inte-nar-jag-trycker-pa-rec.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 560,
+                "heading": "Troubleshooting recording issues with a Telenor TV box",
+                "start": 180,
+                "text": "# Inspelningen startar inte när jag trycker på REC\n\nBörja med att kolla om din tv-box hittar hårddisken.\n\n  \nGör så här:\n\n  1. Ta fram din fjärrkontroll\n  2. Tryck på Home och sedan på Inställningar\n  3. Tryck på PVR-inställningar och sedan på Lagringsplats. Om du där hittar information om hårddisken, till exempel tillgängligt lagringsutrymme, så har tv-boxen hittat hårddisken."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:50+00:00",
+        "last_modified": "2025-05-30T17:41:22.650098",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

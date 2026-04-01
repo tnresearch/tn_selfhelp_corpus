@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_funktioner-i-mit-telenor_historik.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 475,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Se historiske ændringer og kontakt med Telenor\n\nI Mit Telenor finder du et samlet overblik over alle relevante ændringer i\ndine abonnementer og kommunikation med Telenor – vi kalder det ”Historik”. Du\nkan fx se, om du har fået tilsendt et nyt simkort, har købt en ny telefon\neller har spærret et telefonnummer.\n\nHistorikken er også stedet, hvor du finder beskeder fra Telenor, så du til\nhver en tid kan gå tilbage og finde vigtige detaljer om dit abonnement og dine\nordrer."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:14+00:00",
+        "last_modified": "2025-05-21T15:15:52.530437",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

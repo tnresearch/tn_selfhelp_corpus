@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kontakt_ring-til-os.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 821,
+                "reason": "Selected by user",
+                "start": 215,
+                "text": "##  Spørgsmål og svar om kundeservice\n\nHvad kan kundeservice hjælpe dig med?\n\nHar du brug for hjælp til dit abonnement, spørgsmål til din regning eller\nproblemer med din mobiltelefon, kan vores kundeservice hjælpe dig hverdage fra\nkl. 8-20.\n\nHvad kan support hjælpe dig med?\n\nHar du brug for teknisk hjælp til din internetforbindelse, kan vores support\nhjælpe dig mandag til fredag fa kl. 8-20.\n\nLørdag og søndag (inkl. helligdage) fra kl. 9-17.\n\n### Undgå ventetid og få svar på dine spørgsmål her\n\nPå vores hjælpesider kan du finde svar på mange af dine spørgsmål.\n\n[ Gå til hjælpesider ](/kundeservice/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:39+00:00",
+        "last_modified": "2025-05-21T15:15:51.316383",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 125,
+                "end": 936,
+                "text": "# Utstyrsoversikt\n\nTrenger du hjelp til oppkobling av utstyr, informasjon eller andre\nveiledninger?  \nVi hjelper deg med T-We boks, IDTV og Fjernkontroll.\n\n## TV-boks / dekoder\n\n[\n\n### T-We Boks II\n\n](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-ii/)\n\n[\n\n### T-We Boks\n\n](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks/)\n\n[\n\n### T-We Boks Mini\n\n](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-mini/)\n\n[\n\n### IDTV\n\n](/kundeservice/tv/dekodere-og-fjernkontroller/idtv-kortleser/)\n\n## Fjernkontroll\n\n[\n\n### T-We Boks II\n\n](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-ii/fjernkontroll/)\n\n[\n\n### T-We Boks\n\n](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks/fjernkontroll/)\n\n## Skal du returnere utstyr?\n\n[Gå til returslipp](/kundeservice/oppsigelse/returslipp/index.page)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:50+00:00",
+        "last_modified": "2025-05-30T09:36:13.480141",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

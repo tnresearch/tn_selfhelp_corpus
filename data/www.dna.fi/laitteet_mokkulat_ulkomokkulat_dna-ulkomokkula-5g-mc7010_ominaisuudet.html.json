@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_dna-ulkomokkula-5g-mc7010_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 395,
+                "end": 3048,
+                "text": "# DNA Ulkomokkula 5G MC7010\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/kayttoonotto) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/vianmaaritys) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc7010/asetukset)\n\n## Ominaisuudet\n\n### DNA Ulkomokkula 5G MC7010\n\n**Valmistaja:** ZTE\n\n**Malli:** ZTE MC7010 5G Outdoor CPE\n\n**Prosessori:** Qualcomm SDX55 Arm Cortex-A7 (1.4 GHz)\n\n**SIM-kortti:** Nano-SIM\n\n**Yhteydet ja liitettävyys**\n\n  * Liitäntätyyppi: Gigabit Ethernet 2,5GE\n  * Ethernet (LAN) -liitännät: 1 kpl\n  * Verkkotekniikka: 5G ja 4G LTE\n  * Tuetut 5G-taajuudet: 700/800/1800/2100/2600/3500 MHz\n  * Tuetut 4G-taajuudet: 700/800/1800/2100/2600 MHz\n  * DL 5G 4x4\n  * MIMO UL 2x2 MIMO\n\n**Verkko-ominaisuudet**  \n(Lukemat ovat teoreettisia maksiminopeuksia, todelliset nopeudet riippuvat\nvastaanotetun signaalin vahvuudesta, mobiiliverkon kyvykkyydestä sekä\nkäytetystä liittymätyypistä)\n\n  * 5G enimmäisnopeus verkosta 1,65 Gbit/s\n  * 5G enimmäisnopeus kohti verkkoa 250 Mbit/s\n  * 4G LTE enimmäisnopeus verkosta 1,6 Gbit/s\n  * 4G LTE enimmäisnopeus kohti verkkoa 150 Mbit/s\n\n**Yhteensopivuus**\n\nLaitteen käyttö langattoman lähiverkon kanssa edellyttää yhteyttä erilliseen\nEthernet WAN -portilla varustettuun WiFi-reitittimeen (esim. Google WiFi).\nIlman erillistä WiFi-reititintä voit kytkeä Ulkomokkulaan vain yhden\nkäyttölaitteen kerrallaan, yhdistämällä käyttölaitteen erillisellä Ethernet-\njohdolla Ulkomokkulan LAN-porttiin.\n\n**Myyntipakkauksen sisältö**\n\n  * DNA Ulkomokkula 5G MC7010\n  * PoE-virtasovitin\n  * 10 metrin Ethernet-lattakaapeli Ulkomokkulan ja virtalähteen välille\n  * Sovitinkitti olemassa olevalle Ethernet-kaapelivedolle (sis. lyhyt ethernet-liitäntäkaapeli)\n  * Tarvikkeet seinä- ja tolppakiinnitykseen\n  * Pikaopas\n\n**Muut ominaisuudet**\n\n  * Tuki ZTE Link -sovellukselle (Android ja iOS)\n  * Merkkivalot: 5G/4G-yhteys, WAN-signaalin vahvuus, LAN-portti ja virta GPS-paikannus (ilmoittaa sijainnin pituus- ja leveysasteet) Reset-painike\n  * Käyttöolosuhteet: Lämpötila -40 °C - 55 °C, ilmankosteus 5 % - 95 %\n\n**Vedenkestävyys**\n\nVeden- ja pölynkestävä rakenne (IP65-luokitus) Salamasuojaus (6 kV, ei\nmaadoitusta)\n\n  \n**Mitat ja paino**\n\n  * Korkeus 188,8 mm\n  * Leveys 106,6 mm\n  * Syvyys 29 mm\n  * Paino 500 g\n\n**Takuu**\n\nValmistajan takuu: 24 kk\n\n",
+                "heading": "DNA Ulkomokkula 5G MC7010"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:12+00:00",
+        "last_modified": "2025-06-20T19:14:06.387588",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

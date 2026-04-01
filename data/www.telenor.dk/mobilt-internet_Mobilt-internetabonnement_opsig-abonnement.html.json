@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_Mobilt-internetabonnement_opsig-abonnement.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1012,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Opsig dit abonnement på mobilt internet\n\nEfter din 6 måneders bindingsperiode kan du altid opsige dit abonnement på\nmobilt internet.\n\nHvis du vil opsige abonnementet, skal du [kontakte\nos](/kundeservice/kontakt/).\n\n[Test din hastighed](/kundeservice/drift-og-dakning/hastighed/hastighedstest/\n\"Hastighedstest\")  \n  \n\n## Din sidste regning\n\nNår du opsiger dit abonnement, regulerer vi din sidste regning, så den dækker\ndagene frem til datoen for din opsigelse.\n\nHar du i din opsigelsesperiode brugt data ud over dit abonnement, modtager du\nen allersidste regning fra os ca. 10 dage efter, at din opsigelsesperiode er\nslut. Du kan fx have brugt data i udlandet eller købt ekstra data i din\nopsigelsesperiode.\n\nDin opsigelsesperiode er 30 dage.\n\n## Afmeld Betalingsservice\n\nHar du tilmeldt dit abonnement Betalingsservice, anbefaler vi, at du først\nopsiger aftalen, når du har betalt din sidste regning. Opsiger du aftalen\ninden, vil du modtage din regning med posten og blive opkrævet et\nregningsgebyr på 49 kr."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:20+00:00",
+        "last_modified": "2025-05-21T15:16:06.078582",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_inget-hander-nar-jag-trycker-pa-fjarrkontrollens-knappar.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 547,
+                "heading": "Troubleshooting remote control issues",
+                "start": 180,
+                "text": "# Inget händer när jag trycker på fjärrkontrollens knappar\n\nFörsöker du byta kanaler eller göra inställningar på tv-boxen via\nfjärrkontrollen, men det händer inget? Börja med att byta batterier i\nfjärrkontrollen.  \n  \nÖppna luckan på baksidan av fjärrkontrollen. Ta ut de gamla batterierna. Sätt\ni de nya batterierna och se till att de matchar plus (+) och minus (-)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:41+00:00",
+        "last_modified": "2025-05-30T17:41:09.766272",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

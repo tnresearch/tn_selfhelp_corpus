@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/kuuluvuus-ja-verkot_3g.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 270,
+                "end": 5452,
+                "text": "# DNA:n 3G-verkko on suljettu\n\n#### DNA sulki vuoden 2023 aikana ja vuoden 2024 tammikuussa vaiheittain koko\n3G-verkkonsa. Yhteisverkon alueet Itä- ja Pohjois-Suomessa seurasivat perässä\nvuoden 2024 aikana. 3G-verkon käytössä olleet taajuudet siirrettiin 4G-verkon\nkäyttöön, mikä on parantanut 4G-palvelun laatua alueilla.\n\n##  Usein kysyttyjä kysymyksiä\n\nMistä 3G-verkon alasajossa oli kyse?\n\nDNA sulki 3G-verkkonsa kokonaan lokakuun 2023 ja tammikuun 2024 välillä, ja\nSuomen Yhteisverkon 3G-verkko suljettiin vuoden 2024 aikana. Verkon sulkeminen\nvapautti radiotaajuuksia uudempien verkkojen (4G, 5G) käyttöön. Päätös\nsulkemisesta tehtiin ja tiedotettiin jo vuonna 2021.\n\nMiksi 3G-verkko suljettiin?\n\n3G-verkko oli palvellut televiestintää jo noin 20 vuotta. Päätöksen taustalla\noli paremman asiakaskokemuksen tarjoaminen teknisen uudistumisen myötä. 4G- ja\n5G-verkot tarjoavat enemmän kapasiteettia, toimintavarmuutta ja nopeutta\nmobiiliverkkojen jatkuvasti kasvavaan tarpeeseen. DNA:n 4G-verkon peitto on jo\nyli 99 % suomalaisista.\n\nVerkon rakenne myös yksinkertaistui yhden teknologiakerroksen poistuessa ja\nresursseja vapautui tehokkaampien teknologioiden kehittämiseen. 3G-verkon\nalasajo vapautti taajuuksia myös muiden verkkojen käyttöön.\n\nVuoden 2022 lopulla 3G-verkossa siirrettiin enää vain alle 1 % DNA:n\nasiakkaiden käyttämästä mobiilidatasta.\n\nMilloin 3G-verkon alasajo toteutettiin?\n\nToteutunut sulkemisaikataulu on esitetty alla.\n\n**Lokakuun 2023 lopussa suljettiin\n([tiedote](https://corporate.dna.fi/lehdistotiedotteet?type=stt2&id=70042282)):**\n\n  * Kanta-Häme\n  * Päijät-Häme\n\n**Marraskuun 2023 lopussa suljettiin\n([tiedote](https://corporate.dna.fi/lehdistotiedotteet?type=stt2&id=70055089&scrollTo=UJpEOgFgPw1f&status=all&returnUrl=https%3A%2F%2Fcorporate.dna.fi%2Flehdistotiedotteet%3FscrollTo%3DUJpEOgFgPw1f)):**\n\n  * Uusimaa (paitsi pääkaupunkiseutu)\n  * Varsinais-Suomi\n\n**Tammikuun 2024 aikana suljettiin\n([tiedote](https://corporate.dna.fi/lehdistotiedotteet?type=stt2&id=70079342)):**\n\n  * Pääkaupunkiseutu (Helsinki, Espoo, Vantaa, Kauniainen)\n  * Satakunta\n  * Pirkanmaa\n  * Keski-Suomi\n  * Pohjanmaa\n  * Etelä-Pohjanmaa \n  * Keski-Pohjanmaa\n\n#### Näin Yhteisverkon 3G-palvelut päättyvät vuonna 2024\n\nItä- ja Pohjois-Suomen alueilla DNA:n käyttämät mobiiliverkot suunnittelee,\ntoteuttaa ja ylläpitää Suomen Yhteisverkko, joka on DNA:n ja Telian vuonna\n2014 perustama yhteinen verkkoyhtiö. Yhteisverkon 3G-verkon sulkeminen Itä- ja\nPohjois-Suomessa tapahtui vuoden 2024 aikana.\n\n**Tammi–maaliskuussa 2024 ([lue\ntiedote](https://corporate.dna.fi/lehdistotiedotteet?type=stt2&id=70147517))**\n\n  * Kouvolan keskusta, Peltola ja Valkeala\n  * Kausala ja Koria ympäröivine alueineen\n\n**Huhti–kesäkuussa 2024 (tiedotteet:[Kaakkois-\nSuomi](https://corporate.dna.fi/lehdistotiedotteet?type=stt2&id=70328288),\n[Pohjois-Karjala & Pohjois-\nSavo](https://corporate.dna.fi/lehdistotiedotteet?type=stt2&id=70381487))**\n\n  * Kymenlaakso\n  * Etelä-Karjala\n  * Etelä-Savo\n  * Pohjois-Karjala\n  * Pohjois-Savon eteläosat\n\n**Heinä–syyskuussa 2024**\n\n  * Pohjois-Savon pohjoisosat\n  * Kainuu\n  * Pohjois-Pohjanmaa\n  * Kemi-Tornio\n\n**Loka–joulukuussa 2024**\n\n  * Lappi pl. Kemi-Tornio\n\nKäytin yhä 3G-verkkoa. Mitä muutos tarkoitti osaltani ja mistä saan korvaavat\ntuotteet?\n\nAlasajo koski kaikkia yksinomaan 3G-verkkoon pohjautuvia palveluita. Palvelut\nkorvattiin pääasiassa erilaisin 4G- ja 5G-ratkaisuin. Vanhat laitteet, jotka\neivät tue 4G- tai 5G-verkkoa, siirtyivät yleisesti ottaen käyttämään\n2G-verkkoa, vaikka niiden käyttämä liittymätyyppi vaihtuisi 4G- tai\n5G-liittymäksi.\n\nKuluttaja-asiakkaat voivat hankkia korvaavat tuotteet [DNA:n\nasiakaspalvelun](/yhteystiedot) kautta tai esimerkiksi lähimmästä [DNA\nKaupasta](/dnakaupat). Myös yritysasiakkaat voivat hankkia korvaavat tuotteet\n[DNA:n yritysasiakaspalvelun](/yrityksille/yhteystiedot) kautta tai\nesimerkiksi lähimmästä [DNA Kaupasta](/dnakaupat).\n\nDNA oli etukäteen yhteydessä 3G:tä käyttäviin yritys- ja\nyhteisöasiakkaisiinsa, jotta korvaavat ratkaisut löydettiin. Työ alkoi jo\nvuonna 2021. Pitkällä siirtymäajalla oli tarkoitus varmistaa, että myös\njäljellä olevat 3G-asiakkaat ehtivät hyvissä ajoin päivittää laitteensa ja\npalvelunsa nykyaikaan.\n\n3G-verkon alasajo oli normaalia verkon kehitystyötä ja korvaavien ratkaisujen\navulla asiakkaamme saivat käyttöönsä entistäkin paremmat ja palvelut. DNA ei\nkorvaa muutoksesta aiheutuvia kuluja.\n\nMissä verkossa puhelut kulkevat 3G-verkon sulkemisen jälkeen?\n\nJos päätelaitteessa on VoLTE- eli Voice over LTE -ominaisuus jota myös\nliittymä tukee, kulkevat puhelut 4G-verkon kautta. Tällöin puhelin pysyy\npuhelun aikana 4G-verkossa ja myös puhelun laatu on parempi.\n\nJos puhelin ja liittymä eivät tue VoLTE-palvelua, kulkevat puhelut\n2G-verkossa. Tällöin puhelin putoaa puheluiden aikana 2G-verkkoon.\n\nOnko 3G-verkkoa sammutettu myös muualla maailmassa?\n\nKyllä, ja tämä on hyvä huomioida matkustaessa. Joissain maissa on päätetty\nmyös 2G-verkon alasajosta. Esimerkiksi Yhdysvalloissa monilla operaattoreilla\non käytössä enää 4G- ja 5G -verkot. Jos siis matkustat Yhdysvalloissa,\nliittymäsi tulee tukea 4G-puheluita (VoLTE) ja puhelimesi tukea VoLTE-\nroamingia.\n\n",
+                "heading": "DNA:n 3G-verkko on suljettu"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:13:29+00:00",
+        "last_modified": "2025-06-20T14:28:56.262965",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,221 @@
+"""
+Generate all paper tables as LaTeX (.tex) files.
+
+Tables produced:
+  - table1_filtering_summary.tex  (Table 1: filtering pipeline results)
+  - table3_annotation_agreement.tex  (Table 3: LLM vs human agreement)
+  - table4_token_stats.tex  (Table 4: token statistics per language)
+
+Usage:
+  pip install -r analysis/requirements.txt
+  python analysis/generate_tables.py
+"""
+
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+import numpy as np
+from common import load_corpus, LANG_ORDER, DOMAIN_LANG, DATA_DIR, TABLES_DIR
+
+
+def count_accepted_per_domain() -> dict[str, int]:
+    """Count JSON files per domain in data/."""
+    counts = {}
+    for domain in DOMAIN_LANG:
+        domain_dir = os.path.join(DATA_DIR, domain)
+        if os.path.isdir(domain_dir):
+            counts[domain] = len([f for f in os.listdir(domain_dir) if f.endswith(".json")])
+        else:
+            counts[domain] = 0
+    return counts
+
+
+def fmt(n: int) -> str:
+    """Format integer with LaTeX thousands separator."""
+    if n >= 1000:
+        return f"{n:,}".replace(",", "{,}")
+    return str(n)
+
+
+def generate_table1():
+    """Table 1: Filtering summary."""
+    pipeline = {
+        "www.dna.fi":      {"initial": 382, "pii": 1, "not_cs": 12, "not_sh": 2, "dup": 4, "empty": 1},
+        "www.telenor.dk":  {"initial": 234, "pii": 0, "not_cs": 25, "not_sh": 0, "dup": 30, "empty": 0},
+        "www.telenor.no":  {"initial": 187, "pii": 0, "not_cs": 1,  "not_sh": 2, "dup": 8,  "empty": 0},
+        "www.telenor.se":  {"initial": 449, "pii": 0, "not_cs": 17, "not_sh": 24, "dup": 3, "empty": 0},
+    }
+    expected_accepted = {
+        "www.dna.fi": 362, "www.telenor.dk": 179,
+        "www.telenor.no": 176, "www.telenor.se": 405,
+    }
+
+    actual_accepted = count_accepted_per_domain()
+    for domain, expected in expected_accepted.items():
+        actual = actual_accepted.get(domain, 0)
+        if actual != expected:
+            print(f"WARNING: {domain} has {actual} accepted files, expected {expected}")
+
+    domains = ["www.dna.fi", "www.telenor.dk", "www.telenor.no", "www.telenor.se"]
+
+    steps = [
+        ("Initial documents",              "initial"),
+        ("Excluded: Contains PII",         "pii"),
+        ("Excluded: Not customer service", "not_cs"),
+        ("Excluded: Not self help",        "not_sh"),
+        ("Excluded: Duplicates",           "dup"),
+        ("Excluded: Empty content",        "empty"),
+    ]
+
+    lines = []
+    lines.append(r"\begin{table*}[t]")
+    lines.append(r"\centering")
+    lines.append(r"\caption{Number of documents remaining after filtering steps for each website.}")
+    lines.append(r"\begin{tabular}{lrrrrr}")
+    lines.append(r"\toprule")
+    lines.append(r"\textbf{Filtering Step} & \textbf{DNA FI} & \textbf{Telenor DK} & \textbf{Telenor NO} & \textbf{Telenor SE} & \textbf{Total} \\")
+    lines.append(r"\midrule")
+
+    for label, key in steps:
+        vals = [pipeline[d][key] for d in domains]
+        total = sum(vals)
+        lines.append(f"{label} & {fmt(vals[0])} & {fmt(vals[1])} & {fmt(vals[2])} & {fmt(vals[3])} & {fmt(total)} \\\\")
+
+    # Total excluded
+    excluded = []
+    for d in domains:
+        p = pipeline[d]
+        excluded.append(p["pii"] + p["not_cs"] + p["not_sh"] + p["dup"] + p["empty"])
+    lines.append(r"\midrule")
+    lines.append(f"Total excluded & {fmt(excluded[0])} & {fmt(excluded[1])} & {fmt(excluded[2])} & {fmt(excluded[3])} & {fmt(sum(excluded))} \\\\")
+
+    # Accepted (from actual data)
+    acc = [actual_accepted.get(d, 0) for d in domains]
+    lines.append(r"\textbf{Total accepted} & \textbf{" + r"} & \textbf{".join(fmt(v) for v in acc) + r"} & \textbf{" + fmt(sum(acc)) + r"} \\")
+
+    lines.append(r"\bottomrule")
+    lines.append(r"\end{tabular}")
+    lines.append(r"\label{tab:filtering_summary}")
+    lines.append(r"\end{table*}")
+
+    output = "\n".join(lines) + "\n"
+    path = os.path.join(TABLES_DIR, "table1_filtering_summary.tex")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(output)
+    print(f"Saved: {path}")
+
+
+def generate_table3():
+    """Table 3: Annotation agreement (LLM vs human).
+
+    These values are from the annotation pipeline comparison and cannot be
+    recomputed from the shipped dataset alone.
+    """
+    rows = [
+        ("Customer service related", 1195, 1251),
+        ("Self-help resource",       1170, 1251),
+        ("Contains PII",             1248, 1251),
+    ]
+    span_rows = [
+        ("Span extraction success",   937, 1251),
+        ("Exact span match",           64,  937),
+    ]
+
+    lines = []
+    lines.append(r"\begin{table}[t]")
+    lines.append(r"\centering")
+    lines.append(r"\caption{Agreement between LLM (Gemma-3-27b-it) pre-annotation and human review across 1{,}251 matched document pairs.}")
+    lines.append(r"\label{tab:agreement}")
+    lines.append(r"\begin{tabular}{lrrr}")
+    lines.append(r"\toprule")
+    lines.append(r"\textbf{Field} & \textbf{Agreed} & \textbf{Total} & \textbf{Agreement} \\")
+    lines.append(r"\midrule")
+
+    for label, agreed, total in rows:
+        pct = f"{agreed/total*100:.1f}\\%"
+        lines.append(f"{label} & {fmt(agreed)} & {fmt(total)} & {pct} \\\\")
+
+    lines.append(r"\midrule")
+
+    for label, agreed, total in span_rows:
+        pct = f"{agreed/total*100:.1f}\\%"
+        lines.append(f"{label} & {fmt(agreed)} & {fmt(total)} & {pct} \\\\")
+
+    lines.append(r"\bottomrule")
+    lines.append(r"\end{tabular}")
+    lines.append(r"\end{table}")
+
+    output = "\n".join(lines) + "\n"
+    path = os.path.join(TABLES_DIR, "table3_annotation_agreement.tex")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(output)
+    print(f"Saved: {path}")
+
+
+def generate_table4():
+    """Table 4: Token statistics per language. Computed from the dataset."""
+    docs = load_corpus()
+
+    lang_labels = {
+        "Finnish": "DNA FI", "Danish": "Telenor DK",
+        "Norwegian": "Telenor NO", "Swedish": "Telenor SE",
+    }
+
+    lines = []
+    lines.append(r"\begin{table*}[t]")
+    lines.append(r"\centering")
+    lines.append(r"\caption{Detailed statistics of the corpus tokens and document lengths (GPT-2 tokenizer).}")
+    lines.append(r"\label{tab:token_stats}")
+    lines.append(r"\begin{tabular}{lrrrr}")
+    lines.append(r"\toprule")
+    lines.append(r"\textbf{Language} & \textbf{Docs} & \textbf{Total Tokens} & \textbf{Avg Tokens/Doc} & \textbf{Median Tokens/Doc} \\")
+    lines.append(r"\midrule")
+
+    grand_docs = 0
+    grand_tokens = 0
+    all_tokens = []
+
+    for lang in LANG_ORDER:
+        lang_docs = [d for d in docs if d["language"] == lang]
+        tokens = [d["token_count"] for d in lang_docs]
+        n = len(lang_docs)
+        total = sum(tokens)
+        avg = int(round(np.mean(tokens))) if tokens else 0
+        median = int(round(np.median(tokens))) if tokens else 0
+        lines.append(f"{lang_labels[lang]} & {n} & {fmt(total)} & {fmt(avg)} & {fmt(median)} \\\\")
+        grand_docs += n
+        grand_tokens += total
+        all_tokens.extend(tokens)
+
+    grand_avg = int(round(np.mean(all_tokens))) if all_tokens else 0
+    grand_median = int(round(np.median(all_tokens))) if all_tokens else 0
+
+    lines.append(r"\midrule")
+    lines.append(r"\textbf{Total} & \textbf{" + str(grand_docs) + r"} & \textbf{" + fmt(grand_tokens) + r"} & \textbf{" + fmt(grand_avg) + r"} & \textbf{" + fmt(grand_median) + r"} \\")
+
+    lines.append(r"\bottomrule")
+    lines.append(r"\end{tabular}")
+    lines.append(r"\end{table*}")
+
+    output = "\n".join(lines) + "\n"
+    path = os.path.join(TABLES_DIR, "table4_token_stats.tex")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(output)
+    print(f"Saved: {path}")
+    print(f"  Total documents: {grand_docs}")
+    print(f"  Total tokens: {grand_tokens:,}")
+
+
+if __name__ == "__main__":
+    print("=" * 60)
+    print("Generating paper tables (LaTeX)")
+    print("=" * 60)
+
+    generate_table1()
+    print()
+    generate_table3()
+    print()
+    generate_table4()
+
+    print("\nAll tables saved to:", TABLES_DIR)

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-e3531_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 367,
+                "end": 3195,
+                "text": "# DNA Mokkula E3531\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/vianmaaritys)\n\n## Käyttöönotto\n\n## Mokkulan asennus\n\nMokkula käyttää tavallista Mini-SIM-korttia eli suurinta korttikokoa. SIM-\nkortti irtoaa ilman suurta voimankäyttöä, kun painat sitä irti SIM-kortin\ntakapuolelta. Jos irrotat väärän kokoisen SIM-kortin, käy DNA Kaupassa\nvaihtamassa se uuteen SIM-korttiin.\n\nSIM-kortti asennetaan mokkula etupuolella olevan kannen alle. Nosta takakantta\nmokkulan etuosasta ja asenna SIM-kortti mokkulaan metalliosa alaspäin ja\nlopulta sulje kansi. Huom! Kannen nostaminen saattaa vaatia kohtalaisen suurta\nvoimaa.\n\nRekisteröityminen DNA:n nettiin kestää joitakin minuutteja. Mikäli yhteyden\navaus ei onnistu, soita DNA:n\n[asiakaspalveluun](https://www.dna.fi/yhteystiedot#asiakaspalvelu).\n\nNettiyhteys on käytettävissä kun mokkulassa palaa virtavalo ja verkkotilan\nmerkkivalo.\n\n## Langattoman verkon eli WiFin käyttöönotto\n\nWindows 10\n\nDNA Mokkula E3131 tukee Windows 10 -käyttöjärjestelmää, mutta asennus on\ntehtävä manuaalisesti. Kytke mokkula tietokoneen USB-porttiin ja seuraa\noheisen liitteen ohjeita.\n\n[Tutustu\nohjeisiin](/documents/753910/853450/K%C3%A4ytt%C3%B6opas+Huawei+E3131.pdf/77895678-f186-eafa-04b1-8cc236b5ad1d).\n\nWindows XP, Vista, Windows 7 ja MAC-tietokoneet\n\n1\\. Liitä mokkula tietokoneeseen.\n\n2\\. Asennus käynnistyy automaattisesti. Huom! Jos asennus ei käynnisty\nautomaattisesti, avaa **Oma tietokone** ja CD-asema nimeltä **DNA Netti**.\nKlikkaa tiedostoa nimeltä **DNA Netti.**\n\n3\\. Asennus alkaa. Hyväksy käyttösopimus painamalla **Hyväksyn.**\n\n4\\. DNA Netti asentaa itsensä ja nettiyhteys muodostuu automaattisesti.\n\n5\\. DNA Netti -apuohjelman oletus-PIN-koodi on 1234. Jos PIN-koodisi on jotain\nmuuta, syötä PIN-koodi.\n\nNyt voit käyttää nettiä.\n\nWindows 8\n\n1\\. Liitä mokkula tietokoneeseen.\n\n2\\. Avaa Windowsin oikeasta alakulmasta verkkoyhteydet klikkaamalla\nkuuluvuuspalkkien kuvaa.\n\n3\\. Valitse Mobile Broadband / Langaton laajakaista. Klikkaa nappia Yhdistä.\n\n4\\. Syötä PIN-koodi, oletuksena se on 1234. Paina Seuraava.\n\n5\\. Nyt yhteys toimii. Jatkossa PIN-koodi pitää syöttää tästä kohdasta.\n\n## Vinkkejä jos asennus ei onnistu\n\n  * Kokeile toista USB-porttia.\n  * Poista vanha USB-modeemin yhteysohjelma tietokoneen ohjauspaneelin lisää/poista -sovelluksen kautta. Käynnistä tietokone tämän jälkeen uudelleen ja vasta sitten kytke mokkula tietokoneeseen.\n\n",
+                "heading": "DNA Mokkula E3531"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:54+00:00",
+        "last_modified": "2025-06-20T19:12:56.577227",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

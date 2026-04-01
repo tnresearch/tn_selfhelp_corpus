@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/apper.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 74,
+                "end": 620,
+                "text": "# Hjelp til Telenor-apper\n\nTrenger du hjelp med Mitt Telenor, Se Hvem eller T-We appen? Her finner du\ninformasjon og veiledninger for alle Telenor-apper.\n\n## Les mer om Telenor-apper\n\n### Usikker på hva du vil se i helgen?\n\nT-We tipser deg om de beste filmene og seriene. Hold deg underholdt!\n\n### Få siste nytt om telefonsvindel i Se Hvem\n\nFå råd, tips og siste nytt rett i appen.\n\n### Få mer ut av bildene dine fra mobilen med Min Sky\n\nVisste du at Min Sky er mer enn bare trygg lagring? Her kan du få vite litt\nmer om alle mulighetene i appen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:13+00:00",
+        "last_modified": "2025-05-30T08:17:10.930875",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "thin"
+}

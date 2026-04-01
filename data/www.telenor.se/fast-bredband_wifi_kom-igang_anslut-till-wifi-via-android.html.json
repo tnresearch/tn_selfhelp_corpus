@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_kom-igang_anslut-till-wifi-via-android.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 345,
+                "end": 906,
+                "text": "# Anslut till wifi via Android\n\n  * ### Öppna app-menyn\n\nKlicka på Inställningar och välj wifi.\n\n  * ### Klicka på inställningar\n\n  * ### Välj wifi\n\n  * ### Aktivera ditt wifi\n\nDet gör du genom att klicka på knappen.\n\n  * ### Välj nätverk\n\nDu hittar nätverkets namn på undersidan av din router. Titta vad det står\nefter SSID. Om du använder vårt nätverk börjar det på TN.\n\n  * ### Skriv in lösenordet\n\nSkriv in ditt lösenord och klicka på Anslut. Lösenordet står på undersidan av\nroutern efter Wireless Key eller WPA.\n\n  * ### Klart\n\nDu kan nu surfa trådlöst.\n\n",
+                "heading": "Anslut till wifi via Android"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:17+00:00",
+        "last_modified": "2025-05-30T14:13:35.773963",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

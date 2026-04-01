@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_kom_godt_i_gang_5gkaon-fa75502_opsaetning_og_hjaelp.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 4865,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Opsætning af Kaon FA7550 5G\n\n## Se denne korte videoguide og kom godt i gang\n\n## Skriftlig guide\n\n**Sådan sætter du din router til**\n\n  1. Åbn den lille låge til simkortet, og indsæt dit Telenor-simkort  \n **Bemærk** : benyt ikke skarpe genstande til dette, da det kan skade\nsimkortet\n\n  2. Tilslut strømforsyningen til 5G-routeren samt stikkontakten  \n **Bemærk** : benyt kun den medsendte strømforsyning til routeren\n\n**Forbindelse**\n\n  1. Tænd for routeren ved at holde power-knappen inde, indtil routeren begynder at lyse, og vent til routeren har oprettet forbindelse til netværket. Dette kan tage et par minutter, og du kan se, om routeren er online, ved at den enten lyser fast blåt i 5G-lampen eller fast grønt i 4G-lampen\n  2. For at forbinde til routeren, skal du søge efter trådløse netværk. Du finder netværksnavn og adgangskode under routeren eller på det medsendte kode-kort\n\nGod fornøjelse med dit nye internet!\n\nDet betyder dioderne (lamperne) på routeren\n\n**Dioder på routeren - forklaring:  \n** Der er 4 lamper: Power, WiFi, 4G og 5G.\n\n  * Under opstart vil du opleve at flere af dioderne blinker, eller går ud. Dette er helt normalt og er blot en del af opstarten\n  * Power-lampen skal lyse grønt. Hvis den ikke lyser, er routeren slukket eller modtager ikke strøm. Tjek, at routeren er tilsluttet et tændt strømstik med den medfølgende strømforsyning, og at routeren er tændt (hvis routeren er slukket, tændes den ved at holde knappen på forsiden inde i 3-5 sekunder, hvorefter dioderne vil begynde at lyse)\n  * WiFi-lampen lyser grønt, så snart WiFi er aktiveret på routeren, hvis den ikke lyser, er WiFi slukket\n  * 4G-lampen lyser grønt, hvis routeren er på 4G-netværket, hvis den lyser rødt, indikerer dette, at der ikke er forbindelse til netværket. Tjek derfor at simkort er korrekt monteret, og prøv evt. at genstarte/resette routeren. Lampen lyser ikke, såfremt routeren er tilsluttet 5G-netværket\n  * 5G-lampen lyser blåt, hvis routeren er på 5G-netværket. Lyser den rødt, indikerer dette, at der ikke er forbindelse til netværket. Tjek derfor at simkort er korrekt monteret, og prøv evt. at genstarte/resette routeren. Lampen lyser ikke, såfremt routeren er tilsluttet 4G-netværket\n  * Routeren resettes ved at trykke en nål eller lignende genstand ind i reset-hullet i bunden af routeren. Dette skal gøres, mens routeren er tændt. Reset-knappen holdes inde i 10 sekunder. Hvis reset er korrekt udført, vil de fleste af dioderne slukke, og umiddelbart efter begynde at lyse/blinke\n\n##  Flere indstillinger\n\nSådan logger du ind på routeren\n\nWeb-interfacet giver mulighed for at konfigurere routeren via en web-browser\n\n  1. Forbind computer eller mobil til Telenor 5G-routeren med WiFi eller LAN-kabel\n  2. Åbn en webbrowser på din computer eller mobil, og skriv **192.168.1.1** i browseren og tryk **Enter** for at åbne login-siden\n\n3\\. Brug adgangskoden fra det medsendte kode-kort. Du kan også finde koden\nunder bunden af routeren. Den hedder \"Router kode\"\n\nSådan ændrer du WiFi-navn/password\n\n  * Log ind på din router ved at følge guiden 'Sådan logger du ind på routeren'. Når du er logget ind, skal du vælge menu-punktet **Quick Setup** , hvorefter du vælger **WiFi**\n  * I feltet **SSID** indtastes dit nye WiFi-navn\n  * I feltet **password** , indtastes din nye WiFi-adgangskode\n  * Når du har indtastet de nye oplysninger vælges **Apply**\n  * **Bemærk** : Hvis du har været tilsluttet via WiFi, vil din enhed blive logget af netværket, og du skal logge på med de nye oplysninger\n\nTilslutning via WPS\n\nHvis du har en enhed (printer, smart-device, WiFi-extender osv.), der skal\ntilsluttes via WPS, gøres det på følgende måde:\n\n  * Placer den enhed, du ønsker at WPS-parre i umiddelbar nærhed af den tændte router\n  * På bagsiden af routeren findes en knap ved navn **WPS**. Tryk 1 gang og kortvarigt på denne. Du har nu 2 minutter til at gennemføre de følgende steps:\n\n  1. Tryk på **WPS-knappen** på dit eget device, og afvent i op til 2 minutter\n  2. WPS-parring er nu gennemført\n\nSådan nulstiller du din router\n\n  1. Tryk forsigtigt enden af en papirclips (eller lignende) ind i det lille hul ved Reset. Hold knappen inde i ca. 10 sekunder og slip knappen igen\n  2. Når knappen slippes, vil alle lamper begynde at blinke kort efter\n  3. Routeren kan være flere minutter om at starte op, og lamperne vil blinke imens\n  4. Når routeren er opsat, kan du logge ind med routerens oprindelige netværksnavn og adgangskode og geninstallere dine personlige indstillinger\n\nRouterens specifikationer\n\n**Specs på router:**\n\n  * 2x antenneporte\n  * 1x 2,5Gbit LAN/WAN port\n  * 2x 1Gbit LAN porte\n  * 1x USB 3.0 port\n\nSe tekniske specifikationer\n[her](https://www.telenor.dk/imagevault/publishedmedia/m1h706z73y1a1grduaa5/Telenor_5G_WiFi-\nAX_Router_FA7550.pdf).\n\n**WiFi-tilslutning:**\n\n  * IEEE 802.11b/g/n 2.4 GHz\n  * IEEE 802.11ac 5 GHz"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:46+00:00",
+        "last_modified": "2025-05-21T15:15:42.524648",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

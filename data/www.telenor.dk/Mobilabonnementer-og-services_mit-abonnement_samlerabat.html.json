@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_mit-abonnement_samlerabat.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2051,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Samlerabat\n\nSaml hele familiens mobilabonnementer hos Telenor og få den Bedste pris.\nSamlerabat gælder i øvrigt også for bofæller, naboer eller venner – så længe\nalle mobilabonnementerne er tilknyttet én ejer, er der ingen begrænsninger.\nSamlerabat gælder kun mobilabonnementer og kan ikke kombineres med andre\nrabatter eller tilbud.\n\nFor hvert ekstra mobilabonnement, der tilknyttes din regning, sparer du 50 kr.\nDu får rabat, allerede når du tegner andet mobilabonnement.\n\nHvor meget kan vi spare?\n\nI sparer 50 kr. for hvert mobilabonnement, I køber ud over det første.\n\nHvornår får jeg Samlerabat?\n\nDu får Samlerabat, når du tegner andet mobilabonnement. For hvert ekstra\nmobilabonnement, der tilknyttes din regning, sparer du 50 kr.\n\n**Bemærk!** Har du et eller flere mobilabonnementer, som du har købt i\nforbindelse med en kampagne, skal du ændre til et mobilabonnement uden rabat\npå [Mit Telenor](/mit-telenor/login/) eller kontakte kundeservice på 72 100\n100, så hjælper vi dig med at forny dine abonnementer, så du kan opnå\nSamlerabat.\n\nHvordan får jeg Samlerabat?\n\nNår du tegner dit andet mobilabonnement hos Telenor, får du automatisk\nSamlerabat – det kræver, at det er den samme person, der bestiller\nabonnementet. Bemærk, at Samlerabat kun gælder for abonnementer, der ikke er\ntilknyttet andre rabatter og tilbud.\n\nSkal det være den samme slags mobilabonnement?\n\nNej, det behøver det ikke. Du kan frit blande alle de mobilabonnementer, der\nikke er tilknyttet andre rabatter eller tilbud.\n\nKan en ven og jeg slå os sammen og få Samlerabat?\n\nDu kan godt slå dig sammen med din ven. Det er dog vigtigt, at abonnementerne\nbestilles af én af jer for at opnå rabatten.\n\nHvordan skifter jeg mine gamle Telenor abonnementer over til nye med\nSamlerabat?\n\nHar du et eller flere mobilabonnementer, som du har købt i forbindelse med en\nkampagne, kan du ændre dem i selvbetjening på [Mit Telenor](/mit-\ntelenor/login/). Du kan også kontakte kundeservice på 72 100 100, så hjælper\nvi dig med at forny dine mobilabonnementer, så du kan opnå Samlerabat."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:34+00:00",
+        "last_modified": "2025-05-21T15:15:28.429266",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

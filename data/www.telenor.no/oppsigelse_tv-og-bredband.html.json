@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/oppsigelse_tv-og-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 128,
+                "end": 1528,
+                "text": "## Oppsigelse Internett, TV eller Hjemmetelefon\n\nOppsigelsestiden er inneværende måned pluss én måned. Dette er perioden du\nblir fakturert for abonnementet og regnes fra dagen du melder inn oppsigelsen.\n\nØnsker du å si opp en kanalpakke eller fjerne innhold fra T-We? Gå til [Velge\nkanaler og innhold i T-We](/kundeservice/tv/velge-kanaler/) for å se hvordan\ndette gjøres.\n\n## Viktig å tenke på før du sier opp TV eller bredbånd\n\n  * Oppsigelsestiden gjelder fra dagen du sender inn skjemaet\n\n  * Hvis oppsigelsen er på grunn av flytting, har du sjekket hva som tilbys på ny adresse?\n\n  * Har du et abonnement med binding som kan medføre bruddgebyr? Du kan [sjekke dette på Mine Sider](/mitt-telenor/tv-internett/)\n\n  * Har du TV- eller bredbåndsutstyr du må returnere?\n\n  * Har du en e-postadresse hos Telenor du ønsker å beholde?\n\n **Vi minner om alle fordeler du har hos Telenor:**\n\n  * [Alltid WiFi](/privat/internett/alltid-wifi/)\n\n  * [Alltid På Nett-garanti](/privat/internett/bredband/alltid-pa-nett-garanti/)\n\n  * [Nettvern+](/nettvern-pluss/)\n\n **Er du usikker, ring gjerne kundeservice på 915 09 000, så hjelper vi deg.**\n\n## Hva er grunnen til at du vil si opp?\n\nTrykk på en av knappene under for å komme til riktig skjema:\n\n[Ny leverandør eller pris](/kundeservice/oppsigelse/tv-og-bredband/skjema/)\n\n[Flytting eller dødsfall](/kundeservice/oppsigelse/tv-og-\nbredband/oppsigelsesskjema/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:19+00:00",
+        "last_modified": "2025-05-30T09:30:40.473334",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

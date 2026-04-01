@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/netti.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 80,
+                "end": 519,
+                "text": "# Netin tuki\n\nOhjeet netin ongelmatilanteisiin, käyttöönottoon ja WiFi-verkon optimaaliseen\nkäyttöön.\n\n[ Vianrajaus ](https://www.dna.fi/tuki/netti/vianrajaus) [ Käyttöönotto\n](https://www.dna.fi/tuki/netti/kayttoonotto) [ WiFi-verkko\n](https://www.dna.fi/tuki/netti/wifi)\n\n## Tee nopeustesti\n\nNopeustesti auttaa selvittämään netin nopeuden alle minuutissa. Voit\ntestata mobiilin tai kiinteän netin nopeuden, missä sitten surffaatkin."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:03+00:00",
+        "last_modified": "2025-06-20T19:16:45.817899",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

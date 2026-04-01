@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_guider-och-manualer_tv-via-kabel_manual-for-kanalsokning-pa-sony-tv-med-tv-modul.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 394,
+                "end": 1292,
+                "text": "# Manual för kanalsökning på Sony-tv med tv-modul\n\nFölj instruktionen nedan för att göra en kanalsökning på en Sony-tv med tv-\nmodul:\n\n  * ### Ta fram fjärrkontrollen\n\nTryck på Home-knappen. Välj sedan **Inställningar** (symbolen som ser ut som\nen väska).  \n  \n\n  * ### Välj Digital inställning\n\n  * ### Välj Digital auto.kanalinst.\n\n  * ### Starta den automatiska kanalinställningen\n\nDet gör du genom att välja **Ja**.\n\n  * ### Välj Kabel-TV\n\n  * ### Välj operatör\n\nVälj **övrigt** i listan.\n\n  * ### Välj Starta\n\nOBS! Ändra inga inställningar. Välj endast **Starta**.  \n  \nSedan sätter kanalsökningen igång. Det tar ett par minuter och du kan lugnt\nvänta under tiden.  \n  \n  \n  \n  \n\n  * ### Gör så här för att slutföra\n\nNär allt är klart står det **Automatisk kanalsökning utförd** på din tv-skärm.  \n  \nSlutför genom att trycka två gånger på Home-knappen.  \n  \nSådär ja, nu kan du titta på tv.  "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:10+00:00",
+        "last_modified": "2025-05-30T14:59:48.155919",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

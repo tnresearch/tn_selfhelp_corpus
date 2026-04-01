@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_rostbrevladan_sa-anvander-du-rostbrevladan_kom-igang-med-rostbrevladan.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 427,
+                "end": 1408,
+                "text": "#  Kom igång med röstbrevlådan\n\n## Aktivering av röstbrevlådan\n\nOm du har ett mobiltelefonabonnemang har din röstbrevlåda lagts på automatiskt\nfrån dag ett.\n\nOm du har ett kontantkort läggs din röstbrevlåda på när du registrerar dig.\nKom ihåg att du kan ringa röstbrevlådan även om du inte har pengar på mobilen.\n\n## Personlig hälsningsfras\n\nDu kan spela in en personlig hälsningsfras om du inte vill använda\nstandardfrasen som redan är förinställd. För att ställa in din personliga\nhälsningsfras, ring 888 och följ instruktionerna. Din hälsningsfras kan vara\nhögst fem minuter lång.\n\n## Inställningar\n\nKlicka på länken nedan för att få information om alla inställningar som du kan\ngöra i din röstbrevlåda. För vissa inställningar måste du logga in i [appen\nMitt Telenor](/archive/2019/mitt-telenor-old/).\n\nHär hittar du information om [alla inställningar du kan göra i\nröstbrevlådan](/support/mobiltelefoni/abonnemang/rostbrevladan/sa-anvander-du-\nrostbrevladan/installningar/).\n\n",
+                "heading": " Kom igång med röstbrevlådan"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:02+00:00",
+        "last_modified": "2025-05-30T14:27:05.594569",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

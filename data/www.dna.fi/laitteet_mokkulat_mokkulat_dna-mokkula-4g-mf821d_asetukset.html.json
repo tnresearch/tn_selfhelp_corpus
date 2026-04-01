@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-4g-mf821d_asetukset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 372,
+                "end": 2276,
+                "text": "# DNA Mokkula 4G MF821D\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/vianrajaus)\n\n## Asetukset\n\n## 4G- tai 3G-verkkoon pakottaminen\n\nMikäli käytät mokkulaa 4G- ja 3G-, 3G- ja 2G-verkkojen rajalla, saattaa\nmokkula vaihdella näiden verkkojen välillä. Voit tarkistaa kuuluvuusalueet\nosoitteesta [dna.fi/kuuluvuus-ja-peittoalueet](/kuuluvuus-ja-peittoalueet).  \n  \nVaihtelu verkkojen välillä aiheuttaa nettiyhteyden pätkimistä ja hidastaa\nmokkulaa. Tällöin mokkula voi jäädä pelkän 2G-verkon varaan, jolloin\nnettiyhteys on erittäin hidas. Ratkaisu ongelmaan voi olla mokkulan\npakottaminen joko 4G- tai 3G-verkkoon. Huom! Pakottaminen pitää tehdä silloin,\nkun mokkula ei ole yhdistettynä verkkoon.  \n  \nValitse **Asetukset > Mokkulan asetukset > Käytettävän verkon valinta**.\n\n  * Valitse **vain 3G** , jos haluat lukita mokkulan 3G-verkkoon.\n  * Valitse **vain 4G LTE** , jos haluat lukita mokkulan 4G LTE -verkkoon.\n\n## Vinkkejä mokkulan yhteyden parantamiseen\n\nMokkulat toimivat tehokkaimmin 4G- ja 3G-verkossa. Jos nettiyhteys on hidas\ntai se pätkii, kokeile seuraavia vinkkejä:  \n\n  * Sisätiloissa yhteys on tehokkain ikkunoiden äärellä\n  * Käytä mokkulassa lisäantennia. Tutustu mokkuloiden lisäantenneihin [täällä](https://kauppa4.dna.fi/Lis%C3%A4laitteet-ja-tarvikkeet/c/muut-laitteet?q=%3Arelevance%3AaccessoryType%3ALis%C3%A4antennit).\n  * Yhdistä mokkula tietokoneeseen USB-jatkojohdolla ja aseta mokkula mahdollisimman kauas tietokoneesta\n\n",
+                "heading": "DNA Mokkula 4G MF821D"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:09:07+00:00",
+        "last_modified": "2025-06-20T19:10:10.687121",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

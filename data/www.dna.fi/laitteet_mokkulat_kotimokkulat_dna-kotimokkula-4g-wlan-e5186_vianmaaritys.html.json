@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-e5186_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 404,
+                "end": 2827,
+                "text": "# DNA Kotimokkula 4G+ WLAN E5186\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/vianmaaritys)\n\n##  Vianmääritys\n\nKäytän mokkulaa SIM-kortilla, joka pyytää PIN-koodia\n\nVoit syöttää PIN-koodin mokkulan hallintasivun kautta (http://dna.mokkula).\nKatso ohjeesta [PIN-koodin syöttäminen](/dna-\nkotimokkula-4g-wlan-e5186#asetukset).\n\nMokkulan yhteys pätkii tai on hidas\n\nJos yhteytesi on hidas tai se pätkii, kannattaa siirtää mokkula lähemmäksi\nikkunaa sekä ottaa käyttöön lisäantennit. Lisäantennit löydät DNA\nNettikaupasta. Mikäli nämä eivät auta, tarkista DNA:n sivuilta kuuluvuus- ja\npeittokartta tai ota yhteyttä DNA:n Asiakaspalveluun. Asiakaspalvelu neuvoo\nmistä suunnasta tukiasema lähettää ja mille ikkunalle kannattaa siirtyä.\n\nMikäli mokkulan LED-signaalit näyttävät enemmän kuin kolme palkkia ja yhteys\non silti hidas, kokeile yhteyttä Ethernet-kaapelilla.\n\nJos mahdollista siirry käyttämään vain toista WiFi-taajuutta. Katso lisätietoa\nosiosta WiFi-verkon taajuuden vaihtaminen [linkki kohtaan: **Asetukset – WLAN-\nverkon taajuuden vaihtaminen** ].\n\nTietokone ilmoittaa ”Rajoitettu yhteys tietokoneesta”\n\nMokkula ei ole yhteydessä nettiin. Tarkista nettiyhteytesi, liitännät ja SIM-\nkortin PIN-koodi. Käynnistä mokkula tarvittaessa uudestaan.\n\nMokkula ilmoittaa, että se on yhteydessä nettiin, mutta yhteys ei toimi\ntietokoneella\n\nVarmista, että olet yhdistänyt tietokoneen mokkulan muodostamaan WiFi-\nverkkoon. Löydät WiFi-verkon nimen mokkulan takana olevasta tarrasta. Voit\nmyös kokeilla yhteyttä Ethernet-kaapelilla. Jos tämäkään ei auta, käynnistä\nmokkula uudelleen.\n\nVaihdoin vahingossa asetusta mitä ei pitänyt ja nyt kotimokkula ei enää vastaa\nkomentoihin\n\nVoit palauttaa laitteen tehdasasetukset (paina reset-nappulaa pohjassa 3\nsekunnin ajan) tai käynnistää mokkula uudelleen (virtajohto irrotettuna noin\n30 sekunnin ajan). Tämän jälkeen on kaikki asetukset tehtävä kuitenkin\nuudestaan.\n\n",
+                "heading": "DNA Kotimokkula 4G+ WLAN E5186"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:02+00:00",
+        "last_modified": "2025-06-20T18:54:52.446667",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

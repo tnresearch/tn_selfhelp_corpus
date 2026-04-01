@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_Mobilt-internetabonnement_flyt-mobilt-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 613,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Flyt mobilt internet\n\nNår du melder flytning til folkeregistret, får vi automatisk besked. Derfor\nbehøver du ikke gøre andet, når du skal flytte.\n\nFolkeregistret anbefaler, at du senest fem dage efter din flyttedato giver dem\nbesked. Og i de fleste kommuner kan du tidligst melde flytning fire uger før.\n\n[Meld flytning til\nFolkeregistret](https://www.borger.dk/Sider/Handlingsside.aspx?DomainServiceId=e6ee526c-e70a-4611-b926-3318e1525b44&PageId=9e15e617-9fc4-440f-ab68-5fdbb5aefb9b)\n\n**Har du også Bredbånd?**  \n[Bestil flytning her](/mit-telenor/abonnement/detaljer/bredbaand/ \"Bestil\nflytning af Bredbånd\")"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:00+00:00",
+        "last_modified": "2025-05-21T15:16:05.849658",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

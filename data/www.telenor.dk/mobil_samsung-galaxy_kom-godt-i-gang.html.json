@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_kom-godt-i-gang.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 606,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Indsæt simkort\n\nTil Samsung Galaxy S6 bruges et nano-simkort. Der følger et metalclips med\ntelefonen, som du skal bruge til at sætte simkortet i med.\n\nFølg guiden herunder for at sætte det korrekt i.\n\n  * ## Du finder simkortholderen på toppen af din mobil\n\n  * ## Åbn simkortholderen\n\nStik værktøjet ned i det lille hul på låget, hvor simkortholderen sidder. Pres\nforsigtigt, til holderen \"springer\" ud.\n\n  * ## Træk simkortholderen ud\n\n  * ## Læg simkortet i simkortholderen\n\nSørg for at simkortet vender korrekt.\n\n  * ## Skub simkortholderen tilbage i telefonen\n\nNu er du klar til at bruge din mobil."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:42+00:00",
+        "last_modified": "2025-05-21T15:15:59.427464",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

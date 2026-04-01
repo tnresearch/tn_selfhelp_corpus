@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_hjalp-til-dit-internetabonnement_flytning-af-internet_faa-hjaelp-her.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1237,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Flytning af internet\n\nDet er nemt at flytte dit internet til en ny adresse. Du skal bare være\nopmærksom på, at det kan tage op til seks uger at få gennemføre flytningen, så\nhvis du vil være sikker på, at du er online allerede den dag, du flytter ind i\ndit nye hjem, skal du melde flytning af dit internet til os i god tid.\n\n## Hvor lang tid før, skal jeg melde flytning?\n\nHvis du vil være sikker på, at du er online, den dag du flytter ind i dit nye\nhjem, er det en god idé at melde flytning senest seks uger før. Du kan dog\nsagtens melde en flytning langt ude i fremtiden, så det kan være en god ide at\nmelde flytningen, når du kender datoen for indflytning i dit nye hjem.\n\n## Hvad koster det at flytte internet?\n\nDet er som udgangspunkt gratis at flytte dit internet. I sjældne tilfælde kan\nder være en udgift, hvis det er nødvendigt med et teknikerbesøg. Prisen for et\nteknikerbesøg afhænger af udbyderen, men du vil altid blive informeret om\nprisen på forhånd.\n\n## Hvordan melder jeg flytning af mit internet?\n\n1\\. Log ind på [Mit Telenor](/mit-\ntelenor/abonnement/detaljer/bredbaand/relocation-page/)  \n2\\. Tryk på **Abonnementer** i menuen  \n3\\. Vælg dit abonnement  \n4\\. Tryk på **Skift adresse** under dine abonnementsdetaljer"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:17+00:00",
+        "last_modified": "2025-05-21T15:15:41.217847",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands_innan-och-under-resan_innan-resan_surfpaket-fast-pris-for-surfen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 445,
+                "end": 5382,
+                "text": "#  Surfpaket – fast pris för surfen\n\nDu har landat. Semestern har just börjat. Du vill kolla kartan, mejlen, skicka\nen bild i gruppchatten. Men framförallt. Du vill slippa oroa dig för\nkostnaderna.\n\nTill dig rekommenderar vi Telenor Surfpaket*. Telenor Surfpaket kostar 399\nkronor och innehåller 1, 2 eller 3 GB surf, beroende på land. 1 GB räcker\nungefär till 80 minuter musik och 40 minuter sociala medier per dag.  \n  \nSurfpaketet kan du använda i 14 dagar, från och med när du börjar surfa i det\nland som surfpaketet är giltigt i. Ska du vara borta mer än 14 dagar behöver\ndu ladda på med ytterligare ett surfpaket.\n\nSurfpaket fungerar inte med Telenors kontantkort.\n\n## I följande länder erbjuder vi Telenor Surfpaket\n\n###\n\nLänder A-F\n\nTelenor Surfpaket kostar 399 kr och gäller i två veckor. Beställ genom att\nsms:a koden i tabellen till 222.  Tjänst | För att beställa | Surfmängd  \n---|---|---  \n  \nSurfpaket Albanien\n\n| Sms:a \"3ALB\" till 222 | 3 GB  \n  \nSurfpaket Argentina\n\n| Sms:a \"2ARG\" till 222 | 2 GB  \n  \nSurfpaket Australien\n\n| Sms:a \"2AUS\" till 222 | 2 GB  \n  \nSurfpaket Bangladesh\n\n| Sms:a \"2BAN\" till 222 | 2 GB  \n  \nSurfpaket Belarus\n\n| Sms:a \"2BEL\" till 222 | 2 GB  \n  \nSurfpaket Brasilien\n\n| Sms:a \"2BRA\" till 222 | 2 GB  \n  \nSurfpaket Chile\n\n| Sms:a \"2CHI\" till 222 | 2 GB  \n  \nSurfpaket Colombia\n\n| Sms:a \"1COL\" till 222 | 1 GB  \n  \nSurfpaket Egypten\n\n| Sms:a \"1EGY\" till 222 | 1 GB  \n  \nSurfpaket Färöarna\n\n| Sms:a \"3FAR\" till 222 | 3 GB  \n  \nLänder G-K\n\nTelenor Surfpaket kostar 399 kr och gäller i två veckor. Beställ genom att\nsms:a koden i tabellen till 222.  Tjänst | För att beställa | Surfmängd  \n---|---|---  \n  \nSurfpaket Grönland\n\n| Sms:a \"3GRO\" till 222 | 3 GB  \n  \nSurfpaket Guernsey\n\n| Sms:a \"2GUE\" till 222 | 2 GB  \n  \nSurfpaket Hongkong\n\n| Sms:a \"2HON\" till 222 | 2 GB  \n  \nSurfpaket Indien\n\n| Sms:a \"2IND\" till 222 | 2 GB  \n  \nSurfpaket Isle of Man\n\n| Sms:a \"2GUE\" till 222** | 2 GB  \n  \nSurfpaket Israel\n\n| Sms:a \"2ISR\" till 222 | 2 GB  \n  \nSurfpaket Japan\n\n| Sms:a \"2JAP\" till 222 | 2 GB  \n  \nSurfpaket Jersey\n\n| Sms:a \"2GUE\" till 222** | 2 GB  \n  \nSurfpaket Kanada\n\n| Sms:a \"2KAN\" till 222 | 2 GB  \n  \nSurfpaket Kap Verde\n\n| Sms:a \"2KAP\" till 222 | 2 GB  \n  \nSurfpaket Kina\n\n| Sms:a \"2KIN\" till 222 | 2 GB  \n  \nLänder L-R\n\nTelenor Surfpaket kostar 399 kr och gäller i två veckor. Beställ genom att\nsms:a koden i tabellen till 222.  Tjänst | För att beställa | Surfmängd  \n---|---|---  \n  \nSurfpaket Mexiko\n\n| Sms:a \"2MEX\" till 222 | 2 GB  \n  \nSurfpaket Monaco\n\n| Sms:a \"1MON \" till 222 | 1 GB  \n  \nSurfpaket Nordmakedonien\n\n| Sms:a \"2NMAK\" till 222 | 2 GB  \n  \nSurfpaket Nya Zeeland\n\n| Sms:a \"2NYA\" till 222 | 2 GB  \n  \nSurfpaket Pakistan\n\n| Sms:a \"2PAK\" till 222 | 2 GB  \n  \nSurfpaket Ryssland\n\n| Sms:a \"2RYS\" till 222 | 2 GB  \n  \nLänder S-U\n\nTelenor Surfpaket kostar 399 kr och gäller i två veckor. Beställ genom att\nsms:a koden i tabellen till 222.  Tjänst | För att beställa | Surfmängd  \n---|---|---  \n  \nSurfpaket Singapore\n\n| Sms:a \"2SIN\" till 222 | 2 GB  \n  \nSurfpaket Sydafrika\n\n| Sms:a \"2SYA\" till 222 | 2 GB  \n  \nSurfpaket Sydkorea\n\n| Sms:a \"2SYK\" till 222 | 2 GB  \n  \nSurfpaket Taiwan\n\n| Sms:a \"2TAI\" till 222 | 2 GB  \n  \nSurfpaket Ukraina\n\n| Sms:a \"2UKR \" till 222 | 2 GB  \n  \n  \nAlla priser är inklusive moms. Tänk på att priserna gäller per sim-kort.\nExtra-sim behöver ett eget surfpaket.\n\n## Står inte landet du ska till med på listan?\n\nDå erbjuder vi inte Telenor Surfpaket i det landet. Tänk på att i EU och EES\nkostar det faktiskt [inget extra alls att surfa](/roaming/). Det gäller\noavsett om du har mobilt kontantkort eller abonnemang hos oss. I våra\nabonnemang ingår även surf i Thailand, Malaysia, Myanmar (Burma), USA,\nTurkiet, Schweiz, Storbritannien (inkl. Gibraltar), Andorra, Serbien och\nMontenegro.\n\n## Så här beställer du Telenor Surfpaket\n\nDu kan beställa i förväg om du vill (upp till 30 dagar före din avresa), eller\ngenom att följa instruktionerna i det välkomst-sms du får när du kommer till\ndin destination. Surfpaketet aktiveras först när du börjar surfa i det land\ndet gäller för.\n\nOm du vill beställa i förväg sms:ar du [rätt kod] till 222. Du hittar koderna\nunder rubriken \"I följande länder erbjuder vi Telenor Surfpaket\" ovan.\n\n## Om du vill ha mer surf\n\nNär den surfmängd som ingår i surfpaketet (1 eller 2 GB) börjar ta slut får du\nett sms med en fråga om du vill köpa ett nytt surfpaket. Om du sms:ar [rätt\nkod] till 222 så fylls surfpotten på. Du hittar koderna under rubriken \"I\nföljande länder erbjuder vi Telenor Surfpaket\" ovan.\n\nOm du väljer att inte köpa ett nytt surfpaket, men ändå fortsätter att surfa\nutomlands när din pott är slut, kostar det lika mycket som [ordinarie\npris](/roaming/).\n\n*Observera att Telenor Surfpaket enbart gäller surf. Du ringer, sms:ar och mms:ar till [ordinarie pris](/roaming/) i landet.\n\n** Surfpaketet gäller för Gurnsey, Jersey och Isle of Man. Därför är det samma\nkod, 2GUE, för att beställa surfpaketet.\n\n",
+                "heading": " Surfpaket – fast pris för surfen"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:59+00:00",
+        "last_modified": "2025-05-30T14:52:46.682105",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_problemer-med-tv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 114,
+                "end": 498,
+                "text": "# Løs problemer med TV\n\nOpplever du problemer med T-We, dekoder, lyd og bilde, kanaler, innhold eller\nnettverksforbindelse? Se om våre veiledninger under kan løse problemet.\n\n[Feilsøk min T-We](/mitt-telenor/feilsok/)\n\n# Hvilket problem opplever du?\n\nHar du fått en feilkode på TV-en kan du gjerne gå til **[Feilkode-\noversikten](/kundeservice/tv/problemer-med-tv/feilkoder/)** først."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:55+00:00",
+        "last_modified": "2025-05-30T09:39:10.688435",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

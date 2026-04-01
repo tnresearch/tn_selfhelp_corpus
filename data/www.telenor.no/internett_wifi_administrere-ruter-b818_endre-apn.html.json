@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter-b818_endre-apn.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 250,
+                "end": 1249,
+                "text": "# Endre APN\n\nAPN står for Access Point Name og er en innstilling som bestemmer hvordan\nruteren skal koble seg til mobilnettet.\n\n## Logg inn på ruteren\n\n  1. Åpne en nettleser (f.eks Google Chrome) på enheten som er tilkoblet ruteren.\n\n  2. Skriv inn 192.168.1.1 i adressefeltet og søk\n\n  3. Skriv inn passordet. \n\nPassordet er det samme som ditt opprinnelige trådløse passord. Du finner det\npå klistrelappen på baksiden av ruteren etter **WIFI**.  \n**Merk:** Har du selv endre passordet til menyen, skriver du inn det du selv\nhar valgt.\n\n## Når du er logget inn\n\n  1. Velg **Nettverksinnstillinger**\n\n  2. Velg **Mobilnett**\n\n  3. Velg **Internett-forbindelse**\n\n  4. En liste over APN vil dukke opp. Trykk på +ikonet og skriv inn nytt APN  \nMerk: Telenor bruker _telenor.smart_ som APN. Skal du åpne porter, skal du\nbruke _telenor.fwa_.\n\n  5. Skal du åpne porter, skriv inn telenor.fwa på \"Profilnavn\" og \"APN\"\n\n  6. Trykk **Lagre**\n\n  7. Skru ruteren av og på ved å bruke strømbryteren på baksiden"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:01+00:00",
+        "last_modified": "2025-05-30T09:02:36.964590",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

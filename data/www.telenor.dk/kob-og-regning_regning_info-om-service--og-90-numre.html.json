@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_regning_info-om-service--og-90-numre.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2247,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Priser på service- og 90-numre\n\nAlle priser er inklusiv moms (bortset fra numre markeret som momsfritaget).\n\n## Priser på servicenumre\n\nServicenummer | Tjeneste | Minutpris  \nMandag-lørdag  \nkl. 8.00 - 19.30 | Minutpris  \nSøn/helligdage  \n\\+ Øvrig tid | Opkalds-  \nafgift  \n---|---|---|---|---  \n112 | Alarmcentralen | Gratis | Gratis | Gratis  \n114 | Politi - service | Gratis | Gratis | Gratis  \n118 | Oplysning, indland | 0 kr. | 0 kr. | 30 kr.  \n1812 | Dyrenes Vagtcentral | 0 kr. | 0 kr. | 1 kr.  \n1813 | Region Hovedstaden | 0 kr. | 0 kr. | 0 kr.  \n1818 | Region Sjælland  | Alm. Fastnettakst | Alm. Fastnettakst | Alm.\nFastnettakst  \n1888 | Lev uden vold - Rådgivningstelefon | 0 kr. | 0 kr. | 0 kr.  \n116000 | Hotline for eftersøgte børn | 0 kr. | 0 kr. | 0 kr.  \n116006 | Offerrådgivningen | 0 kr. | 0 kr. | 0 kr.  \n116111 | Telefonrådgivning for børn | 0 kr. | 0 kr. | 0 kr.  \n80-numre | Gratisnumre | Gratis | Gratis | Gratis  \n  \n*Såfremt du har abonnement med inkluderet tale er opkald til alm. fastnettakst naturligvis inkluderet.\n\n## Opkald til 901-905-numre\n\nServicenummer | Opkaldsafgift | Ekstra Minutpris | Momsfritaget  \n---|---|---|---  \n90109000-90109099 | 0,25 kr. | 1,00 kr. |  \n90101000-90101099 | 0,25 kr. | 1,50 kr. |  \n90111100-90111150 | 0,25 kr. | 2,50 kr. |  \n90111151-90111199 | 0,25 kr. | 3,50 kr. |  \n90510000-90515999 | 0,25 kr. | 1,00 kr. |  \n  \n* Taksten til de enkelte numre fås ved opkald til de enkelte numre.\n\n## Opkald til 909-numre\n\nAnvendelse | Servicenummer | Opkaldsafgift | Ekstra minutpris  \n---|---|---|---  \nTelenors Mødetelefon | 90950000 | 0,25 kr. | 1,88 kr.  \nTræfpunkter | 90900059  \n90901000  \n90901001  \n90901003  \n90901004  \n90901006  \n90901033  \n90901044  \n90901050  \n90901055  \n90901070  \n90901077  \n90901099  \n90901100  \n90901110  \n90901111 | 0,25 kr. | 5,50 kr.  \nChattjenester | 90920000-90920499 | 0,25 kr. | 1,50 kr.  \nChattjenester | 90920500-90920799 | 0,25 kr. | 4,00 kr.  \nChattjenester | 90920800-90920999 | 0,25 kr. | 4,80 kr.  \nChattjenester | 90990000-90990099 | 0,25 kr. | 1,50 kr.  \nChattjenester | 90991000-90991099 | 0,25 kr. | 1,00 kr.  \nChattjenester | 90991100-90991139 | 0,25 kr. | 2,50 kr.  \n  \n* Taksten til de enkelte numre fås ved opkald til de enkelte numre."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:00+00:00",
+        "last_modified": "2025-05-21T15:15:50.893455",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

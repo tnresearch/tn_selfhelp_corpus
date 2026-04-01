@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_spesialnummer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 117,
+                "end": 3328,
+                "text": "# Priser til spesialnummer\n\nHer finner du samtalepriser og SMS-priser til spesialnummer fra ditt\nmobilabonnement.\n\nAlle priser gjelder fra og med 1. februar 2022.\n\n## SMS til 3-, 4-, og 5-sifrede nummer\n\nNummer| Pris  \n---|---  \n110, 112 og 113| 0,00  \n1999, 05000, 09000| 0,00  \nØvrige nummer| 1,00  \n  \nSMS til innholdsleverandører (øvrige nummer) kan medføre ytterligere utgifter,\n[les mer om dette på\nInnholdstjenester.](/kundeservice/faktura/innholdstjenester/)\n\n## 3-sifrede nummer\n\nNummer| Pris  \n---|---  \nNødnummer, 110, 112 og 113| 0,00 / 0,00  \nTelenors Feilmottak 145| Lik pris som for å ringe vanlige norske telefonnummer  \nLandsomfattende veirapport 175| Lik pris som for å ringe vanlige norske\ntelefonnummer  \nRuteopplysning 177| Lik pris som for å ringe vanlige norske telefonnummer  \nØvrige 3-sifrede nummer| Lik pris som for å ringe vanlige norske telefonnummer  \n  \n## 4-sifrede nummer\n\nNummer| Priser  \n---|---  \nOpplysningen 1881 og 1882| www.om.1881.no/vilkar/priser  \n  \nSamtaler fra mobiltelefon til nummeropplysning blir fakturert på\nmobilregningen via Strex. Prisopplysning gis av hver enkelt\nnummeropplysningsaktør.\n\n## 5-sifrede nummer\n\nNummer| Pris  \n---|---  \n5-sifrede nummer (02000-09999)| Lik pris som for å ringe vanlige norske\ntelefonnummer  \n  \n*Ringer du kundeservicenumrene 915 09000/915 05000 er det samme ringepris som til et vanlig mobilnummer. Har du inkludert ringetid i ditt mobilabonnement, er også samtaler til kundeservice inkludert.\n\n## 80/81/85/88xx-nummer\n\nNummer| Startpris/pris pr. min - Abonnement| Startpris/pris pr. min - Telenor\nKontant  \n---|---|---  \n800 xx xxx| 0,00 / 0,00| 0,00 / 0,00  \n810 xx xxx| Lik pris som for å ringe vanlige norske telefonnummer| Lik pris\nsom for å ringe vanlige norske telefonnummer  \n815 xx xxx| Lik pris som for å ringe vanlige norske telefonnummer| Lik pris\nsom for å ringe vanlige norske telefonnummer  \n85x xx xxx| Lik pris som for å ringe vanlige norske telefonnummer| Lik pris\nsom for å ringe vanlige norske telefonnummer  \n88x xx xxx| 0,99 / 0,99| 1,49 / 0,99  \n  \n## 82XX Teletorg-nummer\n\nSamtaler til Teletorg-nummer blir fakturert via Strex på lik linje med\ninnholdstjenester.\n\nDu vil få opplest pris når du ringer til de individuelle teletorg-numrene, og\ndu vil kunne se belastningen på din mobilfaktura. Hvis du heller ønsker å\nbetale for disse tjenestene med ditt betalingskort, kan du ordne dette ved å\nregistrere deg på <https://minside.strex.no/>\n\n## Ringe spesialnummer fra utlandet\n\nHvis du ringer til norske spesialnumre gjelder egne priser. Du kan kun ringe\ntil spesialnumre i seriene 800-, 813- og 815 xx xxx. Ringer du fra EU/EØS\ngjelder norske priser for å ringe spesialnumre i Norge. Ringer du fra et land\nutenfor EU/EØS er prisen det samme som å ringe hjem til Norge fra det landet\ndu befinner deg i. [Se ringepriser i\nutlandet](https://www.telenor.no/privat/mobil/utlandet/)\n\n## Ringe spesialnummer i utlandet\n\nSamtaler fra en mobiltelefon i Norge til et ordinært spesialnummer i et annet\nland, har samme priser som for øvrige samtaler til landet. Det eneste unntaket\ner 'internasjonale grønne nummer' som starter med 00800. Disse prises med en\nstartpris på kr 0,99 og deretter kr 0,99 per minutt.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:08+00:00",
+        "last_modified": "2025-05-30T09:25:50.482264",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

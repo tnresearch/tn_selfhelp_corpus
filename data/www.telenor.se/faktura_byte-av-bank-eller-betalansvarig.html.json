@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/faktura_byte-av-bank-eller-betalansvarig.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 295,
+                "end": 2403,
+                "text": "#  Byte av bank eller betalansvarig\n\nHar du bytt bank och vill fortsätta med autogiro eller e-faktura? Eller vill\ndu ändra vem som står som betalansvarig på ett mobilabonnemang?\n\n## Om du har bytt bank\n\n  1. Logga in på din gamla bank och avanmäl ditt medgivande.\n  2. Logga sen in på din nya bank och anmäl [autogiro](/support/faktura/autogiro/) eller [e-faktura](/support/faktura/e-faktura/).\n\nUnder övergångsperioden kan det hända att du får en pappersfaktura, innan din\nansökan för autogiro eller e-faktura har blivit godkänd.\n\n## Ändra betalansvarig\n\nVill du byta betalansvarig är det en överlåtelse som ska ske.  \n  \n[Överlåta mobilabonnemang](/support/mobiltelefoni/abonnemang/hantera-\nabonnemang/ta-over-ett-abonnemang-eller-nummer/)  \n  \n[Överlåtelseblankett för tv- eller\nbredbandsabonnemang](https://mediearkivet.telenor.se/Data/mw/Pdf/TB921080.pdf)\n\n## Vanliga frågor om att byta bank eller betalansvarig\n\n  * Hur ser jag att min ansökan om autogiro/e-faktura gått igenom?\n\nI appen Mitt Telenor kan du se hur du betalar dina kommande fakturor. Klicka\npå fakturor, sen på obetalda fakturor och längst ner ser du ditt betalsätt.  \n  \nTänk på att om du har både mobiltelefoni och bredband eller tv från oss så har\ndu två kundnummer och får två fakturor. Det innebär att du måste göra en\nansökan för varje kundnummer.\n\n### Autogiro\n\nNär det gäller att se om en autogiro-ansökan gått igenom är det är olika från\nbank till bank. De flesta banker skickar ut en bekräftelse per post när din\nansökan om autogiro har godkänts. Kontakta din bank för att få veta hur deras\nrutiner ser ut samt hur lång tid det tar.\n\n### E‑faktura\n\nFör e‑faktura så ser du direkt i din internetbank att allting är okej. Tänk på\natt du inte kan se själva e‑fakturan förrän vi har skickat den till din bank.\nDet gör vi en gång per månad.\n\n### Om du får en pappersfaktura ändå...\n\n...så behöver det inte betyda att något har blivit fel. Beroende på när du\nskaffar autogiro eller e‑faktura kan det nämligen bli så att en till\npappersfaktura skickas ut innan ditt medgivande om autogiro eller e‑faktura\nhinner hanteras av banken.\n\n",
+                "heading": " Byte av bank eller betalansvarig"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:35+00:00",
+        "last_modified": "2025-05-30T13:57:20.191222",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kabelnett.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 78,
+                "end": 3203,
+                "text": "# Telenor kabelnett\n\nHer kan du melde ifra om skade på Telenors kabler, stolper og koblingsskap\nutenfor egen eiendom.  \nEller be om flytting av infrastruktur ved utnyttelse av egen eiendom.\n\n## Melde skade / Bestille omlegging av kabler i Telenors nett\n\nFor å melde inn sak må du ha en Telenor ID-bruker. Du trenger ikke være kunde\nhos oss for å opprette en Telenor ID.  \nTrenger du hjelp med å opprette Telenor ID finner du det her: [Slik\nregistrerer du bruker](/telenor-id/registrere-bruker/)\n\n[\n\n### Melde feil/skade\n\nMelde inn feil eller observert skade på Telenors nett og utstyr\n\n](/mitt-telenor/kabelnett/)\n\n[\n\n### Omlegging\n\nMelde inn ønske om endring, flytting eller fjerning av kabler/utstyr i\nTelenors nett. Gjelder også e-verk.\n\n](/mitt-telenor/kabelnett/)\n\n[\n\n### Fellesføring - kun bedrift\n\nSøknad om fellesføring eller oppsigelse på Telenors stolper og oppsigelse\ne-verk\n\n](/mitt-telenor/kabelnett/)\n\n### Allerede innmeldt sak?\n\nØnsker du å se status på din sak, så finner du disse ved å klikke på knappen\nunder, og logg inn med din Telenor ID. Trenger du hjelp med innlogging, så\nfinner du det her: [Telenor ID - Hjelp med innlogging](/telenor-id/hjelp-med-\ninnlogging/)\n\n[Gå til innmeldingsportal](/mitt-telenor/kabelnett/)\n\n## Nedtaking av eget innstrekk\n\nHvis du ønsker å ta ned kobberkabelen som går inn til din bolig skal dette\ngjøres for egen regning. Du står fritt til å engasjere en profesjonell aktør\ntil å utføre arbeidet for deg, eller benytte Telenors samarbeidspartnere\nOneCo, Eltel eller Netel. Ved utførelse skal kabelen kuttes ned, og tamp\nsikres til stolpen. Kabel skal så leveres til godkjent mottak.\n\n[Her finner du kontaktinformasjon til OneCo, Eltel og\nNetel](/kundeservice/kabelnett/arbeid-eget-nett/) samt oversikt for ditt\nfylke.\n\n## Telenors saneringsprogram\n\nTelenor planlegger regionvis sanering av bygninger, utstyr, luftkabler og\nstolper som ikke lenger vil være i bruk eller planlegges gjenbrukt i\nmoderniseringen av Telenors mobil- og fibernett. Planer for fjerning av\ngammelt utstyr vil bli lagt slik at saneringen vil foregå på en miljøvennlig,\nplanmessig og økonomisk forsvarlig måte. Vi kan derfor ikke fjerne spesifikke\nlinjer eller stolper på forespørsel.\n\nNasjonal kommunikasjonsmyndighet, NKOM, har imidlertid vedtatt at Telenor ikke\ngis tillatelse til å fjerne eksisterende infrastruktur før tidligst høsten\n2025 av hensyn til andre aktører som i dag benytter kobbernettet til å levere\nbredbåndstjenester. Det pågår en prosess for å avklare Telenors mulighet for\neventuell tidligere fjerning av infrastruktur.\n\nInformasjon om dette [finnes på NKOM’s\nhjemmesider](https://www.nkom.no/aktuelt/nkoms-tilsyn-med-telenors-avvikling-\nav-kobbernettet-gar-inn-i-en-ny-fase).\n\nVi kan derfor ikke angi tidspunkt for fjerning av stolper og utstyr akkurat\nnå.\n\n### Utbyggere\n\nBestilling av ny aksesstilgang på bredbånd/ fiber til borettslag, sameie eller\nnytt boligprosjekt\n\n[Les mer og bestill aksesstilgang](/privat/internett/utbygger/)\n\n### Grave selv\n\nHar du fått fiber og må grave ned fiberrøret i hagen din selv.\n\n[Slik gjør du det](/privat/internett/fiber/utbygging/fase-5/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:19+00:00",
+        "last_modified": "2025-05-30T09:04:11.848621",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

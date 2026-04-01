@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_betaling_skift-til-mobilepay.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1296,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Skift til MobilePay\n\nPå Mit Telenor kan du skifte din betalingsmetode til MobilePay. Din betaling\nbliver trukket d. 1. hver måned og du kan selv vælge om den skal trækkes fra\net kort eller en konto.\n\nFølg guiden, så er du hurtigt i gang\n\n  1. Log ind på [Mit Telenor ](http://telenor.dk/betalingsmetode)\n  2. Tryk på ”Skift betalingsmetode”\n  3. Markér ”Opret betalingskort eller betal med MobilePay” under ”Vælg ny betalingsmetode” og tryk ”Fortsæt”\n  4. Tryk på ”Fortsæt” for at blive videresendt til MobilePay \n  5. Indtast dit telefonnummer \n  6. Tjek at der står Telenor A/S og 1 kr. (beløbet sikrer at dit kort er aktivt, det bliver aldrig trukket)\n  7. Swipe ”Bekræft og begynd” og du bliver videresendt til Mit Telenor\n  8. Bekræft din e-mail og telefonnummer på Mit Telenor og tryk ”Bekræft”\n\nVoila! Du er nu tilmeldt betaling med MobilePay\n\nHvis du ønsker at betale med et andet kort eller konto skal du trykke ”Skift”\ninden du bekræfter betalingen.\n\nBemærk, hvis du tilmelder dig MobilePay efter den 15. i måneden, er regningen\nfor den pågældende måned allerede dannet. Din betaling vil derfor først blive\ntrukket automatisk fra næste måned. Hvis du hidtil har betalt dine regninger\nmanuelt, skal du derfor stadig selv betale din regning, indtil der står noget\nandet på din regning.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:50+00:00",
+        "last_modified": "2025-05-21T15:15:46.710433",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

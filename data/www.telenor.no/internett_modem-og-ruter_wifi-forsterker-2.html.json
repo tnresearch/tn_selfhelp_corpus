@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_wifi-forsterker-2.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 192,
+                "end": 2313,
+                "text": "# Hjelp til WiFi Forsterker II\n\nHer finner du informasjon om din WiFi Forsterker, samt veiledninger og hjelp\ntil oppkobling\n\n## Om WiFi Forsterker II\n\nVår nye forsterker, WiFi Forsterker II, fungerer som et bindeledd mellom din\n[WiFi Ruter II](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/) og\nområdet der du sliter med dårlig dekning. Den trenger ikke å kobles til med\nkabel - den kommuniserer trådløst med WiFi-ruteren. Forsterkeren har også to\nethernet-porter, slik at du kan koble til utstyr som krever kabel.\n\nEn forsterker er derfor en rask og enkel løsning for å gi bedre dekning på\nsteder der det eksisterende trådløse nettverket ikke når frem.\n\nWiFi Forsterker II er kun kompatibel med [WiFi Ruter\nII](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/), og med en eller\nflere forsterkere koblet til WiFi ruter får man MESH-nettverk hjemme.\n\n### Slik kobler du opp din WiFi Forsterker II\n\nHer finner du veiledninger og video for oppkobling av forsterkeren.\n\n[Koble opp forsterker...](/kundeservice/internett/modem-og-ruter/wifi-\nforsterker-2/koble-til/)\n\n## Plassering av forsterkeren\n\nFor å oppnå best mulig dekning i huset, er det viktig å plassere forsterkeren\npå rett sted. Hvis du plasserer forsterkeren for nær WiFi-ruteren, vil det\nikke gi noen effekt. Du burde altså plassere forsterkeren i utkanten av\ndekningsområdet til den trådløse ruteren din.\n\nMen pass på å ikke sette forsterkeren for langt unna WiFi-ruteren – du bør\nplassere den et sted hvor du fortsatt har god fart på det trådløse nettet.  \n\nVi anbefaler at du prøver å sette forsterkeren på flere steder og se hvor du\nfår best WiFi-dekning. Dette sjekker du ved å se på lampen på forsterkeren:\n\n **Forsterkeren lyser grønt hvis den har gode signaler. Gul lampe betyr at\nsignalet er ok. Rød lampe betyr at du bør flytte den nærmere WiFi-ruteren.**\n\n## Opplever du problemer med Internett?\n\nSvært mange problemer løses ved at man skrur utstyret av og på. Opplever du\nallikevel problemer, kan vi hjelpe deg med veiledninger for de vanligste\nproblemstillingene.\n\n[Tregt, ustabilt eller manglende nett](/kundeservice/internett/problemer/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:16+00:00",
+        "last_modified": "2025-05-30T08:53:50.023778",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

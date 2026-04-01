@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_wifikontroll_anslutna-enheter2_skapa-och-andra-profiler.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 415,
+                "end": 912,
+                "text": "# Skapa och redigera profiler\n\n  * ### Skapa profiler\n\nKlicka på profiler i menyn och sedan skapa ny\n\nSkriv namnet på profilen och sedan fortsätt\n\nVälj vilka enheter som profilen ska ha tillgång till. Klicka sedan på den blåa\nbocken uppe i det högra hörnet för att bekräfta dina val.\n\n  * ### Redigera eller ta bort profiler\n\nFör att redigera eller ta bort profiler ska du klicka på de tre punkterna uppe\ni det högra hörnet.\n\nVill du ta bort en profil så bekräftar du genom att klicka på \"radera\"-"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:40+00:00",
+        "last_modified": "2025-05-30T14:14:35.183729",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller_t-we-boks_fjernkontroll_bytte-fjernkontroll.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 365,
+                "end": 3246,
+                "text": "# Bytte av T-We Fjernkontroll\n\nHer hjelper vi deg med å bytte ut din gamle fjernkontroll, og koble den nye\nsammen med din TV.\n\n[Bruk samme fjernkontroll til TV-en\n➔](https://www.telenor.no/kundeservice/tv/dekodere-og-fjernkontroller/t-we-\nboks/fjernkontroll/bytte-fjernkontroll/#tv)\n\n## Video-veiledning\n\nHvis veiledningen på denne siden ikke fungerer, bør du forsøke å nullstille  \nfjernkontrollen før du prøver på nytt.\n\n  * #### Slik nullstiller du fjernkontrollen\n\n **Slik tilbakestiller du fjernkontrollen til fabrikkinnstillingene:**\n\nDette setter fjernkontrollen tilbake til originale innstillinger.\n\n    1. Hold tastene 1 og 6 inne i 5 sekunder\n\n    2. Trykk så 9 - 8 - 1 på fjernkontrollen. **DECODER-** tasten **** skal nå blinke et par ganger før den slukker\n\n    3. Trykk OK\n\n## Steg for steg\n\nVeiledning med tekst og bilde\n\n## 1\\. Slå på din TV og T-We Boks\n\nSkru på strømbryteren på baksiden av T-We boksen og slå på TV-en.\n\n## 2\\. Sett boksen i sammenkoblingsmodus\n\nÅpne frontpanelet på T-We-boksen og trykk inn tastene pil opp og pil ned\nsamtidig i 3 sekunder.\n\n## 5\\. Følg veiledningen på TV-skjermen\n\nTrykk OK på fjernkontrollen når informasjonen på skjermen ber deg om dette.\n\nNår meldingen \" _Dekoderen er nå koblet sammen med fjernkontrollen_ \" kommer\nopp på skjermen, kan du bruke den nye fjernkontrollen.\n\n **Hvis skjermbildet ikke dukker opp**\n\nHvis du ikke får opp skjermbildet som beskrevet, kan du gjenta punkt 2 og 3\nfør du holder inne MENU og OK samtidig i 3 sekunder. Slipp opp når det slutter\nå blinke i DECODER-knappen.\n\n## 6\\. Gammel fjernkontroll\n\nDin gamle fjernkontroll skal ikke returneres, men leveres til EE-resirkulering\nlokalt eller hos en gjenbruksstasjon.\n\n## Bruke samme fjernkontroll til TV og T-We Boks\n\nDu kan programmere fjernkontrollen for T-We Boks til å kontrollere TV-en også,\nså slipper du å forholde deg til flere fjernkontroller. Trykk på play-knappen\npå videoen under, eller les steg for steg-guide.\n\n  * #### Bruke samme fjernkontroll på T-We Boks og TV\n\nSteg for steg\n\n    1. Pass på at TV-en og T-We boksen er skrudd på. Skru på lyd.\n\n    2. Hold talltastene 1 og 3 inne samtidig i tre sekunder, til det begynner å lyse rundt **[Av/På TV]** -tasten. Fjernkontrollen er nå i programmeringsmodus.\n\n    3. Hold Mute-tasten inne på fjernkontrollen til lyden blir borte og symbolet for Mute vises på tv-skjermen. Dette kan ta flere minutter, avhengig av hva slags type TV du har. Med en gang lyden på TV-en blir borte slipper du knappen. Det er viktig å slippe knappen med en gang. Slipper du for sent, vil fjernkontrollen fortsette å lete videre etter en annen TV. \n\n    4. Test om volumtastene virker.\n\n    5. Hvis volumtastene virker avslutter du programmeringen. Trykk på **[Av/På]** knappen på T-We boksen. **[Av/På TV]** -tasten vil blinke to ganger.\n\n **Fjernkontrollen til T-We boksen vil nå også virke mot TV-en din.**"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:23+00:00",
+        "last_modified": "2025-05-30T09:38:27.501031",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

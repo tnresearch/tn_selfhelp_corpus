@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_dit-kob-hos-telenor_reklamation.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1177,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Du har to års reklamationsret\n\nNår du handler hos Telenor, har du to års reklamationsret. Din reklamationsret\ngælder fra den dag, du modtager varen.\n\nReklamationsretten gælder, hvis varen er defekt, når du modtager den, eller\nhvis den pludselig går i stykker pga. en fabriksfejl. Reklamationsretten\ndækker ikke, hvis du fx taber din mobil i et glas vand eller den på anden måde\nbliver fysisk beskadiget.\n\nEr din vare defekt, skal du indlevere den i en af vores butikker. Personalet\nsender din vare til vores leverandør Care1, som står for vores reparationer.\nHer identificerer specialister defekten og om din reklamationsret gælder. Det\ner også specialisterne, der afgør om din mobiltelefon eller tablet skal\nrepareres eller byttes.\n\n**2 års reklamationsret**\n\nDer ydes 2 års reklamationsret på udførte reparationer, og ved omlevering\nnulstiller vi din reklamationsret. Så gem kvitteringen fra værkstedet.\n\nNår værkstedet har udbedret skaden, sendes din vare retur til den butik, du\nindleverede den i.\n\n[Find nærmeste butik](/find-butik/ \"Find butik\")  \n[Læs mere om reparation](/kundeservice/mobil/iphone/los-dit-\nproblem/reparation-af-din-mobil/ \"Reperation af din mobil\")"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:05+00:00",
+        "last_modified": "2025-05-21T15:15:48.461353",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_kolla-vilket-hdmi-uttag-som-anvands.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 391,
+                "text": "# Kolla vilket hdmi-uttag som används\n\n  \nSe efter på tv:ns baksida vilket uttag du har satt hdmi-kabeln i. Ta sedan\nfram fjärrkontrollen till tv:n och **välj samma uttag** under menyvalet Source\neller liknande."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:22+00:00",
+        "last_modified": "2025-05-30T17:42:19.635585",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

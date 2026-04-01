@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_skaffa-nytt-kontantkort_kontantkort-till-larm.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 381,
+                "end": 2154,
+                "text": "#  Kontantkort till larm\n\nTelenors kontantkort fungerar inte bara till mobilen och surfplattan, utan\näven till hemlarm.\n\n## Skaffa kontantkort till larm\n\nVåra kontantkort fungerar även till hemlarm och [du beställer ett kontantkort\nkostnadsfritt här](/handla/kontantkort/bestall-startpaket-old/). Simkortet du\nfår hem kommer i alla tre storlekar. Är du ute efter Telematik kan du istället\nläsa om det längre ner på den här sidan.\n\n## Ladda kontantkort till larm\n\nI appen [Telenor Ladda](/handla/kontantkort/telenor-ladda/) kan du ladda\nkortet, se saldo och giltighetstid och även teckna prenumeration på en\nladdning. Om du prenumererar på en laddning fylls kortet på automatiskt och du\nbehöver aldrig vara orolig över att giltighetstiden ska gå ut.\n\nTänk på att kontantkort måste fyllas på en gång om året, annars avslutas\nkortet.\n\n## Kontantkortet i tre storlekar\n\n###\n\nNano-simkort\n\nMarknadens minsta sim-kort. Från början var det bara iPhone 5 och senare\niPhone-modeller som krävde nano-sim, men nu använder även ett flertal andra\nmärken det.\n\nMicro-simkort\n\nMellanstorleken på sim-kort. Vissa surfplattor och nyare smartphones kräver\nMicro-sim.\n\nStandard-simkort\n\nDet äldsta sim-kortet på marknaden. De flesta lite äldre mobiler, modem och\nroutrar har denna storlek.\n\n## Telematik\n\nTelematik används för kommunikation mellan maskiner. Du som är företagskund\nkan läsa mer om abonnemang för uppkopplade enheter på vår sida om [IoT för\nföretag](/foretag/iot/). Är du privatkund? Då kan du istället skaffa [vårt\nabonnemang Smart uppkoppling](/handla/mobilabonnemang/internet-of-things/).  \n  \nTelematik används bland annat till:\n\n  * Avläsningar på varuautomater, elmätare, fjärrvärmemätare eller vattenmätare\n  * Larm som kan använda sig av mobilnätet\n  * Kortterminaler\n\n",
+                "heading": " Kontantkort till larm"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:19:57+00:00",
+        "last_modified": "2025-05-30T14:51:32.536725",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

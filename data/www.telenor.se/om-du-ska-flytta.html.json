@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/om-du-ska-flytta.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 245,
+                "end": 2824,
+                "text": "#  Om du ska flytta\n\nDags att flytta? Så här gör du om du har tv, bredband eller hemtelefoni via\nbredband från oss.\n\nOlika adresser har olika tekniska förhållanden. Därför kan vi inte garantera\natt du kan ta med dig dina abonnemang när du flyttar. Men du kan överlåta –\nförslagsvis till den som flyttar in efter dig.  \n  \nSå börja med att se om du kan flytta med dig abonnemangen genom att skriva in\ndin nya adress i sökrutan [här för bredband](/handla/bredband/) och [här för\ntv](/handla/tv/).  \n  \nHur du gör sedan beror nämligen på vad du får för resultat:\n\n  * Om vi kan erbjuda samma tjänster som du har idag kan du **flytta** med dig dem.\n  * Om du inte kan få samma tjänster på din nya adress kan du **överlåta** eller **avsluta** ditt abonnemang. \n\n### Mer information om att\n\nFlytta\n\nRing oss på [020-222 222](tel:020222222) så hjälper vi dig med att flytta\nabonnemanget till din nya adress.\n\nVid själva flytten ansvarar du själv för inkopplingen. På [support-\nsidorna](/link/47e38a54dfb34f7b884766d3bf9af9f1.aspx) finns en mängd olika\ninstallationsguider till din hjälp.\n\nVill du ha mer handfast hjälp, till exempel om du har en utomhusantenn, kan du\nta hjälp av Digihjälpen och vår partner Smartify. Ring [077-446 60\n60](tel:0774466060) eller mejla till [support@bbg.se](mailto:support@bbg.se).  \n  \n[Läs mer om Digihjälpen ](/link/76e6e1c84e1e45b0b9a123f0341ba70e.aspx)\n\nÖverlåta\n\nOm du kan **överlåta** abonnemanget till den som flyttar in efter dig slipper\ndu att få en hög slutfaktura och krångel med att returnera utrustning. Och den\nsom tar över slipper startavgifter och kan börja använda tjänsten samma dag\nsom hen flyttar in. Toppen för alla inblandade!  \n  \n[Så går en överlåtelse till](/link/ee4b32ebcce541048e79bb56e1859019.aspx)\n\nAvsluta\n\nOm det inte finns någon som kan ta över abonnemanget får du **avsluta** det.  \n  \n **Det här gäller vid avslut:**\n\n  * Uppsägningstiden är **en månad** om abonnemanget tecknades **efter** 1 maj 2014 och **tre månader** om abonnemanget tecknades **före** maj 2014\n  * Om ditt abonnemang är bundet måste du betala avgiften för dina tjänster under hela bindningstiden. \n  * Om du har lånat utrustning, till exempel en router, från oss ska den returneras. [Allt om retur av hårdvara](/link/2fc401aacf524cdbab726e289f8ecb7f.aspx)\n  * Om det återstår delbetalningar för utrustning som du har köpt får du en faktura på hela beloppet.\n  * Om du behöver avsluta ditt abonnemang för **hemtelefoni via bredband** och vill ha kvar ditt telefonnummer kontaktar du din nya operatör och ber dem flytta över ditt nummer från oss. \n\n",
+                "heading": " Om du ska flytta"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:00+00:00",
+        "last_modified": "2025-05-30T14:54:12.515512",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

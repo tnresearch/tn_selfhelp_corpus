@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_felsokning_problem-att-ansluta-till-wifi-via-routern-technicolor-799.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 380,
+                "end": 1368,
+                "text": "# Problem att ansluta till wifi (Technicolor 799)\n\nDen här informationen gäller för dig som\n\n  * har problem att ansluta till wifi och\n  * har routern Technicolor 799 samt\n  * har gjort en fabriksåterställning* av routern\n\n_* En fabriksåterställning görs ibland för att lösa problem med hårdvara. Då\nraderas alla inställningar.  \n_  \nHär får du hjälp att ansluta till ditt wifi igen.\n\n## Gör så här:\n\n  * ### \n\nSök efter tillgängliga wifi-nätverk på din enhet.  \n  \n\n**Om du har en dator med Windows eller macOS:**\n\nKlicka på pilen eller wifi-symbolen. Du finner den längst upp eller längst ned\ntill höger på skrivbordet.\n\n**Om du har en iPhone, iPad eller Android-mobil:**\n\nTryck på Inställningar och välj sedan Wifi.\n\n  * ### \n\nTidigare har du kunnat nå två wifi-nätverk via din router. Nu har du ett enda.\nVälj det nätverk som börjar på **TN_wifi**. Se bilden ovan för exempel.  \n  \n  \n\n  * ### \n\nLogga in med det lösenord som du normalt använder.  \n  \nKlart! Nu kan du surfa vidare.\n\n",
+                "heading": "Problem att ansluta till wifi (Technicolor 799)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:36+00:00",
+        "last_modified": "2025-05-30T14:13:19.141370",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

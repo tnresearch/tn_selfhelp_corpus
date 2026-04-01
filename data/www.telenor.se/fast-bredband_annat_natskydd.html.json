@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_annat_natskydd.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 294,
+                "end": 3351,
+                "text": "#  Nätskydd\n\nDu som är kund hos Telenor ska känna dig trygg. Därför ingår Nätskydd i alla\nvåra mobil- och bredbandsabonnemang. Det är ett filter som blockerar skadliga\nwebbsidor.\n\nNätskydd är ett filter som blockerar webbsidor som kan innehålla\nbedrägeriförsök, virus eller annan skadlig programvara. Det kan handla om så\nkallad malware (fil eller kod avsedd att sabotera), bedrägerisidor, falska\ntävlingar, sms-länkar och fakturor. Avsikten är att komma åt dina kort- och\nid-uppgifter. Du skickas i stället vidare till en varningssida.\n\nNätskydd ingår i alla våra mobilabonnemang och bredband*. Nätskydd skyddar dig\nfrån skadliga sidor när du surfar via mobilnätet och wifi. Vi rekommenderar\natt du har Nätskydd påslaget hela tiden. Om du ändå skulle vilja slå av det\ntillfälligt gör du det i Mitt Telenor [här på webben](/mitt-telenor/) eller i\n[appen](https://uu429.app.goo.gl/gnXY).  \n  \n _*Gäller alla bredband i Telenors egna nät (bredband via fiber & 5G) och i\nvissa öppna nät._\n\n## Vanliga frågor om Nätskydd\n\n  * Vad ingår i försäkringen som ger hjälp vid nätkränkning?\n\nI försäkringen ingår:\n\n    * 5 timmar kostnadsfri juridisk rådgivning per år \n    * Ersättning för psykologhjälp upp till 5 000 kr \n    * Ersättning för förlorad arbetsinkomst upp till 5 000 kr \n    * Ersättning för rättegångskostnader vid rättstvister upp till 200 000 kr\n\n  * Vilka villkor gäller för säkerhetspaketet?\n\nVårt säkerhetspaket ingår i alla nya och befintliga mobilabonnemang oavsett\nnär de tecknats, med undantag för försäkringen som ger hjälp vid nätkränkning.\nFörsäkringen ingår i alla mobilabonnemang tecknade efter 2022-05-18. Om du\ntecknade ditt mobilabonnemang innan det så kan du enkelt byta till något av\nvåra uppdaterade abonnemang för att få hjälp vid nätkränkning inkluderat.\nFörsäkringen gäller den som har abonnemanget och om ni är flera som delar på\nTelenor Familj så gäller den er alla.\n\n[Här kan du läsa fullständiga villkor för försäkringen vid\nnätkränkning.](/link/750c93522f4e4c5cb65e1efb9d7c9518.aspx)\n\n  * Fungerar Nätskydd när jag är ansluten till wifi?\n\nNätskydd fungerar om du är ansluten till wifi via Telenors egna nätverk, och i\nvissa öppna nätverk. Är du osäker på vilket typ av nät du har i din\nbredbandstjänst kan du kontakta vår kundtjänst på 0200 - 114 115.\n\n  * Hur aktiverar jag spärr av skadliga sidor?\n\n**Aktivera på mobilen**\n\nSpärren är aktiverad i alla våra mobilabonnemang från start. Har du stängt av\nden slår du på den igen i Mitt Telenor här på webben. Klicka dig vidare till\nAbonnemang och sedan till Inställningar och betaltjänster. Eller gå in i appen\noch välj Abonnemang och sedan Inställningar.\n\nSpärren av skadliga sidor ingår även i våra bredbandsabonnemang. [Se hur du\naktiverar den här.](/handla/tjanster/natskydd/)\n\n  * Skyddar Nätskydd min dator och andra enheter?\n\nNej, Nätskydd fungerar bara när du surfar via mobilnätet. Vill du ha bra skydd\npå dina andra enheter rekommenderar vi att du skaffar Surfa säkert, [läs mer\nom det här](/link/e8f2c21cdf3b4dd88eec421103d79fd5.aspx).\n\nVisa fler frågor och svar\n\n",
+                "heading": " Nätskydd"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:05+00:00",
+        "last_modified": "2025-05-30T14:01:37.465513",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

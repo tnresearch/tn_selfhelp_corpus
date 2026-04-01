@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_fler-tjanster_wifi-samtal.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 340,
+                "end": 4141,
+                "text": "#  Ring via wifi\n\nSlipp dålig täckning inomhus genom att ringa via WiFi-nätet. Det innebär att\ndu kan ringa och ta emot samtal trots att du inte har någon mobiltäckning.\nTjänsten ingår utan extra kostnad i alla våra mobilabonnemang och kontantkort.\n\n## Mobiler som har wifi-samtal\n\nFör att wifi-samtal ska fungera behöver du ha en mobil som stödjer tjänsten.  \n  \nAlla **iPhone-modeller** från och med iPhone 6 och med programuppdatering iOS\n12.1 eller senare har stöd för wifi-samtal (samt även för VoLTE-samtal).\n\nDe flesta mobiltelefoner med **Android** som operativsystem som är lanserade\nefter 2018 och som är avsedda för användning i Norden har stöd för både VoLTE\noch wifi-samtal. Det kan dock finnas undantag.\n\n**Tänk på att du behöver vara ansluten till ett svenskt wifi-nät som stödjer\nsamtal.**\n\n##  \nSå aktiverar du wifi-samtal på din mobil\n\n  \n[iPhone](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/iphone/aktivera-wifi-samtal/)  \n  \n[Samsung-mobiler](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/android/aktivera-wifi-samtal/)  \n  \n[Sony-mobiler](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/android/aktivera-wifi-samtal/)  \n  \n[Huawei-mobiler](/support/mobiltelefoni/abonnemang/fler-tjanster/wifi-\nsamtal/sa-har-aktiverar-du-wifi-samtal-pa-din-huawei/)  \n  \nUpplever du att WiFI-täckningen hemma kan bli bättre? Då kan det vara klokt\natt fundera på om du behöver en WiFi-förstärkare. [Den hittar du här\n>](/handla/tillbehor/till-bredband/wifi-forstarkare/)  \n  \n\n## Vanliga frågor och svar om wifi-samtal\n\n  * Hur ringer jag ett wifi-samtal?\n\nDu ringer precis som vanligt med den enda skillnaden att samtalet går över\nwifi. [Här hittar du mer information om wifi-\nsamtal](/link/bc2556b175044d2a980f1376de2c6a66.aspx).\n\nVill du vidarekoppla dina samtal gör du det i [appen Mitt\nTelenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx).\n\n  * Hur får jag wifi-samtal?\n\nWifi-samtal finns tillgängligt i [våra\nmobilabonnemang](/link/a96eaee9166b475194e657db89f197b2.aspx). Det betyder att\nnär du tecknar ett nytt abonnemang så ingår tjänsten wifi-samtal automatiskt.\n\nFör att wifi-samtal ska fungera behöver du ha en mobil som stödjer tjänsten.\nPå vår sida om wifi-samtal ser du [vilka mobiler det\när](/link/bc2556b175044d2a980f1376de2c6a66.aspx).\n\n  * Fungerar wifi-samtal utomlands?\n\nNej, wifi-samtal fungerar endast inom Sverige just nu.\n\n  * Vad kostar ett wifi-samtal?\n\nDet kostar inget extra. För abonnemang med fria samtal så kommer wifi-samtal\natt ingå i ditt abonnemang. För abonnemangen med rörlig debitering för samtal,\ndebiteras wifi-samtal på samma sätt som i mobilnätet.\n\n  * Kan jag både ringa och ta emot samtal över wifi?\n\nJa, det kan du.\n\n  * Fungerar det att ringa 112 via wifi-samtal?\n\nOm du ringer till 112 (SOS Alarm) kommer din telefon att i första hand välja\nmobilnätet. Om mobilnätet inte är tillgängligt används wifi-samtal. Wifi-\nsamtal till 112 kan inte spåras geografiskt vilket gör att det inte går att se\nvarifrån samtalet kommer.\n\n  * Kan jag ringa wifi-samtal när mobilen är på Flygplansläge?\n\nJa, du kan ringa wifi-samtal så länge du är uppkopplad på ett wifi-nät.\n\n  * Dras det surf vid wifi-samtal?\n\nNej, det påverkar inte din surfmängd.\n\n  * Kopplas samtalet ner om jag inte har wifi-täckning?\n\nSå länge som du har 4G-täckning så kommer samtalet att fortsätta där. Däremot\nkommer samtalet att brytas om du endast har 2G- eller 3G-täckning.\n\nVisa fler frågor och svar\n\n## Hittade du inte svaret på din fråga?\n\n####  \n[Kontakta kundservice. ](/support/old-kontakta-oss/)\n\n  \nÖppet vardagar kl 8-18. Teknisk support för bredband, tv och hemtelefoni via\nbredband har dessutom öppet på vardagar kl 8-18 och på lördagar 10-17.  \n  \n _När du ringer oss behöver du identifiera dig med BankID eller personlig\nkod._\n\n",
+                "heading": " Ring via wifi"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:19+00:00",
+        "last_modified": "2025-05-30T14:23:44.473785",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_valj-mobil_iphone_aterstall-natverk.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 352,
+                "end": 1521,
+                "text": "# Återställ nätverk\n\nOm du har problem med att surfa på din iPhone kan en återställning av\nnätverket lösa det. Men tänk på att det innebär att alla nätverksinställningar\nåterställs till standardinställningar, så det är bra att göra en\n[säkerhetskopia](/support/mobiltelefoni/guider/problemlosning-och-\nfelsokning/valj-mobil/iphone/sakerhetskopiera/) innan.  \n  \nNätverksinställning även kallas APN-inställning.\n\nDen här guiden visar hur du gör i det **senaste operativsystemet (iOS)** från\nApple. Så börja gärna med att se till att det är installerat på din mobil –\ninte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/iphone/uppdatera-operativsystemet/)  \n  \nNu har du senaste iOS installerat, eller hur? Då kör vi!\n\n  * ### Gå till startskärmen\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Scrolla ner och välj \"Allmänt\"\n\n  * ### Scrolla ner och välj \"Överför eller nollställ iPhone\"\n\n  * ### Välj \"Nollställ\"\n\n  * ### Välj \"Nollställ\" igen\n\n  * ### Välj \"Nollställ\" igen\n\n  * ### Inställningarna nollställs\n\nSamtidigt kommer din iPhone automatiskt att starta om."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:27+00:00",
+        "last_modified": "2025-05-30T14:48:07.377523",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

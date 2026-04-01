@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobilt-bredband_router-och-modem_huawei_om-det-inte-funkar-alls-att-surfa.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 343,
+                "text": "# Om det inte funkar att surfa\n\nBörja med att starta om routern. Om det inte funkar efter omstart, kolla att\ndet inte är några driftstörningar där du befinner dig."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:38+00:00",
+        "last_modified": "2025-05-30T14:21:00.996151",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

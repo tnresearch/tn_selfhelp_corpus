@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_wifikontroll_anslutna-enheter2_prioritera-enheter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 406,
+                "end": 841,
+                "text": "# Prioritera enheter\n\nAnvänd prioritera enheter när du vill att uppkopplingen inte ska påverkas av\nnågon annans användning av nätverket.\n\n  * ### Välj enheter i menyn\n\nKlicka sedan på enheten som du vill prioritera.\n\n  * ### Aktivera bandbreddssprioritering\n\n  * ### Välj hur länge du vill att enheten ska prioriteras\n\nVälj hur länge du vill att enheten ska prioriteras.\n\nKlicka på bocken uppe i högra hörnet för att bekräfta ditt val."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:50+00:00",
+        "last_modified": "2025-05-30T14:14:27.078558",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

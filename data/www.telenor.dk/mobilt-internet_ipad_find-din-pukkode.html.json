@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_ipad_find-din-pukkode.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 668,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Find din pukkode\n\nDer kan være to årsager til, at du skal indtaste din pukkode:\n\n  * du har netop sat dit nye simkort i din tablet\n  * du har du tastet forkert pinkode tre gange\n\nPukkoden er en 8-cifret kode, der sikrer, at kun du kan bruge dit simkort.\n\nDen letteste måde at finde din pukkode på, er at logge på vores selvbetjening\nMit Telenor. Koden står også i det velkomstbrev, du fik sammen med dit nye\nsimkort.\n\nNår du har tastet din pukkode på din iPad, bliver din tidligere pinkode\nnulstillet, og du vil blive bedt om at indtaste en ny pinkode.\n\nDu kan også få oplyst din pukkode, hvis du besøger en af vores butikker (her\nskal du huske billedlegitimation)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:56+00:00",
+        "last_modified": "2025-05-21T15:16:10.605630",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

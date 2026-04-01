@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/hjalp-med-inloggning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 249,
+                "end": 2965,
+                "text": "#  Hjälp med inloggning\n\nKrånglar det att logga in med Telenor ID? Här får du hjälp med de vanligaste\nproblemen.\n\nVi har uppdaterat Telenor ID och gjort lösningen ännu säkrare. Uppdateringen\ninnebär att du fortsatt loggar in med lösenord och en engångskod, men istället\nför att använda ditt telefonnummer använder du nu istället din mejladress. Vi\nanvänder även tvåstegsverifiering, vilket betyder att du får en engångskod\nskickad till din mejladress som du ska använda när du loggar in.  \n  \nOm du upplever problem med att logga in med Telenor ID har vi sammanställt de\nvanligaste frågorna och svaren nedan.\n\n## Vanliga frågor om inloggning\n\n  * Varför kan jag inte logga in med mitt telefonnummer?\n\nDet går inte längre logga in med Telenor ID med ditt telefonnummer. Du kan  \nendast logga in med hjälp av din mejladress. Har du Telenor ID sedan tidigare\nså ska din mejladress redan vara registrerad.\n\n  * Jag får information om att mitt telefonnummer redan används när jag har loggat in\n\nAnledningen till det här meddelande är troligtvis att ditt telefonnummer är\nkopplat till en annan mejladress än den du försöker använda när du loggat in.\n\nKvarstår problemet ber vi dig att [kontakta\nkundservice](/link/0c492f5608894771aeabe6efb2d6d096.aspx) för att få hjälp.\n\n  * Jag har glömt mitt lösenord\n\nDu skapar ett nytt lösenord genom att klicka på ”Logga in med Telenor ID” och\nsedan på \"Byt lösenord\". Om du står som ägare för abonnemanget (betalansvarig)\nkan du alltid logga in med BankID.\n\n  * Mejlen ni skickar kommer inte fram, varför?\n\n    * Börja med att kolla mappen för skräpmejl. Ligger mejlet inte där kan du testa att skicka koden igen.\n    * Är du företagskund som har registrerat en mejladress från ditt företag, kolla med din IT-avdelning att **noreply@signin.telenor.se** är white listed.\n    * Har du flera mejladresser? Kolla i så fall om mejlet har kommit till någon av dem. \n    * Funkar det fortfarande inte? [Kontakta oss](/link/0c492f5608894771aeabe6efb2d6d096.aspx) så hjälper vi dig.\n\n  * Vad gör jag om jag har glömt vilken mejladress som är kopplad till mitt Telenor ID?\n\nHar du inte längre tillgång till din mejladress ber vi dig att [kontakta\nkundservice](/link/0c492f5608894771aeabe6efb2d6d096.aspx).  \nKom ihåg - är du ägare av ett abonnemang (betalansvarig) kan du alltid logga\nin via BankID.\n\n  * Vad gör jag när jag inte kan se mina uppgifter/saknar information när jag loggar in via Telenor ID?\n\n    * Står du som ägare (betalansvarig) för abonnemanget: säkerställ att du har verifierat dig som ägare på kontot via BankID.\n    * Sannolikt har du flera mailadresser kopplade till ditt Telenor ID. [Kontakta kundservice](/link/0c492f5608894771aeabe6efb2d6d096.aspx) för att få hjälp.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:23+00:00",
+        "last_modified": "2025-05-30T14:16:05.586165",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_para-ihop-tv-boxen-med-fjarrkontrollen-pa-nytt.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 513,
+                "text": "# Para ihop tv-boxen med fjärrkontrollen på nytt\n\n  \nGör så här:\n\n  1. Håll ned OK-knappen och 0-knappen samtidigt i minst 10 sekunder\n  2. Nu ser du en ruta på tv-skärmen som handlar om fjärrkontrollens kontrolläge. Tryck på en siffra mellan 1-6 på fjärrkontrollen.\n\nHar du boxar i fler rum (multirum) måste du stänga av dem först.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:00+00:00",
+        "last_modified": "2025-05-30T17:42:26.787671",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

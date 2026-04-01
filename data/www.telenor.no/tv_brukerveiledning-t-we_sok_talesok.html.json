@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_sok_talesok.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 231,
+                "end": 920,
+                "text": "# Talesøk\n\nMed talesøk kan du bruke stemmen til å søke etter det du leter etter i T-We.\n\nTalesøk:Dette bilde vil vises på skjermen når du starter et talesøk. Hold inne\nmikrofon-knappen og snakk inn i mikrofonen på toppen av fjernkontrollen.\n\n## Slik bruker du Talesøk\n\nMerk at denne tjenesten kun er tilgjengelig på T-We Boks II. Du aktiverer\ntalesøk ved å holde inne tasten med en mikrofon mens du snakker. Når du\nslipper knappen tolker T-We boksen hva du har sagt og finner resultater som\npasser med ordene.\n\nDet vil stå \"snakk nå\" på skjermen når T-We boksen er klar til å søke. Starter\ndu å si ordene før dette dukker opp, kan det hende at stemmesøket ikke får med\nseg alt du har sagt."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:04+00:00",
+        "last_modified": "2025-05-30T09:33:44.262633",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

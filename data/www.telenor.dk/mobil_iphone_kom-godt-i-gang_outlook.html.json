@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_iphone_kom-godt-i-gang_outlook.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 352,
+                "heading": "Setup guide for Outlook on mobile devices.",
+                "start": 0,
+                "text": "#  Sæt Outlook op på din mobil\n\nFølg nedenstående guide for at sætte Outlook op på din mobil.\n\n  * ## Tryk på ”Indstillinger\"\n\n  * ## Vælg \"E-mail, kontakter, kalendere\"\n\n  * ## Vælg \"Tilføj konto\"\n\n  * ## Vælg \"Outlook.com\"\n\n  * ## Indtast din mail og adgangskode og vælg \"Næste\"\n\n  * ## Tryk på \"Arkiver\"\n\nNu er din Outlook-mail sat op på din iPhone."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:08+00:00",
+        "last_modified": "2025-05-21T15:15:56.729320",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

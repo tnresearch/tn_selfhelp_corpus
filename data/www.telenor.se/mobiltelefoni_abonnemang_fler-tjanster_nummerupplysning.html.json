@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_fler-tjanster_nummerupplysning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 354,
+                "end": 1498,
+                "text": "#  Telenors nummerupplysning\n\nBästa blombudet, billigaste bilverkstan eller busigaste barnvakten? Vår\nnummerupplysning har öppet dygnet runt.\n\nTelenors nummerupplysning hjälper dig att hitta de namn, telefonnummer, post-,\nmejl- och webbadresser du letar efter. Du väljer själv om du vill få\ninformationen skickad till dig via sms eller mejl. Självklart kan vi även\nkoppla vidare ditt samtal.\n\n## Fråga nummerupplysningen\n\nRing eller skicka ett sms till 118 228.\n\nBefinner du dig utomlands ringer du istället +46708118228. Vi har öppet dygnet\nrunt.\n\nSamtalet kostar 47,50 kr + din vanliga samtalstaxa.  \nSms:et kostar 23,75 kr + din vanliga samtalstaxa.\n\n## Nummer utanför Sverige\n\nBehöver du få tag på ett telefonnummer till någon som bor eller har sin\nverksamhet utomlands? Det hjälper vi dig gärna med! Ring eller skicka ett sms\ntill 118 229.\n\nBefinner du dig utomlands ringer du +46708118229. Vi har öppet dygnet runt.\n\nSamtalet kostar 62,50 kr + din vanliga samtalstaxa.  \nBefinner du dig utomlands blir din vanliga samtalstaxa samma som [den du har i\ndet landet](/roaming/). Det går inte att sms:a nummerupplysningen när du är\nutomlands.\n\n",
+                "heading": " Telenors nummerupplysning"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:22+00:00",
+        "last_modified": "2025-05-30T14:22:57.151328",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

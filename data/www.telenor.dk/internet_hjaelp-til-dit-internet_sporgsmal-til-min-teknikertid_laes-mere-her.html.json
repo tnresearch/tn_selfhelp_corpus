@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_hjaelp-til-dit-internet_sporgsmal-til-min-teknikertid_laes-mere-her.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1841,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Spørgsmål til min teknikertid\n\nTeknikeren ankommer på den aftalte dato, som du finder i den email-\nbekræftelse, du har modtaget fra os, da du bestilte dit nye internet. Der kan\ndu også se, om det er en installationskonsulent eller almindelig tekniker, der\nkommer.\n\nDet er vigtigt at være hjemme på det aftalte tidspunkt – eller at der er en\nperson til stede, som er fyldt 18 år. Bliver der ikke åbnet for teknikeren,\nbliver besøget betragtet som forgæves, og du vil blive opkrævet for et\nforgæves besøg.\n\nOmrådet, hvor teknikeren skal arbejde, skal være ryddet, så der ikke står\nmøbler eller lignende i vejen for teknikeren.\n\nSkal jeg være hjemme, når teknikeren kommer?\n\nDet er vigtigt, at der er en myndig person til stede på adressen, når\nteknikeren kommer. Det vil sige en person, der er fyldt 18 år.\n\nBliver der ikke åbnet for teknikeren, bliver besøget betragtet som forgæves,\nog du vil blive opkrævet for et forgæves besøg.\n\nKan jeg ændre min teknikertid?\n\nHvis du har brug for at ændre din teknikertid, kan du gøre det på [Mit\nTelenor.](/login/ \"Mit Telenor\")\n\nHvordan forbereder jeg mig på teknikerens besøg?\n\nDet er vigtigt, at du sørger for, at du selv eller en anden myndig person er\ntil stede på adressen, for at åbne døren for teknikeren.\n\nOmrådet, hvor teknikeren skal arbejde, skal være ryddet, så der ikke står\nmøbler eller lignende i vejen for teknikeren.\n\nHvad koster et teknikerbesøg?\n\nTeknikerbesøg i forbindelse med køb af internet hos Telenor er som\nudgangspunkt gratis. I sjældne tilfælde kan der være en udgift, hvis det er\nnødvendigt med et teknikerbesøg. Prisen for et teknikerbesøg afhænger af\nudbyderen, men du vil altid blive informeret om prisen på forhånd.\n\nOBS! Bliver der ikke åbnet for teknikeren på den aftalte dato, bliver besøget\nbetragtet som forgæves, og du vil blive opkrævet for et forgæves besøg."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:56+00:00",
+        "last_modified": "2025-05-21T15:15:40.756423",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

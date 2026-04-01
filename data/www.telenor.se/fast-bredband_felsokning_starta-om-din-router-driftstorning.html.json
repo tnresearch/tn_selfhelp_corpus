@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_starta-om-din-router-driftstorning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 604,
+                "text": "# Starta om din router\n\nOm lampan fortsätter att lysa eller blinka efter omstart beror det på en\ndriftstörning.\n\nI [Mitt Telenor](/mitt-telenor/) ser du om ditt abonnemang är påverkat av en\ndriftstörning.  \n  \nDu kan också ta del av informationen på vår [sida för\ndriftstörningar.](/support/driftinformation/driftstorningar-pa-tv--och-\nbredbandsnatet/)  \n  \nHittar du den inte? Ring till oss på [020-222 222.](tel:020222222)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:16+00:00",
+        "last_modified": "2025-05-30T14:05:26.500665",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

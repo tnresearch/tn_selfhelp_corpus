@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 284,
+                "end": 3652,
+                "text": "# Utomlands\n\n##\n\n[ Priser när du är utomlands ](/link/a728a2eee9b24f87867517e059303cae.aspx)\n\n[ Priser från Sverige till utlandet ](/support/mobiltelefoni/utomlands/priser-\nfran-sverige-till-utlandet/)\n\n[ Innan och under resan ](/support/mobiltelefoni/utomlands/innan-och-under-\nresan/)\n\n[ Vad är roaming? ](/support/mobiltelefoni/utomlands/vad-ar-roaming/)\n\n## Gå direkt till...\n\n  * [ Danmark  ](/roaming/danmark/)\n  * [ Norge  ](/roaming/norge/)\n  * [ Finland  ](/roaming/finland/)\n  * [ Storbritannien  ](/roaming/storbritannien/)\n  * [ Thailand  ](/roaming/thailand/)\n  * [ USA  ](/roaming/usa/)\n  * [ Alla länder  ](/roaming/)\n\n## Vanliga frågor och svar\n\n  * Så här slår du på surfen på resan\n\nFör att kunna surfa på resan måste du aktivera data-roaming.\n\n[Instruktioner för hur du gör i din\nmobiltelefon](/link/288523ae6c5a4fe083145390f68c3609.aspx)  \n  \n\n**Har du ett mobilt bredband?**\n\n    1. Se till att ditt abonnemang är öppet för roaming. Har du ett modem: se menyn i klienten. Har du en wifi-puck, se menyn i routern.\n    2. Se till att routern/modemet/surfplattan är öppen för roaming.\n    3. I vissa klienter/routers kan det finnas behov av att manuellt koppla upp vid roaming och bekräfta att man accepterar det.\n\n  * Hur mycket av min surfpott kan jag använda utomlands?\n\nDu kan använda hela din surfmängd inom EU/EES samt i Thailand, Malaysia,\nMyanmar (Burma), USA, Schweiz, Storbritannien (inkl. Gibraltar), Turkiet,\nAndorra, Serbien och Montenegro. Om du har obegränsad surf kan du använda 100\nGB.\n\n  * Kan jag surfa hur mycket som helst utomlands om jag har ett abonnemang med obegränsad surf?\n\nNästan!\n\nMed våra abonnemang har du totalt 100 GB/månad att surfa för i EU/EES,\nSchweiz, Storbritannien (inkl. Gibraltar), Turkiet, Serbien, Montenegro,\nAndorra, Thailand, USA, Malaysia och Myanmar (Burma).\n\nOm du har Telenor Familj fördelar du era 100 GB mellan familjemedlemmarna i\n[Mitt Telenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx).\n\n  * Fungerar mitt kontantkort utanför Sverige?\n\nVåra kontantkort fungerar i de allra flesta länder. Reser du inom EU/EES så\nfungerar ditt kontantkort precis likadant som hemma. För att ditt kontantkort\nska fungera i utlandet måste du först ha ringt med det i Sverige.\n\n[Läs mer om vad som gäller i det land du besöker\nhär](/link/a728a2eee9b24f87867517e059303cae.aspx).\n\n  * Varför ska jag betala för samtal ringda i ett EU/EES-land?\n\nI vissa länder inom EU/EES, till exempel i Spanien, tar man betalt för samtal\ntill bland annat myndigheter och biluthyrningsfirmor (premiumsamtal). Så om du\nhar varit i ett land där du ska kunna ringa utan extra kostnad men ändå fått\nen faktura på samtal ringda utomlands kan det vara anledningen.  \n  \nPå Berecs hemsida ([VAS | BEREC\n(europa.eu)](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.berec.europa.eu%2Fen%2Fvas-\nnumbering-\nranges%3Ffield_vas_country_target_id%3DAll%26field_name_description_value%3DAll%26field_vas_number_range_value%3D&data=05%7C01%7Cfelicia.wipp%40telenor.se%7Ca911513758cf4cc7347d08db5c388fc8%7C1676489c5c7246b7ba639ab90c4aad44%7C1%7C0%7C638205170217963164%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=qEeZlvsBzTOPTPdS60uxJN7hBgG5BPt9qik3%2FLXvgNE%3D&reserved=0))\nkan du söka fram vilka nummerserier som är premiumsamtal i respektive EU/EES-\nland."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:23+00:00",
+        "last_modified": "2025-05-30T14:52:12.879346",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter-b818.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 178,
+                "end": 1826,
+                "text": "# Ruterinnstillinger\n\nHer finner du informasjon om hvordan du kan endre innstillinger på din Huawei\nB818-ruter\n\n[Glemt passord](/kundeservice/internett/wifi/administrere-\nruter-b818/#passord)[Avanserte\ninnstillinger](/kundeservice/internett/wifi/administrere-ruter-b818/#avansert)\n\n## Innlogging\n\n  1. Sjekk at du er koblet til ditt hjemmenettverk\n\n  2. Åpne en nettleser og skriv inn http://192.168.1.1 i adressefeltet, og trykk enter.\n\n  3. Skriv inn ditt passord\n\n  4. Passordet er det samme som ditt opprinnelige trådløse passord. Du finner det på klistrelappen på baksiden av ruteren etter **WIFI**.   \n**Merk:** Har du selv endret passordet til menyen, skriver du inn det du selv\nhar valgt.\n\n## Endre navn eller passord på nettverket\n\n  1. Åpne en nettleser og skriv inn http://192.168.1.1 i adressefeltet, og trykk enter.\n\n  2. Skriv inn ditt passord\n\n **I menyen**\n\n  1. Velg **WiFi-sikkerhetsinnstillinger**\n\n  2. Ved WiFi-navn (SSID), skriv inn ønsket nettverksnavn\n\n  3. Ønsker du bytte passord, skriv inn dette ved WiFI-passord\n\n    * Passordet kan ikke inneholde bokstavene æ, ø, eller å.\n\n  4. Trykk Lagre\n\n## Jeg har en annen ruter\n\nHar du vår WiFi-ruter eller ruter til fast bredbånd?\n\nTrykk på knappen under for å få hjelp og veiledning.\n\n[Administrering av WiFi-ruter](/kundeservice/internett/wifi/administrere-\nruter/)\n\n## Opplever du problemer med Internett?\n\nSvært mange problemer løses ved at man skrur utstyret av og på. Opplever du\nallikevel problemer, kan vi hjelpe deg med veiledninger for de [vanligste\nproblemstillingene - Tregt, ustabilt eller manglende\nnett.](https://www.telenor.no/kundeservice/internett/problemer/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:15+00:00",
+        "last_modified": "2025-05-30T09:02:19.945800",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

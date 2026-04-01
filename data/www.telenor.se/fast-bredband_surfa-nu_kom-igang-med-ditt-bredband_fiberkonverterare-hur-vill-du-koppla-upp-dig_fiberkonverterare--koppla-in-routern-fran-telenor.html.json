@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu_kom-igang-med-ditt-bredband_fiberkonverterare-hur-vill-du-koppla-upp-dig_fiberkonverterare--koppla-in-routern-fran-telenor.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 2014,
+                "text": "# Koppla in routern från Telenor\n\nFem steg från att vara uppkopplad, kör igång!\n\n  * ### Koppla in nätverkskabeln\n\nStoppa in nätverkskabeln i det röda uttaget på routern.\n\n  * ### Koppla ihop routern och fiberkonverteraren\n\nDen andra änden av nätverkskabeln stoppar du in i fiberkonverteraren. Den har\noftast bara ett uttag som du kan använda.  \n  \nOm det finns flera uttag kan du ta hjälp av de lampor som ofta finns på\nfiberkonvererare. Kolla hur de lyser eller blinkar, det kan hjälpa dig att\nkoppla in rätt.  \n  \nOm du har en [patchpanel](/support/vanliga-fragor/bredband/vad-ar-en-\npatchpanel/) kopplar du istället in nätverkskabeln i uttaget för det rum du\nska ha routern i. Om fiberkonverteraren är integrerad i patchpanelen kopplar\ndu nätverkskabeln direkt mellan routern och rumsuttaget.\n\n  * ### Koppla in ström\n\nKoppla in strömadaptern i eluttaget samt i strömingången på routern.\n\n  * ### Slå på routern\n\nKnappen sitter på baksidan.\n\n  * ### Nu kan du koppla upp dig mot nätverket!\n\nVälj ditt trådlösa nätverk i mobilens eller datorns inställningar. Namnet på\nnätverket samt lösenordet **står på routerns undersida**.\n\nMer hjälp för att komma igång med ditt wifi:\n\n[Wifi-inställningar för Windows](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-windows-10/)  \n[Wifi-inställningar för macOS](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-macos/)  \n[Wifi-inställningar för Android](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-android/)  \n[Wifi-inställningar för iOS (iPhone och iPad)](/support/fast-\nbredband/wifi/kom-igang/anslut-till-wifi-via-iphone-och-ipad/)\n\nOm du inte vill ha wifi kopplar du ihop din dator med routern via en\nnätverkskabel.\n\n## Fungerar det att surfa nu?\n\n[Ja](/link/0d7eabbc64a54f24900348282b340c6c.aspx)\n[Nej](/link/9bfdff56d8e846ae8137efe96680890a.aspx)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:44+00:00",
+        "last_modified": "2025-05-30T14:09:06.786872",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

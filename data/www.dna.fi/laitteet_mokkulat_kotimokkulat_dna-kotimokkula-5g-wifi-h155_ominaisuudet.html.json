@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-5g-wifi-h155_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 401,
+                "end": 2543,
+                "text": "# DNA Kotimokkula 5G WiFi H155\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/vianmaaritys)\n\n## Ominaisuudet\n\n#### Mitat ja paino\n\n  * Korkeus 181 mm\n  * Leveys 96,6 mm (alaosa), 90mm (yläosa)\n  * Syvyys 96,6 mm (alaosa), 90mm (yläosa)\n  * Paino 510 g\n\n#### Tiedot\n\nValmistaja: Huawei  \nMalli: H155-382  \nSIM-kortti: Nano-SIM  \nValmistajan takuu: 24 kk\n\n####  \nYhteydet ja liitettävyys\n\n  * Liitäntätyyppi: WLAN & Ethernet\n  * Ethernet (LAN) -liitännät: 1 kpl GE\n  * Verkkotekniikka: 5G, 4G\n  * Tuetut 4G/5G-taajuudet: 700/800/900/1800/2100/2600/3500 MHz\n  * DL 4G/5G 4x4 MIMO: 1800/2100/2600/3500 MHz, 2x2 MIMO: 700/800/900 MHz\n  * UL 5G 2x2 MIMO (5G SA): 1800/2100/2600/3500 MHz\n  * 5CC DL carrier aggregation -tuki 4G-verkossa\n  * 2CC DL CA 5G-verkossa (NSA/SA)\n  * 2CC UL CA -tuki (1CC 5G + 1CC 4G NSA, 2CC 5G SA) \n  * 256 QAM -modulaatiotuki\n  * WLAN: 802.11 b/g/n/a/ac/ax\n  * WLAN-taajuusalueet: 2.4 GHz (2x2 MIMO) ja 5 GHz (2x2 MIMO)\n  * 5 GHz Wi-Fi Preferred -tuki\n  * WLANin teoreettinen maksiminopeus: 2974 Mbit/s\n\n#### Verkko-ominaisuudet\n\n  \n**(Lukemat ovat teoreettisia maksiminopeuksia, todelliset nopeudet riippuvat\nvastaanotetun signaalin vahvuudesta, mobiiliverkon kyvykkyydestä sekä\nkäytetystä liittymätyypistä)**\n\n• 5G-enimmäisnopeus verkosta 3,6 Gbit/s (NSA/SA 5G)  \n• 5G-enimmäisnopeus kohti verkkoa 125 Mbit/s (NSA 5G), 500 Mbit/s (SA 5G)  \n• 4G LTE -enimmäisnopeus verkosta 2,0 Gbit/s  \n• 4G LTE -enimmäisnopeus kohti verkkoa 150 Mbit/s\n\n#### Myyntipakkauksen sisältö\n\n  * DNA Kotimokkula 5G WiFi H155\n  * Verkkovirtalaite ja virtajohto\n  * Ethernet-kaapeli\n  * Pikaohje ja käyttöopas\n  * Turvallisuusohje  "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:36+00:00",
+        "last_modified": "2025-06-20T18:56:08.691005",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

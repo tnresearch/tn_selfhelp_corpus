@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wifi-b818_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 401,
+                "end": 1924,
+                "text": "# DNA Kotimokkula 4G WiFi B818\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/kayttoonotto/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wifi-b818/vianmaaritys)\n\n## Ominaisuudet\n\n  \n**Tuotenimi: Huawei 4G Router 3 Prime B818-263**  \n  \nDNA Kotimokkula 4G WiFi B818 tuo nopean 4G-netin kotiisi vaivattomasti.\nLangattoman verkon avulla jaat yhteyden kaikille laitteillesi. CAT19-tason\nominaisuudet mahdollistavat teoreettinen latauksen maksiminopeuden jopa 1,6\nGbit/s asti.  \n\n  * Uusinta mobiiliverkkotekniikkaa hyödyntävä 4G-kotimokkula\n  * Nopea netti ja langaton verkko kaikille kodin laitteille\n  * Vaivaton asennus ja käyttö\n  * Räätälöity DNA:n nettiä varten\n  * Yhteensopivuus Micro-SIM-korttikoolle\n  * WiFin jakaminen jopa 64:lle eri laitteelle\n  * Teoreettinen latauksen maksiminopeus jopa 1,6 Gbit/s (Todellinen nopeus riippuu vastaanotetun signaalin vahvuudesta, mobiiliverkon kyvykkyydestä sekä käytetystä liittymätyypistä.)\n\n### Myyntipakkauksen sisältö\n\n  * DNA Kotimokkula 4G WiFi B818\n  * Virtalähde\n  * Ethernet-kaapeli\n  * Pikaopas\n  * Takuukortti\n\n",
+                "heading": "DNA Kotimokkula 4G WiFi B818"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:08:22+00:00",
+        "last_modified": "2025-06-20T18:51:21.247018",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

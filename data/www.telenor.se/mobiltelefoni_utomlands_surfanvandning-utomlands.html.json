@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands_surfanvandning-utomlands.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 351,
+                "end": 4839,
+                "text": "#  Surfanvändning utomlands\n\nHur mycket av din surf kan du använda utomlands när du har Mobilt Bredband?\nOch vad kostar det i länder utanför EU/EES? Här hittar du information om vad\nsom gäller.\n\nDu kan använda delar av din surfmängd i EU/EES samt i Thailand, Malaysia,\nMyanmar (Burma), USA, Schweiz, Turkiet, Andorra, Serbien och Montenegro.  \n  \n\nMobilt Bredband | Surf i EU/EES  \n---|---  \nMobilt Bredband 15 GB | 15 GB  \nMobilt Bredband Obegränsat | 50 GB  \n  \n  \nVi har utgått ifrån vad EU säger när det kommer till surfmängd per abonnemang\n(uträknas på månadskostnad mot GB-priset i EU). Sen har vi lagt på extra\nsurfmängd för att anpassa oss mer efter våra kunders surfvanor.\n\nHar du Mobilt Bredband Hemma med Obegränsad surf kan du inte använda det i\nutlandet.  \n  \nVill du använda ditt mobila bredband i andra länder kostar det enligt\nprislistan nedan.\n\n### Priser i länder utanför EU/EES\n\nÖvriga Europa\n\n**Surf:** 39 kr/dygn (0,25 GB) **  \n  \nSkicka sms:** 4 kr/st\n\n**Skicka mms:** 10 kr/st\n\n**Ta emot sms:** 0 kr/st\n\n**Ta emot mms:** 10 kr/st\n\n**  \nLänder som ingår i \"Övriga Europa\":  \n** Albanien  \nFäröarna  \nGibraltar  \nGrönland  \nMonaco  \nMontenegro*  \nSchweiz*  \nSerbien*  \nStorbritannien\n\n* I detta land ingår surfen, däremot kostar sms och mms enligt prislistan. \n\nVärlden 1\n\n**Surf:** 69 kr/dygn (0,25 GB)\n\n**Skicka sms:** 4 kr/st **  \n  \nSkicka mms:** 10 kr/st\n\n**Ta emot sms:** 0 kr/st **  \n  \nTa emot mms:** 10 kr/st **  \n  \nLänder som ingår i \"Världen 1\":**  \nAmerikanska Jungfruöarna  \nAndorra*  \nArgentina  \nAustralien  \nBangladesh  \nBelarus  \nBrasilien  \nChile  \nColombia  \nEgypten  \nGuernsey  \nHongkong  \nIndien  \nIsle of Man  \nIsrael  \nJapan  \nJersey  \nKanada  \nKap Verde  \nKina  \nMacao  \nMalaysia*  \nMexiko  \nMyanmar (Burma)*  \nNordmakedonien  \nNya Zeeland  \nPakistan  \nRyssland  \nSingapore  \nSydafrika  \nSydkorea  \nTaiwan  \nThailand*  \nTurkiet*  \nUkraina  \nUSA*  \n  \n\n* I detta land ingår surfen, däremot kostar sms och mms enligt prislistan. \n\nVärlden 2\n\n**Surf:** 99 kr/dygn (10MB)  \n  \n **Skicka sms:** 4 kr/st  \n  \n**Skicka mms:** 10 kr/st  \n  \n **Ta emot sms:** 0 kr/st  \n  \n**Ta emot mms:** 10 kr/st  \n  \n **Länder som ingår i \"Världen 2\":**  \n  \nAfghanistan  \nAlgeriet  \nAngola  \nAnguilla (Västindien)  \nAntigua och Barbuda (Västindien)  \nArmenien  \nAruba  \nAzerbajdzjan  \nBahamas (Västindien)  \nBahrain  \nBarbados (Västindien)  \nBelize  \nBermuda  \nBhutan  \nBolivia  \nBosnien och Hercegovina  \nBotswana  \nBrittiska Jungfruöarna  \nBrunei  \nBurkina Faso  \nBurundi  \nCaymanöarna (Västindien)  \nCentralafrikanska Republiken  \nCosta Rica  \nCuracao och Bonaire (Västindien)  \nDominica (Västindien)  \nDominikanska Republiken (Västindien)  \nEcuador  \nEl Salvador  \nElfenbenskusten  \nEtiopien  \nFiji  \nFilippinerna  \nFranska Polynesien  \nFörenade Arabemiraten  \nGabon  \nGambia  \nGeorgien  \nGhana  \nGrenada (Västindien)  \nGuatemala  \nGuinea Bissau  \nGuyana  \nHaiti (Västindien)  \nHonduras  \nIndonesien  \nIrak  \nIran  \nJamaica (Västindien)  \nJordanien  \nKambodja  \nKamerun  \nKazakstan  \nKenya  \nKirgizistan  \nKongo-Brazzaville  \nKongo-Kinshasa  \nKosovo  \nKuba (Västindien)  \nKuwait  \nLesotho  \nLibanon  \nLiberia  \nMadagaskar  \nMalawi  \nMali  \nMarocko  \nMauretanien  \nMauritius  \nMocambique  \nMoldavien  \nMongoliet  \nMontserrat (Västindien)  \nNepal  \nNicaragua  \nNiger  \nNigeria  \nOman  \nPalestina  \nPanama  \nPapua Nya Guinea  \nParaguay  \nPeru  \nPuerto Rico  \nQatar  \nRwanda  \nSaint Kitts och Nevis (Västindien)  \nSaint Lucia (Västindien)  \nSaint Vincent och Grenadines (Västindien)  \nSamoa  \nSaudiarabien  \nSenegal  \nSeychellerna  \nSierra Leone  \nSomalia  \nSri Lanka  \nSudan  \nSurinam  \nSwaziland  \nSydsudan  \nTadzjikistan  \nTanzania  \nTchad  \nTonga  \nTrinidad och Tobago (Västindien)  \nTunisien  \nTurkmenistan  \nTurks och Caicos (Västindien)  \nUganda  \nUruguay  \nUzbekistan  \nVanuatu  \nVenezuela  \nVietnam  \nVästindien  \nZambia  \nZimbabwe\n\nVärlden 3\n\n**Surfa:** 199 kr/MB*  \n  \n **Skicka sms:** 4 kr/st  \n  \n**Skicka mms:** 10 kr/st  \n  \n **Ta emot sms:** 0 kr/st  \n  \n**Ta emot mms:** 10 kr/st  \n  \n **Länder som ingår i \"Världen 3\":**  \nBenin  \nDjibouti  \nEkvatorialguinea  \nGuam  \nGuinea  \nJemen  \nLaos  \nLibyen  \nMaldiverna  \nNamibia  \nNya Kaledonien  \nSyrien  \nTogo  \n  \n\n* Eftersom det är så dyrt att surfa i de här länderna har vi spärrat ditt abonnemang från surf i dem. Behöver du använda surf kan du kostnadsfritt ringa till oss på [+46708222222](tel:+46708222222). Då hjälper vi dig att bort spärren och höja nivån på Saldospärr för data utomlands.\n\n",
+                "heading": " Surfanvändning utomlands"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:22+00:00",
+        "last_modified": "2025-05-30T14:53:45.419115",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/puhelinliittymat_puhelinlaskulla-maksaminen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 728,
+                "heading": "Puhelinlaskulla maksaminen",
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 211,
+                "text": "# Puhelinlaskulla maksaminen\n\nVoit ostaa sovelluksia ja tuotteita puhelimesi tai tablettisi\nsovelluskaupasta, ja maksaa tekemäsi ostokset DNA:n puhelinlaskulla tai\nprepaid-liittymän saldolla.\n\nSiirry ohjeisiin:\n\n[ Google Play ](https://www.dna.fi/tuki/puhelinliittymat/puhelinlaskulla-\nmaksaminen/google-play) [ Apple App Store\n](https://www.dna.fi/tuki/puhelinliittymat/puhelinlaskulla-maksaminen/app-\nstore) [ Microsoft Store\n](https://www.dna.fi/tuki/puhelinliittymat/puhelinlaskulla-\nmaksaminen/microsoft-store)\n\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:54+00:00",
+        "last_modified": "2025-06-20T19:19:58.691788",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

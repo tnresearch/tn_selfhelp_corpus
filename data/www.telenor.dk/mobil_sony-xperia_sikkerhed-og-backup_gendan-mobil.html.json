@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_sony-xperia_sikkerhed-og-backup_gendan-mobil.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 906,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Sådan gendanner du din Sony Xperia\n\nHvis du oplever fejl på din mobil og ønsker at gendanne den til\nfabriksindstillinger, kan du i nedenstående guide se hvordan det gøres.\n\n**Bemærk, at følgende bliver slettet:**\n\n  * Brugerdata, opsætninger, billeder og musik\n  * Data og indstillinger for system og programmer\n  * Downloadede programmer\n\nFor at bibeholde disse indstillinger og data er det nødvendigt at du tager\nbackup af din mobil inden du gendanner den.\n\n[Tag en backup af din Sony Xperia](/kundeservice/mobil/sony-xperia/sikkerhed-\nog-backup/backup-og-synkronisering/ \"Tag backup af Sony Xperia\")\n\n  * ## Tryk på menuknappen på startskærmen\n\n  * ## Vælg \"Indstillinger\"\n\n  * ## Vælg \"Sikkerhedskopiering og nulstilling\"\n\n  * ## Vælg \"Nulstilling af indstillinger\"\n\n  * ## Vælg \"Nulstil telefon\"\n\n  * ## Vælg \"Nulstil indstillinger\"\n\nTelefonen bliver herefter nulstillet til fabriksindstillingerne."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:45+00:00",
+        "last_modified": "2025-05-21T15:16:05.145857",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

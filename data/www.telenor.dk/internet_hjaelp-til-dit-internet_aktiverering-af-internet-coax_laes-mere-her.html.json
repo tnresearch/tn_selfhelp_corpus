@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_hjaelp-til-dit-internet_aktiverering-af-internet-coax_laes-mere-her.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 507,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Aktivering af internet via kabel-tv-stik (COAX)\n\nNår du har monteret din router, er du klar til at aktivere din nye\ninternetforbindelse. Følg disse trin:\n\n  1. Find aktiveringskoden i din ordrebekræftelse\n  2. Opret forbindelse til din nye router \\- enten via WiFi eller kabel\n  3. Gå ind på [www.mitwifi.dk](https://mitwifi.dk/#/login), og udfyld felterne for at aktivere dit internet (du finder informationerne i den mail, du har fået fra os med den bekræftede onlinedato)\n\nTillykke med din forbindelse."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:49+00:00",
+        "last_modified": "2025-05-21T15:15:39.709173",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

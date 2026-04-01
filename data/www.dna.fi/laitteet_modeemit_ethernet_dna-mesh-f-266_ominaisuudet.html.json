@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-mesh-f-266_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 409,
+                "end": 1769,
+                "text": "# DNA Ethernet- ja Mesh-modeemi WiFi 6 F-266\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nmesh-f-266/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nmesh-f-266/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-f-266/asetukset)\n[ Päivitykset ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nmesh-f-266/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nmesh-f-266/vianmaaritys)\n\n## Ominaisuudet\n\nModeemia voi käyttää ethernet-kodin päämodeemina. Modeemi toimii ensimmäisenä\nmesh-pisteenä ja voidaan laajentaa yhdellä tai useammalla DNA Ethernet- ja\nMesh WiFi 6 F-266 modeemilla.\n\nLisäksi DNA Ethernet ja Mesh WiFi 6 F-266 -modeemin kanssa ensimmäisenä mesh-\nyhteyspisteenä toimivat modeemit: DNA Kaapelimodeemit F-3890v3 ja F-3896 sekä\nDNA Ethernet-modeemi WiFi 6 Plus F-5670. Voit yhdistää toisiinsa korkeintaan\nneljä laitetta.\n\n#### Mitat ja paino\n\n  * Korkeus 142 mm\n  * Leveys 110 mm\n  * Syvyys 57 mm\n  * Paino 285 g\n\n**Asennustavat:** pöydälle (pystyyn)\n\n**Sähkönkulutus:** 18 W\n\n#### Tiedot\n\n**Valmistaja** : Sagemcom\n\n**Malli** : F-266\n\n**Valmistajan takuu** : 24 kk\n\n**Verkkoliitännät:**\n\n  * **ethernet** 1 kpl 1 Gbit/s WAN + 1 kpl 1 Gbit/s LAN\n  * **WiFi 6** (802.11ax), 5 GHz (4x4) ja 2.4 GHz (2x2)\n\n",
+                "heading": "DNA Ethernet- ja Mesh-modeemi WiFi 6 F-266"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:08+00:00",
+        "last_modified": "2025-06-20T14:53:57.459491",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

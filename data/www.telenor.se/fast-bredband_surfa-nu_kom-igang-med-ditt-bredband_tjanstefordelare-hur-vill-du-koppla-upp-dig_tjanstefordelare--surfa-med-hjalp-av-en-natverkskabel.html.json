@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu_kom-igang-med-ditt-bredband_tjanstefordelare-hur-vill-du-koppla-upp-dig_tjanstefordelare--surfa-med-hjalp-av-en-natverkskabel.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 502,
+                "text": "# Surfa med hjälp av en nätverkskabel\n\nOm du inte har någon router ännu men ändå vill surfa kan du använda en\nnätverkskabel. Den kopplar du mellan datorn och tjänstefördelaren, det tar max\nen minut.\n\nVälj Port 1  \nPå tjänstefördelaren finns en port som heter Port 1 (eller LAN 1). Koppla in\ndin nätverkskabel i denna port."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:43+00:00",
+        "last_modified": "2025-05-30T14:12:09.126481",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

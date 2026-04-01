@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_wifi-testa-med-endast-en-enhet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1847,
+                "text": "# Testa hastigheten\n\nOm det är när du surfar via wifi det går långsamt så kan det bero på att din\nrouter inte sänder ut hastigheten korrekt. Så här testar du!\n\n  1. Stäng av alla trådlösa enheter (mobiler, surfplattor etc) förutom en. Använd helst en nyare enhet då den förmodligen har den senaste wifi-tekniken.\n  2. Har du en router med två nätverk ska du göra testet via båda. Nätverken heter TNxx-2.4Ghz och TNxx-5Ghz. Du kan behöva använda olika enheter för att nå nätverken. \n  3. Ställ dig ungefär 2-3 meter från routern. Routern ska helst vara placerad 1-2 meter från golvet och det ska vara fri sikt mellan routern och din enhet.\n\n**Tips! Testa med Bredbandskollen.**\n\nBesök [Bredbandskollen](http://www.bredbandskollen.se) och testa din\nhastighet. Innan du testar: stäng av eventuella appar och program som använder\ninternet samt stäng tillfälligt av antivirusprogram och brandväggar.  \n  \nTesta gärna med Bredbandskollen flera gånger för att se om du får olika\nresultat vid olika tidpunkter på dygnet eller vissa dagar. Telenor garanterar\ninga hastigheter över wifi.\n\nFortfarande segt?\n\nDå kan det vara läge att kolla hur din dator mår. Är den uppdaterad och har de\nsenaste drivrutinerna? Har du ett uppdaterat antivirusprogram?\n\n[Läs mer om vad som kan göra din dator långsam](/support/fast-bredband/via-\nfiber/felsokning/problem-med-hastigheten/)\n\n## Upplever du att din hastighet förbättrades?\n\n[ Ja! ](/support/fast-bredband/felsokning/hurra-ditt-problem-ar-lost/)\n\n[ Ja, men inte snabbt nog! ](/support/fast-bredband/felsokning/placera-\nroutern-ratt/)\n\n[ Nej, den är fortfarande dålig. ](/support/fast-bredband/felsokning/wifi-\nplacera-routern-ratt/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:02+00:00",
+        "last_modified": "2025-05-30T14:06:29.245844",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu_kom-igang-med-ditt-bredband_tjanstefordelare-hur-vill-du-koppla-upp-dig_tjanstefordelare--koppla-in-en-annan-router.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1289,
+                "text": "# Koppla in en annan router\n\nOm du vill använda en annan router än den du får låna från Telenor kopplar du\nin den genom att följa tillverkarens instruktion. Det brukar vara rätt enkelt.  \n  \n **Tips!** På de flesta routrar finns ett uttag som är märkt WAN eller\nInternet. Anslut din nätverkskabel mellan detta uttag och Port 1 (eller LAN 1)\npå din tjänstefördelare.\n\n### Vill du använda dig av wifi?\n\nVälj då ditt trådlösa nätverk i mobilens eller datorns inställningar. Namnet\npå nätverket samt lösenordet **står på routerns undersida**.\n\nMer hjälp för att komma igång med ditt wifi:\n\n[Wifi-inställningar för Windows](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-windows-10/)  \n[Wifi-inställningar för macOS](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-macos/)  \n[Wifi-inställningar för Android](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-android/)  \n[Wifi-inställningar för iOS (iPhone och iPad)](/support/fast-\nbredband/wifi/kom-igang/anslut-till-wifi-via-iphone-och-ipad/)\n\nOm du inte vill ha wifi kopplar du ihop din dator med routern via en\nnätverkskabel."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:27+00:00",
+        "last_modified": "2025-05-30T14:10:59.843190",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

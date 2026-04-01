@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/yhteystiedot_asiakaspalvelu.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 149,
+                "end": 1445,
+                "text": "## Soita meille\n\n#### Asiakaspalvelu\n\nma - pe 8:00 - 18:00 la 9:00 - 16:30\n\nPuhelun alussa sinua palvelee digitaalinen DNA Apuri. Aloita kertomalla asiasi\nApurille. Tämän jälkeen puhelu yhdistyy asiakaspalveluun ihmiselle.\n\nAukioloaikojen ulkopuolella voit tiedustella unohtunutta PUK-koodia, sekä\ntehdä varkaus-, katoamis- tai vikailmoituksen.\n\nPulmia laitteen tai palvelun kanssa? Jos kyseessä on esim. modeemi tai jokin\nmuu DNA:lta ostamasi laite, olethan kyseisen laitteen äärellä soittaessa.\nVika- ja häiriötilanteissa palvelemme 24/7.\n\nSoittaminen ja jonottaminen asiakaspalveluun maksaa normaalin kotimaanpuhelun\nverran. Ulkomailta soittaessa puhelu veloitetaan ulkomaan hinnaston\nmukaisesti. DNA:n lankapuhelinliittymästä soittaminen on maksutonta.\n\n[Soita 044 144 044](tel:%20044144044)\n\n#### DNA Kiireetön linja\n\nma - pe 9:00 - 16:00\n\nDNA Kiireetön linja on suunnattu kaikille niille DNA:n asiakkaille, jotka\ntarvitsevat kiireetöntä asiakaspalvelua ja opastusta esimerkiksi korkean iän\ntai näkö-, kuulo- tai muun rajoitteen vuoksi.\n\nSoittaminen ja jonottaminen asiakaspalveluun maksaa normaalin kotimaanpuhelun\nverran. Ulkomailta soittaessa puhelu veloitetaan ulkomaan hinnaston\nmukaisesti. DNA:n lankapuhelinliittymästä soittaminen on maksutonta.\n\n[Soita 044 144 244](tel:%20044144244)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:15+00:00",
+        "last_modified": "2025-06-20T19:28:54.949862",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

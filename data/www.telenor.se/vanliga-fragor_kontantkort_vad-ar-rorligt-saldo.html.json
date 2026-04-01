@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_kontantkort_vad-ar-rorligt-saldo.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 253,
+                "end": 1148,
+                "text": "# Vad är Rörligt/Saldo?\n\nDu som har valt kontantkortsladdningen Fastpris (till exempel 10 GB eller\nHello) kan använda laddningen Rörligt/Saldo för att kunna ringa om din\nsamtalspott har tagit slut eller om du vill göra något annat än det som ingår\ni laddningen. Till exempel skicka sms för att rösta i ett tv-program eller\nbetala för en Blocket-annons.\n\nDu kan också använda ditt kontantkort i ett land utanför EU/EES med hjälp av\nRörligt/Saldo. Då laddar du kontantkortet med Rörligt/Saldo, och sedan är det\nden summan du ringer och surfar med på resan. Rörligt/Saldo ligger separat\nfrån den laddning du ringer med till vardag. När du är hemma ringer och surfar\ndu med din vanliga laddning igen.\n\nDu laddar Rörligt/Saldo på samma sätt som du laddar i vanliga fall, på\n[ladda.telenor.se](/handla/kontantkort/ladda-kontantkort/) eller i appen\n[Telenor Ladda](/handla/kontantkort/telenor-ladda/)\n\n",
+                "heading": "Vad är Rörligt/Saldo?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:02+00:00",
+        "last_modified": "2025-05-30T17:45:25.320897",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

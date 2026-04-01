@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/puhelinliittymat_numeronsiirto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 156,
+                "end": 3028,
+                "text": "# Numeronsiirto\n\n## Numeronsiirto toiselta omistajalta\n\nLiittymän omistajan vaihto on mahdollista numeronluovutuksella. Numeron voi\nluovuttaa asioimalla DNA Kaupassa sekä Oma DNA -sovelluksen kautta, mutta\nnumeron vastaanottaminen on mahdollista vain DNA Kaupoissa. Tämän jälkeen\nnumeron uusi omistaja voi tehdä uuden liittymäsopimuksen luovutetulle\nnumerolle.\n\nLuovuttaja (numeron nykyinen omistaja) ja vastaanottaja (numeron uusi\nomistaja) voivat asioida DNA Kaupassa yhdessä, jolloin myös luovutus saadaan\ntapahtumaan välittömästi. Numeronluovutuksesta veloitetaan hinnaston\nmukaisesti 12€ luovuttajalta.\n\nMikäli nykyinen omistaja ei pääse DNA Kauppaan, voi numeron luovutuksen tehdä\nDNA:n virallisella numeronsiirtovaltakirjalla tai luovuttamalla numeron Oma\nDNA-sovelluksen kautta.\n\n[Lataa numeronsiirtovaltakirja\n(pdf)](https://www.dna.fi/documents/753910/3591291/DNA_numeronsiirtovaltakirja.pdf/45469213-54ec-a72c-6fa0-fd5625191e3a)\n\n### **Numeronluovutus Oma DNA -sovelluksessa**\n\n  * Lataa ja avaa Oma DNA -sovellus\n  * Ohjeet käyttöönottoon\n  * Siirry Palveluni-välilehdelle\n  * Valitse liittymä, jonka numeron haluat luovuttaa\n  * Valitse Liittymän hallinta\n  * Valitse Numeron luovutus\n  * Syötä tarvittavat tiedot ja lähetä lomake\n\n**Huom.** Numeronluovutus on voimassa 30 päivää, jonka kuluessa uuden\nasiakkaan tulee käydä DNA Kaupassa tekemässä uusi liittymäsopimus numerolle.\n\n## Liittymän siirtäminen toiselta operaattorilta DNA:lle\n\nNykyisen liittymäsi siirtäminen DNA:lle vie minimissään 5 arkipäivää. Pidä\nuusi SIM-korttisi hyvässä tallessa, ja käytä puhelimessasi vanhaa SIM-korttia\nliittymäsi avautumiseen saakka.\n\n  * Me hoidamme liittymän irtisanomisen nykyyseltä operaattoriltasi, sinun ei tarvitse tehdä mitään\n  * Saat tekstiviestillä tiedon arvioidusta siirtoajankohdasta, sekä myöhemmin vielä uuden viestin jossa vahvistetaan siirtoajankohta.\n  * Siirtoajankohdan koittaessa laita uusi SIM-kortti puhelimeesi. Muista käynnistää puhelin uudelleen, jotta se löytäisi verkon.\n  * Mikäli SIM-kortti on jo valmiina puhelimessa, kannattaa laite käynnistää uudelleen, mikäli liittymä ei ala heti toimia.\n\nJos olet tilannut liittymän netistä ja uusi SIM-kortti on toimitettu sinulle\nkirjeenä, sinun tulee aktivoida liittymä jotta numeronsiirto voidaan\nkäynnistää. Aktivointiin tarvitset turvallista tunnistautumista varten\nverkkopankkitunnukset tai mobiilivarmenteen. Aktivointi käynnistää\nnumeronsiirron, siirto kestää 5 arkipäivää ellei muuta ole sovittu. [Siirry\nliittymän aktivointiin](https://aktivoi.dna.fi/#/front)\n\n## Yrityksen nimissä olevan liittymän siirtäminen\n\nLuovuta yrityksesi omistuksessa oleva kuluttajaliittymä joko Oma DNA\n-sovelluksessa tai ottamalla yhteyttä\n[Yritysasiakaspalveluun](https://www.dna.fi/yrityksille/yhteystiedot).\n\nLue ohjeet Oma DNA -sovelluksen käyttöönottoon\n[täältä](https://www.dna.fi/yrityksille/oma-dna).\n\n",
+                "heading": "Numeronsiirto"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:54+00:00",
+        "last_modified": "2025-06-20T19:19:46.740566",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

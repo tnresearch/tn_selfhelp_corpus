@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_bytte-fiberboks.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 190,
+                "end": 696,
+                "text": "# Veiledning for å bytte fiberboks\n\nHer finner du veiledninger for hvordan du går frem når du skal bytte fiberboks\nselv. Følg trinnene nøye for å sikre en trygg og vellykket installasjon.\n\n## Velg fiberboksen som skal monteres\n\n[\n\n### NOKIA G-010G-R\n\n](/kundeservice/internett/modem-og-ruter/bytte-fiberboks/g-101g-r/)\n\n[\n\n### NOKIA XS-010X-R\n\n](/kundeservice/internett/modem-og-ruter/bytte-fiberboks/xs-010x-r/)\n\n[\n\n### NOKIA XS-020X-A\n\n](/kundeservice/internett/modem-og-ruter/bytte-fiberboks/xs-020x-a/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:26+00:00",
+        "last_modified": "2025-05-30T08:48:23.618621",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "only urls"
+}

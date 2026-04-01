@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_for-familjen_hall-koll-pa-anvandandet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 353,
+                "end": 2429,
+                "text": "#  Håll koll på användandet\n\nKänner du en viss oro över mobilräkningar nu när barnen har egna mobiler?\nAktivera rätt inställningar för medlemmarna i din familj så slipper du\noväntade kostnader och andra överraskningar.\n\nI Mitt Telenor hittar du inställningar som hjälper dig att ha kontroll över\nkostnaderna.\n\nDu kan till exempel **blockera samtal och sms till utlandet** och **blockera\nsamtal till betalnummer** , vilket gör att det inte går att ringa dyra\nutlandssamtal eller andra samtal som kostar mer än vanliga samtal.\n**Blockering av köp i appar, spel och sms-tjänster** gör att det inte går att\nköpa till exempel sms-biljetter eller ge gåvor via insamlingar*. Och om du\n**blockerar samtal och sms när du är utomlands** går det varken att surfa,\nsms:a eller ringa utomlands.\n\n* För att blockeringen ska ska fungera för köp i appar och spel måste du betala via mobilfaktura i App Store, Google Play Store och Microsoft Store. Funktionen fungerar inte om du använder kontantkort. [Läs mer om hur du lägger till mobilfaktura här.](/handla/tjanster/betala-med-mobilfaktura/ \"https://www.telenor.se/handla/tjanster/betala-med-mobilfaktura/\")\n\nInställningarna finns i Mitt Telenor, som du hittar både här [på\nwebben](/mitt-telenor/) och som [app](/archive/2019/mitt-telenor-old/). Det är\nbara den som står som [ägare ](/support/mobiltelefoni/abonnemang/for-\nfamiljen/medlemsprofiler/)av abonnemanget kan ändra inställningarna, men de\nsyns även för övriga användare.\n\n## Vanliga frågor och svar\n\n  * Vad kan jag göra för att ha koll på vad mitt barn gör nätet?\n\nDu kan som förälder begränsa ditt barns tillgång till Internet. Det finns ett\nflertal sådana kostnadsfria filter där ”vuxet innehåll”, till exempel\npornografi kan stängas av. De vanligaste filtren är:\n\nFör [iOS](https://support.apple.com/sv-se/HT201304#explicit-content).\n\nFör\n[Android](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&hl=sv)\n(Kräver en app - just den här är från Google själva).\n\n[Mer information.](https://support.google.com/families/answer/7087030?hl=sv\")\n\n",
+                "heading": " Håll koll på användandet"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:51+00:00",
+        "last_modified": "2025-05-30T14:24:05.934902",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

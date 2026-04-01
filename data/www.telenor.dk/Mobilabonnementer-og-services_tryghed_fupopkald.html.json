@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_tryghed_fupopkald.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2905,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Fupopkald\n\nDer er mange typer af fupopkald, og de kan være svære at gennemskue. Nogle vil\nhave fat i personlige oplysninger, så de kan bruge dine penge eller din\nidentitet. Det kaldes også vishing (voice phishing). Andre ringer fra et\nudenlandsk nummer med en meget høj minutpris. Fupopkald, der kommer fra\nudlandet, ”gemmer sig” ofte bag et dansk nummer.\n\n## Har du modtaget et fupopkald?\n\n**Anmeld opkaldet til os**\n\nDet er altid vigtigt at reagere hurtigst muligt, hvis du har været udsat for\nfupopkald. Giv os besked, hvis du har modtaget sms'er eller opkald fra en\nmistænkelig afsender (typisk fra et udenlandsk nummer). Vi undersøger numrene\nog spærrer for dem, hvis det er nødvendigt.\n\n[Her kan du anmelde et fupopkald.](/kundeservice/Mobilabonnementer-og-\nservices/tryghed/phishing/)\n\n## Gode råd til at undgå at blive snydt\n\n  * Tjek om du kender nummeret, der ringer op.\n  * Er du i tvivl, så lad være med at besvare opkaldet.\n  * Har du misset et opkald fra et udenlandsk nummer, skal du ikke ringe tilbage.\n  * Svarer du på et opkald, og der bliver lagt på, skal du ikke ringe tilbage.\n  * Vil nogen i kontakt med dig, prøver de nok igen, hvis det er vigtigt.\n  * Venter du et opkald fx fra et selskab eller familie i udlandet? Tjek hvilket nummer de ringer fra, enten før eller efter et opkald. \n\nLæs mere om den type fupopkald, der hedder vishing i [denne\nartikel](/kundeservice/Mobilabonnementer-og-services/tryghed/phishing/).\n\n##  Vil du vide mere?\n\nWangiri-opkald\n\nWangiri er japansk og kan oversættes til ring-og-læg-på. Det er en form for\nfupopkald, hvor en computer ringer til en masse numre og lægger på kort efter.\nFor mange er det almen høflighed at ringe tilbage, når de ser, at de har\nmisset et opkald. Men ringer du til nummeret, betaler du en høj minutpris for\nopkaldet, og det kan blive dyrt.\n\nSpoofing\n\nSpoofing betyder at efterligne eller at snyde. Svindlere der bruger spoofing,\nringer fra et troværdigt dansk nummer, og personen i den anden ende påstår at\nville hjælpe dig med et problem eller tilbyde dig en service.\n\nSpoofere udgiver sig for at ringe fra fx din bank, en tjeneste du bruger eller\nen velkendt forretning. Du kan fx blive bedt om personlige oplysninger som dit\nCPR-nummer, dit MitID eller dine kreditkortoplysninger. Dine oplysninger\nbliver brugt til identitetstyveri eller til at få fat i dine penge.\n\nDu skal derfor aldrig give dine personlige oplysninger til en, der ringer dig\nop – uanset hvor de siger, de ringer fra. Er du i tvivl om, hvorvidt personen\ni den anden ende virkelig er fra banken, så bed om personens navn, læg røret\npå, og ring til banken og spørg efter personen.\n\nDet ligger i vores natur at være venlig over for personen i den anden ende,\nmen husk at en medarbejder i en bank eller en anden offentlig myndighed vil\naldrig bede om personlige oplysninger i telefonen – det er altid okay at være\nskeptisk og stille uddybende spørgsmål."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:42+00:00",
+        "last_modified": "2025-05-21T15:15:30.856084",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_problemer-med-tv_hdcp-hdmi-off.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 5127,
+                "heading": "Troubleshooting HDCP and HDMI issues with T-We boxes.",
+                "start": 171,
+                "text": "# Løs problemer med HDCP og HDMI OFF\n\nHvis du opplever at det står «HDCP» eller «HDMI OFF» i displayet på din T-We\nBoks kan du gå gjennom disse stegene for å løse problemet.\n\nHvis et steg ikke løser problemet, går du videre til neste steg.\n\n## 1\\. Skru utstyret av og på\n\n  1. Slå av dekoderen ved å ta ut strømmen.\n\n  2. Slå av og ta ut strømmen på TV-apparatet og annet tilkoblet utstyr\n\n    * F.eks. lydplanke, hjemmekino etc.\n\n  3. Sett strømmen tilbake i dekoderen og resten av utstyret etter ca. 30 sekunder.\n\n  4. Skru på TV-apparatet og annet tilkoblet utstyr\n\n  5. Skru på dekoderen\n\n## 2\\. Sjekk kilde/source\n\nSjekk at TV og annet tilkoblet utstyr står på riktig kilde / source:\n\n  * Sjekk hvilket uttak HDMI-kabelen er koblet til på TVen. (Eks. HDMI 1)\n\n  * Trykk på kildeknappen på fjernkontrollen til TV-apparatet\n\n  * Endre kilde til den som T-We boksen er koblet til. (Eks. HDMI 1)\n\nKildevalg på fjernkontrollkan variere fra TV-produsent til TV-produsent.\nKnappen ser som oftest ut som en av disse.\n\n## 3\\. Endre bildeoppløsning på dekoderen\n\nVelg T-We boksen du har for å se hvordan du endrer oppløsning ved hjelp av\nfjernkontrollen\n\n  * #### T-We boks II (ADB 3770)\n\n    1. Trykk «Gul»-knapp på fjernkontrollen (ikke hold knappen inne). Nåværende oppløsning vil vises i displayet på dekoderen.\n\n    2. Trykk på tastene «2» til «6» for å velge oppløsning. Dette må gjøres rett etter du har trykket på «Gul»-knapp. Velg en oppløsning som din TV støtter. Hvis du er usikker på hva din TV støtter kan du begynne med den laveste oppløsningen (2) og jobbe deg oppover\n\n      *  **2 = 576p (720 x 576)**\n\n      *  **3 = 720p (1280 x 720)**\n\n      *  **4 = 1080i (1920 x 1080)**\n\n      *  **5 = 1080p (1920 x 1080)**\n\n      *  **6 = 2160p / 4K (3840 x 2160)**\n\n  * #### T-We Boks (ADB 5743)\n\n    1. Trykk «Gul»-knapp på fjernkontrollen (ikke hold knappen inne). Nåværende oppløsning vil vises i displayet på dekoderen.\n\n    2. Trykk på tastene «1» til «5» for å velge oppløsning. Dette må gjøres rett etter du har trykket på «Gul»-knapp. Velg en oppløsning som din TV støtter. Hvis du er usikker på hva din TV støtter kan du begynne med den laveste oppløsningen (1) og jobbe deg oppover\n\n      *  **1 = 576i (720 x 576)**\n\n      *  **2 = 576p (720 x 576)**\n\n      *  **3 = 720p (1280 x 720)**\n\n      *  **4 = 1080i (1920 x 1080)**\n\n      *  **5 = 1080p (1920 x 1080)**\n\n    3. Alternativt kan du åpne lokket på fremsiden av dekoderen og benytte oppløsningsknappen for å endre bildeoppløsning\n\n## 4\\. Koble dekoder direkte til TV\n\n  *  **Fjern annet tilkoblet utstyr** og koble dekoder rett i TV-apparatet med HDMI-kabelen\n\n  * Gjenta de forrige stegene dersom dette ikke løser problemet umiddelbart\n\n  * Hvis du allerede har koblet dekoder rett i TV-apparatet, gå videre til neste steg\n\n## 7\\. Nullstill dekoder til fabrikkinnstillingene\n\n  * #### T-We boks II (ADB 3770)\n\n    1. Finn frem til RESET på baksiden av T-We Boks II. Denne er merket med en rød ring og er plassert mellom HDMI og USB-uttaket.\n\n    2. Slå av T-We Boks II med av/på-knapp på baksiden av dekoderen\n\n    3. Hold inne RESET (f.eks. med en binders) mens du skrur på dekoder med av/på-knappen\n\n    4. Fortsett å holde inn RESET til du får opp fire streker i displayet (dette tar ca. 15 - 20 sekunder)\n\n    5. Dekoder er nå nullstilt og du kan slippe RESET\n\n  * #### T-We Boks (ADB 5743)\n\n    1. Åpne lokket på fremsiden av dekoderen\n\n    2. Hold inne tannhjul + oppløsningsknapp + Pil ned samtidig i 6 - 10 sekunder (se bilder under)\n\n    3. Når displayet er slukket er nullstillingen utført\n\n **Merk:** Ikke hold lenger enn 10 sekunder - Da vil dekoder sette i gang en\nsoftware-oppgradering (dette kan ta lang tid)\n\n    * For å avbryte software-oppgraderingen, gjenta metoden over\n\n **Hvis ingenting av dette hjelper kan TV-apparatet ditt være for gammelt. TV-\napparatet må støtte minimum HDCP v1.2.  \n** Vi anbefaler deg å koble dekoder til et annet TV-apparat av nyere dato for\nå sjekke om dette løser problemet.\n\n**Merk at TV-apparat, lydplanke/hjemmekino og kabler kan bli påvirket av\ntordenvær og strømbrudd og dermed forårsake dette problemet.**\n\n## Spesielt for 4K oppløsning på T-We Boks II\n\nT-We Boks II støtter 4K, noe som gjør at 4K automatisk blir valgt dersom\ndekoderen installeres med et TV-apparatet som har samme støtte.\n\nHar du en TV med 4K støtte, kan du oppleve at HDCP feilmeldingen dukker opp\ndersom du bytter HDMI-inngang på TV'en, eller bytter til et TV-apparat som\nikke støtter 4K.\n\n  * #### Dette bør du sjekke for å bruke 4K oppløsning på T-We Boks II\n\n    * TV-apparatet støtter 4K Ultra HD, HDMI 2.0 og HDCP 2.2\n\n    * Tilkoblede enheter mellom TV og T-We Boks II (eks. lydplanke eller surround-anlegg/hjemmekino) støtter HDMI 2.0 og HDCP 2.2\n\n    * HDMI-inngangen kabelen er koblet til på TV støtter HDMI 2.0 og HDCP 2.2\n\n    * HDMI-kabelen du bruker støtter kravene for 4K Ultra HD\n\nSpesifikasjoner finnes som regel hos leverandøren av utstyret."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:42+00:00",
+        "last_modified": "2025-05-30T09:39:18.504285",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

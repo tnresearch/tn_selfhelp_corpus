@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_zyxel-nr5307.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 187,
+                "end": 4394,
+                "text": "# Hjelp til Zyxel NR5307\n\nHer finner du hjelp og veiledninger for din 5G-ruter til Mobilt Bredbånd.\n\n## Enkle steg for å komme på nett\n\n  * #### Sett inn SIM-kort\n\nHvis du har et SIM-kort av stor størrelse, må du knekke ut til Nano-SIM.\nStrømadapteret må ikke være tilkoblet når du setter inn SIM-kortet. Åpningen\nfor SIM-kortet finner du på baksiden av ruteren.\n\n **Slik setter du i SIM-kortet:**\n\n    1. Åpne SIM-lokket\n\n    2. Ta ut SIM-skuffen\n\n    3. Legg SIM-kortet i skuffen\n\n    4. Sett skuffen inn i ruteren og lukk lokket\n\n  * #### Koble til strøm\n\n    1. Koble inn medfølgende strømadapter på ruterens bakside og til en strømkilde\n\n    2. Trykk så inn PÅ-knappen\n\n    3. Du vil se at power-lampen vil lyse på forsiden\n\n  * #### Koble til WiFi\n\n **Ulike måter for å koble til Internett  \n** Nettverksnavn (WiFi navn/SSID) og passord finner du på undersiden av\nruteren.  \n\n    1.  **Koble til med SSID**\n\n      * Mobil - Scan QR-kode på undersiden av ruter og følg veiviseren\n\n      * PC: Søk frem nettverket og logg på ved å benytte passordet\n\n    2.  **Koble til med WPS**  \nHold inne WPS-knappen i 3 sekunder - I løpet av 2 minutter må du søke frem\nnettverket ditt og koble til.  \nHvis dette ikke fungerer, må du koble til med brukernavn og passord.\n\n    3.  **Koble til med kabel**  \nKoble til ethernetkabel i gul LAN-port\n\n  * #### Fullfør veiviseren\n\n    1. Sørg for at du er tilkoblet det trådløse nettverket til ruteren\n\n    2. Åpne nettleseren\n\n    3. Skriv inn 192.168.1.1 i adressefeltet til nettleseren og følg veiviseren\n\n **PIN-kode  \n** I veiviseren vil du bli bedt om å taste inn en PIN-kode. Denne finner du i\nbrevet du mottok sammen med SIM-kortet til ruteren.  \nHvis du ikke finner PIN-koden, kan du [hente ut PUK-koden på Mine\nSider](https://www.telenor.no/privat/minesider/web/mobil/). Når du har tastet\ninn PUK-koden vil du bli bedt om å lage en ny PIN-kode.\n\n**Slik henter du PUK-koden**\n\n    1. [Logg inn på Mine Sider](https://www.telenor.no/privat/minesider/web/mobil/)\n\n    2. Velg abonnementet det gjelder\n\n    3. Under **Enheter og SIM** , velg SIM-kortet det gjelder\n\n    4. Trykk på **Vis PUK-kode**\n\n### Brukerveiledning Zyxel NR5307\n\n[Zyxel NR5307](/binaries/kundeservice/internett/modem-og-ruter/zyxel-\nnr5307/nr5307_quick-start-guide.pdf)\n\n## Spørsmål og svar om Zyxel NR5307\n\n  * #### Hva betyr lampene på ruteren?\n\nLampene finner du på fremsiden av ruteren. Her ser du hva de forskjellige\nfargene betyr:\n\n  * #### Hvordan oppdatere programvare?\n\nNår ny programvare er tilgjengelig, oppgraderes ruteren automatisk for å\nivareta Telenors strenge krav til sikkerhet og stabilitet. Du kan også laste\nned ny programvare fra supportsidene til Telenor, og gjøre oppdateringen fra\nen PC/Mac.\n\nEnhets- og SIMkortinformasjon er nødvendig for å utføre\nprogramvareoppdateringen.\n\n  * #### Hvordan nullstiller jeg ruteren?\n\nOpplever du problemer med å koble til internett, kan det ofte hjelpe å\nnullstille ruteren. Dette stiller ruteren tilbake til de innstillingene den\nhadde da du fikk den.\n\n    1. Finn noe tynt, slik som en binders eller en butt nål\n\n    2. Stikk gjenstanden inn i reset-hullet på undersiden av ruteren, og hold den inne i 5 sekunder\n\n    3. Ruteren skrur seg av og på automatisk, og du kan koble til nettverket på nytt\n\nNår ruteren er nullstilt, vil nettverksnavn og passord være det som står på\nklistrelappen på baksiden av ruteren. Følg veiviseren for å sette opp ruteren\npå nytt.\n\n  * #### Hvordan endre avanserte innstillinger i rutermeny?\n\nI ruterens meny, kan du blant annet se status, signalstyrke, bytte PIN, endre\nnettverk og IP-adresser. Du får tilgang til de avanserte innstillingene ved\nåpne nettleseren og angi 192.168.1.1 i adresselinjen.\n\nPassordet til administrasjonssiden er det samme som nettverkspassordet som\nfinnes på etiketten på undersiden av ruteren. Om du eventuelt har endret\npassordet til administrasjonssidene bruker du dette.\n\n## Opplever du problemer med Internett?\n\nSvært mange problemer løses ved at man skrur utstyret av og på. Opplever du\nallikevel problemer, kan vi hjelpe deg med veiledninger for de [vanligste\nproblemstillingene - Tregt, ustabilt eller manglende\nnett.](/kundeservice/internett/problemer/index.page)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:55+00:00",
+        "last_modified": "2025-05-30T08:59:01.841632",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

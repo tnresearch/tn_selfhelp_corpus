@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter-b818_endre-tradlos-kanal.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 260,
+                "end": 1000,
+                "text": "# Endre trådløs kanal\n\nHer viser vi deg hvordan du endrer kanal på ditt trådløse nettverk på Huawei\nB818\n\n## Logg inn på ruteren\n\n  1. Sjekk at du er koblet til ditt hjemmenettverk\n\n  2. Åpne en nettleser og skriv inn http://192.168.1.1 i adressefeltet, og trykk enter.\n\n  3. Skriv inn ditt passord\n\n  4. Passordet er det samme som ditt opprinnelige trådløse passord. Du finner det på klistrelappen på baksiden av ruteren etter **WIFI**.   \n**Merk:** Har du selv endret passordet til menyen, skriver du inn det du selv\nhar valgt.\n\n## Endre kanal\n\n  1. Velg **Avansert**\n\n  2. Velg **WiFi**\n\n  3. Velg **Avanserte WiFi-innstillinger**\n\n  4. Velg ønsket kanal for 2.4 GHz og/eller 5 GHz fra nedtrekksmenyen for **Kanal**\n\n  5. Trykk **Lagre**"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:31+00:00",
+        "last_modified": "2025-05-30T09:02:44.903865",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/puhelinliittymat_puhelinlaskulla-maksaminen_microsoft-store.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 263,
+                "end": 4643,
+                "text": "# Microsoft Storesta tehtyjen ostosten maksaminen puhelinlaskulla\n\nVoit ostaa Microsoft Storesta, ja maksaa tekemäsi ostokset DNA:n\npuhelinlaskulla tai prepaid-liittymän saldolla. Lisää maksutapa Microsoft\nStoren maksuasetuksissa, jonka jälkeen voit ostaa Microsoft Storessa esim.\nWindows 10 -tietokoneella tai Xbox Onella. Huomaathan, että liikkuvan\nlaajakaistan liittymät eivät ole palvelun piirissä.\n\n## Ohjeet DNA:n puhelinlaskun käyttöön Microsoft Store -sovelluskaupassa\n\n  * Lisää maksutavaksi ”matkapuhelin” Microsoft Storessa.\n  * Jos luottokortti on aiemmin lisätty Microsoft Storeen, voit vaihtaa maksutavan puhelinlaskuksi sovelluskaupan maksuasetuksista.\n  * Oletuskäyttöraja on 150 €/kk ja kertaostosraja 50 €/ostos.\n  * Microsoft lähettää jokaisesta ostoksesta kuitin sähköpostitse Microsoft-tilillä määriteltyyn sähköpostiosoitteeseen.\n  * Voit edelleen käyttää luottokorttia ostoksesi maksamiseksi, mutta jatkossa voit vaihtaa halutessasi maksutavaksi DNA:n puhelinlaskua.\n\n## Maksutavan käyttö Xbox One -konsolilla\n\n  * Palvelu ei ole käytössä alkuperäisellä Xbox- tai Xbox 360 -konsoleilla.\n  * Maksutapa lisätään samalla tavoin kuin tietokoneen Microsoft Storessa.\n  * Myös Xbox Live Gold ja Xbox Game Pass -jäsenyydet voi maksaa Mobiilimaksulla.\n\n## Mobiilimaksun estäminen\n\n**Halutessasi voit estää Mobiilimaksun näin:**\n\n  * Microsoft Store kuuluu estoluokaltaan palveluryhmään 3: Ajanvietepalvelut. Voit estää kaikki ostokset P3 tai sitä tiukemmalla viestiestoluokalla.\n  * Voit halutessasi määrittää liittymällesi palveluneston, jonka avulla estät ostamisen Microsoft Storessa. Tämä on suositeltavaa etenkin lasten liittymille. Voit tehdä palveluneston [DNA:n asiakaspalvelun](https://www.dna.fi/asiakaspalvelu) kautta.\n\n#### Microsoft Storen asiakaspalvelu\n\nMicrosoft Storen asiakastuesta vastaa Microsoft (puh. 09 8171 0400 ja\n<https://support.microsoft.com/contactus>). Microsoft käsittelee myös\nmahdolliset hyvityspyynnöt ja asiakasreklamaatiot.\n\n**Huom.** Jotta voit maksaa ostoksesi puhelinlaskulla tai liittymäsi saldolla,\nMicrosoft-tilin ja Windows 10 -laitteen maa-asetukset tulee olla Suomi.\n\n##  Ohjeet DNA:n mobiilimaksulla maksamiseksi\n\nDNA:n mobiilimaksun käyttöönotto\n\n#### 1\\. Valitse sovelluskaupasta haluamasi ohjelma ja siirry maksamaan\npainamalla sovelluksen hintaa.\n\n#### 2\\. Kirjaudu sisään Microsoft-tilillesi. Salasanan kysely on ennen\njokaista ostosta. Voit halutessasi ottaa kyselyn pois päältä.\n\n#### 3\\. Sisäänkirjautumisen jälkeen voit valita maksutavan. Jos et ole\nlisännyt tiliisi maksutapaa, voit tehdä sen nyt.\n\n#### 4\\. Valitse listasta maksutapa, jonka haluat liittää tiliisi.\n\n#### 5\\. Valitse ”Matkapuhelin” ja syötä puhelinnumerosi, perusmuodossa ilman\nmaakoodia.\n\n#### 6\\. Puhelimeesi lähetetään vahvistuskoodi tekstiviestillä. Koodin avulla\nvarmistetaan henkilöllisyytesi. Kirjoita saamasi koodi oheiseen kenttään.\n\n#### 7\\. Nyt voit ostaa sovelluksia Windows-kaupasta puhelinlaskulla tai\nprepaid-liittymäsi saldolla. DNA ei lähetä ostoksistasi kuittia, vaan\nMicrosoft lähettää jokaisesta ostoksesta kuitin Microsoft-tilisi\nsähköpostiosoitteeseen.\n\n#### 8\\. Oston jälkeen, sovelluksen lataus käynnistyy automattisesti.\n\nMaksutavan vaihtaminen DNA:n mobiilimaksuksi\n\n#### 1\\. Valitse sovelluskaupasta haluamasi ohjelma ja siirry maksamaan\npainamalla sovelluksen hintaa.\n\n#### 2\\. Sovelluskauppa siirtyy vahvistusnäkymään. Valitse haluttu maksutapa.\nLisää uusi maksutapa valitsemalla ”Muuta”.\n\n#### 3\\. Lisää Windows-kauppaan uusi maksutapa.\n\n#### 4\\. Valitse uusi maksutapa, eli ”Matkapuhelin”.\n\n#### 5\\. Valinnan jälkeen syötä puhelinnumerosi perusmuodossa ilman maakoodia.\n\n#### 6\\. Puhelimeesi lähetetään tekstiviestillä vahvistuskoodi. Koodin avulla\nvarmistetaan henkilöllisyytesi. Kirjoita saamasi koodi oheiseen kenttään.\n\n#### 7\\. Nyt voit ostaa sovelluksia Windows-kaupasta puhelinlaskulla tai\nprepaid-liittymäsi saldolla. DNA ei lähetä ostoksistasi kuittia, vaan\nMicrosoft lähettää jokaisesta ostoksesta kuitin Microsoft-tilisi\nsähköpostiosoitteeseen.\n\n#### 8\\. Oston jälkeen, sovelluksen lataus käynnistyy automattisesti.\n\n## Aiheeseen liittyvää sisältöä\n\n  * Windows-kaupan tietoa käyttäjille:  \n<http://windows.microsoft.com/fi-fi/windows-10/getstarted-explore-the-store>\n\n  * Windows Phone -kaupan tietoa käyttäjille:  \n<https://www.windowsphone.com/fi-fi/how-to/wp8/apps/touring-windows-phone-\nstore>\n\n",
+                "heading": "Microsoft Storesta tehtyjen ostosten maksaminen puhelinlaskulla"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:18+00:00",
+        "last_modified": "2025-06-20T19:20:34.964172",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

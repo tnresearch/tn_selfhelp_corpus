@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_mit-abonnement_flyt-nummer-til-telenor.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2121,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Hvordan flytter jeg mit nuværende mobilnummer til Telenor?\n\nVi er glade for, at du ønsker at flytte dit nummer til Telenor. Vi kan flytte\ndit danske mobilnummer til Telenor, uanset hvilket teleselskab du flytter fra.\n\nDer er tre vigtige ting, du skal være opmærksom på, når du ønsker at skifte\ntil Telenor, men beholde dit nuværende telefonnummer:\n\n  * **Opsig ikke dit telefonnummer**  \nDet er vigtigt, at du **IKKE** opsiger dit telefonnummer hos dit nuværende\nselskab. Opsiger du dit mobilnummer selv, mister du råderetten over nummeret,\nog vi kan derfor ikke flytte det over til os. Derfor er det vigtigt, at du\nvælger **Flyt Nummer** **(og ikke opsiger det)** , når du køber et nyt\nabonnement hos os – så klarer vi alt det praktiske i forbindelse med\nnummerflytningen.\n\n  * **Udfyld fuldmagt**  \nNår du har bestilt nummerflytning, modtager du en mail med en fuldmagt, som\ndet er vigtigt, at du udfylder. Der skal du blandt andet skrive dit\nsimkortnummer. Se [her](/kundeservice/Mobilabonnementer-og-\nservices/opsatning/find-simkort-nummer/), hvor du finder det. Hvis du ikke\nudfylder fuldmagten indenfor den periode, der står beskrevet i mailen,\ntildeles du automatisk et tilfældigt mobilnummer. Alle disse oplysninger står\nogså i mailen, som du modtager.\n\n**Tjek aktiveringsdato**  \nDu modtager en mail fra os med aktiveringsdato, så du ved, hvornår dit\nTelenor-abonnement er aktivt.\n\n### Når du har bestilt en nummerflytning, modtager du:\n\n  * En mail med en fuldmagt til nummerflytningen, som det er **vigtigt, at du udfylder**\n  * En mail med dato på, hvornår dit nummer er flyttet og bliver aktivt hos Telenor\n  * Et nyt simkort med posten eller på mail, hvis du har bestilt eSIM\n\nHar du bestilt et fysisk simkort, skal du på aktiveringsdatoen sætte simkortet\ni din mobil. Simkortet passer til alle mobiltelefoner. Har du bestilt eSIM,\nkan du læse, hvordan du aktiverer det [her](/kundeservice/Mobilabonnementer-\nog-services/opsatning/esim/).\n\nEr du i tvivl om noget i forhold til nummerflytning, er du velkommen til at\nkontakte kundeservice på 72 100 100.\n\nVi glæder os til at byde dig velkommen hos Telenor."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:38+00:00",
+        "last_modified": "2025-05-21T15:15:27.698365",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

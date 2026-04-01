@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_zyxel-8702_koble-til_kabel.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 329,
+                "end": 1667,
+                "text": "# Oppkobling av Zyxel 8702 (Kabel/Coax)\n\nFør du starter må du ha et kabel-modem som er tilkoblet internett.\n\n## Slik kobler du opp Zyxel 8702\n\n**Før du begynner må du ha et kabel-modem som er koblet til internett.**\n\n  1. Koble nettverksledningen med blå plugger til kontakten merket WAN på baksiden av ZyXEL ruteren.\n\n  2. Koble den andre blå pluggen til ethernet-kontakten på ditt kabel-modem.\n\n  3. Koble strømadapteren til bredbåndsruteren og stikk-kontakten, og trykk deretter på strømknappen på høyre side.\n\n  4. Sjekk at lampene merket POWER og WAN på forsiden av bredbåndsruteren lyser stabilt før du går videre.\n\n  5. Koble den ene enden av nettverksledningen med gule kontakter til nettverkskontakten på datamaskin.\n\n  6. Koble den andre enden til en av de gule nettverkskontaktene på Zyxel 8702. Sjekk at Ethernet lampen lyser på ruteren. [Les mer om lampestatus.](/kundeservice/internett/modem-og-ruter/zyxel-8702/)\n\n  7. Du kan også koble deg til datamaskinen trådløst.\n\n[Les mer om ruterinnstillinger og trådløst\noppsett](/kundeservice/internett/wifi/administrere-ruter/)\n\n### Brukerveiledning Zyxel P8702N\n\n[Brukerveiledning Zyxel P8702N\n(Kabel)](/binaries/Other%20files/Privat/pdf/Brukerveiledning-\nZyxel-8702-kabel_tcm94-360113.pdf)\n\n[Koble opp TV-boks](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-\nboks/koble-til/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:18+00:00",
+        "last_modified": "2025-05-30T08:57:46.936080",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-e3531_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 367,
+                "end": 1593,
+                "text": "# DNA Mokkula E3531\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-e3531/vianmaaritys)\n\n## Ominaisuudet\n\n### DNA Mokkula E3531\n\n**Tuotenimi: Huawei E3531**\n\nDNA Mokkula E3531 on näppärä mokkula sinulle, joka arvostat pientä kokoa.\nTukee 2G- ja 3G-yhteyttä.\n\n  * HSPA+ enimmäisnopeus 21,1 Mbit/s\n  * HSDPA enimmäisnopeus 14,4 Mbit/s\n  * Automaattinen asennus\n  * MicroSD-muistikorttipaikka (32 Gt asti)\n  * CRC9-liitäntä ulkoiselle antennille\n  * Mokkula kiinnitetään suoraan tietokoneen USB-porttiin\n  * Mini-SIM-korttin eli normaalin kokoinen SIM-kortti\n\n### Myyntipaketin sisältö:\n\nDNA Mokkula E3531, USB-jatkojohto, pikakäyttöopas.\n\n### Laitteistovaatimukset / Tuetut käyttöjärjestelmät:\n\n  * Tuetut käyttöjärjestelmät Windows XP SP2/SP3, Vista SP1/SP1, Windows 7, Windows 8 / 8.1, MAC 10.5\n\n",
+                "heading": "DNA Mokkula E3531"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:15+00:00",
+        "last_modified": "2025-06-20T19:12:59.198624",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

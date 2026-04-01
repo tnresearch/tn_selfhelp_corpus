@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu_kom-igang-med-ditt-bredband_tjanstefordelare-hur-vill-du-koppla-upp-dig_tjanstefordelare--koppla-in-routern-fran-telenor.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1535,
+                "text": "# Koppla in routern från Telenor\n\nNu är det nära! Följ stegen nedan för att koppla in vår superbra router.\n\n  * ### Koppla in nätverkskabeln\n\nStoppa in nätverkskabeln i det röda uttaget på routern.  \n  \n[Mer hjälp att koppla rätt](/support/portar/)\n\n  * ### Koppla routern till tjänstefördelaren\n\nDen andra änden på nätverkskabeln stoppar du in i porten (Port 1 eller LAN 1)\nsom normalt sitter längst till vänster på tjänstefördelaren.\n\n  * ### Koppla in ström\n\nKoppla in strömadaptern i eluttaget samt i strömingången på routern.\n\n  * ### Slå på routern\n\nKnappen hittar du på baksidan av routern.\n\n  * ### Nu kan du koppla upp dig mot nätverket! \n\nVälj ditt trådlösa nätverk i mobilens eller datorns inställningar. Namnet på\nnätverket samt lösenordet **står på routerns undersida**.\n\nMer hjälp för att komma igång med ditt wifi:\n\n[Wifi-inställningar för Windows](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-windows-10/)  \n[Wifi-inställningar för macOS](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-macos/)  \n[Wifi-inställningar för Android](/support/fast-bredband/wifi/kom-igang/anslut-\ntill-wifi-via-android/)  \n[Wifi-inställningar för iOS (iPhone och iPad)](/support/fast-\nbredband/wifi/kom-igang/anslut-till-wifi-via-iphone-och-ipad/)\n\nOm du inte vill ha wifi kopplar du ihop din dator med routern via en\nnätverkskabel.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:21+00:00",
+        "last_modified": "2025-05-30T14:11:08.627316",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

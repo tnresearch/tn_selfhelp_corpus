@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b715_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 402,
+                "end": 2172,
+                "text": "# DNA Kotimokkula 4G+ WLAN B715\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/b715-k%C3%A4ytt%C3%B6%C3%B6notto/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/vianmaaritys)\n\n## Ominaisuudet\n\n  \n**Tuotenimi: Huawei B715-32c**  \n  \nTodellinen high-end -mokkula, joka täyttää vaativankin käyttäjän toivelistan.\nMokkula tukee LTE Cat 9 -tasoista verkkoyhteyttä, joten 4G-netin\nhuippunopeudeksi luvataan jopa 450 Mbit/s. Edistyneet ominaisuudet ja DNA:n\nräätälöinnit tekevät käytöstä ennennäkemättömän helppoa ja sujuvaa.  \n\n  * 4G LTE (Cat 9) enimmäisnopeus verkosta 450 Mbit/s\n  * 4G LTE enimmäisnopeus kohti verkkoa 50 Mbit/s\n  * 3G DC enimmäisnopeus 42 Mbit/s \n  * HSPA+ enimmäisnopeus 21,1 Mbit/s\n  * WLAN 802.11b/g/n/ac, 3x3, Dual-Band\n  * USB 2.0 -portti USB-muistin jakamiseen lähiverkkoon \n  * 4 kpl Ethernet-liitäntää, max. 1000 Mbit/s (joista LAN1 WAN)\n  * 32 laitetta yhdistettävissä langattomaan verkkoon \n  * Kaksi liitäntää ulkoisille antenneille, liitäntätyyppi SMA \n  * Micro-SIM-kortti\n  * DNA:n kustomoitu käyttöjärjestelmä\n\n### Myyntipakkauksen sisältö\n\n  * DNA Mokkula B715\n  * Virtalähde\n  * Ethernet-kaapeli\n  * DNA:n Pikaopas\n\n",
+                "heading": "DNA Kotimokkula 4G+ WLAN B715"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:22+00:00",
+        "last_modified": "2025-06-20T18:54:07.170345",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

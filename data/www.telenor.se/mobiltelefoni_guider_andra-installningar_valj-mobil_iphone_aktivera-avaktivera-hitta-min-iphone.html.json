@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_andra-installningar_valj-mobil_iphone_aktivera-avaktivera-hitta-min-iphone.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 373,
+                "end": 1324,
+                "text": "# Sätt på och stäng av Hitta min iPhone\n\nMed hjälp av funktionen Hitta min iPhone kan du hitta din mobil om du tappar\nbort den. I den här guiden visar vi hur du gör för att sätta på och stänga av\nHitta min iPhone.\n\nHar du tappat bort din mobil? [Ta hjälp av den här\nguiden.](/support/mobiltelefoni/skada-och-forlust/borttappad-eller-stulen-\nmobil-surfplatta/)\n\nDen här guiden visar hur du gör i det **senaste operativsystemet (iOS)** från\nApple. Så börja gärna med att se till att det är installerat på din mobil –\ninte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/iphone/uppdatera-operativsystemet/)\n\n  * ### Gå till startskärmen\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Klicka på ditt Apple-ID\n\n  * ### Klicka på \"Hitta\"\n\n  * ### Klicka på \"Hitta min iPhone\"\n\n  * ### Aktivera \"Hitta min iPhone\"\n\n  * ### Ange lösenordet för ditt Apple-ID"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:07+00:00",
+        "last_modified": "2025-05-30T14:30:40.800392",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

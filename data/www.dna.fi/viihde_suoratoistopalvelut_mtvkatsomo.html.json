@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/viihde_suoratoistopalvelut_mtvkatsomo.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 215,
+                "end": 4934,
+                "text": "# MTV Katsomo -suoratoistopalvelun tuki\n\nMTV Katsomo -suoratoistopalvelu sisältyy kaikkiin DNA:lta tilattuihin MTV\nKatsomo+ ja kanavapaketti -tuotteisiin. Voit katsoa tilaukseen sisältyviä\nohjelmia MTV-kanavilta tai suoratoistopalvelusta.\n\n## Käyttöönotto\n\nMTV Katsomo tulee aktivoida käyttöön ensimmäisellä käyttökerralla. Aktivointi\ntehdään vain ensimmäisellä kerralla ja sen jälkeen kirjautuminen sovellukseen\ntehdään käyttäjätunnuksella ja salasanalla, jotka olet luonut aktivoinnin\nyhteydessä.  \n  \nAktivointi on helpointa tehdä tietokoneen selaimella. Olet saanut tilauksen\njälkeen sähköpostiisi viestin otsikolla ” MTV Katsomo -sovelluksen aktivointi\nja käyttöönotto-ohje”. Klikkaa viestin linkkiä, se ohjaa sinut suoraan MTV\nKatsomon aktivointiin tai toimi seuraavien ohjeiden mukaan.  \n  \nKirjaudu MTV Katsomo -sovellukseen osoitteessa [www.mtv.fi/aktivoi-\noperaattori](http://www.mtv.fi/aktivoi-operaattori)\n\n  1. Valitse operaattori DNA\n  2. Kirjoita kenttään Aktivointitunnus 1.\n  3. Kirjoita kenttään Aktivointitunnus 2.\n  4. Jatka ja seuraa sovelluksen antamia ohjeita. Huom:\n\n  * Jos sinulla on jo MTV Katsomo -käyttäjätunnus, voit kirjautua sisään samalla sähköpostiosoitteella ja salasanalla ja ne linkittyvät DNA:n MTV Katsomo+ -tilaukseen.\n  * Jos sinulla ei ole aikaisemmin ollut käyttäjätunnusta MTV Katsomoon, syötä sähköpostiosoite, joka toimii jatkossa käyttäjätunnuksena palveluun ja luo salasana.\n\n## MTV Katsomon käyttö viihdeboksilla\n\n  1. Avaa viihdeboksi\n  2. Avaa Omat sovellukset menun kautta\n  3. Lataa Google Play -kaupasta MTV Katsomo jos et ole sitä vielä ladannut.\n  4. Avaa MTV Katsomo -sovellus ja etene seuraavien ohjeiden mukaisesti.\n  5. Valitse ”Kirjaudu”\n  6. Valitse ”Jatka aktivointikoodilla”\n  7. Avaa selain esim. puhelimella tai tietokoneella ja mene osoitteeseen aktivoi.mtv.fi\n  8. Kirjoita TV:ssäsi näkyvä aktivointikoodi puhelimen tai tietokoneen selaimessa näkyvään kohtaan.\n  9. Selaimessa olevaan näkymään avautuu kirjautuminen. Kirjoita sähköpostiosoite ja salasana, jotka olet luonut MTV Katsomon aktivoinnin yhteydessä.  \n  \nJos et ole vielä aktivoinut MTV Katsomoa DNA:lta saatujen aktivointitunnusten\nkanssa, tee se nyt valitsemalla näkymästä ”Aktivoi tili operaattorin kautta”\nja katso ohjeet ylempänä palvelun aktivointiin.  \n\n  10. TV:si on nyt aktivoitu.\n  11. TV-ruudulle avautuu nyt MTV Katsomo ja voit katsella kaikkia tilaukseesi sisältyviä ohjelmia.\n  12. Voit sulkea puhelimen tai tietokoneen selaimen.\n\n## Ominaisuudet ja käyttäminen\n\nAktivoinnin yhteydessä antamasi sähköposti ja salasana toimivat jatkossa\ntunnuksina palveluun ja voit kirjautua niillä MTV Katsomo -sovellukseen\nkaikilla laitteilla, joissa MTV Katsomo -sovellus on käytettävissä. Voit\nkäyttää MTV Katsomoa myös esim. DNA TV -sovelluksen kautta tietokoneella,\npuhelimella, tabletilla ja DNA viihdeboksilla. Katso ohjelmia silloin kun\nhaluat, niin paljon kuin haluat.  \n  \nSuoratoistopalvelussa katsottavissa oleva sisältö määräytyy kanavapaketin\nsisällön mukaisesti; MTV Katsomo+ ja kanavapaketti viihde -tilaajilla on\nkatsottavissa suoratoistopalvelun viihdesisältö, MTV Katsomo+ ja kanavapaketti\nviihde ja urheilu -tilaajilla on katsottavissa viihdesisältöjen lisäksi myös\nkaikki urheilu. Lisäksi kaikkien tilaajien käytettävissä on MTV Katsomon\nperuskanavien ohjelmat. Voit asettaa suosikkeja omalle listalle tai vinkata\nohjelmavinkkejä ystävillesi jakamalla linkin ohjelman sivulle MTV Katsomossa.\n\n### Käyttäminen ulkomailla\n\nVoit käyttää MTV Katsomo -sovellusta matkustaessasi EU:n alueella.\n\n### Sisältöjen peilaaminen Chromecastin tai Apple Playn kautta\n\nPeilaaminen on tuettu.\n\n##  Usein kysyttyjä kysymyksiä\n\nMihin kanavapaketteihin MTV Katsomo -suoratoistopalvelu sisältyy?\n\nMTV Katsomo -suoratoistopalvelu sisältyy DNA:n tarjoamiin MTV Katsomo+\n-kanavapakettien tilauksiin. Kanavapakettitilauksen lisäksi sinulla tulee olla\nvoimassa oleva DNA TV -tilaus. Suoratoistopalvelussa katsottavissa oleva\nsisältö määräytyy kanavapaketin sisällön mukaisesti; MTV Katsomo+ viihde\n-kanavapaketin asiakkailla on katsottavissa palvelun viihdesisältö ja MTV\nKatsomo+ viihde ja urheilu -kanavapaketin asiakkaat voivat katsoa palvelun\nkaikkia sisältöjä.\n\nMinkälaisia ohjelmia MTV Katsomo -suoratoistopalvelu sisältää?\n\nMTV Katsomo -suoratoistopalvelu tarjoaa runsaan kattauksen leffoja ja sarjoja\nHollywoodista, Pohjoismaista ja Suomesta - liveurheilua ja TV:n\nsuosikkiohjelmia unohtamatta. Myös lapsille on tarjolla laajavalikoima lasten\nsuosikkiohjelmia ja klassikoita.\n\nSuoratoistopalvelussa katsottavissa oleva sisältö määräytyy kanavapaketin\nsisällön mukaisesti. MTV Katsomo+ viihde ja urheilu -tilauksen kanssa koko MTV\nKatsomo -suoratoistopalvelun sisältö on käytettävissäsi.\n\n",
+                "heading": "MTV Katsomo -suoratoistopalvelun tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:51+00:00",
+        "last_modified": "2025-06-20T19:26:07.196943",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

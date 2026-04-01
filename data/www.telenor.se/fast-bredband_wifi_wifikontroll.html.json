@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_wifikontroll.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 337,
+                "end": 3517,
+                "text": "# Telenor Wifikontroll\n\n## Här hittar du allt du behöver för att komma igång med och använda appen\nTelenor Wifikontroll.\n\n## Kom igång\n\n  * [ Kom igång med Wifikontroll-appen  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter/kom-igang-med-wifikontroll-appen/)\n  * [ Skapa ett gästnätverk  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter/skapa-ett-gastnatverk/)\n  * [ Ändra namn och lösenord på ditt hemmanätverk  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter/andra-namn-och-losenord-pa-ditt-hemmanatverk/)\n  * [ Döpa om och kategorisera enheter  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter/dopa-om-och-kategorisera-enheter/)\n\n## Optimera nätverket\n\n  * [ Hälsokontroll av ditt hemmanätverk  ](/support/fast-bredband/wifi/wifikontroll/guider/halsokontroll-av-ditt-hemmanatverk/)\n  * [ Omstart Router  ](/support/fast-bredband/wifi/wifikontroll/guider/omstart-router/)\n  * [ Lägga till Wififörstärkare  ](/support/fast-bredband/wifi/wifikontroll/guider/wififorstarkare/)\n\n## Individanpassa ditt wifi\n\n  * [ Skapa och redigera profiler  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter2/skapa-och-andra-profiler/)\n  * [ Skapa surfschema  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter2/skapa-surfschema/)\n  * [ Enheter och pausa enheter  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter2/enheter-och-pausa-enheter/)\n  * [ Prioritera enheter  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter2/prioritera-enheter/)\n  * [ Avisering när enhet ansluter  ](/support/fast-bredband/wifi/wifikontroll/anslutna-enheter2/avisering-nar-enhet-ansluter/)\n\nKrånglar det?\n\nOm du har Telenors wifi-router kan du behöva fabriksåterställa den för att\nWifikontroll-appen ska fungera som den ska. Ta till exempel en nål och tryck\nin i hålet märkt \"Reset\" på routerns baksida i 7-8 sekunder.\n\n## Frågor och svar\n\n  * Hur hittar jag appen Wifikontroll?\n\nDu laddar ned appen Telenor Wifikontroll i\n[AppStore](https://apps.apple.com/se/app/wifikontroll/id1490238568?l=sv) om du\nhar en iPhone och i [Google\nPlay](https://play.google.com/store/apps/details?id=com.fon.wifikontroll.telenor)\nom du har en Android-mobil. Sök på Wifikontroll. Nedan ser du hur appens logga\nser ut.  \n  \n  \n  \n\n  * Hur loggar jag in i appen Wifikontroll?\n\nDu loggar in med samma uppgifter som du loggar in i [Mitt\nTelenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx) med. Om du inte har ett\nMitt Telenor-konto så måste du skapa ett först.\n\n  * Vilka enheter kan jag använda appen med?\n\nDu kan använda Wifikontroll med alla mobiler och surfplattor som har iOS\n(version 9 eller senare) eller Android (version 5 eller senare).\n\n  * Med vilka routrar kan jag använda Wifikontroll?\n\nDu kan använda Wifikontroll tillsammans med Telenors wifi-router och\nTechnicolor 799.\n\n  * Vilken bredbandstjänst från Telenor behöver jag ha för att kunna använda Wifikontroll?\n\nDu behöver ha bredband via fiber eller telejacket. Wifikontroll funkar inte\ntillsammans med mobilt bredband.\n\n  * Kostar det något att använda Wifikontroll?\n\nAtt använda appen Wifikontroll kostar inget.\n\n  * Kan jag skapa flera inlogg till Wifikontroll?\n\nNej, det går inte.\n\n",
+                "heading": "Telenor Wifikontroll"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:02+00:00",
+        "last_modified": "2025-05-30T14:14:03.499384",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

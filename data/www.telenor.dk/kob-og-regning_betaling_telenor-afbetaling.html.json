@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_betaling_telenor-afbetaling.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1440,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Telenor Delbetaling\n\nHos Telenor har du mulig for at dele din betaling op i 3 mindre bidder med\nTelenor Delbetaling. Det betyder, at du betaler 1. delbetaling, når du køber\ndit nye produkt (fx mobiltelefon eller tilbehør) og derefter de resterende 2\ndelbetalinger i de kommende måneder.\n\nHer på siden kan du finde svar på de fleste spørgsmål om Telenor Delbetaling.\n\nHvordan fungerer Telenor Delbetaling?\n\nMed Telenor Delbetaling deles din betaling op i tre mindre bidder. Du betaler\nførste betaling, når du gennemfører købet, og så vil du blive faktureret de\nresterende to delbetalinger over de kommende to måneder.\n\nSkal jeg kreditgodkendes til Telenor Delbetaling?\n\nJa, det skal du. Men godkendelsen går lynhurtig og tager ingen tid –\nkreditgodkendelsen finder sted i selve købsprocessen, så det er enkelt og\nnemt.\n\nKoster Telenor Delbetaling ekstra?\n\nTelenor Delbetaling koster dig ikke ekstra – du betaler hverken renter eller\ngebyrer.\n\nHvordan foregår betalingen med Telenor Delbetaling?\n\nDu betaler den første delbetaling kontant, når du gennemfører købet i\nkøbsprocessen. Herefter vil du blive faktureret de resterende to delbetalinger\ni de kommende to måneder – beløbene vil automatisk blive trukket på det\nkreditkort, du brugte, da du gennemførte købet.\n\n_**Bemærk:**_  \nVed køb foretaget d. 1.-15. i en måned: 2. betaling trækkes i samme måned.  \nVed køb foretaget efter d. 15. i en måned: 2. betaling trækkes i kommende\nmåned."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:01+00:00",
+        "last_modified": "2025-05-21T15:15:47.279491",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

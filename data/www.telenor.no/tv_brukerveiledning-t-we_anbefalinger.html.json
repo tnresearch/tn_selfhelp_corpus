@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_anbefalinger.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3267,
+                "heading": "T-We Recommendations Guide",
+                "start": 180,
+                "text": "# Anbefalinger i T-We\n\nLurer du på hvordan anbefalingene våre fungerer? Her finner du informasjon om\nhvordan vi tilpasser innholdet som vises i T-We\n\nHjem:Under denne menyen vil du finne anbefalinger.\n\n## Anbefalinger og tilpasset innhold\n\nDu får forslag om programmer og filmer flere steder i T-We, men det vil alltid\nvære tilgjengelig fra Hjem-menyen. Denne kommer du til når du trykker på T-We\nknappen på fjernkontrollen.\n\nAnbefalingene kan være redaksjonelt styrt, men etterhvert som vi lærer mer om\nhva du ser på og interesserer deg for, vil de bli mer personlige og tilpasset\ndeg. Det er viktig å merke seg at forslagene du får baserer seg på det du ser\npå fra en gitt profil, så hvis alle i familien bruker samme profil vil dette\npåvirke resultatet.\n\n### Tommel opp eller ned?\n\nDu kan påvirke anbefalingene dine ved å vurdere innholdet du har sett på. Har\ndu sett en film eller serie du liker, finner du et tommel-ikon på\ninformasjonssiden for denne.\n\nTrykk en gang på tommel-ikonet for å gi en tommel opp, og en gang til for å\nbytte til tommel ned. På den måte forteller du oss hva du ønsker i forhold til\nanbefalt innhold.\n\n  *  **Tommel opp** \\- Jeg liker innholdet og vil ha flere anbefalinger med tilsvarende innhold\n\n  *  **Tommel ned** \\- Jeg liker ikke innholdet og vil ha færre anbefalinger med tilsvarende innhold.\n\n## Spørsmål og svar\n\n  * #### Hvordan hentes data til anbefalinger?\n\nDet lagres informasjon om hva du ser på og når, på tvers av TV-kanaler,\narkiver og filmleie.\n\nBasert på dette benytter vi en algoritme som analyserer dataene og\nsammenlikner dine preferanser med andres. Om andre TV-seere har samme type\npreferanser som deg, kan det tenkes at du blir anbefalt en film eller serie\nsom de likte, men som du kanskje ikke har sett enda.\n\nI tillegg bruker algoritmen informasjon om sjanger, skuespillere o.l. til å\nfinne liknende innhold til det du allerede har sett på.\n\nFor Telenors behandling av personopplysninger, [se\npersonvernerklæringen.](https://www.telenor.no/om/personvern/)\n\n  * #### Er anbefalingene basert på alt jeg ser på?\n\nNesten alt. Blar du gjennom kanaler og ser noen sekunder av hvert program, vil\nikke det påvirke din profil. Erotiske leiefilmer er i tillegg unntatt fra\nanbefalingsmotoren.\n\n  * #### Kan jeg fjerne informasjon om hva jeg har sett på?\n\nJa. I [profil-menyen](/kundeservice/tv/brukerveiledning-t-we/profiler/) kan du\nnullstille hver enkelt profil. Dette gjør at profilen starter på bar bakke med\ntanke på anbefalinger.\n\nDu kan også [slette søkehistorikken](/kundeservice/tv/brukerveiledning-t-\nwe/sok/) for din profil, men dette påvirker kun søk og ikke selve\nanbefalingene du får.\n\n  * #### Kan jeg skru av personlige anbefalinger?\n\nJa, det kan du. Slik gjør du det:\n\n    1. Slå på TV og dekoder\n\n    2. Trykk på **Menu**\n\n    3. Under **Min T-We** trykk på **Reservasjon**\n\n    4. Trykk på **Send SMS**\n\n    5. Tast inn koden mottatt på SMS\n\nHvis du velger bort personlige anbefalinger vil du likevel motta anbefalinger\nfra vår redaksjon. Du kan når som helst ombestemme deg og slå de personlige\nanbefalingene på igjen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:57+00:00",
+        "last_modified": "2025-05-30T09:32:35.620522",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

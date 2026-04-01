@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1356,
+                "heading": "APN Settings for Modems and Devices",
+                "start": 177,
+                "text": "## Mokkuloiden ja päätelaitteiden APN-asetukset\n\n### Julkinen IP ja NAT-osoitteenmuutos\n\nDNA on vaihtanut APN-asetuksiaan kuluttajapuolella joulukuussa 2016. Kaikki\nuudet liittymät ja näin ollen Mokkulat toimitetaan APN-oletusasetuksiltaan NAT\nosoitteenmuutoksella verkon puolelta. Jos käyttäjä kuitenkin kokee\ntarvitsevansa julkista IP:tä verkon puolelta, tämä onnistuu helposti\nvaihtamalla päätelaitteen APN asetuksia. Julkista IP:tä voidaan tarvita\nesimerkiksi kotiserverin, peliserverin tai turvakameroiden kanssa.\n\nOletuksena joulukuusta 2016 lähtien päällä oleva NAT-osoitemuutoksellinen APN-\nosoite on:  \n  \n**internet**  \n  \nSaadakseen julkisen IP:n käyttäjän on vaihdettava verkkolaitteeseensa\n(Mokkula, mobiilireititin,  \nSIM-kortillinen kamera, reititin jne.) seuraava APN-osoite:  \n  \n**julkinen.dna.fi**  \n  \nJos liittymä on hankittu ennen joulukuuta 2016, sillä voi olla alla oleva APN-\nosoite, mikä  \ntuottaa edelleen julkisen IP:n:  \n  \n**data.dna.fi**  \n  \n**HUOM!** **data.dna.fi** on aina suositeltu APN kun mokkulassa on\nyritysliittymä. Sekä kuluttajaliittymissä,  \nkun liittymä on hankittu ennen joulukuuta 2016.  \n  \n**HUOM! Muutos ei koske yritysliittymiä."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:03+00:00",
+        "last_modified": "2025-06-20T18:50:57.219727",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

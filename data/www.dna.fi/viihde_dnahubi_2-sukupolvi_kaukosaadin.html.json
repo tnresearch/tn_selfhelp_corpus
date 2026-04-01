@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/viihde_dnahubi_2-sukupolvi_kaukosaadin.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 301,
+                "end": 4500,
+                "text": "# DNA Bluetooth kaukosäätimen tuki\n\n## Käyttöohjeet ja vinkit\n\nDNA viihdeboksin (Hubi 2.0) ja kaiuttimellisen DNA viihdeboksin mukana tulee\nBluetooth-kaukosäädin, jonka avulla löydät ohjelmasuositukset ja omat\nsuosikkisi helposti myös äänihaulla. Bluetooth-yhteyden ansiosta voit pitää\nDNA viihdeboksin (Hubi 2.0) vaikka TV-tasosi uumenissa, sillä kaukosäädin\ntoimii myös ilman suoraa yhteyttä laitteelle.\n\n#### Video: DNA Bluetooth Kaukosäädin\n\nKatso selkeät ohjeet, miten otat viihdeboksiin kuuluvan Bluetooth\nkaukosäätimen käyttöön.\n\nKatso video\n\n## Kaukosäätimen lataaminen\n\nLataa kaukosäädin pakkauksen mukana tulleella USB-C-johdolla.\n\n  * DNA Bluetooth kaukosäädin on hyvä ladata heti ennen viihdeboksin käyttöönottoa. Kaukosäädintä voi käyttää normaalisti samalla, kun se latautuu. \n    * Suosittelemme kaukosäätimen lataamiseen pakkauksen mukana tullutta USB-C johtoa. Erityisesti käyttöönoton yhteydessä muun tehokkaamaan johdon käyttäminen voi aiheuttaa ongelmia kaukosäätimen käytössä. Löydät vinkkejä ongelmatilanteisiin alempaa tältä sivulta. \n  * Latauksen jälkeen kaukosäätimen akku kestää n. kuukauden normaalilla käytössä.\n\nAkun tilan voit tarkistaa valitsemalla:\n\nAndroid-kotivalikko\n\nAsetukset ⚙ (ratas-ikoni oikeassa yläkulmassa)\n\nKaukosäätimet ja lisävarusteet (Vanhemmissa Android TV -versiossa: Etälaitteet\nja lisävarusteet)\n\nHubiBT\n\nAkku\n\n## Käyttöönotto\n\nKun näet TV-ruudulla seuraavan kuvan, herätä kaukosäädin painamalla\nkeskinappia ja virtanappia yhtä aikaa 3 sekuntia.  \nSen jälkeen paina keskinappia ja DNA-nappia yhtä aikaa 3 sekuntia.\n\nTämän jälkeen kaukosäädin on valmiina käytettäväksi.  \n\n## Äänihaku\n\nPaina DNA Bluetooth kaukosäätimen äänihaku-painiketta. Sano ääneen hakemasi\nohjelman nimi tai esimerkiksi näyttelijän nimi. Näet hakemasi sanan ruudun\nvasemmassa alakulmassa ja hakutuloksen ruudulla.\n\n**Kun haluat hakea DNA TV -palvelun sisällä:**\n\nValitse **DNA TV Menu**\n\nSkrollaa Menun yläosaan\n\nValitse suurennuslasi 🔍\n\nHae puhumalla, eli sano ääneen hakemasi ohjelman nimi tai esimerkiksi\nnäyttelijän nimi. Näet hakutuloksen ruudulla.\n\n## Painikkeet\n\n## Vinkit ongelmatilanteisiin\n\nOngelma | Ratkaisu | Hyvä huomioida  \n---|---|---  \nKaukosäätimen DNA-nappia painaessa painikkeen taustavalo vilkkuu | Lataa\nkaukosäädin |  \nDNA nappi vilkkuu vihreänä | Kaukosäätimen akkua on jäljellä n. 20-30%. Lataa\nkaukosäädin.  |  \nDNA nappi vilkkuu oranssina | Kaukosäätimen akkua on jäljellä n. 10-20%. Lataa\nkaukosäädin. |  \nKaukosäätimessä ei pala käyttöönoton yhteydessä mikään valo | Lataa\nkaukosäädin. |\n\nJos kaukosäädin on ladattu ja mikään valo ei pala, herätä kaukosäädin.\n\nPaina kaukosäätimen keski- sekä virtapainiketta samanaikaisesti pohjaan 3\nsekunnin ajan.  \n  \nTV ei tottele kaukosäätimen komentoja.  \nKaukosäätimen valot eivät pala.  |\n\nLataa kaukosäädin.\n\n|\n\nHerätä kaukosäädin.\n\nJos kaukosäätimen herättäminen ei auta, resetoi kaukosäädin:\n\n  * Paina terävällä esineellä (esimerkiksi kynän päällä) kaukosäätimen reset-painike pohjaan. Se löytyy kaukosäätimen vasemmasta alakulmasta. \n\n  \nTV ei tottele kaukosäätimen komentoja.  \nKaukosäätimen valot palavat kuitenkin  \nnormaalisti. | Parita kaukosäädin uudestaan ja tarvittaessa käynnistä DNA\nHubi-laite uudestaan. |\n\nPaina DNA-nappi ja play/pause -  \nnappi pohjaan samanaikaisesti 3 sekunnin ajan.\n\nYhdistä kaukosäädin vielä lisäksi  \nBluetooth-tilaan painamalla kaukosäätimen äänihaku-painiketta.  \n  \nKaukosäätimen nappeja painamalla niihin syttyy valo, mutta kaukosäädintä\nliikuttaessa niihin ei syty valo. |\n\nResetoi kaukosäädin:\n\n  * Paina terävällä esineellä (esimerkiksi kynän päällä) kaukosäätimen reset-painike pohjaan. Se löytyy kaukosäätimen vasemmasta alakulmasta.   \n\n|\n\nVoit resetoida kaukosäätimen myös näin:\n\n  * Paina samanaikaisesti kaukosäätimen kanavien selaus alaspäin ja keskipainike alaspäin 3 sekunnin ajan.\n  * Sen jälkeen paina 9, 7 ja 7. Kaukosäädin nollautuu. \n  * Paina tämän jälkeen kaukosäätimen keski- ja play/pause -painike samanaikaisesti pohjaan 3 sekunnin ajan.\n  * Sitten kaukosäätimen äänihaku-painikkeen painallus, jolloin ruudun alareunaan tulee ilmoitus \"Yhdistä Bluetooth-kaukosäädin\". Valitse \"Yhdistä\" ja etene ruudussa näkyvien ohjeiden mukaan.\n\n  \n  \n",
+                "heading": "DNA Bluetooth kaukosäätimen tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:09+00:00",
+        "last_modified": "2025-06-20T19:24:28.750412",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

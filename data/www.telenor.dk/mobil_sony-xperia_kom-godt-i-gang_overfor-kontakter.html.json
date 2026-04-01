@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_sony-xperia_kom-godt-i-gang_overfor-kontakter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 682,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Overfør kontakter og data\n\nFølg guiden herunder for at importere kontakter til din Sony Xperia. Men er du\ndet mindste i tvivl om, hvordan du får alle dine kontakter, billeder og fx\ne-mails overført til din nye mobil, så kig ned i din Telenor-butik.\n\n[Find butik](/find-butik/ \"Find butik\")\n\n  * ## Start\n\nTryk på programknappen.\n\n  * ## Find Kontakter\n\nTryk på Kontakter.\n\n  * ## Gå videre\n\nKlik på de tre prikker i nederste højre hjørne.\n\n  * ## Importér\n\nTryk på \"Importér kontakter\".\n\n  * ## Vælg import\n\nVælg om du vil importere kontakter fra: ”simkort”,” internt lager”, \"SD-kort\"\neller ”USB-lager” og følg anvisningerne på skærmen.\n\n  * ## Slut\n\nNu er kontakterne flyttet.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:03+00:00",
+        "last_modified": "2025-05-21T15:16:03.203019",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

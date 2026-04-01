@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_opsatning_hvordan-far-jeg-hemmeligt-nummer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1430,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Hvordan får jeg hemmeligt nummer?\n\nPå [Mit Telenor](/mit-telenor/login/) har du mulighed for at udelade dit\ntelefonnummer eller gøre dit telefonnummer hemmeligt. Vær opmærksom på, at det\nkan tage op til 24 timer, før ændringen træder i kraft.\n\n**Hemmeligt nummer betyder:**\n\n  * Ingen kan finde dit nummer på nummeroplysningstjenester, som fx krak.dk eller dgs.dk - dog vil dit navn og din adresse stadig optræde på disse tjenester, hvis du har hemmeligt nummer\n\n**Udeladt nummer betyder:**\n\n  * Nummeroplysningstjenester, som fx krak.dk eller dgs.dk, viser ikke noget – hverken dit nummer, dit navn eller din adresse\n\n[Tilmeld udeladt nummer på Mit Telenor.](/mit-telenor/selvbetjening/)\n\n## **Skjul dit nummer midlertidigt**\n\nDu har disse muligheder for at skjule dit nummer, når du ringer til andre:\n\n  * **Mobil:** Du har mulighed for at skjule dit nummer for det enkelte opkald ved at taste **#31#** efterfulgt af det telefonnummer, som du vil ringe til\n  * Du kan også skjule dit nummer ved udgående opkald via dine indstillinger på din mobiltelefon  \n **Permanent skjult nummer:**\n\nPermanent skjult nummer betyder, at modtageren af dit opkald ikke kan se dit\nnummer - det vises altså som hemmeligt eller udeladt nummer. Denne tjeneste\nhedder \"Skjult Nummer\" og kan tilvælges ved at kontakte kundeservice på 72 100\n100.\n\n**Læs også:**  \n[Chikaneopkald](/kundeservice/Mobilabonnementer-og-\nservices/tryghed/chikaneopkald/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:44+00:00",
+        "last_modified": "2025-05-21T15:15:29.860428",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

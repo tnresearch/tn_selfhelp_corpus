@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobilt-bredband_router-och-modem_huawei_andra-apn.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 356,
+                "end": 819,
+                "text": "# Ändra APN\n\n  * ### Logga in i routerns gränssnitt\n\nDet gör du genom att skriva in adressen 192.168.8.1 i en webbläsare och sedan\nfylla i ditt wifi-lösenord.\n\n  * ### Välj Nätverksinställningar\n\n  * ### Välj Internetanslutning\n\n  * ### Välj plussymbolen\n\n  * ### Fyll i profilinställningar\n\nProfilnamn och användarnamn måste du fylla i, lösenord är valfritt. Vill du\nange ett lösenord ska det vara minst åtta tecken.\n\n  * ### Ange APN\n\nFyll i internet.telenor.se"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:24+00:00",
+        "last_modified": "2025-05-30T14:20:27.640390",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

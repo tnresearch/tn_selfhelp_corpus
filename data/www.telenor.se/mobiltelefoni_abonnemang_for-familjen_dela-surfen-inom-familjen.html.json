@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_for-familjen_dela-surfen-inom-familjen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 354,
+                "end": 1073,
+                "text": "#  Dela surfen inom familjen\n\nSurfar några i familjen mer än andra? Då kan du fördela surfen genom att sätta\nsurfgränser, så att alla får så mycket de behöver.\n\nDu som har [medlemsprofilen Ägare](/support/mobiltelefoni/abonnemang/for-\nfamiljen/medlemsprofiler/) i Telenor Familj (det vill säga du som står som\nbetalningsansvarig för abonnemanget) kan fördela surfen mellan de andra\nmedlemmarna genom att **sätta surfgränser –** även om ni delar på obegränsad\nsurf.  \n  \nDu sätter surfgränser i Mitt Telenor – antingen här [på webben](/mitt-\ntelenor/) eller i [vår app](/archive/2019/mitt-telenor-old/).\n\n  \n[Läs mer om medlemsprofiler i Telenor\nFamilj](/support/mobiltelefoni/abonnemang/for-familjen/medlemsprofiler/)\n\n",
+                "heading": " Dela surfen inom familjen"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:19:39+00:00",
+        "last_modified": "2025-05-30T14:23:58.914486",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

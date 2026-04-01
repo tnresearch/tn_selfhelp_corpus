@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_via-fiber_felsokning_problem-med-hastigheten.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 350,
+                "end": 2329,
+                "text": "# Problem med hastigheten\n\nOm du har **startat om routern** och kollat eventuella\n[driftstörningar](/support/driftinformation/driftstorningar-pa-tv--och-\nbredbandsnatet/) men fortfarande upplever att din surf är långsam, kan du\nprova följande.\n\n  * ### Kontrollera hastigheten\n\nBörja med att kolla din surfhastighet på\n[Bredbandskollen.se](http://www.bredbandskollen.se). Tänk på att hastigheten\nsom visas är 80-90 % av din faktiska hastighet. Anledningen till detta är att\ndet skickas kontrolltrafik för att din anslutning ska fungera ordentligt.\n\n**Tips – innan du använder Bredbandskollen**\n\n1\\. Kolla att den dator du testar med inte har några program eller appar igång\nsom använder internet. Det kan vara till exempel streamingtjänster eller\nnedladdning av filer.\n\n2\\. Stäng tillfälligt av antivirusprogram och brandväggar på den dator du\ntestar med\n\n3\\. Se till att inga andra enheter (datorer, surfplattor, mobiler) är anslutna\ntill din bredbandsuppkoppling när du testar\n\n  * ### Hur mår din dator?\n\nEn äldre dator kan påverka din surfhastighet. Om det går trögt att surfa kan\ndet bero på att datorns operativsystem är gammalt, att drivrutinerna inte är\nuppdaterade eller att datorn har för låg prestanda. För lite ledigt minne\npåverkar också.\n\nDu kan dubbelkolla surfhastigheten med en annan dator för att utesluta\ndatorproblem.\n\n  * ### Har du gjort några förändringar på din dator?\n\nVar din internetuppkoppling snabbare förut? Ibland uppstår problem med\nhastigheten när man installerar nya program på sin dator.\n\n  * ### Operativsystem\n\nSe till att din dator alltid är uppdaterad med det senaste operativsystemet.\nDetta går att ställa in automatiskt.\n\n  * ### Antivirusprogram\n\nHar du ett uppdaterat antivirusprogram på din PC eller anti-malware på din\nMac? Virus och skadeprogram kan försämra prestandan rejält.\n\n  * ### Annan utrustning\n\nAnnan utrustning kan bidra till att din uppkoppling är långsam. Testa att\nkoppla datorn direkt till din router eller fiberuttag."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:09+00:00",
+        "last_modified": "2025-05-30T14:12:40.620562",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

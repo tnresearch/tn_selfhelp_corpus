@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-4g-mf821d_vianrajaus.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 373,
+                "end": 2406,
+                "text": "# DNA Mokkula 4G MF821D\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/vianrajaus)\n\n##  Vianrajaus\n\nTietokone ei löydä mokkulaa\n\nIrroita mokkula ja käynnistä tietokone uudestaan. Kiinnitä mokkula samaan\nporttiin kuin aiemmin. Jos mokkulaa ei vieläkään löydy, kokeile toista USB-\nporttia.  \n  \nIrrota mokkula koneesta ja poista yhteysohjelmat koneelta (Windows\nlisää/poista -toiminto). Käynnistä kone uudelleen. Kytke mokkula ja asenna\nyhteysohjelma uudelleen.\n\nEn saa muodostettua nettiyhteyttä mokkulalla\n\nVarmista, että olet peittoalueella. Jos käytät kiinteää laajakaistaa\nlangattomalla reitittimellä, sulje langaton verkko, kun haluat käyttää\nmobillilaajakaistaa.\n\nYhteys vaihtelee 4G- ja 3G-verkkojen välillä\n\nMokkulan hallintasivustolla (http://192.168.0.1) voit lukita mokkulasi\ntiettyyn verkkoon (voit tehdä tämän vain, kun mokkula ei ole kytketty\ntietokoneeseen):  \n  \nValitse **Asetukset** ja sen jälkeen **Mokkulan asetukset**. Saat seuraavat\nvaihtoehdot: **Vain 4G LTE** ja **Vain 3G**. Kun olet valinnut jonkin näistä,\nnapsauta **Käytä** -painiketta.\n\nJos laajakaistan nopeus ei vaikuta parhaalta mahdolliselta\n\nVoit parantaa nettiyhteyttä sijoittamalla mokkula mahdollisimman lähelle\nikkunaa (käytä tarvittaessa USB-jatkojohtoa) tai käyttämällä ulkoista\nTS9-antennia. Tutustu mokkuloiden lisäantenneihin\n[täällä](https://kauppa4.dna.fi/Lis%C3%A4laitteet-ja-tarvikkeet/c/muut-\nlaitteet?q=%3Arelevance%3AaccessoryType%3ALis%C3%A4antennit).  \n  \nKatso [sivuiltamme](/kuuluvuus-ja-peittoalueet) missä peittoalue on\nparhaimmillaan ja millaisia nopeuksia voit odottaa.\n\n",
+                "heading": "DNA Mokkula 4G MF821D"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:10:53+00:00",
+        "last_modified": "2025-06-20T19:10:27.574776",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_dna-ulkomokkula-4g-wlan-b2368-66_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 409,
+                "end": 1542,
+                "text": "# DNA Ulkomokkula 4G+ WLAN B2368-66\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2368-66/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2368-66/kayttoonotto) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2368-66/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2368-66/vianrajaus)\n\n## Päivitykset\n\nPäivitys tapahtuu hyväksymällä se mokkulan asetussivuilta (web-käyttöliittymä)\njoko automaattisesti tulevan ilmoituksen avulla tai manuaalisesti hakemalla\npäivitys kohdasta **Päivitys > Hae päivitys.**\n\n**B2368-66 on saanut päivityksen 30.11.2020 alkaen:**\n\n  * Päivitys sisältää laitevalmistajan tekemiä tietoturvaparannuksia. ****\n\nUusi sisäyksikön ohjelmistoversio: B2368_V100R001C00SPC197\n\nUusi ulkoyksikön ohjelmistoversio: 11.620.22.37.00\n\n",
+                "heading": "DNA Ulkomokkula 4G+ WLAN B2368-66"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:26+00:00",
+        "last_modified": "2025-06-20T19:13:54.198798",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

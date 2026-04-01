@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_bestall-en-ny-fjarrkontroll.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 439,
+                "text": "# Beställ en ny fjärrkontroll\n\nOm fjärrkontrollen fortfarande inte funkar så kan du beställa en ny. Det\nkostar inget. [Kontakta oss](/support/old-kontakta-oss/) för att beställa en\nny fjärrkontroll. När du beställer den behöver du uppge vilken tv-box du har.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:43+00:00",
+        "last_modified": "2025-05-30T17:39:10.128440",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

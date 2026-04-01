@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_lisalaitteet_kotiasema-dna-mokkula-4g-wlan-s-lle.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 313,
+                "end": 1703,
+                "text": "## Kotiasema DNA Mokkula 4G WLAN S:lle\n\n### Käyttöoppaat\n\n[Kotiaseman pikaopas\n(Suomeksi)](/documents/753910/853450/Kotiasema_pikaopas_25102012.pdf/a235898e-87e7-d2ce-6e4a-375607d85263)\n\n[Kotiaseman käyttöopas\n(englanninkielinen)](/documents/753910/853450/DNA_4g_WLAN_kotiasema_userguide.pdf/ce499dd1-2105-8676-562e-ada93c4e2dae)\n\n[Kotiaseman pikaopas\n(englanninkielinen)](/documents/753910/853450/DNA_4g_WLAN_kotiasema_quickuserguide.pdf/8c49088b-4187-d9d7-36d8-7ca552a30bcc)\n\n### Päivitykset\n\nPäivitystä ei saatavilla\n\n### Tuotekuvaus\n\nKotiasema muuttaa 4G WLAN S Mokkulan täydelliseksi reitittimeksi. Kotiaseman\navulla saat kykettyä Mokkulaan myös perinteiset ethernet-kaapelia käyttävät\nlaitteet. Jos ostat pelkän Kotiaseman, ei sen mukana toimiteta Mokkulaa.\n\nKotiaseman antennit vahvistavat 4G- tai 3G-verkon signaalia.\n\nKotiasemassa on voimakas WLAN-tukiasema, joten sen avulla voit laajentaa WLAN-\nverkon kantamaa asunnossa.\n\n### Valmistajan tuotenimi\n\nSierra Wireless Aircard 762S Hub. Netgear osti Sierra Wirelessin vuonna 2013\n\n### Tekniset ominaisuudet\n\n  * Ei vaadi asennusta\n  * 4G- ja 3G-verkkoa parantavat antennit (SMA liittimet) mukana pakkauksessa\n  * Wi-Fi 802.11 b/g/n tukiasema, joka osaa käyttää samoja asetuksia kuin Mokkulassa (2x2 antenni)\n  * Full UPnP + DLNA support\n  * 16 samanaikaista WLAN käyttäjää\n  * 4 ethernet liitäntää (100/10Mbit/s)\n  * 2 USB liitäntää"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:09:52+00:00",
+        "last_modified": "2025-06-20T19:01:41.541357",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

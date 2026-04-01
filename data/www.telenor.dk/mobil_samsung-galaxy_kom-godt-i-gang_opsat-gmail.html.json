@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_kom-godt-i-gang_opsat-gmail.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 776,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Sæt Gmail op på din mobil\n\nFølg nedenstående guide for at sætte Gmail op på din mobil.\n\n  * ## Tryk på \"E-mail\"\n\n  * ## Konfigurér din mail\n\nIndtast din **E-mail adresse** og **adgangskode  \n  \n**\n\nTryk på \" **Næste** \".\n\n  * ## Vælg synkroniseringsperiode\n\nHer kan du vælge, hvor langt bagud du vil have din mail synkroniseret.\n\n  * ## Vælg synkroniseringsplan og tryk \"næste\"\n\nHer kan du vælge med hvor stort interval dine e-mails skal synkroniseres.\n\nTryk derefter på \" **Næste** \".\n\n  * ## Indtast evt. et kontonavn\n\nDu har mulighed for at indtaste et **Personligt kontonavn** og dit navn.\n\nTryk derefter på \" **Udført** \".\n\n  * ## Find din Gmail under \"E-mail\"\n\nDin Gmail er nu sat op og klar til brug.\n\nDu vil fremover kunne finde den under ”E-mail” i program-menuen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:54+00:00",
+        "last_modified": "2025-05-21T15:15:59.818959",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_funktioner-i-mit-telenor_ekstra-data.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1732,
+                "reason": "Selected by user",
+                "start": 1236,
+                "text": "# Køb ekstra data\n\nEr du løbet tør for data, kan du købe ekstra GB – eller fortsætte med nedsat\nhastighed (64 Kbit).\n\nNår du har brugt din datamængde, får du en sms med et link, hvorfra du kan\nkøbe ekstra data direkte via mobilen. Du kan også købe ekstra data i [Mit\nTelenor](/mit-telenor/abonnement/detaljer/mobil/ekstra-data/). Vælg\n”Abonnementer”, klik på det ønskede abonnement og klik derefter på ”Køb ekstra\ndata”.\n\nBetaling for køb af ekstra data bliver først trukket på din næste regning."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:43+00:00",
+        "last_modified": "2025-05-21T15:15:52.118226",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

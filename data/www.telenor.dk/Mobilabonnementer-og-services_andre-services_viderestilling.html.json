@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_andre-services_viderestilling.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 370,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Viderestilling\n\nNår din mobil er slukket, uden for dækning el.lign, så viderestilles opkald\nautomatisk til din Telefonsvarer. Men du har også mulighed for at stille disse\nopkald videre til et alternativt nummer.  \n  \nDenne viderestilling (betinget viderestilling) koster alm. opkaldsafgift for\ndit abonnement - og du kan selv aktivere og deaktivere en viderestilling."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:14+00:00",
+        "last_modified": "2025-05-21T15:15:26.610353",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

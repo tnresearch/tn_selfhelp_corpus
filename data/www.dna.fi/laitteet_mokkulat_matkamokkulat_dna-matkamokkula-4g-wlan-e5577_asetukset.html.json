@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wlan-e5577_asetukset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 405,
+                "end": 5392,
+                "text": "# DNA Matkamokkula 4G WLAN E5577\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5577/vianrajaus)\n\n##  Asetukset\n\nMatkamokkulan hallintasivu ja asetusten muuttaminen\n\nDNA Matkamokkula 4G WLAN E5577:n ohjelmiston hallintasivulle pääset\nsyöttämällä käytettävän päätelaitteen nettiselaimeen osoitteen\nhttp://dna.mokkula (tai vaihtoehtoisesti 192.168.8.1). Yhteys edellyttää, että\nolet liittynyt matkamokkulan WiFi-verkkoon tai USB-kaapeli on kytketty kiinni\ntietokoneeseen. Hallintasivun oletuskäyttäjätunnus on **admin** ja\noletussalasana **1234**.  \n  \nHallintasivulta voit tehdä mm. seuraavia asioita:\n\n  * Muuttaa WiFi-verkon nimeä, salasanaa ja salaustyyppiä.\n  * Valita yhteystavan.\n  * Lukita matkamokkula 4G- tai 3G-verkkoon tai tietyille taajuuksille.\n\nMokkulan lukitseminen 4G- tai 3G-verkkoon\n\nMatkamokkula on oletuksena lukittu valitsemaan joko 4G- tai 3G-verkko.\nHelpoiten taajuuslukon saa asetettua suoraan laitteen näytöltä polusta Menu ->\nverkkotila. Hallintasivun kautta verkon valita tapahtuu seuraavasti:\n\n  1. Avaa nettiselain.\n  2. Kirjoita selaimen osoiteriville http://dna.mokkula.\n  3. Valitse ylhäältä **Asetukset**.\n  4. Syötä salasanaksi 1234.\n  5. Valitse vasemmalta **Modeemi**.\n  6. Valitse Modeemin alta **Mobiiliverkkoasetukset** ja tästä kohdan **suositustila** vierestä: \n    * 4G tai 3G: Matkamokkula valitsee 4G- tai 3G-verkon oletuksena.\n    * Vain 4G: Jos haluat pakottaa matkamokkulan 4G-verkkoon.\n    * Vain 3G: Jos haluat pakottaa matkamokkulan 3G-verkkoon.\n    * Auto: Matkamokkula valitsee automaattisesti nopeimman saatavilla olevan verkon. Jos 4G- tai 3G-verkkoa ei ole saatavilla, mokkula valitsee 2G-verkon.\n\nSamasta valikosta voi lukita suoraan haluamasi 4G LTE -taajuuden:\n800/1800/2600. DNA suosittelee käyttämään automaattista valintaa ja\ntaajuuslukkoa vain vianetsintää varten tai erityisissä ongelmatilanteissa.\n\nWiFi-verkon nimen ja salasanan muuttaminen\n\n  1. Avaa nettiselain, kun olet yhteydessä matkamokkulaan joko USB:llä tai langattomasti.\n  2. Kirjoita selaimen osoiteriville http://dna.mokkula\n  3. Valitse ylhäältä **Asetukset**.\n  4. Syötä salasanaksi 1234.\n  5. Valitse yläpalkista **Asetukset** ja sen jälkeen vasemmalta **WLAN** ja tästä **WLAN perusasetukset**.\n  6. Kohta **SSID** muuttaa WLAN-verkon nimeä ja kohta **WPA Esijaettu avain** muuttaa WLAN-verkon salasanan. Valitse Näytä Salasana, jos haluat nähdä salasanan kirjaimina. \n  7. Paina lopuksi **Käytä**.\n\n  \nHuom! Jos muutat WiFi-verkon nimeä tai salasanaa, yhteys ei enää toimi niillä\nlaitteilla, jotka on liitetty matkamokkulaan. Jos muutit WiFi-verkon nimeä,\nvalitse laitteelta uusi WiFi-verkko. Jos muutit WiFi-verkon salasanaa, mutta\nWiFi-verkon nimi pysyi samana, valitse ensin laitteelta ”unohda verkko” ja sen\njälkeen yhdistä laite uudestaan Matkamokkulan WiFi-verkkoon.  \n\nMatkamokkulan pakotettu sammutus\n\nMikäli matkamokkula ei vastaa napin painalluksiin millään tavalla, voit\npakottaa sen sammumaan painamalla virtanappia viisi sekuntia tai irrottamalla\nmatkamokkulan akun.\n\nNollaus tehdasasetuksille\n\nAvaa takakansi ja paina terävällä kynänkärjellä **Reset** -nappia. Laske\nhitaasti viiteen ja päästä irti napista.\n\nMatkamokkulan päivittäminen\n\nWeb-käyttöliittymään ja Matkamokkulan ruudulle tulee normaalissa tapauksessa\nautomaattisesti ilmoitus, kun uusi päivitys on ladattavissa.\n\nMokkulan hallintasalasanan muuttaminen\n\nVoit halutessasi muuttaa mokkulan hallintasalasanan. Mikäli unohdat muutetun\nhallintasalasanan, voit resetoida mokkulan tehdasasetuksille.  \n\n  1. Avaa nettiselain, kun olet kytkeytynyt kotimokkulan WiFi-verkkoon.\n  2. Kirjoita osoiteriville http://dna.mokkula tai http://192.168.1.1. \n    * Oletuskäyttäjänimi on **admin** ja oletussalasana on **1234**.\n  3. Valitse ylhäältä **Asetukset**.\n  4. Valitse vasemmalta kohta **Järjestelmä** ja alhaalta tulevasta valikosta **Muuta salasana**. \n    * Nykyinen salasana on **1234**.\n    * **Uusi salasana** : Kirjoita haluamasi salasana.\n    * **Vahvista salasana** : Vahvista haluamasi salasana.\n  5. Paina **Käytä**.\n\nPIN-koodin syöttäminen\n\nMikäli SIM-kortilla on käytössä jokin muu PIN-koodi kuin 1234, pitää PIN-koodi\nsyöttää ensimmäisellä kertaa mokkulan asetuksista.\n\n  1. Avaa nettiselain kun olet kytkeytynyt matkamokkulan WiFi-verkkoon.\n  2. Kirjoita selaimen osoiteriville http://dna.mokkula \n  3. Valitse ylhäältä **Asetukset**.\n  4. Syötä salasanaksi **1234**.\n  5. Matkamokkula kysyy nyt PIN-koodia. Syötä SIM-kortin PIN-koodi ja paina **OK**.\n\n",
+                "heading": "DNA Matkamokkula 4G WLAN E5577"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:37+00:00",
+        "last_modified": "2025-06-20T19:04:24.728228",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

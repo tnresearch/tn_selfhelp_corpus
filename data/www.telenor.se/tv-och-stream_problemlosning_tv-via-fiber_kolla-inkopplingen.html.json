@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-fiber_kolla-inkopplingen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 355,
+                "end": 636,
+                "text": "# Kolla inkopplingen\n\nKolla så att din tv-box är kopplad **direkt** till din tjänstefördelare, ditt\nbredbandsuttag eller din router och inte via någon extra utrustning.  \n  \nOm tv-boxen är inkopplad i en tjänstefördelare, [kolla att den är inkopplad i\nrätt port](/support/portar/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:48+00:00",
+        "last_modified": "2025-05-30T17:38:14.859827",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

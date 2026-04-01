@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/-nettiostaminen_tilaaminen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 213,
+                "end": 4512,
+                "text": "# Tilaaminen\n\nAsioi silloin kun sinulle sopii: netissä, DNA Kaupassa, puhelimessa tai\nchatissa. Autamme mielellämme!\n\n## Tilaa turvallisesti netistä\n\nDNA Nettikaupassa tilatessasi henkilöllisyytesi varmistetaan maksutavasta\nriippuen joko verkkopankkitunnuksin tai Mobiilivarmenteen avulla. Maksaessasi\nluottokortilla maksu tapahtuu aina suojatun SSL-yhteyden kautta.\n\nJos haluat apua valinnassa, tavoitat DNA:n myyjät myös chatista:\n\nmaanantaista perjantaihin 8-21  \nlauantaisin 9-17\n\nAvaa chat\n\n##  Tilauksen muuttaminen\n\nSoita asiakaspalveluun\n\nDNA:n asiakaspalvelu vastaa numerossa 044 144 044. Soittaminen ja jonottaminen\nasiakaspalveluun maksaa normaalin kotimaanpuhelun verran. Ulkomailta\nsoitettaessa puhelu veloitetaan ulkomaan hinnaston mukaisesti. DNA\nlankapuhelinliittymästä soittaminen on maksutonta.\n\nKatso asiakaspalvelun aukioloajat [Yhteystiedot-\nsivulta](https://www.dna.fi/yhteystiedot).\n\n##  Tilauksen peruminen\n\nPeruutusoikeus\n\nSinulla on etämyynnissä oikeus* perua tilaus ilmoittamalla siitä DNA:lle 14\npäivän kuluessa. Etämyynnillä tarkoitetaan joko netissä tai puhelinmyynnissä\ntehtyä tilausta. 14 päivän peruutusaika alkaa tilausvahvistuksen\nvastaanottamisen jälkeen. Tavaran osalta peruutusaika alkaa kuitenkin tavaran\nvastaanottamisesta, jos tuote vastaanotetaan myöhemmin kuin tilausvahvistus.\n\nTuotteen palauttaminen on maksutonta. Lue lisää Palautus ja takuu -sivulta.\n\n*Kuluttajansuojalain 6 luvun 15 §:n mukaan.\n\nPeruutusilmoituksen tekeminen\n\nNopein tapa perua tilaus on soittaa DNA:n asiakaspalveluun: 044 144 044.\nTutustu: [asiakaspalvelun aukioloajat](http://www.dna.fi/yhteystiedot)\n\nPeruutusilmoituksen voi tehdä myös lähettämällä peruutusilmoitus sähköpostitse\nosoitteeseen palvelu@dna.fi tai lähettämällä peruutuslomake postitse\nosoitteella:\n\nDNA Oyj  \nPL 1111  \n01044 DNA\n\nLue tarkemmin mm. DNA:n virhevastuusta, rahapalautuksista ja laitteiden\ntakuusta etämyynnin tilaus- ja toimitusehdoista. Samassa dokumentissa on myös\npalautuslomake:\n\n[Etämyynnin tilaus- ja toimitusehdot\n(pdf)](https://www.dna.fi/documents/753910/853465/DNA_etamyynnin_tilaus-ja-\ntoimitusehdot_palautuslomake.pdf/)\n\n##  Usein kysyttyjä kysymyksiä\n\nTuotetta ei ole saatavilla. Miten voin selvittää tuotteen saatavuuden\nmyymälässä?\n\n  \nDNA Nettikaupassa näet saatavuustilanteen tilatessasi; jos tuotetta ei ole\njuuri sillä hetkellä saatavana, ilmoitamme siitä. Laitteesta riippuen\nkannattaa kokeilla esim. toista väriä tai palata myöhemmin uudelleen sillä\nsaatavuustilanne vaihtelee jatkuvasti.\n\nMiksi tarvitsen pankkitunnukset tilauksen yhteydessä?\n\nTunnistautumalla pankkitunnuksilla tai Mobiilivarmenteella vahvistat\nhenkilöllisyytesi sopimuksen tekemistä varten ja varmistat turvallisen\nasioinnin. Tunnistautuessasi sinulta ei veloiteta mitään.\n\nJos olet valinnut maksutavaksi verkkopankkimaksun, veloitus tapahtuu vasta\nmaksun yhteydessä tai vasta myöhemmin laskulla - riippuen tilauksestasi.\n\nOnko tilaamillani tuotteilla takuu?\n\nLaitteiden takuuaika on aina valmistajakohtainen, mutta puhelimille,\ntableteille ja SIM-kortillisille älykelloille saat ostamaasi laitteeseen\nnormaalia pidemmän 3 vuoden DNA Takuun. DNA:n tarjoama takuun laajennus\npidentää valmistajan antaman tehdastakuun 36 kuukauden mittaiseksi silloin,\nkun valmistajan myöntämä takuu on tätä lyhyempi.\n\nTakuuaika on aina erikseen kerrottu tuotteen tiedoissa.\n\nMiten voin tehdä muutoksia nykyisiin palveluihini?\n\nOma DNA -sovelluksella, chatbotilla ja kirjautumalla DNA.fi -sivuille hoidat\ntärkeimmät asiakkuuteesi liittyvät asiat, silloin kuin sinulle parhaiten\nsopii: maksa laskuja, tutustu palveluihisi ja muokkaa tilauksiasi sekä\nhyödynnä ajankohtaiset asiakasetusi. Lisätietoja [Asiointikanavat-\nsivulla](https://www.dna.fi/asiointikanavat).\n\nVoinko maksaa tuotteen netissä ja noutaa myymälästä?\n\nKyllä, valituilla tuotteilla tämä on mahdollista. Näet nettikaupassa\ntoimitustapavaihtoehtona “Nouto DNA Kaupasta” silloin, kun kyseinen tuote on\ntilattavissa ilmaiseksi netistä ja noudettavissa myymälästä. Saat\ntekstiviestin, kun tuote on noudettavissa.\n\nToistaiseksi Click & Collect on mahdollinen vain silloin, kun maksat tuotteen\nkerralla, yhdessä maksuerässä. Osalle tuotteista myös varaus myymälään on\nmahdollinen – tällöin maksat tilauksen vasta myymälässä. Lue tarkemmat ohjeet\npuhelimen esittelysivulta!\n\n",
+                "heading": "Tilaaminen"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:13:58+00:00",
+        "last_modified": "2025-06-20T13:52:10.825415",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

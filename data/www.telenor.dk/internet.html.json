@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1240,
+                "reason": "Selected by user",
+                "start": 3,
+                "text": "Etablering af internet​\n\nFå overblik over hvordan du selv, eller med hjælp fra en tekniker, får\netableret internet fra Telenor​\n\n](/kundeservice/internet/etablering-af-internet/)\n\n[\n\nKom godt i gang​\n\nFå hjælp til opsætning og aktivering af din router fra Telenor​.\n\n](/kundeservice/internet/kom_godt_i_gang/)\n\n[\n\nHjælp til dit internetprodukt​\n\nFå hjælp til fx WiFi-dækning, hastighed eller mistet forbindelse​.\n\n](/kundeservice/internet/hjaelp-til-dit-internet/)\n\n[\n\nHjælp til dit internetabonnement\n\nFå svar på dine spørgsmål vedrørende dit Telenor-internetabonnement.\n\n](/kundeservice/internet/hjalp-til-dit-internetabonnement/)\n\n[ Gå til hjælpe forside ](/kundeservice/)\n\n##  Ofte stillede spørgsmål\n\n[ Kan jeg selv ændre mit abonnement? ](/kundeservice/internet/hjalp-til-dit-\ninternetabonnement/skift-hastighed-pa-dit-internet/faa-hjaelp-her/)\n\n[ Er der forstyrrelser i driften? ](/kundeservice/drift-og-\ndakning/driftstatus/tjek-driftstatus/)\n\n[ Hvordan undgår jeg ustabilt internet? ](/shop/landingpage/bedre-wifi/)\n\n[ Hvordan tester jeg hastigheden? ](/kundeservice/drift-og-\ndakning/hastighed/hastighedstest/)\n\n[ Kan jeg bruge min egen router på en Telenor-forbindelse?\n](/shop/landingpage/egen-router-pa-telenor-forbindelse/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:27+00:00",
+        "last_modified": "2025-05-21T15:15:39.095293",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

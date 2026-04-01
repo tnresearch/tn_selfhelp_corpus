@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_google-wifi-mesh_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1584,
+                "heading": "Google WiFi Mesh -järjestelmä",
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 385,
+                "text": "# Google WiFi Mesh -järjestelmä\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/google-\nwifi-mesh/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/google-wifi-\nmesh/kayttoonotto) [ Tuki ja ongelmatilanteet\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/google-wifi-mesh/tuki-ja-\nongelmatilanteet)\n\n## Ominaisuudet\n\n  * Tukee kaikkia laitetyyppejä, Ethernet-yhteydellä varustetussa kodissa se toimii suoraan pistorasiasta, muissa yhteystekniikoissa (kaapeli, DSL ja FTTH) tarvitset modeemin.\n  * Asennus ja käyttö iOS- tai Android-sovelluksen avulla (sovellus suomen-, ruotsin- ja englanninkielinen)\n  * Kaksi 1 Gbit/s ethernet-porttia, joista kumpikin voi toimia WAN- tai LAN-liitäntänä\n  * 802.11 a/b/g/n/ac \n  * MU-MIMO-tekniikka 2,4 GHz (2 x 2) & 5 GHz (2 x 2)\n  * Ethernet ja WiFi Backhaul\n  * Quality of Service, Parental Control sekä monipuoliset tilatiedot\n  * Myyntipakkauksessa yksi tukiasema, voit ostaa tukiasemia erikseen ja lisätä ne sovelluksella toimimaan yhteen\n\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:14+00:00",
+        "last_modified": "2025-06-20T15:00:51.589889",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

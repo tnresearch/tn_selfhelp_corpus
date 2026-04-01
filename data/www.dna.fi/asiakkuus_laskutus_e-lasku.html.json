@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/asiakkuus_laskutus_e-lasku.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 198,
+                "end": 1914,
+                "text": "# E-lasku\n\nOta käyttöösi helpompi, sähköinen maksutapa, jolla säästät myös ympäristöä.\n\n  * Voit tarvittaessa muuttaa laskun maksutiliä kätevästi omassa verkkopankissasi.\n  * Laskut säilyvät verkkopankkisi arkistossa.\n  * E-lasku on turvallinen, pankkien kehittämä laskujen vastaanotto- ja maksutapa.\n\n## Vaihda e-laskuun näin\n\nE-laskuun siirryt näppärästi verkkopankissa, vaikka silloin kun seuraavan\nkerran olet maksamassa laskua.\n\n  * **Puhe- ja liikkuva laajakaista -liittymät:** valitse laskuttajaksi \"DNA Oyj\" ja laskutusaiheeksi \"Matkapuhelinliittymät,maksuaika ja TV\". Tunnistetiedoksi tarvitset viimeisimmän laskun viitenumeron.\n  * **DNA:n laajakaista palveluiden** laskujen kohdalla valitse laskuttajaksi \"DNA Oy\" ja laskutusaiheeksi \"Laajakaistaliittymät\". Tunnistetiedoksi tarvitset asiakastunnuksen ja viitenumeron.\n  * Jos laskullasi veloitetaan **DNA Kotipuhelin -tai DNA Kotiluuri-palveluita** , valitse laskuttajaksi \"DNA Oyj\" ja laskutusaiheeksi \"Kotipuhelinliittymät\". Tarvitset myös laskulla näkyvän asiakastunnuksen ja viitenumeron.\n\n  * Voit tarvittaessa muuttaa laskun maksutiliä kätevästi omassa verkkopankissasi.\n  * Laskut säilyvät verkkopankkisi arkistossa.\n  * E-lasku on turvallinen, pankkien kehittämä laskujen vastaanotto- ja maksutapa.\n\n## Siirry tästä omaan verkkopankkiisi\n\n[](https://www.aktia.fi/fi/)\n\n[](http://www.danskebank.fi/fi-\nfi/Henkiloasiakkaat/Pages/henkiloasiakkaat.aspx)\n\n[](http://www.handelsbanken.fi/shb/inet/Icentfi.nsf/vlookupfirstpage/handelsbankenfi)\n\n[](http://www.nordea.fi/)\n\n[](https://www.omasp.fi/fi)\n\n[](https://www.op.fi/)\n\n[](https://www.poppankki.fi/)\n\n[](http://www.s-pankki.fi/)\n\n[](https://www.saastopankki.fi/)\n\n[](https://www.alandsbanken.fi/)\n\n",
+                "heading": "E-lasku"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:11+00:00",
+        "last_modified": "2025-06-20T13:55:34.501367",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller_t-we-boks-mini_installasjon.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 276,
+                "end": 1054,
+                "text": "# Installering T-We Boks Mini\n\n## Veiledning\n\nNår T-We Boks Mini er koblet til må du utføre en førstegangsinstallasjon. Følg\nveiledningen under for å gjennomføre. Hvis du ikke har koblet opp T-We boksen\ndin ennå, kan du [følge vår veiledning for\noppkobling.](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-\nmini/koble-til/)\n\n## 1\\. Slå på boks og TV\n\nSkru på strømbryteren på baksiden av boksen og slå på TV-en.  \nBoksen vil nå gå gjennom en oppstartsprosedyre og snart vil velkomstbildet\nvises.\n\n## 2\\. Velkomstbilde\n\nHvis du ikke kan se velkomstbilde, må du sjekke at du har valgt riktig\nsignalinngang på TV-en.\n\n**Kildevalg på fjernkontroll** kan variere fra TV-leverandør til TV-\nleverandør. Knappen ser som oftest ut som en av disse.\n\n## 3\\. Automatisk installasjon"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:43+00:00",
+        "last_modified": "2025-05-30T09:37:51.572513",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_wifi-ruter-2.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 187,
+                "end": 3495,
+                "text": "# Hjelp til WiFi Ruter II\n\nHer finner du informasjon om din WiFi Ruter II, samt veiledninger og hjelp til\noppkobling.\n\nHar du vår første versjon av WiFi Ruter, [så finner du hjelp til den\nher.](/kundeservice/internett/modem-og-ruter/wifi-ruter/)\n\n## Om WiFi Ruter II\n\n[Vår nye WiFi Ruter II](/privat/internett/wifi-utstyr/) er svært kraftig og\nhar den nyeste WiFi-teknologien (WiFi 6E) på plass for å dekke alle dine\nnettverksbehov. Den er enkel å sette opp, og gir super dekning og fart i\nhjemmet ditt.\n\nDen fungerer like bra med alle våre internettaksesser, uansett om du har\nbredbånd over fiber, kabel eller Trådløst Bredbånd.\n\nMed den nyeste sikkerhetskrypteringen WPA3 og Smart WiFi sørger ruteren for at\ndu får en stabil og sikker internettforbindelse. Smart WiFi er en funksjon som\nautomatisk velger det beste nettet for deg og dine mange enheter, uansett om\ndette er over 2,4GHz, 5GHz eller 6GHz.\n\nHar du stor bolig eller vanskelige dekningsforhold kan du bygge ut med en\neller flere WiFi forsterkere til et mesh-nettverk, som gir god dekning i hele\nboligen. [Les mer om WiFi Forsterker II...](/kundeservice/internett/modem-og-\nruter/wifi-forsterker-2/)\n\n### Slik kobler du opp din WiFi Ruter II\n\nHer finner du veiledninger og video for oppkobling av ruteren.\n\n[Koble opp ruter ➜](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/koble-\ntil/)\n\n## Detaljer om WiFi Ruter II\n\n  * #### Hva betyr lampene på WiFi Ruter II?\n\n **Nederste Lampe:**\n\n    * Stabil hvit farge = Tilkoblet strøm\n\n    * Blinker hvit = Starter opp\n\n    * Blinker grønn = WPS pågår\n\n* * *\n\n **Øverste Lampe:**\n\n    * Stabilt grønn = Tilkoblet\n\n    * Blinker gul = Henter IP-adresse\n\n    * Blinker rød = Tilkoblet, men venter på konfigurasjon\n\n    * Mørk = Ikke tilkoblet\n\n* * *\n\n    * Begge lamper blinker gult = Programvareoppdatering pågår\n\n  * #### Glemt passord til WiFi?\n\nSend SMS med kodeord **WIFI XXXXXXXX til 2000** for å få tilsendt\nnettverksnavn og passord til ruteren.\n\nDu finner serienummeret og instrukser på hvordan du sender SMS på\nklistremerket på undersiden av ruteren.\n\n  * #### Detaljer om ruteren\n\n **Mål:**  \nHøyde: 230 mm. Bredde: 165 mm. Dybde: 69 mm.\n\n **WiFi 6E-standard:**  \nTri-band med tre radioer, 2,4, 5 og 6 GHz med 2x2/4x4/3x3 intern\nantennekonfigurasjon  \nBakoverkompatibel med eldre standarder (802.11a/b/g/ac)  \n7,8 Gbps WiFi båndbredde (AX7800)\n\n **Standard kryptering:  \n** WPA2- og WPA3-kryptering\n\n **Ethernet-porter:**  \nEn 2,5 Gbps WAN-port, en 2,5 Gbps LAN-port og 3 stk. 1 Gbps LAN-port\n\n## Plassering av WiFi Ruter II\n\nDet kan være en utfordring å finne ut av hvor du bør plassere både ruter og\nforsterker i huset ditt. Vi har laget en video som kan hjelpe deg godt på vei:\n\n## Endre innstillinger på din ruter?\n\nØnsker du å endre innstillingene på ruteren din, som å endre nettverksnavn\neller passord? Det kan du gjøre ved å logge deg inn på Mitt WiFi, på\n<https://wifi.telenor.no/>.\n\nFor å logge deg på, må du være tilkoblet ditt hjemmenett, og du logger deg inn\nmed admin-passordet som du finner på klistrelappen under din WiFi Ruter II.\n\nTrenger du mer hjelp eller veiledning til å endre innstillinger på din ruter?\nVi har laget en egen side med mer info, den finner du ved å trykke på knappen\nunder.\n\n[Gå til Ruterinnstillinger](/kundeservice/internett/wifi/administrere-ruter/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:06+00:00",
+        "last_modified": "2025-05-30T08:54:57.632764",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

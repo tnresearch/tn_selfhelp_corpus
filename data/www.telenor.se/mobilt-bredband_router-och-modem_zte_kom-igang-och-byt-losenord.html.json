@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobilt-bredband_router-och-modem_zte_kom-igang-och-byt-losenord.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 373,
+                "end": 1320,
+                "text": "#  Kom igång och byt lösenord\n\nInnan du börjar använda din nya ZTE-router är det viktigt att du byter\nlösenord. Följ bara den här guiden så är du klar på några minuter.\n\nBörja med att hitta WiFi-anslutningen för din router. WiFi-namnet finns på\nrouterns display.\n\n  1. Öppna webbläsaren och skriv in http://192.168.10.1 i adressfältet. Logga in med \"admin\" som lösenord.\n  2. Byt lösenord till mobila bredbandet. Detta gör du under \"Inställningar\" > \"Enhetsinställningar\" > \"Kontohantering\"\n  3. Byt lösenord till ditt WiFi. Detta gör du under \"Inställningar\" > \"WiFi-inställningar\" > \"WLAN\". Tips! Här kan du även byta WiFi-namn/nätverksnamn (SSID) om du vill.\n  4. Finns en uppgradering tillgänglig, är det viktigt att den hämtas och installeras. I så fall kommer en informationsruta att visas när du loggar in.\n\nOm du av någon anledning har återställt enheten genom att trycka på reset-\nknappen, är det viktigt att upprepa punkt 1 och 2 igen.\n\n",
+                "heading": " Kom igång och byt lösenord"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:02+00:00",
+        "last_modified": "2025-05-30T14:21:29.431432",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

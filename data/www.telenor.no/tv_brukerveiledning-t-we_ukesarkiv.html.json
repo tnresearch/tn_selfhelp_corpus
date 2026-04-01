@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_ukesarkiv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 177,
+                "end": 1150,
+                "text": "# Ukesarkiv\n\nGikk du glipp av et program på TV? Finn frem til programmet eller bla deg\ngjennom alt innhold som er tilgjengelig i ukesarkivet. Her hjelper vi deg med\nå finne frem.\n\nUkesarkiv i TV-guide:Programmer som har ukesarkivrettigheter vil være markert\nmed en blå ramme. Du kan også bla deg bakover i TV-guiden ved hjelp av\npiltastene på fjernkontrollen for å se programmer som er ferdig sendt på TV.\nDa vil fargen på rammen bytte mellom blå og grå avhengig av om det er\nukesarkivrettigheter eller ikke.\n\n## Ligger dette programmet i ukesarkivet?\n\nUkesarkiv er tilgjengelig for enkelte programmer og kanaler inntil syv dager\ntilbake i tid. Disse programmene er uthevet med en blå ramme i TV-guiden.\nDersom programmet ikke er tilgjengelig i ukesarkivet på grunn av rettigheter,\nblir dette markert med grå ramme.\n\nUkesarkiv for kanaler finner du ved å bla bakover i [TV-guiden eller fra\nkanalbanneret](/kundeservice/tv/brukerveiledning-t-we/tv-guide/) når du ser på\nTV.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:20+00:00",
+        "last_modified": "2025-05-30T09:36:04.169321",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_ulkomokkula-5g-h312_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 387,
+                "end": 5028,
+                "text": "# DNA Ulkomokkula 5G H312\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n[ Ominaisuudet\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/ominaisuudet)\n[ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/kayttoonotto)\n[ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/ulkomokkula-5g-h312/vianrajaus)\n\n## Käyttöönotto\n\n## Ulkomokkulan asennus\n\nUlkomokkula 5G H312 on yhteensopiva Nano-SIM-kortin kanssa. Aloita asennus\ntyöntämällä kortti ulkomokkulan pohjassa olevaan korttipaikkaan. Varmista,\nettä asetat kortin oheisen esimerkkikuvan mukaisessa asennossa.\n\nKiinnitä Ethernet-lattakaapeli SIM-korttipaikan vieressä olevaan\nverkkoliitäntään. Kaapelin suojalevyä ei tarvitse vielä tässä vaiheessa\nkiristää kiinni Ulkomokkulaan.\n\nKiinnitä Ethernet-lattakaapelin vapaaksi jäänyt pää virtalähteen ”WAN &\nPOWER”-liitäntään. Kiinnitä virtalähteeseen myös virtajohto ja yhdistä se\npistorasiaan.\n\nKäynnistä virtalähde virtajohdon vieressä olevasta painikkeesta. Ulkomokkula\nkäynnistyy automattisesti ja etsii käytettävissä olevia 5G- ja\n4G-mobiiliverkkoja.  \n  \nOnnistuneen yhteyden merkkinä Ulkomokkulan kyljessä olevan 5G-/4G-signaalin\nmerkkivalon tulisi pysyä tasaisesti päällä. Sen vieressä oleva toinen\nmerkkivalo kertoo puolestaan signaalin vahvuuden: vihreä (vahva), keltainen\n(kohtalainen) tai punainen (heikko).\n\n## Ulkomokkulan sijainnin määritys\n\nUlkomokkula 5G H312:n sijainti on suositeltavaa valita signaalin vahvuuden\nmukaan. Vahvuuden määrittely onnistuu sujuvasti puhelimen tai tietokoneen\navulla.\n\n##  Signaalin vahvuuden testaaminen\n\nAndroid-puhelimella\n\n1\\. Skannaa puhelimellasi Ulkomokkulan nimilaatassa oleva QR-koodi ja asenna\nHuawei AI Life sovellus.\n\n2\\. Avaa sovellus, skannaa jälleen nimilaatan QR-koodi ja yhdistä Ulkomokkulan\nWiFiin.\n\n3\\. Mittaa signaalin vahvuutta sovelluksen antamien ohjeiden mukaisesti ja\netsi optimaalisin sijainti.\n\nUlkomokkulan kiinnitys on mahdollista joko seinään tai tolppaan, niin että se\nsijoittuu ukkosenjohdattimen suojauskulman (45 astetta) alle.\n\niPhonella tai tietokoneella\n\n1\\. Etsi Ulkomokkulan WiFi ja yhdistä. Salasanan löydät Ulkomokkulan\nnimilaatasta.\n\nMikäli käytät tietokonetta, voit vaihtoehtoisesti yhdistää sen Ulkomokkulaan\nerillisen sisäreitittimen avulla. Liitä tietokoneesi Ethernet-kaapelilla\nreitittimen LAN-liitäntään, sekä Ulkomokkulan virtalähteen LAN-liitäntä\ntoisella Ethernet-kaapelilla reitittimen WAN-liitäntään.\n\n2\\. Avaa nettiselain ja kirjaudu sisään Ulkomokkulan hallintasivulle. Löydät\nselaimen osoiteriville syöttettävän IP-osoitteen, sekä tarvittavan salasanan\nUlkomokkulan nimilaatasta.\n\n3\\. Vaihda WiFin nimi, salasana ja kirjautumissalasana suositusten mukaisiksi.\nVaihdokset tehtyäsi kirjaudu uudestaan sisään Ulkomokkulan WiFiin.\n\n4\\. Kirjaudu nettiselaimella Ulkomokkulan hallintasivulle uudella\nsalasanallasi. Valitse aloitussivulla **Tarkista sijainnin signaali (Check\nlocation signal)**.\n\n5\\. Mittaa signaalin vahvuutta sovelluksen antamien ohjeiden mukaisesti ja\netsi optimaalisin sijainti.\n\nUlkomokkulan kiinnitys on mahdollista joko seinään tai tolppaan, niin että se\nsijoittuu ukkosenjohdattimen suojauskulman (45 astetta) alle.\n\n## Ulkomokkulan kiinnittäminen\n\nUlkomokkula 5G H312:n kiinnitys onnistuu joko seinään tai tolppaan.\n\nUlkomokkulan tulee olla pystysuorassa asennossa, jotta se pysyy suojattuna\nvesivaurioilta.\n\nEthernet-lattakaapeli tulee kiinnittää Ulkomokkulaan niin, että sen alin kohta\nroikkuu hieman matalammalla kuin läpimeno, josta kaapeli kulkee sisätiloihin.\nNäin vettä ei pääse valumaan kaapelia pitkin Ulkomokkulaan, tai kodin sisään.\n\n## Ethernet-lattakaapelin läpivienti\n\nEthernet-lattakaapelin läpivienti ulkotiloista sisälle onnistuu joko\nikkunakehysten raosta, tai poraamalla seinään reikä. Mikäli vedät kaapelin\nikkunan kautta, varmista että ikkunankehystä suojaa pehmeä kumilista. Sulje\nikkuna varovasti, jotta kaapeli ei vaurioidu liiasta paineesta.\n\n## Ulkomokkulan yhdistäminen WiFi-reitittimeen\n\nViimeistele käyttöönotto yhdistämällä Ulkomokkula sisätiloissa olevaan WiFi-\nreitittimeesi. Kiinnitä ensin läpivetämäsi Ulkomokkulan Ethernet-lattakaapeli\nvirtalähteen WAN & POWER -liitäntään. Tämän jälkeen yhdistä erillinen\nEthernet-lattakaapeli virtalähteen LAN-liitännästä reitittimesi WAN-\nliitäntään.\n\nKun Ulkomokkula on yhdistetty nettiin, kiristä kaapelin suojakansi kiinni\nmokkulan pohjaan.\n\nNyt voit yhdistää laitteet nettiin reitittimen kautta joko langattomasti\nWiFillä, tai verkkokaapelin avulla.\n\n",
+                "heading": "DNA Ulkomokkula 5G H312"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:21+00:00",
+        "last_modified": "2025-06-20T19:14:47.514744",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

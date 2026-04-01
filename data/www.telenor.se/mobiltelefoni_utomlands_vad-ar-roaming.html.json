@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_utomlands_vad-ar-roaming.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 342,
+                "end": 2951,
+                "text": "# Vad är roaming?\n\nRoaming kommer från det engelska ordet för vandring. Och det är just vad det\nhandlar om – att vandra runt mellan olika nät.\n\n## Känn dig som hemma i 39 länder!\n\nSommaren 2017 infördes EU-regleringen ”Roam like at home”. Den innebär att vi\nkan ringa, surfa, sms:a och mms:a precis som hemma – alltså utan extra kostnad\n– inom **hela EU/EES**. Det enda man behöver tänka på är att [aktivera data-\nroaming ](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/aktivera-inaktivera-roaming/).\n\nDu som har mobilabonnemang från Telenor surfar dessutom som hemma i **USA,\nTurkiet, Andorra, Schweiz, Serbien, Storbritannien (inkl. Gibraltar),\nMontenegro, Thailand, Malaysia** och **Myanmar.**\n\n## Roaming i övriga länder  \n\nAtt surfa utomlands har länge förknippats med höga och oförutsedda kostnader.\nOch visst är det dyrt att använda roaming i vissa länder.  \n  \nSå för att skydda dig från obehagliga överraskningar har vi:\n\n  * **spärrat surfen** i de länder och satellitnät där roaming är som dyrast. _  \n_\n\n  * lagt en **automatisk surfspärr** på ditt abonnemang. Det betyder att om du surfar utomlands för 625 kr under samma månad, spärrar vi dig från att surfa vidare. Läs mer om [hur saldospärr för surf fungerar](/support/mobiltelefoni/utomlands/innan-och-under-resan/innan-resan/automatisk-saldosparr-for-surf/), och om hur du tar bort spärren om du vill. \n  * tagit fram **[Surfpaket](/support/mobiltelefoni/utomlands/innan-och-under-resan/innan-resan/surfpaket-fast-pris-for-surfen/)**. Du som köper ett surfpaket betalar ett fast pris för en viss surfmängd som du kan utnyttja i två veckor. \n\nVäljer du att inte beställa ett surfpaket men ändå använder data-roaming i\nlandet betalar du för ett Surfpass, vilket är en viss mängd surf per dag.\nPriserna för Surfpass hittar du genom att [söka upp landet här](/roaming/),\neller genom att [få utlandspriser som\nsms](/support/mobiltelefoni/utomlands/innan-och-under-resan/innan-resan/fa-\nutlandspriser-som-sms/).  \n  \n\n[Se utlandspriser](/roaming/)\n\n[Läs mer om Surfpaket](/support/mobiltelefoni/utomlands/innan-och-under-\nresan/innan-resan/surfpaket-fast-pris-for-surfen/)\n\n[Aktivera/inaktivera data-roaming på din\nmobil](/support/mobiltelefoni/guider/andra-installningar/valj-mobil/aktivera-\ninaktivera-roaming/)  \n  \n\n[ ](/support/mobiltelefoni/guider/problemlosning-och-\nfelsokning/felsokning/felsokning-surf/)\n\nFelsökning vid problem att surfa\n\n90% av alla problem med surf går att lösa med hjälp av vår felsökningsguide.\n\n[Starta här](/support/mobiltelefoni/guider/problemlosning-och-\nfelsokning/felsokning/felsokning-surf/)\n\n",
+                "heading": "Vad är roaming?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:41+00:00",
+        "last_modified": "2025-05-30T14:53:52.483903",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wifi-mf971rs_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 411,
+                "end": 1996,
+                "text": "# DNA Matkamokkula 4G WiFi MF971RS\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wifi-mf971rs/vianrajaus)\n\n## Päivitykset\n\n#### MF791RS on saanut päivityksen 16.8.2023 alkaen\n\n  * Päivitys sisältää laitteen tietoturvaan liittyviä korjauksia laitevalmistajalta.\n  * Uusi ohjelmistoversio: BD_DNAMF971RSV1.0.1B02 \n\n#### **Vanhemmat päivitykset:**\n\n**14.12.2022**\n\n  * Päivitys sisältää laitteen tietoturvaan liittyviä korjauksia laitevalmistajalta.\n  * Uusi ohjelmistoversio: DNA_FI_MF971RS4V1.0.2B01\n\n**28.2.2022**\n\n  * päivitys sisältää laitteen yleistä toimivuutta parantavia korjauksia laitevalmistajalta\n  * uusi ohjelmistoversio: BD_DNAMF971RSV1.0.0B07\n\n**10.8.2021**\n\n  * Päivitys korjaa bugin jonka myötä mokkulan 5GHz WiFi-verkon salasana ei täsmännyt laitteen infotarrassa lukevaan salasanaan. Päivityksen asentamisen jälkeen mokkula pitää vielä palauttaa tehdasasetuksille painamalla reset-nappulaa 10-15 sekuntia. Tämän jälkeen myös 5GHz wifiverkon salasana täsmää tarrassa lukevan salasanan kanssa. \n  * Uusi ohjelmistoversio: BD_DNAMF971RSV1.0.0B06\n\n",
+                "heading": "DNA Matkamokkula 4G WiFi MF971RS"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:10+00:00",
+        "last_modified": "2025-06-20T19:03:08.995191",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

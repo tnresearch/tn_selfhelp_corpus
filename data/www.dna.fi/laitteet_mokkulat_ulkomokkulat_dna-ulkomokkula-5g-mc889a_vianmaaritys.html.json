@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_dna-ulkomokkula-5g-mc889a_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 395,
+                "end": 1517,
+                "text": "# DNA Ulkomokkula 5G MC889A\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/kayttoonotto) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/vianmaaritys) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-5g-mc889a/asetukset)\n\n##  Vianmääritys\n\nTähän tietokoneeseen/ reitittimeen yhdistetystä asiakaslaitteesta ei voi\nkäyttää Internetiä.\n\n  * Varmista, että nano-SIM-kortti on käytettävissä.\n\n  * Vaihda sijaintia ja etsi paikka, jossa signaali on hyvä.\n\n  * Tarkista LAN-yhteystilan asetukset.\n\n  * Ota yhteys palveluntarjoajaasi ja\n\nvarmista APN-asetukset.\n\n5G CPE -määrityssivulle ei pääse\n\n  * Anna oikea osoite. Oletusosoite on http://192.168.8.1.\n\n  * Käytä tietokoneessa vain yhtä verkkosovitinta.\n\n  * Älä käytä mitään välityspalvelinta.\n\n",
+                "heading": "DNA Ulkomokkula 5G MC889A"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:17+00:00",
+        "last_modified": "2025-06-20T19:14:33.771504",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller_t-we-boks_koble-til.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 263,
+                "end": 958,
+                "text": "# Koble til T-We Boks\n\nHer finner du veiledninger som hjelper deg med å koble T-We Boks til TV-en.\nFinn ut hvordan du setter kablene riktig på plass, installerer T-We menyen og\nkobler deg til Internett.\n\n# Første gang du kobler til TV\n\nVed å følge denne veiledningen får du hjelp med å plassere kablene riktig og\nfullføre installasjonen på TV-skjermen. Installasjon av T-We er også den samme\nom du har nullstilt T-We boksen.\n\n# Har du TV over Fiber?\n\nFor å gi deg riktig hjelp med tilkoblingen må vi først vite hva slags type\nInternett du har sammen med ditt TV-abonnement. **NB!** Det er viktig å bruke\nkablene som følger med T-We boksen for å sikre optimal kvalitet på tv-signal,\nlyd og bilde."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:33+00:00",
+        "last_modified": "2025-05-30T09:38:37.165766",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

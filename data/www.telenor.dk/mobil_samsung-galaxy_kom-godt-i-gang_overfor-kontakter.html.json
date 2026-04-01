@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_kom-godt-i-gang_overfor-kontakter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 834,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Overfør kontakter til din Samsung Galaxy\n\nMobilen viser som udgangspunkt alle kontakter lagret på dit simkort. Du kan\ndog også importere kontakter og lagre dem på mobilen, eller eksportere dem til\nen anden enhed.\n\nFølg guiden herunder for at importere eller eksportere kontakter. Men er du\ndet mindste i tvivl om, hvordan du får alle dine kontakter, billeder og fx\ne-mails overført til din nye mobil, så kig ned i din Telenor-butik.\n\n[Find butik](/find-butik/ \"Find butik\")\n\n  * ## Gå til dine programmer\n\n  * ## Vælg \"Kontakter\"\n\n  * ## Vælg \"Mere\"\n\n  * ## Vælg \"Indstillinger\"\n\n  * ## Vælg \"Importér/eksportér kontakter\"\n\n  * ## Vælg \"Importér\"\n\nVil du gerne eksportere dine kontakter så vælg i stedet \"Eksportér\" og\nderefter, hvor du vil eksportere dine kontakter til.\n\n  * ## Vælg hvor du ønsker at importere dine kontakter fra"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:12+00:00",
+        "last_modified": "2025-05-21T15:16:00.228380",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

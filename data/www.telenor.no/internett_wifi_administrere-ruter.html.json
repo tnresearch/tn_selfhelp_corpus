@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 173,
+                "end": 3593,
+                "text": "# Mitt WiFi - Administrasjon av din ruter\n\nHer finner du informasjon om hvordan du logger deg inn på din ruter for å\nendre innstillinger på ditt trådløse nett\n\n[Gå til wifi.telenor.no](https://wifi.telenor.no)\n\nLogge inn på Mitt WiFi med Telenor ID!\n\nDu kan logge inn på ruterens webgrensesnitt via wifi.telenor.no, og\nadministrere ruteren din fra hvor som helst - Fra kontoret, hytta eller bak i\nen taxi!  \nSå lenge ruteren din er online, kan du få kontakt med hjemmenettet ditt.\n\nInnlogging på din ruter:  Slik ser innloggingsbildet ut\n\n## Slik logger du inn med Telenor ID\n\nDette kan kun utføres av eier av internettabonnementet\n\n  1. Åpne en nettleser og gå til adressen wifi.telenor.no\n\n  2. Trykk på \"Logg inn med Telenor ID\" og følg stegene videre\n\nHvis du har internettabonnement i flere adresser vil du måtte velge hvilken\nadresse det gjelder etter du har logget inn.\n\n[Hjelp til innlogging med Telenor ID](/telenor-id/hjelp-med-innlogging/)\n\n## Slik logger du inn med adminpassordet ditt\n\nSå lenge du er koblet til ditt hjemmenettverk, og har tilgang på\nadministratorpassordet, så kan du gjennomføre denne prosessen\n\n  1. Åpne en nettleser og gå til adressen wifi.telenor.no\n\n  2. Trykk på \"Logg inn med administratorpassordet ditt\"\n\n  3. Skriv inn ditt passord\n\n  4. Hvis du ikke har byttet til selvvalgt passord, skriv inn koden som står under ruteren etter teksten admin: (består av bokstaver og tall) og logg inn. Hvis du har Zyxel P8702N står koden etter teksten WPA2 (består av 13 bokstaver).\n\n  * #### Er det første gangen du logger inn?\n\nFørste gangen du logger inn, må du huke av for at du godtar brukervilkår og\npersonvernerklæring. Når du logger inn med standardpassordet, vil du komme til\ndin konto-side. Her kan du bytte språk, administratorpassord eller gå videre\ntil forsiden.\n\n  * #### Legge inn kontaktnummer og e-postadresse for gjenoppretting\n\nVi trenger ditt mobilnummer eller din e-postadresse for at du skal kunne\ngjenopprette administratorpassordet - om du skulle glemme hva du endret det\ntil.\n\nDette legger du inn under \"Min konto\". Du finner Min Konto oppe til høyre i\nbildet når du er på forsiden.\n\nGlemt admin-passord?\n\nHvis du har byttet ditt admin-passord, vil dette fremdeles gjelde etter en\nnullstilling av ruteren eller hvis du får ny ruter. Har du glemt hva det er,\ner det likevel mulig å endre det.\n\n  1. Åpne en nettleser og gå til adressen wifi.telenor.no\n\n  2. Velg Glemt passord\n\n  3. Skriv inn mobilnummer eller e-postadresse\n\n  4. Velg Send reset link\n\n  5. Du vil nå motta en SMS eller e-post med videre informasjon\n\nDersom du ikke lenger har e-postadressen eller mobilnummeret som ble\nregistrert ved opprettelse, må du ta [kontakt med\nKundeservice](/kundeservice/kontakt-oss/).\n\n## Endre nettverksnavn eller passord?\n\nØnsker du å endre nettverksnavn eller passord på ditt trådløse nettverk? Her\nviser vi deg hvordan du gjør det!\n\n[Endre navn eller passord](/kundeservice/internett/wifi/administrere-\nruter/nettverksnavn-og-passord/)\n\n## Mer avanserte innstillinger\n\n[\n\n### Ekstra nettverk og gjestenett\n\nSett opp ekstra trådløse nettverk hjemme\n\n](/kundeservice/internett/wifi/administrere-ruter/gjestenett/)\n\n[\n\n### Foreldrekontroll\n\nFå styring på internettbruken\n\n](/kundeservice/internett/wifi/administrere-ruter/foreldrekontroll/)\n\n[\n\n### Åpne porter\n\nViderekobling eller åpning av porter på ruteren\n\n](/kundeservice/internett/wifi/administrere-ruter/apne-porter/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:37+00:00",
+        "last_modified": "2025-05-30T09:03:16.196244",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

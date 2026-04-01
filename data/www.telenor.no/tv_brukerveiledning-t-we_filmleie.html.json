@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_filmleie.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 176,
+                "end": 1756,
+                "text": "# T-We Filmleie\n\nHer finner du informasjon om filmleie, hvordan du leier en film, og hvordan du\nfinner frem til de forskjellige leiefilmene i T-We\n\nFilmleie:Når du har valgt filmen du ønsker å se kan du trykke på \"Lei\" for å\nfå tilgang i 48 timer. Du kan også se trailer, vurdere filmen, eller legge den\ntil i Min liste. Da dukker den opp både under \"Hjem\" og \"Mitt innhold\".\n\n## Slik leier du en film\n\n  1. Velg **Leiefilm** fra menyen på toppen\n\n  2. Velg **Lei** på filmen du ønsker å se\n\n  3. Bekreft leie ved å oppgi [PIN-koden](/kundeservice/tv/brukerveiledning-t-we/pin-kode/) din\n\nDu har tilgang til å se filmen med en gang, men du kan også finne den igjen\nunder Mitt innhold.\n\nFilmen er tilgjengelig i 48 timer.\n\n## Filmleie i T-We App\n\nDet er mulig å se leide filmer i T-We app, men filmen må først leies på T-We\nBoks eller [twe.no](https://twe.no/).\n\nFilmer du har leid på T-We boksen kan du søke opp i T-We appen, og de vil være\ntilgjengelige under « **Mitt innhold** » i [T-We appen](/kundeservice/tv/t-we-\napp/), så lenge leieperioden varer.\n\nBeløpsgrense for filmleie\n\nFor å unngå overforbruk har vi innført en beløpsgrense på 3000,- pr. måned.\nDette tilsvarer omtrent 60 filmer i måneden. Det er ikke mulig å oppheve\ngrensen, men du kan bestille nye filmer ved månedskifte.\n\n **Om du når grensen vil du få opp denne meldingen:**\n\n _Du har overskredet maks beløpsgrense per måned for leiefilm (3000 kr). Denne\ngrensen vil bli nullstilt igjen neste måned._\n\n## Filmer og filmleie i T-We\n\nVelg Leiefilm i menyen:Her finner du alle filmer som er tilgjengelige for leie"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:50+00:00",
+        "last_modified": "2025-05-30T09:32:51.530230",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

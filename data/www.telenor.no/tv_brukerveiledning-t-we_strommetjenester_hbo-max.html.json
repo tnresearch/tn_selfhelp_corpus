@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_strommetjenester_hbo-max.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 253,
+                "end": 3183,
+                "text": "# Kom i gang med Max\n\nStrømmetjenesten Max tilbyr prisbelønte og populære serier i verdensklasse.\nHer hjelper vi deg å komme i gang med Max!\n\nFor å få tilgang til Max-appen må du aktivere en konto hos Max. [Lenken til\naktivering](https://www.telenor.no/aktiver/max/) får du ved valg av Max i\ninnholdsvelgeren på Mine Sider.\n\nHar du allerede en Max-konto du vil gjenbruke? [Hopp lengre ned på\nsiden](https://www.telenor.no/kundeservice/tv/brukerveiledning-t-\nwe/strommetjenester/max/#eksisterende), så viser vi deg hvordan dette gjøres\n\n## Slik får du tilgang til Max\n\n  1. Velg Max på [Mine Sider](https://www.telenor.no/mitt-telenor/tv-internett/twe/innholds-velger/)\n\n  2. Følg lenken for å opprette en brukerkonto til Max og koble denne mot T-We\n\n  3. Logg inn i Max-appen på T-We Boks II eller last ned Max-appen til mobilen\n\n### Allerede valgt Max, men ikke tatt det i bruk?\n\nHar du valgt Max i innholdsvelgeren, må du opprette en konto og laste ned\nappen for å begynne å strømme.\n\nOpprett konto og last ned app\n\n  \n\n* * *\n\n **  \nTrenger du hjelp til å legge til eller fjerne innhold på Mine Sider?** Her\nviser vi deg hvordan du [velger kanaler og\nstrømmetjenester](https://www.telenor.no/kundeservice/tv/velge-kanaler/) inn i\ndin T-We kanalpakke.\n\nOpprett brukerkonto hos Max:Følg lenken for å opprette en brukerkonto til Max\nog koble denne mot T-We\n\n# Opprett Max-konto\n\nNår du trykker på linken på Mine Sider, må du opprette konto slik:\n\n## Spørsmål og svar\n\n  * #### Hvor mange samtidige brukere kan man ha på Max appen?\n\nDu kan lage fem brukerprofiler, og 2 personer kan være pålogget i appen\nsamtidig.\n\n  * #### Kan jeg se Max på T-We appen?\n\nJa, det kan du! Har du T-We Boks II har du også tilgang til alt innhold i Max-\nappen der.\n\nHar du en av våre eldre TV bokser, som [T-We Boks](/kundeservice/tv/dekodere-\nog-fjernkontroller/t-we-boks/), så har du ikke mulighet til å se innholdet via\nTV-boksen. Du kan derimot fortsatt se alt av innholdet andre steder Max-appen\ner tilgjengelig - via T-We App, i Max mobil-app (og dele til TV via\nChromecast/Apple TV), i apper på TV osv\n\n  * #### Hvordan får jeg tilgang til alt innhold i Max etter å ha valgt det i innholdsvelgeren?\n\nNår du har valgt Max i innholdsvelgeren vil du få en e-post og sms med\ninstruksjon om hvordan du registrerer deg og laster ned Max appen. Du kan også\nse mesteparten av innholdet i T-We.\n\n  * #### Jeg betaler allerede for en Max-konto, hva gjør jeg?\n\nBetaler du for et Max abonnement direkte til Max, må du velge om du vil\navslutte eller beholde dette abonnementet. Informasjon får du underveis i\nbestillingsløpet når du velger Max for poeng i T-We.\n\n## Best på Max akkurat nå\n\nTV-seriene og filmene fra Max er blant de mest omtalte og kritikerroste i\nverden. Her er noen av de nyeste seriene og filmene som engasjerer og\nbegeistrer både publikum og kritikere.\n\n[Populært i Max ](/privat/artikler/underholdning/aktuelt/film-serier/best-pa-\nhbo/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:42+00:00",
+        "last_modified": "2025-05-30T09:34:03.418901",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_kom-igang_apple-tv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 335,
+                "end": 2435,
+                "text": "#  Titta på Telenor Stream via Apple TV\n\nNu har du som vill använda din Apple TV för att kolla på strömmad tv från oss\nkommit helt rätt! Här hittar du allt om hur du kommer igång och får ut det\nmesta och bästa av Telenor Stream.\n\nKom igång\n\n  1. [Aktivera Telenor Stream här](/aktivera-stream/)\n  2. Ladda ner appen Telenor Stream på din Apple TV.\n  3. Börja kolla!\n\nBra att veta\n\n  * Det kostar inget extra att skapa ett streamingkonto hos Telenor om du redan är tv-kund hos oss. Den enda kostnaden som tillkommer är om du hyr film.\n  * När du använder Apple TV rekommenderar vi minst 10 Mbit/s i surfhastighet för en bra streamingupplevelse. Du testar enkelt din hastighet på [Bredbandskollen.se](http://www.bredbandskollen.se/ \"Bredbandskollen\"). \n  * Telenor Stream-appen funkar på fjärde generationens Apple TV - och senare generationer förstås!\n  * Koppla in din Apple TV med en nätverkskabel. Det blir bäst så. \n  * Har du problem med streamingen? Kolla om du har den senaste versionen av appen, uppdatera annars. \n\n## Vanliga frågor\n\n  * Det saknas kanaler när jag loggar in på Telenor Stream – varför?\n\nOm du kan se vissa kanaler på din tv men inte i Telenor Stream så beror det på\natt vi inte har fått tillåtelse att distribuera dem där.\n\n  * Hur ändrar jag mina inloggningsuppgifter till Telenor Stream?\n\nDu kan ändra både ditt användarnamn och lösenord till Telenor Stream i [Mitt\nTelenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx).\n\n  * Kan jag streama till flera enheter samtidigt?\n\nJa, du kan streama på upp till två enheter samtidigt på ditt abonnemang.\n\n  * Vad kan jag streama?\n\nDu kan titta på det mesta som ingår i ditt tv-paket på Telenor Stream. I vissa\nfall kan någon enstaka kanal i tv-paketet saknas. Detta beror på att vi inte\nhar fått tillstånd att streama dem för rättighetsägaren.\n\nDu kan även enkelt [hyra film via\nstreamingtjänsten](/link/35b18662a05f46e58f582664db0643f4.aspx).\n\n  * Var kan jag se vilka filmer jag hyrt?\n\nLogga in i [Mitt Telenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx). Där\nhittar du dina fakturor. På fakturan står vilka filmer du har hyrt."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:05+00:00",
+        "last_modified": "2025-05-30T15:00:20.546988",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

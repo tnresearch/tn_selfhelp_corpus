@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_mit-telenor-i-appen_kom-godt-igang-med-appen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2291,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Sådan logger du på Mit Telenor\n\nMit Telenor er Telenors selvbetjeningsløsning, hvor du kan tjekke dit forbrug\nog dine regninger, købe ekstra data, se gode tilbud og meget mere.  \nDu kan både bruge Mit Telenor som app på din mobil og gennem Telenor.dk fra\ndin computer. Du logger ind på samme måde, uanset hvad du vælger. Her på siden\nviser vi primært, hvordan det ser ud på en mobilskærm, fordi det er nemmere\nfor dig at læse.\n\n[ Læs mere om Mit Telenor ](/mit-telenor/selvbetjening/)\n\n## 1a. På app: Tryk Log ind\n\nÅbn ‘Mit Telenor’-appen på din mobil og tryk på den knap, hvor der står ‘Log\nind’.\n\nÅbn ‘Mit Telenor’-appen på din mobil og tryk på den knap, hvor der står ‘Log\nind’.\n\n## 1b. På computer: Find “Log ind”-knappen\n\nLige meget hvor du er på Telenors hjemmeside, er der en knap øverst i højre\nhjørne, hvor der står ‘Log ind’. Tryk på den.\n\nLige meget hvor du er på Telenors hjemmeside, er der en knap øverst i højre\nhjørne, hvor der står ‘Log ind’. Tryk på den.\n\n## 2\\. Indtast dine oplysninger\n\nDu skal nu på indtaste dit bruger-ID på MitID.\n\nDu skal nu på indtaste dit bruger-ID på MitID.\n\n## 3\\. Godkend gennem MitID\n\nGodkend dit login på MitID-app’en på din mobil. Vær opmærksom på, at du ikke\nfår en notifikation på din mobil - i stedet skal du selv åbne din MitID-app\nfor at se login-anmodningen.\n\nGodkend dit login på MitID-app’en på din mobil. Vær opmærksom på, at du ikke\nfår en notifikation på din mobil - i stedet skal du selv åbne din MitID-app\nfor at se login-anmodningen.\n\n## 4\\. Hvis det er første gang: Indtast dit CPR-nummer\n\nFørste gang du logger på Mit Telenor, skal du indtaste dit CPR-nummer, så\nTelenor kan bekræfte din identitet og finde dine oplysninger frem til dig. Sæt\nflueben i feltet “Husk mig”, som ligger lige under “Fortsæt”-knappen - så skal\ndu ikke indtaste dit CPR-nummer hver gang du logger ind.\n\nFørste gang du logger på Mit Telenor, skal du indtaste dit CPR-nummer, så\nTelenor kan bekræfte din identitet og finde dine oplysninger frem til dig. Sæt\nflueben i feltet “Husk mig”, som ligger lige under “Fortsæt”-knappen - så skal\ndu ikke indtaste dit CPR-nummer hver gang du logger ind.\n\n## 5\\. Nu er du logget ind\n\nTillykke! Nu er du logget ind og klar til at bruge Mit Telenor.\n\nTillykke! Nu er du logget ind og klar til at bruge Mit Telenor."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:39+00:00",
+        "last_modified": "2025-05-21T15:15:54.286571",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

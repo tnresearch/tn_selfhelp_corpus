@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_kom-igang_box_humax-cdig-1000c-tv-box.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 400,
+                "end": 5241,
+                "text": "#  Humax CDIG-1000C tv-box\n\nHärligt att kolla på tv! Här hittar du allt du behöver för att komma igång med\ndin tv-box.\n\n###\n\nKoppla ihop enheterna\n\n  1. Anslut antennkabeln. Den ska sitta mellan uttaget på tv-boxen som heter RF in och antennuttaget i ditt hem.\n  2. Anslut boxen till din tv med hdmi-kabeln.\n  3. Sätt i programkortet i kortläsaren. Chippet på kortet ska vara riktat nedåt.\n  4. Anslut strömkabeln mellan vägguttaget och tv-boxen.\n  5. Sätt på tv-boxen (Power-knappen). Om boxen startar i strömsparläge lyser en lampa i rött på framsidan. Tryck då på fjärrkontrollens röda knapp som heter Power.\n  6. Om det är första gången du använder tv-boxen startar installationsguiden automatiskt. Den hjälper dig att göra alla grundläggande inställningar. När alla steg är klara kan du börja använda din box. Du kan alltid ändra dina val senare under Inställningar.\n\n**Första gången tv-boxen startas**  \nKontrollera först att du har rätt källa inställd på din tv. Det gör du genom\natt välja knappen på din fjärrkontroll som heter Source, Input eller AV.\nKnappen kan även vara märkt med en pil.\n\nVälj sedan den hdmi-ingång som boxen är inkopplad till. För att hitta rätt\ningång kan du följa hdmi-kabeln från tv-boxen till tv:n. Om kabeln exempelvis\när kopplad till uttag 1, ska du välja Hdmi1 på din tv.\n\n**Guiden startar så fort du valt rätt källa på tv:n:**\n\n  1. Språk: Välj språk.\n  2. Skärm: Välj de inställningar som passar din tv bäst.\n  3. Söka efter kanaler: Kanalsökningen startar automatiskt. Spara hittade kanaler när sökningen är klar.\n  4. Resultat: Resultatet för installationsguiden visas. Stäng guiden genom att välja slutför.\n\nOm du avslutar kanalsökningen i förtid kommer du kanske inte kunna se alla\nkanaler. Gå till Menu – Inställningar – Installation och sök efter fler\nkanaler.\n\nDet förinställda lösenordet är 0000.\n\n**Fungerar det inte?**  \nGå igenom följande steg:\n\n  1. Kontrollera att kablarna sitter i rätt uttag och att de är ordentligt instuckna.\n  2. Kontrollera även du valt rätt hdmi-källa (source) med fjärrkontrollen.\n  3. Testa att starta om tv-boxen.\n\nOm du fortfarande inte får det att fungera, gå in och läs mer på våra\nfelsökningssidor.\n\n**Vill du ha hjälp med installationen?**  \nVi erbjuder installations- och supporttjänster inom bredband, tv och telefoni.\nVi har fasta priser som är subventionerade via RUT.\n\n[Läs mer om Digihjälpen](/link/76e6e1c84e1e45b0b9a123f0341ba70e.aspx)\n\nFjärrkontrollen – instruktioner\n\nInstruktioner för fjärrkontrollen hittar du i[\nanvändarmanualen](http://mediearkivet.telenor.se/Data/mw/Pdf/TA921048.pdf).\n\nGöra en fabriksåterställning\n\nIbland, under felsökningen, kan en fabriksåterställning av tv-boxen behövas.\nHär finns en steg-för-steg-guide.\n\n  1. Välj Menu och gå till Inställningar – Installation - Fabriksåterställning\n  2. En popup dyker upp med texten \"Vill du göra en fabriksåterställning?\" Välj Ja.\n  3. Ange lösenord (standardlösenordet är 0000)\n  4. Boxen startar nu om och du får nu gå igenom nyinstallationsstegen igen.\n  5. Språk: Välj språk. \n  6. Skärm: Välj de bildinställningar som passar din tv bäst\n  7. Söka efter kanaler: Kanalsökningen startar automatiskt.\n  8. Spara kanalerna när sökningen är klar.\n  9. Resultatet för installationsguiden visas. Stäng guiden genom att välja Slutför. När du har slutfört fabriksinställningarna kommer Installationsguiden att visas automatiskt.\n\nRedigera kanaler\n\n**Lägga till en kanal i listan**\n\n  1. Gå till Menu – Inställningar – Redigera kanaler.\n  2. Ange lösenord. Det förinställda är 0000.\n  3. Välj favoritkanal med pilknappen upp/ner och tryck ok.\n  4. Tryck på röd knapp och vald kanal hamnar i höger kolumn.\n  5. Klicka på Menu när din lista är klar.\n\n**Ta bort en kanal från listan**\n\n  1. Välj kanal med pilknappen upp/ner. Klicka på ok.\n  2. Klicka på den röda knappen.\n  3. Tryck på Menu när din lista är klar.\n\n**Redigera listan  \n** Om du vill placera kanaler i en lista i vänster kolumn, tryck på den gröna\nknappen och välj önskad lista att redigera.\n\n**Flytta en favoritkanal**\n\n  1. Välj först kanal med pilknappen upp/ner och tryck ok.\n  2. Klicka på den gröna knappen.\n  3. Flytta vald kanal med pilknapp upp/ner. Tryck ok.\n\n**Byt lista**  \nVill du se kanaler i en annan lista? Tryck på gul knapp och välj rätt lista.\n\nByta och återställa pin-kod\n\n**Byta pin-kod**\n\n  1. Klicka på Menu på fjärrkontrollen.\n  2. Välj Inställningar – System – Krypteringssystem.\n  3. Välj Ändra CA-Pin.\n  4. Ange din nya pin-kod och bekräfta den.\n\n**Återställa bortglömd pin-kod**\n\n  1. Klicka på Menu.\n  2. Välj Inställningar – System – Systeminformation.\n  3. Tryck på följande knappar: röd –grön –gul –blå –grön –gul –blå.\n  4. Nu kan du skriva in din nya pin-kod.\n\nManualen i pdf-format\n\n[Användarmanual till Humax CDIG-1000-C\n(pdf)](https://mediearkivet.telenor.se/Data/mw/Pdf/TA921048.pdf)\n\n",
+                "heading": " Humax CDIG-1000C tv-box"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:37+00:00",
+        "last_modified": "2025-05-30T15:00:30.357417",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

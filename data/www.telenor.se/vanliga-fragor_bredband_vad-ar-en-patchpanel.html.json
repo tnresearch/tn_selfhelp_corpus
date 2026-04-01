@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_bredband_vad-ar-en-patchpanel.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 253,
+                "end": 662,
+                "text": "# Vad är en patchpanel?\n\nI en del hus och lägenheter finns en patchpanel. Med hjälp av den skapas ett\nlokalt trådbundet nätverk (bostadsnät) som gör att du kan välja exakt var du\nvill koppla in din router och tv-box – utan att behöva ha sladdar i hela\nhemmet. Väldigt praktiskt!  \n  \nPatchpanelen sitter ofta i ett kopplingsskåp i hallen, tillsammans med en\nförteckning på vilka uttag som finns i vilka rum.\n\n",
+                "heading": "Vad är en patchpanel?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:53+00:00",
+        "last_modified": "2025-05-30T17:43:42.935160",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

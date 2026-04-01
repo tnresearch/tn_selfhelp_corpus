@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_hjalp-med-andra-enheter_samsung-galaxy-watch_kom-igang_kop-mobiluppkoppling-klocka-till-samsung-galaxy-watch-mitt-telenor-pa-webben.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 476,
+                "end": 1416,
+                "text": "# Köp Mobiluppkoppling klocka (Mitt Telenor på webben)\n\nFölj stegen nedan för att köpa tjänsten Mobiluppkoppling klocka till Samsung\nGalaxy Watch och Google Pixel Watch. När du är klar kan du lämna din mobil\nhemma nästa gång du går ut.  \n  \nTänk på det här först:\n\n  * Du måste vara privatkund\n  * Du måste ha verifierat dig som ägare av abonnemanget samt ha BankID\n  * Klockan måste ha stöd för e-sim samt vara uppkopplad mot internet\n  * Den som ska använda tjänsten måste ha en annan enhet redo att skanna en QR-kod med\n\n  * ### Logga in i Mitt Telenor här på webben\n\nOm du inte har skapat ett Mitt Telenor-konto måste du göra det först.  \n  \n[Gå till Mitt Telenor](/mitt-telenor/)\n\n  * ### Välj Min översikt och sedan det abonnemang det gäller\n\n  * ### Skrolla ned till rubriken Betaltjänster\n\n  * ### Välj tjänsten Mobiluppkoppling klocka\n\n  * ### Sedan får du instruktioner som hjälper dig att köpa och aktivera tjänsten. Följ dem! \n\n",
+                "heading": "Köp Mobiluppkoppling klocka (Mitt Telenor på webben)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:07+00:00",
+        "last_modified": "2025-05-30T14:35:15.942607",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

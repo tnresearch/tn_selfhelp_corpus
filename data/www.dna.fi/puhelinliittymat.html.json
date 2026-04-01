@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/puhelinliittymat.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 91,
+                "end": 1862,
+                "text": "# Puhelinliittymien tuki\n\nOhjeet liittymän aktivointiin, PUK-koodin löytämiseen ja liittymän\nlisäpalveluihin\n\n[ PUK-koodi ](https://www.dna.fi/tuki/puhelinliittymat/puk-koodi) [ Liittymän\naktivointi ](https://www.dna.fi/tuki/puhelinliittymat/aktivointi) [\nNumeronsiirto ](https://www.dna.fi/tuki/puhelinliittymat/numeronsiirto) [\nLiittymän käyttö ulkomailla ](https://www.dna.fi/tuki/puhelinliittymat/kaytto-\nulkomailla) [ eSIM ](https://www.dna.fi/tuki/puhelinliittymat/esim) [ Multi-\nSIM ](https://www.dna.fi/tuki/puhelinliittymat/multi-sim) [ Mobiilivarmenne\n](https://www.dna.fi/tuki/puhelinliittymat/mobiilivarmenne) [ WiFi-puhelut\n](https://www.dna.fi/tuki/puhelinliittymat/wifi-puhelut) [ Lisäpalvelut\n](https://www.dna.fi/tuki/puhelinliittymat/lisapalvelut) [ Puhelinlaskulla\nmaksaminen ](https://www.dna.fi/tuki/puhelinliittymat/puhelinlaskulla-\nmaksaminen) [ Prepaid-liittymät\n](https://www.dna.fi/tuki/puhelinliittymat/prepaid)\n\n## PUK-koodi hukassa?\n\nPUK-koodin löydät liittymäsi tiedoista Oma DNA -sovelluksesta, kirjautumalla\ndna.fi-sivustolle tai kirjautumalla chatbotiin.\n\n[ Kirjaudu ](https://minunpalveluni.dna.fi/kirjautuminen) [ Lue lisää\n](https://www.dna.fi/tuki/puhelinliittymat/puk-koodi)\n\n## Liittymän käyttö ulkomailla\n\nKun olet lähdössä reissuun, ota huomioon liittymien ulkomaan käyttöön\nliittyvät rajoitteet, käyttökatot ja lisämaksut.\n\n[ Lue lisää ](/tuki/puhelinliittymat/kaytto-ulkomailla)\n\n## Liittymän siirto toiselle henkilölle\n\nLiittymäsopimuksen siirtäminen toiselle henkilölle on mahdollista\nnumeronluovutuksella. Numeron voi luovuttaa asioimalla DNA Kaupassa sekä Oma\nDNA -sovelluksen kautta, mutta numeron vastaanottaminen on mahdollista vain\nDNA Kaupoissa.\n\n[ Lue ohjeet ](https://www.dna.fi/tuki/puhelinliittymat/numeronsiirto)\n\n",
+                "heading": "Puhelinliittymien tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:38+00:00",
+        "last_modified": "2025-06-20T19:19:12.005030",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

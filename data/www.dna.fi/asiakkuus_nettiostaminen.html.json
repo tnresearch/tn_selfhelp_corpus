@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/asiakkuus_nettiostaminen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 143,
+                "end": 3030,
+                "text": "# Nettiostamisen tuki\n\nSiirry ohjeisiin:\n\n[ Tilaaminen ](https://www.dna.fi/tuki/asiakkuus/nettiostaminen/tilaaminen) [\nClick & Collect ](https://www.dna.fi/tuki/asiakkuus/nettiostaminen/click-\ncollect) [ Maksutavat\n](https://www.dna.fi/tuki/asiakkuus/nettiostaminen/maksutavat) [ Toimitus\n](https://www.dna.fi/tuki/asiakkuus/nettiostaminen/toimitus) [ Palautus ja\ntakuu ](https://www.dna.fi/tuki/asiakkuus/nettiostaminen/palautus-ja-takuu)\n\n####  Nopea toimitus jopa päivässä\n\nSaat tilauksesi jopa seuraavaksi arkipäiväksi. Toimitus alk. 0 €. Arvioitu\ntoimitusaika on 1-3 arkipäivää. Toimitustapavaihtoehtona voi olla Click &\nCollect -toimitus myymälään, toimitus postilaatikkoon tai -luukkuun,\nkotiintoimitus, toimitus Postin noutopisteeseen tai Postin\npakettiautomaattiin. Tuotteet saatetaan postittaa useammassa paketissa.\n\n[Lue lisää toimitustavoista ja\n-kuluista](/tuki/asiakkuus/nettiostaminen/toimitus)\n\n####  Kuluton ja koroton DNA Maksuaika\n\nValitse vapaasti, miten laitteesi maksat: yhdessä tai useammassa erässä, ilman\nylimääräisiä kuluja tai korkoa.\n\n[Lue lisää\nmaksutavoista](https://www.dna.fi/tuki/asiakkuus/nettiostaminen/maksutavat)\n\n####  Aina ilmainen palautus\n\nKaikilla tuotteilla on ilmainen palautus. Huomioithan, että vain\nkäyttämättömät laitteet voi palauttaa.\n\n[Katso\npalautusohjeet](https://www.dna.fi/tuki/asiakkuus/nettiostaminen/palautus-ja-\ntakuu)\n\n####  Varaa netistä, nouda DNA Kaupasta\n\nVaraa tai tilaa netissä, nouda myymälästä. Saat tilauksesi ilman\ntoimitusmaksua.\n\n[Lue lisää tuotteen\nvaraamisesta](https://www.dna.fi/tuki/asiakkuus/nettiostaminen/varaaminen)\n\n## Yleiset sopimusehdot\n\n[DNA Oyj:n yleiset sopimusehdot kuluttaja-asiakkaille\n(pdf)](https://www.dna.fi/documents/753910/853465/DNA_Oy_yleiset_sopimusehdot_kuluttaja-\nasiakkaille.pdf/)  \n[Allmänna avtalsvillkor för DNA Abp tjänster för konsumenter\n(pdf)](https://www.dna.fi/documents/753910/853468/Yleiset_sopimusehdot_SWE.pdf/)  \n[DNA general terms and conditions for consumer customers\n(pdf)](https://www.dna.fi/documents/753910/853471/Yleiset_sopimusehdot_ENG.PDF.pdf/)\n\n## Etämyynnin tilaus- ja toimitusehdot\n\n[Etämyynnin tilaus- ja toimitusehdot\n(pdf)](https://www.dna.fi/documents/753910/853465/DNA_etamyynnin_tilaus-ja-\ntoimitusehdot_palautuslomake.pdf/)  \n[Terms and conditions for DNA's distance selling\n(pdf)](https://www.dna.fi/documents/753910/853471/DNA_etamyynnin_tilaus-ja-\ntoimitusehdot_palautuslomake_eng_180821.pdf/)  \n[Beställnings- och leveransvillkor för DNA:s distansförsäljning\n(pdf)](https://www.dna.fi/documents/753910/853468/DNA_etamyynnin_tilaus-ja-\ntoimitusehdot_palautuslomake_sv_180830.pdf/)  \n\n## Verkkokaupan yhteystiedot\n\nDNA Oyj  \nPL 10, 01044 DNA\n\nOsoitteessa ei ole asiakaspalvelua eikä osoitteeseen oteta vastaan\nasiakaspalautuksia.\n\nKatso myös: [DNA:n myymien laitteiden takuu- ja\nhuoltokumppanit](https://www.dna.fi/tuki-huolto#huoltokumppanit)  \n\n",
+                "heading": "Nettiostamisen tuki"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:44+00:00",
+        "last_modified": "2025-06-21T13:40:42.474942",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

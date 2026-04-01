@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_betaling_koeb-paa-afbetaling.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 349,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "## Bemærk:\n\nVi tilbyder ikke længere finansiering med Express Bank. Har du indgået en\nlåneaftale med ExPress Bank **før d. 19. juni 2024** , kan du finde svar på\ndine spørgsmål på denne side.  \n  \n\nHar du indgået en låneaftale **efter d. 19. juni 2024** , skal du i stedet\nklikke [her](/kundeservice/kob-og-regning/betaling/finansiering-med-payex/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:01+00:00",
+        "last_modified": "2025-05-21T15:15:46.048495",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-mokkula-4g-wlan-s_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 389,
+                "end": 3130,
+                "text": "# DNA Mokkula 4G WLAN S\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-s/vianrajaus)\n\n## Päivitykset\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n### Kriittinen korjauspäivitys\n\nLaitteessa havaittiin 23.3 vika joka estää netin toiminnan. Vian tunnistaa\nsiitä, että laite automaattisesti käynnistää itsensä n. 1.5 minuutin kohdalla.\n\n  \nDNA vahvasti suosittelee uuden modeemin hankintaa. AC762S laite on yli viisi\nvuotta vanha ja siten se on selkeästi vanhentunutta teknologiaa.\n\nUudella mokkulalla käyttökokemus paranee merkittävästi.\n\n  1. 4G nopeus kasvaa selkeästi, monissa tapauksissa jopa kaksinkertaiseksi sillä uusissa mokkuloissa on Carrier Aggregation ominaisuus.\n  2. Langaton verkko (WLAN / WiFi) kuuluu laajemmalle alueelle ja on merkittävästi nopeampi.\n\n**Alla oleva päivitys ratkaisee ongelman. Päivitys tapahtuu seuraavasti:**\n\n  1. Lataa päivityspaketti Windows tietokoneelle [tästä ](/documents/753910/853450/AC762S_kriittinen_paivitys.exe/f61befbc-b5ca-e7c6-1918-2a428f9de2f7)\n  2. Poista AC762S-mokkulasta SIM-kortti\n  3. Kytke mokkula Windows-tietokoneeseen USB-kaapelilla\n  4. Mokkula asentaa yhteysajurit tietokoneelle. Mikäli asennus ei tapahdu automaattisesti, avaa \"Oma tietokone\" ja klikkaa siitä hiirellä kaksi kertaa kohtaa \"Tru-install\"\n  5. Kun asennus on valmis, tuplaklikkaa kohdassa yksi lataamaasi päivityspakettia\n  6. Tietokoneen ruudulla näkyy teksti \"Insert device and click Start to begin configuration\". Klikkaa tästä Start. \n  7. Ruudulle tulee \"Configurating device\" ja etenemispalkki. Päivitys kestää muutaman sekunnin.\n  8. Laite on nyt päivitetty. Ruudulla lukee \"Configuration successful. Insert another device to configure Or Exit to quite program\". Paina nyt Exit.\n  9. Liitä SIM-kortti takaisin mokkulaan.\n\nNyt AC762S toimii normaalisti.\n\nHUOM: Jos päivitysohjelma ei pysty päivittämään mokkulaa ja tietokoneeseen on\nasennettu erillinen palomuuri ja/tai viruksentorjontaohjelma, kokeile poistaa\ntämä käytöstä päivityksen ajaksi. Mikäli joudut poistamaan\nvirustorjuntaohjelman väliaikaisesti, pidä huolta, että SIM-kortti on poissa\nmokkulasta. Tällä tavalla tietokone ei voi yhdistää internettiin.\n\n",
+                "heading": "DNA Mokkula 4G WLAN S"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:16+00:00",
+        "last_modified": "2025-06-20T19:08:07.930290",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

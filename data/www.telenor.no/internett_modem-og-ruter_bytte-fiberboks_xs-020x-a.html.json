@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_bytte-fiberboks_xs-020x-a.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3510,
+                "heading": "Instructions for replacing a fiber box with the XS-020X-A model.",
+                "start": 934,
+                "text": "## Bytte fiberboks til XS-020X-A\n\nFølg veiledningene under nøye når du skal bytte fiberboks (ONT). Pass på å\nikke bøye eller skade fiberen under installasjonen, og kontroller at alle\ntilkoblinger er godt festet før du slår på strømmen.\n\nDet er store forskjeller fra hjem til hjem for hvordan fiberboksen er montert.\nVi anbefaler derfor å gjøre deg kjent med tilgjengelighet, festemetode og\neventuelle behov for å gjøre endringer i måten boksen er festet på for å passe\nmed ny boks, _før_ du begynner arbeidet. Det kan være variasjoner i hva slags\nskruer du skal bruke, avstand mellom opphengspunkter og lignende.\n\n## 1\\. Demontering av gammel fiberboks\n\n  1. Skru av ruter og fiberboks. Dra ut strømledningen fra fiberboksen, som regel er denne svart\n\n  2. Trekk ut internettkabelen, som regel er dette en GUL LAN-port.\n\n  3. Trekk ut fibersnor, som oftest GRØNN port og et symbol for laser. Merk at noen fiberbokser har en sikkerhetsmekanisme som medfører at du må åpne et deksel på baksiden for å få ut fibersnoren. Om snoren virker vanskelig å få ut, kan dette være årsaken. Hekt da forsiktig av boksen og åpne dekselet før du trekker ut snoren\n\n **OBS!** Fibersnoren må bøyes så lite som mulig for å unngå skade på fiberen.\nFibersnoren sender optisk lys. Se derfor ikke direkte inn i snoren, og unngå å\nutsette den for støv og skitt\n\n  4. Fjern defekt fiberboks og sorter som EE-avfall\n\n## 2\\. Åpne ny fiberboks\n\nÅpne pakken med ny fiberboks. Med mindre du har fått beskjed om at det er\nskade på selve fibersnoren din, skal du ikke bruke den nye fibersnoren som\nfølger i esken, kun koble deg på den gamle.\n\n  1. Snu boksen og finn inngangen merket med gul trekant\n\n  2. Skyv dekselet vekk med to fingre\n\n  3. La dekselet stå åpent for å senere sette inn fibersnoren\n\n## 3\\. Koble til fibersnor\n\n  1. Fjern proppen under dekselet\n\n  2. Under proppen befinner det seg en grønn port\n\n  3. Putt den grønne fibersnoren forsiktig inn i den grønne porten\n\n  4. Sett på dekselet igjen, og dra forsiktig i fibersnoren for å sikre deg at den sitter godt\n\n## 4\\. Koble til ruter og strøm\n\n  1. Juster veggfestene slik at målene passer den nye fiberboksen\n\n  2. Heng fiberboksen på veggen\n\n  3. Koble til internettkabel i porten kalt LAN 10G\n\n  4. Sett den nye strømkabelen fra esken i stikkontakten, og koble til svart strømkabel (inngang merket UPS). Trykk inn svart på-knapp. Skru på ruteren din\n\n  5. Etter en oppstartstid på ca 5-10 minutter vil du nå være på nett igjen. Du kan se dette ved at lampen på ruteren din lyser grønt, og at fiberboksen lyser på POWER, LAN 10G og NTWK"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:31:52+00:00",
+        "last_modified": "2025-05-30T08:49:07.797575",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

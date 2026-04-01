@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_abonnement-og-tjenester_eierskifte-mobilnummer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 203,
+                "end": 2818,
+                "text": "# Eierskifte mobilnummer\n\nHer finner du informasjon om hvordan du kan endre roller eller ta eierskifte\npå dine abonnement\n\n[Gjelder det bedriftsabonnement? Trykk her](/bedrift/kundeservice/mobil-\nabonnement/eierskifte/)\n\n## Roller på mobilabonnement\n\nEt mobilabonnement kan ha tre forskjellige roller - juridisk eier, betaler og\nbruker.\n\n## Eier\n\nJuridisk eier og ansvarlig for abonnementet. Eier kan gjøre endringer,\nbestille tjenester og si opp abonnement. Som juridisk eier har du full\nråderett over abonnementet, så lenge det ikke går under **personvern** (som å\nse PUK-kode eller spesifisert forbruk hvis bruker er en annen person).\n\n## Betaler\n\nBetaler er den som mottar faktura. Denne rollen får innsyn i faktura, men kan\nikke utføre endringer eller si opp abonnement. Hvis du står som betaler og\nfakturamottaker på et mobilnummer, kan du alltid be om å bli fjernet fra denne\nrollen uten å få tillatelse fra juridisk eier først.\n\n## Bruker\n\nDenne rollen er den personen som faktisk bruker abonnementet. Brukerrollen kan\nutføre noen få endringer på tjenester uten kostnad, men kan ikke endre til et\nannet mobilabonnement eller si opp nummeret. Registrert bruker kan be om å bli\nfjernet som bruker uten å få tillatelse fra juridisk eier først.\n\nHvis det er registrert bruker på abonnementet, er det kun vedkommende som kan\nhente ut PUK-kode.\n\nBruker kan ikke bestille eierskifte uten godkjennelse fra juridisk eier.\n\n## Hva skjer når vi utfører et eierskifte?\n\nAbonnementet blir sagt opp på gammel eier, og bestilt opp på ny eier. Alle\ntilleggstjenester blir overført, med mindre du ber om at noen fjernes eller\nlegges til når du snakker med kundeservice.  \n\n **Bestille eierskifte:  \n** For å få utført et eierskifte, må vi snakke med både den som eier\nmobilnummeret i dag og den som ønsker å overta.\n\nVi anbefaler derfor at dere begge er tilstede når dere ringer. Da kan vi\nsnakke med begge parter og få utført endringen umiddelbart. Alternativt må\ndere ringe inn til kundeservice når dere har mulighet. Eierskiftet blir lagt\ninn når begge har bekreftet over telefon at dette skal gjøres.\n\n **  \nFaktura:  \n** Gammel eier vil få sluttfaktura på abonnementet fra dagen det overføres, og\nny eier får første faktura fra samme dato.\n\n **  \nNavneendring:  \n** Har du endret navn, trenger du ikke bestille endring - dette blir\nautomatisk oppdatert fra folkeregistreret (oppdateres en gang i måneden).\n\n## Bestille eierskifte?\n\nØnsker du å endre betaler, bruker eller overdra abonnementet til en annen\nperson?\n\nTa kontakt med oss på kundeservice, så hjelper vi deg.\n\n[Gå til Kontakt oss](/kundeservice/kontakt-oss/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:44+00:00",
+        "last_modified": "2025-05-30T09:21:30.565521",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

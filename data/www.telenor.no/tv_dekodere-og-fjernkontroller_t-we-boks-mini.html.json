@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller_t-we-boks-mini.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 194,
+                "end": 4004,
+                "text": "# Hjelp til T-We Boks Mini\n\nHer finner du informasjon om TV-boksen, i tillegg til veiledninger for\noppkobling og installasjon.\n\n### Slik kobler du opp T-We Boks Mini\n\nFølg våre veiledninger for hjelp med oppkobling.\n\n[Hjelp til oppkobling ➜](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-\nboks-mini/koble-til/)\n\n### Slik installerer du programvaren\n\nHer finner du veiledning for hvordan du installerer programvaren på din\ndekoder.\n\n[Installer programvare ➜](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-\nboks-mini/installasjon/)\n\n## Oppgrader til T-We Boks II\n\nVisste du har Telenor tilbyr en helt ny T-We boks med blant annet støtte for\n4K og HDR? [Les mer om vår nyeste\ndekoder.](https://www.telenor.no/privat/tv/t-we/dekoder/)\n\ni\n\n#### Funksjoner dekoderen støtter\n\n  * Livekanaler\n\n  * Programguide\n\n  * Radio \n\n  * Opptak, pause og spole (krever minnepenn i USB)\n\ni\n\n#### Nullstill T-We Boks Mini\n\n **Via fjernkontroll**\n\n  1. Trykk **MENU** på fjernkontrollen\n\n  2. Velg **Innstillinger** og trykk OK\n\n  3. Velg **Installasjon** og tast inn PIN-koden\n\n  4. Velg **Fabrikkinnstillinger** og trykk OK\n\n  5. Du vil få spørsmål om å tilbakestille alle dekoderinnstillinger og slette alle opptak\n\n    * Velg **Ja** for å slette alle opptak\n\n    * Velg **Nei** for å beholde opptak\n\n  6. Velg **Fortsett** for å bekrefte nullstilling\n\n **Alternativ fremgang via fjernkontroll**\n\n  1. Slå på dekoderen, og vent til den er ferdig å laste\n\n  2. Innen 5 sekunder: Trykk **MENU** på fjernkontrollen, og deretter 3-7-5-3-3-7\n\n  3. Dekoderen slår seg av i løpet av 5-10 sekunder, og starter på nytt\n\n  4. Prøv igjen dersom det ikke er noen respons\n\n **Via dekoder**\n\n  1. Ta ut strømkabel på baksiden av din dekoder\n\n  2. Hold inne av/på-knapp på forsiden av dekoderen, samtidig som du kobler i strømkabel\n\n  3. Fortsett å holde inne av/på-knapp i 5-10 sekunder mens boksen starter opp\n\ni\n\n#### PIN-kode\n\nPIN-koden er som standard satt til 1-2-3-4.\n\nØnsker du å endre PIN-koden, eller har du glemt hva du har endret den til?\n[Les mer om PIN-koder her.](/kundeservice/tv/brukerveiledning-t-we/pin-kode/)\n\ni\n\n#### Hvordan får jeg opp riktig distriktsending på TV-en?\n\nDersom din T-We Box Mini må settes tilbake til fabrikkinnstillingene, vil du\nmåtte angi din region manuelt. [Se oversikt over alle regioner med tilhørende\ndistrikts- og lokalsendinger for å sette riktig\nverdi.](https://www.telenor.no/privat/tv/t-we/regionid/) Angir du ikke region\nvil din dekoder automatisk bli satt til region 1.\n\nManuell endring av region gjør du ved å gå inn på innstillinger:\n\n  1. Det kommer opp automatisk kanalsøk og der fyller man inn region.\n\n  2. Du kan også endre ved å gå inn på **Meny** , velg **Innstallasjon** -› taste **Pin** -> velg **Kanalsøk**.\n\ni\n\n#### Multirom\n\nDenne funksjonen lar én T-We Boks (ADB 5743) og én ADB 2840 (T-We Boks Mini)\nsnakke sammen på hjemmenettverket og gir deg større glede av ditt TV-tilbud.\nDet er mer fleksibelt både hvor, når og hvordan du ønsker å se både live-TV og\nopptak.  \n  \nTV i flere rom gir deg også muligheten til å plassere T-We Boks Mini på et rom\nuten antenneuttak og fortsatt kunne se vanlige TV-sendinger hentet fra T-We\nBoks via hjemmenettverket. Opptak kan både programmeres og spilles av på begge\nboksene og lagres sentralt på T-We Boks (5743). Hvis du begynner å se et\nopptak i ett rom kan du fortsette å se på opptaket i et annet rom med et par\ntastetrykk på fjernkontrollen\n\nMultirom kan ikke brukes med T-We Boks II (ADB 3770).\n\n[Se og last ned veiledning for\nMultiroom...](https://www.telenor.no/binaries/privat/kundeservice/tvhjelp/utstyr/multiroom/MR-\nveiledning%20mars%202020%20v2.pdf)\n\n### Brukerveiledning T-We Boks Mini\n\n[Oppkoblingsveiledning ADB\n2840](/binaries/privat/kundeservice/tvhjelp/utstyr/abd2840/Lavkarbo%20veiledning%202840mars2020.pdf)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:13+00:00",
+        "last_modified": "2025-05-30T09:37:35.916512",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_kom-igang_box_telenor-mediahubb.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 394,
+                "end": 2787,
+                "text": "# Installera Telenor Mediahubb\n\nAtt tänka på innan du börjar koppla in **  \n**\n\n  * **Använd de nya kablarna som följer med.** Äldre kablar kan ha en annan strömstyrka än din nya Mediahubb behöver vilket kan göra att tjänsten inte fungerar.\n  * Kontrollera att **bredbandet är igång** innan du startar Mediahubben och att du är uppkopplad mot internet. Om du precis köpt bredband från Telenor måste detta installeras först. [Här får du hjälp med det](/support/fast-bredband/surfa-nu/)\n  * Din Mediahubb behöver inte stå synlig, men tänk på att den **inte får ställas ovanpå annan elektronisk utrustning eller i ett stängt skåp**. Lämna minst 20 cm fritt ovanför så att det blir ordentlig ventilation.\n\nOK? Nu kör vi!\n\n  * ### Koppla hdmi-kabeln från Mediahubben till din tv\n\n  * ### Anslut Mediahubben till din router\n\n  * ### Koppla strömkabeln mellan Mediahubben och ett eluttag\n\nAnvänd **aldrig** någon annan strömkabel än den du fick tillsammans med  \nMediahubben. Att göra det kan medföra att Mediahubben slutar fungera eller i\nvärsta fall orsaka brand.\n\n  * ### Starta Mediahubben med knappen på ovansidan\n\nSe till så att din tv är på. Om du inte får upp startbilden från Mediahubbens\ninstallationsflöde, se till så att rätt källa (source) är vald på din tv med\nhjälp av tv:ns fjärrkontroll.\n\n  * ### Sätt in batterierna i fjärrkontrollen\n\nPåsen som fjärrkontrollen ligger kan komposteras, bra va?\n\n  * ### Följ installationsflödet av Mediahubben på din tv\n\nNär Mediahubben laddar ned ny mjukvara fungerar inte fjärrkontrollen, detta\nkan ta en stund. Vänta då tills nedladdningen är klar innan du fortsätter med\ninstallationsflödet.\n\nKlart!  \n  \nNu kan du börja ladda ner appar och kolla på tv!  \n  \n **Tips** :  \n  \n[Här hittar du en användarmanual för\nMediahubben](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TB42089)\n(pdf)  \n  \n[Kolla hur fjärrkontrollen till Mediahubben\nfunkar](https://mediearkivet.telenor.se/Data/mw/GetPdf.aspx?ArticleNumber=TB42088)\n(pdf)  \n  \nNär Mediahubben kopplats in finns möjlighet att logga in med ett Google-konto\nför att du ska kunna ladda ned fler appar till Mediahubben och söka efter\ninnehåll med hjälp av rösten. Det går bra att hoppa över vid första\ninstallationen och göra i efterhand. Ett Google-konto skapar du enkelt igenom\natt [googla](http://www.google.se) på ”skapa ett Google-konto” och därefter\nfölja instruktionerna."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:41+00:00",
+        "last_modified": "2025-05-30T15:00:44.663038",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

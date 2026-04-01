@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/faktura_hjalp-att-forsta-fakturan.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 288,
+                "end": 5665,
+                "text": "#  Hjälp att förstå fakturan\n\nHär förklarar vi allt som kan stå på en faktura från oss.\n\nÄr det din **första** Telenorfaktura du undrar över? [Läs mer om din första\nfaktura](/support/faktura/forsta-fakturan/)\n\n### Ordlista\n\nAbonnentnummer\n\nDet telefonnummer som samtalen på fakturan är ringda från.\n\nDelbetalning\n\nOm du har delbetalning av en mobil eller surfplatta ser du det på fakturan. Du\nser också hur många månader du har betalat av den totala avbetalningstiden i\nmånader.\n\nFasta avgifter\n\nFasta avgifter är avgifterna för ditt abonnemang och dina tjänster, till\nexempel [försäkringen Trygg 48](/link/27b3a4e6adb24318a94bbb4c31f3db5a.aspx).  \n  \nFasta avgifter betalas **i förskott**.\n\nFörfallodatum\n\nDet datum din faktura ska vara betald och kommit Telenor tillhanda.\n\nFörmedlade tjänster\n\nFörmedlade tjänster kan vara sms som du skickat för att rösta i ett tv-\nprogram, pengar som du skänkt till välgörande ändamål via sms, eller en\nBlocket-annons.\n\nKundnummer\n\nEtt specifikt nummer du som kund får hos Telenor.\n\nOCR-nummer\n\nEtt referensnummer som anges vid betalning via bank- och postgiro. OCR-numret\nhänvisar till en särskild faktura.\n\nPlustjänster\n\nPlustjänster kan vara till exempel\n[Surfpaket](/link/f672291cad3b43ffa33b92fbc87c3656.aspx), försäkringen [Trygg\n48](/link/27b3a4e6adb24318a94bbb4c31f3db5a.aspx) eller delbetalning av en\nmobil eller surfplatta.\n\nRörliga kostnader\n\nExempelvis filmer från Filmbutiken och telefonsamtal. Debiteras alltid i\nefterhand.\n\nSurfpaket\n\nTelenor Surfpaket är vår tjänst som ger dig full koll på dina surfkostnader i\nländer där surfen inte ingår.  \n  \n[Mer om Surfpaket](/link/f672291cad3b43ffa33b92fbc87c3656.aspx)\n\nSurfpass\n\nOm du surfar i ett land där du _inte_ kan använda surfmängden som ingår i ditt\nabonnemang kostnadsfritt, syns kostnaden på din faktura som Surfpass, under\nrubriken Trafik. Det är alltså är ett fast pris per dag för din surf.  \n  \nOm du därefter köper extra surf, visas kostnaden för det som Extra Surfpass\nunder rubriken Plustjänster.\n\nTrafik\n\nTrafik är en samlingsrubrik för rörliga avgifter, som betalas i\n**efterskott**.  \n  \nDet kan till exempel vara ett betalsamtal, en Blocket-annons, pengar du skänkt\ntill välgörenhet eller att du ringt och röstat i Melodifestivalen.  \n  \nPå din **första faktura** kan perioden för rörliga avgifter ha startat innan\ndet datum du blev kund. Men självklart betalar du bara för kostnader från och\nmed det datum du verkligen blev kund.\n\nTrygg 48\n\nTrygg 48 är en försäkring. Den har tillägget Mobil eller Surfplatta beroende\npå vilken enhet försäkringen gäller.\n\n[Mer om Trygg 48](/link/27b3a4e6adb24318a94bbb4c31f3db5a.aspx)\n\nUppläggningsavgift\n\nUppläggningsavgiften är en engångsavgift som tas ut i samband med att du köper\nen ny mobil på delbetalning.\n\nAvgiften debiteras på första fakturan efter ditt köp.\n\nVärlden 1, 2 och 3\n\n[Länder som ingår i Världen 1, 2 och 3\n](/link/13ac63d4fb844402957b6bf08a7627ec.aspx#europe)\n\nÖvriga Europa\n\n[Länder som ingår i \"Övriga\nEuropa\"](/link/13ac63d4fb844402957b6bf08a7627ec.aspx#europe)\n\nÖvriga länder\n\n[Länder som ingår i \"Övriga\nländer\"](/link/13ac63d4fb844402957b6bf08a7627ec.aspx#europe)\n\n## Vanliga frågor om faktura\n\n  * Varför har fakturan ett annat belopp än jag förväntade mig?\n\nFakturabeloppet kan ändras från månad till månad, och det kan bero på massa\nolika saker, men det vanligaste är att du har **köpt** något eller **ändrat**\nnågot i ditt abonnemang. Eller helt enkelt köpt ett nytt abonnemang, eftersom\nden **första fakturan oftast är högre** än de nästkommande.  \n  \n[Läs allt om oväntat eller högt fakturabelopp\nhär](/link/dd9a19a5155c4628a519809bd0ec86fa.aspx)\n\n  * Var hittar jag trafikspecifikationer för mobilsamtal?\n\nDu hittar trafikspecifikationer för mobilabonnemang och hemtelefoni via\nmobilnätet i **fakturasektionen i Mitt Telenor**. Mitt Telenor finns både här\n[på webben](/link/a4531ddbfeef48d3a256e369df95234d.aspx) och som\n[app](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx).\n\n### Bra att veta:\n\n    * Det är **bara personen som använder numret** det ringts från som kan se trafikspecifikationen. \n    * I enlighet med [dataskyddsförordningen GDPR](/link/4fcdd3292dde41b6b654606eaae91569.aspx), sparar vi så lite data som möjligt. Det innebär att trafikspecifikationen bara visar samtal som kostar, till exempel samtal till utlandet och till betalnummer.\n\n  * Varför ska jag betala för samtal ringda i ett EU/EES-land?\n\nI vissa länder inom EU/EES, till exempel i Spanien, tar man betalt för samtal\ntill bland annat myndigheter och biluthyrningsfirmor (premiumsamtal). Så om du\nhar varit i ett land där du ska kunna ringa utan extra kostnad men ändå fått\nen faktura på samtal ringda utomlands kan det vara anledningen.  \n  \nPå Berecs hemsida ([VAS | BEREC\n(europa.eu)](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.berec.europa.eu%2Fen%2Fvas-\nnumbering-\nranges%3Ffield_vas_country_target_id%3DAll%26field_name_description_value%3DAll%26field_vas_number_range_value%3D&data=05%7C01%7Cfelicia.wipp%40telenor.se%7Ca911513758cf4cc7347d08db5c388fc8%7C1676489c5c7246b7ba639ab90c4aad44%7C1%7C0%7C638205170217963164%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=qEeZlvsBzTOPTPdS60uxJN7hBgG5BPt9qik3%2FLXvgNE%3D&reserved=0))\nkan du söka fram vilka nummerserier som är premiumsamtal i respektive EU/EES-\nland.\n\n",
+                "heading": " Hjälp att förstå fakturan"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:15+00:00",
+        "last_modified": "2025-05-30T13:58:17.526902",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

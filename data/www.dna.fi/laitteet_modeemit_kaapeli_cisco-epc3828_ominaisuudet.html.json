@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_kaapeli_cisco-epc3828_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 375,
+                "end": 1160,
+                "text": "# Cisco EPC3828\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/cisco-\nepc3828/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/cisco-\nepc3828/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/cisco-epc3828/asetukset) [\nPäivitykset ](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/cisco-\nepc3828/paivitykset)\n\n## Ominaisuudet\n\n  * Docsis 3.0 -yhteensopiva kaapelimodeemi\n  * Langaton yhteys: Wi-Fi 802.11n/g/b 2,4 GHz ja 5 GHz 3\n  * kpl 1 Gb LAN-portteja (esim. digiboksille tai tietokoneelle)\n  * IPv6-tuki Palomuuri ja NAT\n  * DNA:n kustomoidut asetukset\n\nMyyntipaketin sisältö: Cisco EPC3828 -modeemi, Ethernet-johto,  \nantenni-kaapelijohto, antennijakaja, virtajohto ja -adapteri, DNA:n pikaopas.\n\n",
+                "heading": "Cisco EPC3828"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:25+00:00",
+        "last_modified": "2025-06-20T15:04:35.391124",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

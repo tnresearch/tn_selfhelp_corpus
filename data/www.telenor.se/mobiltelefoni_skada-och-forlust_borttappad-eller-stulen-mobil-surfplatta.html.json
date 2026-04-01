@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_skada-och-forlust_borttappad-eller-stulen-mobil-surfplatta.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 321,
+                "end": 2762,
+                "text": "# Borttappad eller stulen mobil eller surfplatta\n\nSå tråkigt att din mobil eller surfplatta är borta! Här beskriver vi hur du\nkan hitta och/eller spärra mobilen, och hur du ersätter det som försvunnit.\n\n  * ### Hitta och/eller lås enheten\n\nBörja med att använda tillverkarnas smarta sätt att hitta och/eller låsa din\nmobil eller surfplatta.\n\n**iPhone/iPad:**[Hitta min iPhone](https://support.apple.com/sv-se/HT201472)\n\n**Samsung:  \n** Om du har ett Samsung-konto: [Find My\nMobile](https://www.samsung.com/se/apps/find-my-mobile/)  \nDu kan även använda Googles tjänst: [Hitta min\nenhet](https://support.google.com/accounts/answer/6160491?hl=sv)\n\n**Sony, Huawei och övriga Android-enheter:**[Hitta min\nenhet](https://support.google.com/accounts/answer/6160491?hl=sv)\n\n  * ### Spärra och/eller beställ nytt sim\n\nVill du se till att det varken går att ringa till eller från mobilen? Då ska\ndu spärra ditt sim-kort/e-sim. Du kan också passa på att beställa nytt, om du\ntror att du inte kommer att få tillbaka din mobil. Allt detta gör du i [Mitt\nTelenor](/mitt-telenor/) här på webben. Klicka dig in på ditt mobilabonnemang\nså hittar du funktionerna under rubriken \"Hantera sim\".\n\nDu kan även spärra ditt abonnemang genom att [kontakta vår\nkundservice](/support/old-kontakta-oss/). Om du ringer utanför öppettiderna\nkan du spärra abonnemanget själv genom att ta hjälp av talsvaret.\n\n  * ### Inloggad med TelenorID på enheten?\n\nOm du är inloggad med TelenorID på den försvunna enheten rekommenderar vi att\ndu [loggar ut på den.](/support/hjalp-med-inloggning/)\n\n  * ### För dig med försäkringen Trygg 48\n\nOm du har Trygg 48 kommer du att få en ny mobil eller surfplatta inom två dygn\nfrån att din skadeanmälan är komplett. Befinner du dig\n[utomlands](/support/vanliga-fragor/skada-och-forlust/vad-ska-jag-gora-om-det-\nhander-nagot-med-min-mobil-utomlands/) kan vi inte garantera att du får en ny\nenhet inom den tidsramen, men vi skickar din nya enhet så fort din\nskadeanmälan är registrerad och komplett.  \n  \nGenom att klicka på länken nedan kommer du till vår samarbetspartner där du\ngör din skadeanmälan. De hanterar även eventuella frågor om skadeanmälan och\nnås på [+46 10 80 85 098](tel:+46108085098).\n\n[Skadeanmälan](https://www.squaretrade.eu/se/telenor/)\n\n### För dig som inte har Trygg 48\n\nKontakta ditt försäkringsbolag för att se vad din hemförsäkring täcker.\n\n#### Köpa nytt?\n\n[Våra bästa erbjudanden just nu](/handla/erbjudanden/)\n\n",
+                "heading": "Borttappad eller stulen mobil eller surfplatta"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:18+00:00",
+        "last_modified": "2025-05-30T14:51:52.023908",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

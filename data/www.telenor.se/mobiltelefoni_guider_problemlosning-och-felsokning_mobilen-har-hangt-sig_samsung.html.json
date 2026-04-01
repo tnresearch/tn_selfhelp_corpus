@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_mobilen-har-hangt-sig_samsung.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 455,
+                "end": 1140,
+                "text": "#  Så startar du om din Samsung\n\nOm din telefon har hängt sig eller känns långsam kan du behöva göra en\nomstart. Omstarten kommer inte att påverka telefonens innehåll.\n\nDu kan starta om din telefon på tre sätt:\n\n## Stäng av och starta igen\n\n  1. Håll in strömknappen och välj \"Stäng av\".\n  2. För att starta telefonen igen håller du in strömknappen tills Android-symbolen dyker upp.\n\n## Hård omstart\n\n  1. På vissa modeller håller du ned strömknappen, på andra modeller ska du hålla ned både strömknappen och volym upp-knappen.\n  2. Vänta tills telefonen stängs av.\n\n## Ta ur batteriet\n\nOm du har en mobil där batteriet kan tas ut, så kan det vara en lösning om\ninget annat fungerar.\n\n",
+                "heading": " Så startar du om din Samsung"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:21+00:00",
+        "last_modified": "2025-05-30T14:45:30.330660",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

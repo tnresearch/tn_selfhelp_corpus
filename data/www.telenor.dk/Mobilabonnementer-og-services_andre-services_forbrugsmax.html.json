@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_andre-services_forbrugsmax.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 4740,
+                "reason": "Selected by user",
+                "start": 3529,
+                "text": "#  Forbrugsmax på indholdstjenester\n\nVi har sat forbrugsmax på dit abonnement, så du lettere kan holde øje med dit\nforbrug af indholdstjenester som fx spil, parkering, busbilletter og\ndonationer. Servicen aktiveres automatisk, første gang du i en regningsperiode\nkøber en indholdstjeneste. Du kan opsige servicen på [Mit Telenor](/mit-\ntelenor/abonnement/detaljer/mobil/).\n\nDu finder det samlede beløb under \"Indholdstjenester\" på din mobilregning.\n\n**Dit forbrugsmax er fastsat til:**\n\n  * 750 kr. pr. dag\n  * 1.500 kr. pr. uge\n  * 2.220 kr. pr. regningsperiode\n\nNår du har købt indholdstjenester for 250 kroner, modtager du en sms. Rammer\ndu dit maksimum, bliver din mobil automatisk spærret for køb af flere\nindholdstjenester. Dit forbrugsmax bliver nulstillet, når din nye\nregningsperiode starter.\n\nVær opmærksom på at der kan gå 24 timer, fra du fx donerer penge til en\nindsamling, til vi har registreret beløbet.\n\nVil du se, hvor meget du har brugt i denne periode? Tjek [Mit Telenor.](/mit-\ntelenor/abonnement/forbrug/)\n\nHvis du gerne vil sætte en specifik grænse for alt forbrug udover abonnement,\nskal du bruge [forbrugskontrol](/kundeservice/Mobilabonnementer-og-\nservices/opsatning/forbrugskontrol/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:02+00:00",
+        "last_modified": "2025-05-21T15:15:26.035559",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

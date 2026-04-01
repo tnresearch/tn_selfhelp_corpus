@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_sakerhet_valj-mobil_iphone_uppdatera-operativsystemet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 361,
+                "end": 1121,
+                "text": "# Uppdatera operativsystem (iOS)\n\nSå här gör du för att installera den senaste varianten av operativsystemet\n(kallas även för programuppdatering) på din iPhone. Det kommer att göra att\ndin mobil fungerar så bra, och inte minst så säkert, som möjligt.\n\n  * ### Gå till startskärmen\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Välj \"Allmänt​\"\n\n  * ### Välj \"Programuppdatering​\"\n\n  * ### Nu söker din iPhone efter den senaste uppdateringen\n\nHar du redan den senaste versionen så kommer det synas på skärmen. ​\n\n  * ### Automatiska uppdateringar\n\nFör att din telefon ska fungera så bra och säkert som möjligt är det viktigt\natt alltid ha det senaste operativsystemet installerat. Därför rekommenderar\nvi att du passar på att slå på funktionen ”Uppdatera automatiskt”."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:04+00:00",
+        "last_modified": "2025-05-30T14:48:49.629806",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

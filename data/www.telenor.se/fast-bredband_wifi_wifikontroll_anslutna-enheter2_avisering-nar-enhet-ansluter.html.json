@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_wifikontroll_anslutna-enheter2_avisering-nar-enhet-ansluter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 416,
+                "end": 1058,
+                "text": "# Avisering när enhet ansluter\n\n  * ### Välj enheter i menyn\n\nVälj enheter i menyn och klicka på den enhet som du vill ställa in aviseringar\nför.\n\n  * ### Klicka på anslutningsmeddelanden\n\n  * ### Bestäm när du vill ha meddelanden\n\nAktivera meddelandefunktionen och välj om du vill ha ett meddelande när\nenheten ansluter, eller om du aktivt vill ge ditt godkännande varje gång\nenheten ansluter till nätverket.\n\nKlicka sedan på meddelandeschema för att bestämma när och hur du vill få dina\nmeddelanden. Välj mellan att alltid få meddelande eller ställ in vissa\ntidpunkter/dagar.\n\nKlicka på bocken uppe i högra hörnet för att bekräfta dina val."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:03+00:00",
+        "last_modified": "2025-05-30T14:14:12.516425",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

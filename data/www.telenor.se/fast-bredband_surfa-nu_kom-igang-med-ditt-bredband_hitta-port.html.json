@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_surfa-nu_kom-igang-med-ditt-bredband_hitta-port.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 919,
+                "text": "# Hitta rätt port på tjänstefördelaren\n\nPort 1 (LAN 1) är rätt för de flesta, men inte för alla.\n\n### Så här hittar du rätt port:\n\n  * Gå in på [telenor.se/port](/support/portar/) och skriv in din adress\n  * Koppla in i den port som visas i sökresultatet\n  * Sedan tar aktiveringen oftast bara en kvart, men kan ta upp till ett dygn. Men ta det lugnt, du kommer att få ett sms när det är klart.\n\n###  \nKopplat in i rätt port, kan ändå inte surfa?\n\n  * Om det står att du ska koppla in i port 1 och du ändå inte kan surfa, är du förmodligen **för tidigt ute**\n  * Kolla vilket datum som står som \"preliminärt aktiveringsdatum\" på den orderbekräftelse du fått via mejl\n\n  \nVerkade det krångligt? Ta det lugnt, läs en gång till om du behöver."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:28+00:00",
+        "last_modified": "2025-05-30T14:10:39.711623",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

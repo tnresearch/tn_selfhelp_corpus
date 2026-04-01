@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 242,
+                "end": 3886,
+                "text": "#  Tv och stream\n\nVill du kolla på tv men har lite problem? Gå ingenstans. Hundratals kunder\nhittar rätt här varje dag.\n\nKom igång!\n\nDen ultimata guiden till att titta på tv från Telenor är max tre klick bort –\nhur du än vill titta. **  \n  \n**[Låter bra, ta mig till tv-guiderna!](/support/tv-och-stream/kom-igang/)\n\nKan du inte kolla?\n\n**Funkar det inte alls?** Kolla om det är en\n[driftstörning](/support/driftinformation/driftstorningar-pa-tv--och-\nbredbandsnatet/)  \n  \n **Funkar det dåligt** trots att det inte är en driftstörning?\n[Problemlösning](/support/tv-och-stream/problemlosning/)  \n  \nVisas det ett felmeddelande på skärmen? [Till felmeddelanden ](/support/tv-\noch-stream/felmeddelande/)\n\nÄndra något\n\nVill du ändra något ska du logga in i Mitt Telenor. Där kan du\n\n  * uppgradera ditt tv-paket och köpa tillval\n  * ändra inloggningsuppgifter till Telenor Stream\n\n[Logga in](/mitt-telenor/)\n\nAnnat\n\n[Installera trådlös tv](/support/tv-och-stream/guider-och-manualer/tv-via-\nfiber/installera-tradlos-tv/)\n\n[Manualer för kanalsökning](/support/tv-och-stream/guider-och-manualer/)\n\n[Manualer för fjärrkontroller](/support/tv-och-stream/guider-och-manualer/)\n\n[Manualer och guider](/support/tv-och-stream/guider-och-manualer/)\n\n[Retur av utrustning](/support/retur-av-utrustning/)  \n  \n[Villkor, blanketter och prislistor ](/support/priser-villkor-och-\nblanketter/fast-bredband-tv-telefoni/)  \n  \n[Om du ska flytta](/support/om-du-ska-flytta/)\n\n## Vanliga frågor om tv\n\n  * Vilka enheter kan jag streama till?\n\n**I datorn**  \nGå till adressen [stream.telenor.se](http://stream.telenor.se) och logga in.  \n  \n**I mobilen och surfplattan**  \nFör att kunna använda tjänsten i din mobil och surfplatta behöver du ladda ned\nappen Telenor Stream. Appen finner du i [App\nStore](https://apps.apple.com/se/app/telenor-stream/id1165060878?l=en-se) och\n[Google\nPlay](https://play.google.com/store/apps/details?id=se.bredbandsbolaget.stream&hl=sv).  \n  \n**På tv:n**  \nFör att nå tjänsten via din tv kan du använda Google Chromecast alternativt\nladda ner appen Telenor Stream till Apple TV (gen 4 och nyare) eller Android\nTV (version 9 eller nyare). Eller streama direkt på din smarta tv från Samsung\neller LG. [Mer information hittar du\nhär](/link/32caafd011864baf8e56792a180757e6.aspx).\n\n  * Hur loggar jag in på Telenor Stream första gången?\n\nGör så här:\n\n    1. Först aktiverar du ditt konto på [telenor.se/aktivera-stream. ](/link/7bf62d1cb0594c6a8e394ce82709c537.aspx)\n    2. Sedan går du antingen in på [stream.telenor.se](http://stream.telenor.se) eller så laddar du ned Telenor Stream i App Store eller Google Play, och loggar in där.\n\n  * Kan jag streama till flera enheter samtidigt?\n\nJa, du kan streama på upp till två enheter samtidigt på ditt abonnemang.\n\n  * Vilka tv-paket kan jag välja mellan?\n\nDu kan välja mellan fyra olika tv-paket – Bas, Mellan, Stor eller Premium.\nSkillnaden mellan paketen är hur många kanaler som ingår.\n\n[Här kan du söka på din adress och se vilket tv-paket du kan\nfå.](/link/da04f05abecf4c5799b1a22b069a1017.aspx)\n\n[I tv-paketen ingår appen Telenor\nStream](/link/7da15ed71c7d4874bbb0e4c3bd6ccd7b.aspx), så att du kan titta på\nditt tv-innehåll på vilken skärm du vill, var du vill. En tv-box ingår också\nsom lån utan extra kostnad.\n\nDu kan enkelt byta mellan de olika tv-paketen, och din bindningstid förlängs\ninte när du byter.\n\n  * Hur kan jag se Champions League hos Telenor?\n\nDu hittar alla Champions League-sändningar på Telenor Stream, i Viaplay-appen\noch på V Sport-kanalerna. För att se Champions League behöver du först ha ett\ntv-paketet[ Tv Premium](/link/59fef91711284d888c2678f184ede13e.aspx)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:44+00:00",
+        "last_modified": "2025-05-30T14:56:28.562678",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

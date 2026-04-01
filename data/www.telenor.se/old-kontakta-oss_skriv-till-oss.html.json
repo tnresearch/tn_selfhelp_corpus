@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/old-kontakta-oss_skriv-till-oss.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 295,
+                "end": 3153,
+                "text": "#  Skriv till oss\n\nDu får alltid svar snabbast om du ringer till oss på **[020-222\n222.](tel:020222222)** Vill du hellre skriva? Gör så här:\n\n  \nAnvänd meddelandefunktionen i **[Mitt Telenor](/mitt-telenor/)**. Där kan vi\nbesvara alla typer av frågor.\n\nMeddelandefunktionen i Mitt Telenor är bra när du har specifika frågor om dina\nabonnemang, men inte har möjlighet att ringa. Allt du behöver göra är att\nlogga in så hjälper vi dig där.\n\n[Logga in och använd meddelandefunktionen](/mitt-telenor/)\n\n  \n**Tips!** I [Mitt Telenor](/mitt-telenor/) (webb och app) kan du även själv\nhitta svar på många frågor samt administrera dina abonnemang. Du kan bland\nannat:\n\n  * Se din faktura, både kommande och föregående.\n  * På din faktura kan du även [se ditt kundnummer](/support/vanliga-fragor/abonnemang/var-hittar-jag-mitt-kundnummer/).\n  * Köpa mer surf, hålla koll på surfen i familjen och fördela surf mellan olika användare.\n  * Göra ändringar i ditt abonnemang, lägga till tjänster, se dina avtal och mycket mer.\n\n## Mer information & kontaktvägar\n\n  * Behöver du hjälp med överlåtelse eller fullmakt?\n\n**Överlåtelse  \n** Om du vill ta över ett abonnemang som ägs av någon annan, [läs mer\nhär.](/link/79b6815407214693916f641dcc13a5c6.aspx)\n\n**Fullmakt  \n** Om du behöver hjälp att teckna eller återkalla en fullmakt, [läs mer\nhär.](/link/b32cb0993664489e93fa7ad1635f8c4e.aspx)  \nVill du skicka in en fullmakt via brev? Använd denna postadress:\n\nTelenor  \nFE110  \n106 56 Stockholm\n\n  * Har du inget BankID?\n\nOm du saknar BankID kan ring oss på [020-222 222, ](tel:020222222)så hjälper\nvi dig att beställa en personlig kod. Du kan även skicka ett brev till\npostadressen:  \n  \nTelenor  \nFE110  \n106 56 Stockholm\n\n  * Skicka brev till oss\n\nVill du skicka brev till oss? Märk ditt kuvert med följande adress:\n\nTelenor  \nFE110  \n106 56 Stockholm\n\n  * Vill du mejla istället?\n\nDu får gärna mejla oss. Tänk dock på att:\n\n    * Ditt mejl skickas helt utan kryptering och kan i värsta fall hamna hos någon som inte har rätt att läsa det.\n    * Inte skriva ut pontentiellt känsliga uppgifter, exemplevis person- eller kundnummer.\n    * Vi endast kan besvara generella frågor via mejl.\n    * Har du mer specifika frågor om just ditt abonnemang? Använd vår [kontaktsida ](/link/12530dbd72b84becbbc79096199f64db.aspx \"https://www.telenor.se/support/kontakta-oss/\")för snabbast svar.\n\n**Generella frågor om mobiltelefoni, hemtelefoni via mobilnätet eller mobilt\nbredband  \n** Skicka ditt mejl till:\n[generellafragor.mobil@telenor.se](mailto:generellafragor.mobil@telenor.se\n\"mailto:generellafragor.mobil@telenor.se\")\n\n**Generella frågor om om bredband, tv och streaming eller hemtelefoni via\nbredbandet  \n** Skicka ditt mejl till:\n[generellafragor.bredband.tv@telenor.se](mailto:generellafragor.bredband.tv@telenor.se\n\"mailto:generellafragor.bredband.tv@telenor.se\")  \n  \n\n",
+                "heading": " Skriv till oss"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:20+00:00",
+        "last_modified": "2025-05-30T14:54:05.373749",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "general contact"
+}

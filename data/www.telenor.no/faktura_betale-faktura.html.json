@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/faktura_betale-faktura.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 122,
+                "end": 1122,
+                "text": "# Betale faktura\n\nHer finner du hjelp og veiledning til betaling av faktura på Mine Sider eller\ni Mitt Telenor\n\n## Betale faktura i Mitt Telenor\n\nPå forsiden i appen, scroll ned til du finner **Faktura** og trykk på den.\n\nHer finner du valg for å **betale, utsette eller åpne** selve fakturaen.\n\n### 1\\. Finn faktura\n\nTrykk på den ubetalte fakturaen\n\n### 2\\. Fakturadetaljer\n\nTrykk på \"Betal faktura\". Her kan du også utsette faktura ved behov.\n\n### 3\\. Velg betalingsmåte\n\nTrykk på betalingsmåten du ønsker å bruke\n\n### 4\\. Betaling med kort\n\nVelger du å betale med bank-eller kreditt-kort, fyller du inn informasjonen og\ntrykker på \"Betal\".\n\n## Betale faktura på Mine Sider\n\n  1. Trykk på boksen under, den tar deg direkte til Faktura-sidene\n\n  2. Ubetalte fakturaer ligger øverst, trykk på \"Betal nå\"\n\n  3. Velg så hvordan du vil betale fakturaen, og følg henvisning videre\n\n    * Betalingskort\n\n    * Vipps\n\n    * Kredittkort\n\n[Faktura på Mine Sider](https://www.telenor.no/mitt-telenor/faktura/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:25+00:00",
+        "last_modified": "2025-05-30T08:24:20.669448",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

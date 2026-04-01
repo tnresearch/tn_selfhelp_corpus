@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-e5186_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 403,
+                "end": 2020,
+                "text": "# DNA Kotimokkula 4G+ WLAN E5186\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-e5186/vianmaaritys)\n\n## Päivitykset\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\nPäivitys tapahtuu hyväksymällä se asetussivuilta (Web-käyttöliittymä) joko\nautomaattisesti tulevan ilmoituksen kautta tai manuaalisesti hakemalla\npäivitys **Päivitys - > Hae päivitys** polusta.  \n\n**30.11.2017 julkaistiin uusi päivitys E5186:lle**\n\nPäivityksessä tulee mukana:\n\n• Siltaava tila • 2100 MHz:n lukko\n\n• Tietoturvapäivityksiä\n\n• 5 Ghz:n Wi-Fin pätkintä ongelma korjattu\n\n• Muita pieniä käyttöliittymämuutoksia\n\n**Päivityksen versionumero on: V200R001B316D01SP01C182**  \n\nKeskiviikkona 16.9.2015 julkaistiin päivitys E5186:lle.  \n  \nPäivityksessä tulevat mukana:\n\n  * LTE-taajuuslukko\n  * WiFi-kaistaleveyden uudelleennimeäminen “auto”:sta ”20/40”:een. \n  * SNR-tiedot info-sivulle\n  * IPv6-tuki\n  * UPnP on oletuksena päällä\n  * Ipv4v6 dual stack on oletuksena päällä\n\nPäivityksen versionumero on 21.306.01.00.182  \n\n",
+                "heading": "DNA Kotimokkula 4G+ WLAN E5186"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:13:19+00:00",
+        "last_modified": "2025-06-20T18:54:40.061743",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

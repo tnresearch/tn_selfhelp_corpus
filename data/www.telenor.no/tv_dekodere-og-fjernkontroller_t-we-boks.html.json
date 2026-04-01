@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller_t-we-boks.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 189,
+                "end": 2148,
+                "text": "# Hjelp med T-We Boks\n\nTrenger du brukerveiledning, hjelp med oppkobling eller installasjon av T-We\nBoks? Her finner du alt samlet på et sted.\n\n## T-We\n\nMed T-We Boks har du tilgang på flere nyttige funksjoner som f.eks.\nfavorittlister og ukesarkiv. For hjelp med de forskjellige funksjonene i TV-\nmenyen kan du bla i brukermanualen på denne siden, eller ta en titt på våre\n[brukerveiledninger for T-We](/kundeservice/tv/brukerveiledning-t-\nwe/)[.](https://www.telenor.no/privat/kundeservice/tvhjelp/bruk-twe/)\n\n### Koble til TV\n\nHer finner du veiledninger for riktig kabling og installasjon av T-We med T-We\nBoks.\n\n[Koble til...](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks/koble-\ntil/)\n\n### Fjernkontroll\n\nBli kjent med de forskjellige knappene på fjernkontrollen og les mer om\nhvordan du kan programmere den.\n\n[Mer om fjernkontroll...](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-\nboks/fjernkontroll/)\n\n  * #### Tekniske spesifikasjoner\n\n    * Tilrettelagt for strømming til iPad\n\n    * 500 GB Harddisk\n\n    * 8 tunere\n\n    * HD-oppløsning \n\n    * Elektronisk programguide (EPG)\n\n    * Innebygd modem \n\n    * Dolby Digital Plus \n\n    * HDMI \n\n    * RCA Stereo-utgang \n\n    * Optisk audio utgang (toslink S/PDIF)\n\n    * Digitale radiokanaler\n\n    * Foreldrekontroll\n\n    * Størrelse (BxDxH): 330x340x70 mm\n\n    * Støtter opp til 60Hz 1080P\n\n  * #### Nullstill T-We Boks\n\nHer finner du[ ](/privat/kundeservice/nullstill-dekoder/)[informasjon om\nhvordan du nullstiller T-We Boksen](/kundeservice/delt/nullstill-dekoder/) via\nmenyen eller fysisk på dekoderen.\n\n  * #### PIN-kode T-We\n\nPIN-koden er som standard satt til 1-2-3-4.\n\nØnsker du å endre PIN-koden, eller har du glemt hva du har endret den til?[\nLes mer om PIN-koder her.](/kundeservice/tv/brukerveiledning-t-we/pin-kode/)\n\n## Brukermanual\n\nHvis du ønsker laste ned denne veiledningen til din datamaskin eller mobil,\ntrykker du på nedlastningssymbolet i venstre hjørne på filen over."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:03+00:00",
+        "last_modified": "2025-05-30T09:38:09.130833",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/flytting.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 71,
+                "end": 2898,
+                "text": "# Flytte bredbånd? Vi hjelper deg!\n\nDet er mye å holde styr på i forbindelse med flytting og det er fort gjort å\nglemme ettersending av post, tegning av nye forsikringer, og ikke minst, få\n**bredbånd og TV** på plass!\n\nEnten du ønsker å opprette et nytt abonnement, eller endre adresse på\neksisterende abonnement hjelper vi deg gjerne.\n\n## Kontakt oss\n\nHvis du ønsker TV og/eller bredbånd fra Telenor kan du bestille i chatten\nmellom 09:00-16:30 alle ukedager ved å klikke på chatboblen på høyre side av\nskjermen.  \n  \nAlternativt kan du kontakte oss på kundeservice for å bestille flytting. Du\nkan enten ringe til oss, eller fylle ut et skjema og vi vil kontakte deg med\net godt tilbud.\n\nFor at du skal få sikret internett og TV i din nye bolig, bør du gi oss\nbeskjed **tre uker** før ønsket oppkoblingsdato.\n\n### Ring Flyttetelefonen\n\nKontakt oss, så hjelper vi deg med å melde flytting av ditt eksisterende\nbredbånd eller bestille nytt i ny adresse.\n\n[Ring oss på 815 00 391](tel:+4781500391)\n\n### Kontakt meg\n\nVil du heller at vi skal ta kontakt med deg? Fyll ut skjemaet via knappen\nunder, så ringer vi deg så snart vi kan.\n\n[Kontakt meg](/kundeservice/flytting/kontaktmeg/)\n\n### Telenorfordeler\n\nAlltid WiFi fra Telenor\n\nGarantert fornøyd med WiFi-dekningen i hele hjemmet!\n\nNettvern+\n\nNettvern+ er et forsterket sikkerhetsfilter som hindrer deg i å gå inn på\nutrygge nettsider og beskytter deg mot digitale trusler.\n\nAlltid På Nett-garanti\n\nEr bredbåndet nede får du kostnadsfrie datapakker når du har mobilabonnement\nfra Telenor.\n\nMitt Telenor App\n\nEnkel oversikt og tilgang til selvbetjening\n\n## Endre adresse på mobilabonnement?\n\nNår du flytter, må du også endre adresse på ditt mobilabonnement - slik at\nfaktura og eventuell informasjon eller nye SIM-kort vi sender til deg når\nfrem.\n\nFor å gjøre dette, trenger du bare kontakte oss på kundeservice.\n\n[Gå til Kontakt oss](/kundeservice/kontakt-oss/)\n\n## Andre spørsmål om flytting\n\n  * #### Kan jeg ta med ruter og TV-boks fra Telenor når jeg flytter?\n\nJa, har du ruter og annet utstyr fra Telenor som du har kjøpt, kan du ta det\nmed deg til din nye bolig. Bruk av utstyret forutsetter at du har Telenor på\ndin nye adresse.\n\nDersom du har leid WiFi Ruter eller TV-boks må disse returneres Telenor. Du\nvil få tilsendt nytt utstyr på din nye Telenor-adresse.\n\n  * #### Må jeg melde flytting hvis jeg bare har mobilabonnement hos Telenor?\n\nJa, du må registrere endring av adresse. Ta kontakt med oss på kundeservice,\nså fikser vi det for deg.\n\n  * #### Hvordan sier jeg opp abonnementet mitt?\n\nDu kan lese mer om [oppsigelse, oppsigelsestid og andre relevante emner\nher](/kundeservice/oppsigelse/).\n\nØnsker du å si opp ditt abonnement, kan du bruke [skjema for\noppsigelse](/kundeservice/kontakt-oss/e-post/) eller [kontakte\nKundeservice](/privat/kundeservice/kontakt/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:06+00:00",
+        "last_modified": "2025-05-30T08:26:16.983266",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

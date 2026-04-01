@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_fler-tjanster_wifi-samtal_sa-har-aktiverar-du-wifi-samtal-pa-din-huawei.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 455,
+                "end": 1317,
+                "text": "# Så här aktiverar du wifi-samtal på din Huawei\n\nNär du har aktiverat wifi-samtal kommer du att kunna prata i mobilen överallt\nnär du är ansluten till wifi. Det funkar även när du har mobilen i\nflygplansläge. Tänk på att du behöver vara ansluten till ett svenskt wifi-nät\nsom stödjer samtal. Läs mer om vad [wifi-samtal innebär\nhär](/support/mobiltelefoni/abonnemang/fler-tjanster/wifi-samtal/).\n\n  * ### Öppna Inställningar\n\n  * ### Välj Trådlöst och nätverk\n\n  * ### Klicka på Mobilnätverk\n\n  * ### Tryck på wifi-samtal \n\nDu hittar det under sim 1 eller sim 2, beroende på vilket simkort du använder.\n\n  * ### Dra reglaget för wifi-samtal så att den öppnas och blir blå\n\n  * ### Tryck Aktivera i rutan som öppnas\n\nInformationen om att nödsamtal inte fungerar via wifi stämmer inte. Huawei\nkommer att ändra detta meddelande då **nödsamtal fungerar via wifi**.\n\n",
+                "heading": "Så här aktiverar du wifi-samtal på din Huawei"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:48+00:00",
+        "last_modified": "2025-05-30T14:23:49.115147",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

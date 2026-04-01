@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wlan-e5377_asetukset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 405,
+                "end": 4566,
+                "text": "# DNA Matkamokkula 4G WLAN E5377\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/vianrajaus)\n\n## Asetukset\n\nPääset mokkulan ohjelmiston hallintasivulle syöttämällä nettiselaimen\nosoiteriville http://dna.mokkula. Yhteys edellyttää, että ole liittynyt\nmokkulan WiFi-verkkoon tai USB-kaapeli on kytketty kiinni tietokoneeseen.\nHallintasivun oletussana on 1234.\n\nMokkulan lukitseminen 4G- tai 3G-verkkoon\n\nMokkula valitsee oletusasetuksenaan joko 4G- tai 3G-verkon. Jos haluat muuttaa\ntätä, toimi seuraavasti.\n\n  1. Avaa nettiselain ja kirjoita selaimen osoiteriville http://dna.mokkula.\n  2. Valitse ylhäältä **Asetukset**.\n  3. Syötä salasanaksi 1234.\n  4. Valitse vasemmalta **Modeemi**.\n  5. Valitse Modeemin alta kohta Mobiiliverkkoasetukset ja tämän kohdan suositustila vierestä: \n    * 4 G tai 3G: Mokkula valitsee 4G- tai 3G-verkon oletuksena.\n    * Vain 4G: jos haluat pakottaa mokkulan 4G-verkkoon.\n    * Vain 3G: jos haluat pakottaa mokkulan 3G-verkkoon.\n    * AUTO: Mokkula valitsee automaattisesti nopeimman saatavilla olevan verkkoteknologian. Jos 4G- tai 3G-verkkoa ei ole saatavilla, mokkula valitsee 2G-verkon. \n\nWiFi-verkon nimen tai salasanan muuttaminen\n\n  1. Avaa nettiselain ja kirjoita selaimen osoiteriville http://dna.mokkula.\n  2. Valitse ylhäältä **Asetukset**.\n  3. Syötä salasanaksi 1234.\n  4. Valitse yläpalkista Asetukset ja sen jälkeen vasemmalta WiFi ja tämän jälkeen WiFi Perusasetukset.\n  5. WLAN-verkon nimen vaihdat kohdasta SSID ja verkon salasanan kohdasta WPA Esijaettu avain. Valitse Näytä Salasana, jos haluat nähdän salasanan kirjaimina.\n  6. Valitse lopuksi Käytä.\n\n4G Mode (4G-tila)\n\nKun asiakaslaite on yhdistetty tähän mokkulaan, voit käyttää nettiä\nAutomaattinen- tai Manuaalinen-tilassa. Oletustila on Automaattinen.  \n\nTila | Toiminto  \n---|---  \nAutomaattinen | Laite yhdistetään nettiin automaattisesti. Voit käyttää nettiä\nasiakaslaitteen kautta.  \nManuaalinen |\n\n1\\. Kirjaudu mokkulan määrityssivulle.\n\n2\\. Valitse **Asetukset > Verkon asetukset > Yhteys > Yhteystila** >\n**Manuaalinen** ja valitse sitten **Käytä**.\n\n3\\. Valitse Home (Aloitus) ja valitse sitten Connect (Yhdistä) tai Disconnect\n(Katkaise yhteys).  \n  \n  \nHuom! Voit muuttaa laitteen parametreja kirjautumalla mokkulan\nmäärityssivulle.\n\nInternet-tukiasematila\n\n  1. Kirjaudu mokkulan määrityssivulle.\n  2. Valitse **Asetukset > Internet Access Point** (Internet-tukiasema).\n  3. Määritä **Connection via an access point** (Yhteys tukiaseman kautta) -asetukseksi **Enable** (Käytössä) ja **Preferred Network** (Ensisijainen verkko) -asetukseksi **WiFi** ja valitse sitten **Käytä**.\n  4. Valitse **Lisää** ja lisää sitten WiFi-tukiasema kahdella tavalla \n    * Valitse taulukossa mainittu WiFi-tukiasema, anna tarvittaessa salasana Salasana-ruutuun ja valitse **Käytä**.\n    * Anna WiFi-tukiaseman tiedot Add Wi-Fi Hotspot (Lisää Wi-Fi-tukiasema) -kohdassa ja valitse sitten **Käytä**.\n  5. Valitse lisäämäsi WiFi-tukiasema ja valitse sitten Connect (Yhdistä).\n\nKun asiakaslaite on yhdistetty WiFi-tukiasemaan, voit käyttää internettiä.\n\nTietokoneen asetusten määrittäminen (Windows 7)\n\n**Seuraavassa ohjeet WiFi-yhteyden Internet-protokollan määrittämiseen Windows\n7 -käyttöjärjestelmässä:**\n\n  1. Napsauta hiiren kakkospainikkeella Verkko-kohtaa ja valitse **Ominaisuudet**\n  2. Valitse **Muuta sovittimen asetuksia**.\n  3. Napsauta hiiren kakkospainikkeella **Langaton verkkoyhteys** -kohtaa ja valitse **Ominaisuudet**.\n  4. Valitse **Internet Protocol Version 4 (TCP/IPv4)** ja valitse **Ominaisuudet**.\n  5. Valitse Hanki **IP-osoite automaattisesti, Hae DNS-palvelimen osoite automaattisesti** ja valitse **OK**.\n\n",
+                "heading": "DNA Matkamokkula 4G WLAN E5377"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:33+00:00",
+        "last_modified": "2025-06-20T19:04:00.738752",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

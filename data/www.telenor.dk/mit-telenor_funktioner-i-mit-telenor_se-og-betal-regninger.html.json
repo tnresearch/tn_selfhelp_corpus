@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_funktioner-i-mit-telenor_se-og-betal-regninger.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1921,
+                "reason": "Selected by user",
+                "start": 1236,
+                "text": "# Se og betal regninger\n\nI Mit Telenor kan du se og betale alle dine regninger fra Telenor. Under\n”Regninger” finder du et overblik over alle dine regninger, ligesom du kan\nholde styr på eventuelt forbrug udover til abonnement.\n\nPå disse sider kan du skifte betalingsmetode for hvert enkelt konto. Dette er\nbrugbart, hvis du fx har fået nyt betalingskort.\n\nHvis du har købt din telefon med en smartaftale, vil det ligeledes fremgå her.\nDu finder både en oversigt over, hvor mange måneder der er tilbage på den\ngivne aftale, og hvor meget der skal afdrages.\n\nHvis du har spørgsmål til dine regninger, kan du finde svar på de mest\nstillede spørgsmål [her](/kundeservice/kob-og-regning/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:36+00:00",
+        "last_modified": "2025-05-21T15:15:53.544684",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

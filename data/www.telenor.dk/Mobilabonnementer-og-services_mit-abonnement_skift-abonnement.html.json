@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_mit-abonnement_skift-abonnement.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 986,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Hvordan skifter jeg til et nyt mobilabonnement?\n\nEt godt mobilabonnement er et, der passer til dig og dine behov. Det er nemt\nat skifte til et nyt abonnement, men metoden afhænger lidt af, om du er i\nbinding eller ej:\n\nJer er fri af min bindingsperiode\n\nHvis du er ude af din bindingsperiode, kan du nemt skifte til et nyt\nmobilabonnement. Det kan du gøre på [Mit Telenor](/login/) ved at henvende dig\ni en [Telenor-butik](/find-butik/) eller ved at kontakte vores\n[kundeservice](/kundeservice/kontakt/). Se alle mobilbonnementer\n[her](/shop/abonnementer/abonnementer-til-dig/).\n\nJeg er stadig i bindingsperiode\n\nDu kan altid opgradere til et abonnement med en højere månedlig pris, hvis du\nfx har brug for mere data. Se alle vores\n[abonnementer](/shop/abonnementer/abonnementer-til-dig/).\n\nJeg er i tvivl, om jeg er i bindingsperiode\n\nTjek, om du er i binding ved at Mit Telenor og gå ind under\n[Abonnementer](/mit-telenor/abonnement/). Det er også her, du kan skifte dit\nabonnement."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:24+00:00",
+        "last_modified": "2025-05-21T15:15:28.800324",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

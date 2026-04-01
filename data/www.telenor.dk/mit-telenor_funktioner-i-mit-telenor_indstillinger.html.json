@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_funktioner-i-mit-telenor_indstillinger.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1643,
+                "reason": "Selected by user",
+                "start": 1236,
+                "text": "# Indstillinger\n\nUnder fanen ”Profil” kan du se og ændre en række oplysninger.\n\nDu kan se personlige oplysninger som navn og adresse under\nkontaktinformationer og vælge, hvilket telefonnummer og hvilken e-mail, vi kan\nkontakte dig på. Det er også her, du kan gå til dit Telenor ID og ændre e-mail\n(brugernavn) og adgangskode.\n\nNederst på siden kan du styre dine tilladelser som fx modtagelse af\nnyhedsbrev.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:42+00:00",
+        "last_modified": "2025-05-21T15:15:52.705578",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_faktura_vad-ar-trygg-48.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 248,
+                "end": 1466,
+                "text": "# Vad är Trygg 48?\n\nHar du sett att det står Trygg 48 på din faktura? Trygg 48 är vår försäkring\nsom garanterar att du får en utbytesmobil eller -surfplatta inom 48 timmar\n(vardagar) från det att din skadeanmälan är registrerad och komplett. Längre\ntid ska det inte behöva ta att få igång sitt mobila liv igen. Blir din mobil\nstulen under din semester inom EU/EES skickar vi en ny utbytesenhet till dig\nså fort din skadeanmälan är registrerad och komplett.  \n  \nTrygg 48 kostar inget de första två månaderna, sedan kostar det 149 kr/mån för\nmobiler och 59 kr/mån för surfplattor. Under prövotiden får du ett sms där du\nkan avaktivera Trygg 48. Är du nöjd så gör du ingenting. Den bindningsfria\nförsäkringen löper på och kostnaden läggs på din faktura.  \n  \n[Här hittar du våra försäkringsvillkor.](/support/priser-villkor-och-\nblanketter/mobiltelefoni-och-mobilt-bredband/villkor-och-blanketter/)\n\nDu kan läsa mer om förköpsinformation för Trygg 48 nedan:\n\n[Förköpsinformation Trygg 48\n(pdf)](https://mediearkivet.telenor.se/Data/mw/Pdf/TA01182.pdf\n\"förköpsinformation Trygg 48 \\(pdf\\)\")\n\nVill du avsluta Trygg 48? [Så här gör du.](/support/vanliga-fragor/skada-och-\nforlust/hur-sager-jag-upp-forsakringen-trygg-48/)\n\n",
+                "heading": "Vad är Trygg 48?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:56+00:00",
+        "last_modified": "2025-05-30T17:44:02.423429",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

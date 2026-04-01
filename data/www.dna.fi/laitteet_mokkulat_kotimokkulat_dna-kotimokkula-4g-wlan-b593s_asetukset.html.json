@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b593s_asetukset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 400,
+                "end": 5574,
+                "text": "# DNA Kotimokkula 4G WLAN B593S\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/vianmaaritys)\n\n##  Asetukset\n\nMokkulan hallintasivu ja asetusten muuttaminen\n\nMokkulan asetuksia muutetaan nettiselaimeilla. Asetuksen muuttaminen\nedellyttää, että selainta käyttävä laite on liitetty mokkulan muodostamaan\nWiFi-verkkoon tai laite on kytketty Ethernet-kaapelilla mokkulaan.  \n  \nAsetuksista voit muuttaa mm. WiFi-verkon nimen ja salasanan tai lukita mokkula\nkäyttämään vaikka 4G- tai 3G-verkkoa.  \n  \nAvaa nettiselaimesi ja kirjoita osoiteriville http://192.168.8.1 ja paina\n**Enter**.  \nKirjoita Käyttäjänimi kenttään: **admin** ja Salasana-kenttään: **admin**.  \nPaina OK, niin modeemin asetussivut aukeavat.\n\nPIN-koodin syöttäminen\n\nMikäli SIM-kortilla on käytössä jokin muu PIN-koodi kuin 1234, pitää PIN-koodi\nsyöttää mokkulan asetuksista.\n\n  1. Avaa nettiselain, kun olet kytkeytynyt mokkulan WiFi-verkkoon \n  2. Kirjoita osoiteriville http://192.168.1.1 \n  3. Oletuskäyttäjänimi on **admin** ja oletussalasana **admin**.\n  4. Valitse ylhäältä **Internet**\n  5. Valitse vasemmalta **PIN-koodin hallinta**\n  6. Syötä haluamasi PIN-koodi kohtaan **Anna PIN** ja paina **Lähetä**\n\nVerkkopelien pelaaminen\n\nMonet verkkopelit toimivat paremmin, jos mokkulassa on päällä UPnP. Voit\ntarkistaa tämän seuraavasti:\n\n  1. Avaa nettiselain kun olet kytkeytynyt mokkulan WiFi-verkkoon.\n  2. Kirjoita osoiteriville http://192.168.1.1 \n    * Oletuskäyttäjänimi on **admin**.\n    * Oletussalasana on **admin**.\n  3. Valitse ylhäältä **Suojaus**. \n  4. Valitse vasemmalta **UPnP**.\n  5. Laita ruksi kohtaan **Ota käyttöön**.\n  6. Paina **Lähetä**.\n\nMokkulan lukitseminen 4G- tai 3G-verkkoon\n\nMokkulat toimivat tehokkaimmin 4G- tai 3G-verkossa. Jos yhteys on hidas tai se\npätkii, kannattaa kokeilla seuraavia asioita:\n\n  * Sisätiloissa yhteys on parhaimmillaan ikkunoiden lähellä.\n  * Kiinnitä mokkulan mukana tulleet lisäantennit mokkulan antenniliittimiin.\n\nLisätietoa kuuluvuusalueista: [dna.fi/kuuluvuus-ja-peittoalueet](/kuuluvuus-\nja-peittoalueet)  \n  \nMikäli mokkulaa käytetään 4G- tai 3G-verkon tai 3G- tai 2G-verkon rajalla,\nsaattaa mokkula vaihdella näiden verkkojen välillä. Vaihtelu verkkojen välillä\naiheuttaa yhteyden pätkimistä ja hidastaa mokkulaa. Voit halutessasi lukita\nmokkulan mihin tahansa verkkoteknologiaan seuraavasti:\n\n  1. Avaa nettiselain kun olet kytkeytynyt mokkulan WiFi-verkkoon.\n  2. Kirjoita osoiteriville http://192.168.1.1 \n    * Oletuskäyttäjänimi on **admin**.\n    * Oletussalasana on **admin**.\n  3. Valitse ylhäältä **Internet**.\n  4. Valitse vasemmalta **Verkkoyhteys**. \n  5. Valitse kohdasta **Verkkotila**. \n    * Automaattinen – Valitsee ensin 4G-, sitten 3G- ja viimeisenä 2G-verkon.\n    * 4G – Lukitsee mokkulan 4G LTE -verkkoon.\n    * 3G – Lukitsee mokkulan Dual Carrier- tai 3G-verkkoon.\n    * 2G – Lukitsee mokkulan 2G-verkkoon.\n\nWiFi-verkon nimen ja salasanan muuttaminen\n\nVoit muuttaa WiFi-verkon nimen ja salasanan haluamaksesi. Mikäli teet näin,\nlaitteet, jotka oli jo kytketty WiFi-verkkoon, pitää liittää uudestaan\nuudelleen nimettyyn WiFi-verkkoon.  \n  \nMikäli unohdat muutetun WiFi-verkon salasanan, voit resetoida mokkulan\ntehdasasetuksille, jolloin WiFi-verkon salasana palautuu samaksi, joka on\nmokkulan takana olevassa tarrassa.\n\n  1. Avaa nettiselain kun olet kytkeytynyt mokkulan WiFi-verkkoon.\n  2. Kirjoita osoiteriville http://192.168.1.1 \n    * Oletuskäyttäjänimi on **admin**.\n    * Oletussalasana on **admin**.\n  3. Valitse ylhäältä **WLAN**.\n  4. Kirjoita kohtaan **SSID** uusi WLAN-verkon nimi.\n  5. Kirjoita kohtaan **WPA-PSK** uusi salasana. Jos haluat nähdä kirjoitetut kirjaimet, valitse yläpuolelta **Ota käyttöön**.\n  6. Paina **Lähetä**.\n\nMokkulan hallintasalasanan muuttaminen\n\nVoit halutessasi muuttaa mokkulan hallintasalasanan. Mikäli unohdat muutetun\nhallintasalasanan, voit resetoida mokkulan tehdasasetuksille.\n\n  1. Avaa nettiselain kun olet kytkeytynyt mokkulan WiFi-verkkoon.\n  2. Kirjoita osoiteriville http://192.168.1.1 \n    * Oletuskäyttäjänimi on **admin**.\n    * Oletussalasana on **admin**.\n  3. Valitse ylhäältä **Järjestelmä**.\n  4. Valitse vasemmalta kohta **Vaihda salasana**. \n    * Nykyinen salasana on **admin**.\n    * **Uusi salasana** – Kirjoita haluamasi salasana.\n    * **Vahvista salasana** – Vahvista haluamasi salasana.\n  5. Paina **Lähetä**.\n\nNollaus tehdasasetuksille\n\nVoit palauttaa mokkulan oletusasetuksille pitämällä laitteen vasemmalla\npuolella olevaa Reset-painiketta pohjassa noin 2 sekuntia.\n\nMokkulan päivittäminen\n\nWeb-käyttöliittymään ja kotimokkulan ruudulle tulee normaalissa tapauksessa\nautomaattisesti ilmoitus, kun uusi päivitys on ladattavissa.\n\n",
+                "heading": "DNA Kotimokkula 4G WLAN B593S"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:11+00:00",
+        "last_modified": "2025-06-20T18:53:20.270857",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

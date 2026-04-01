@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mit-telenor_funktioner-i-mit-telenor_sadan-logge-du-ind.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 274,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Sådan logger du ind\n\nMit Telenor er Telenors selvbetjeningsløsning, hvor du kan tjekke dit forbrug\nog dine regninger, købe ekstra data, se gode tilbud og meget mere.\n\n[Sådan logger du på Mit Telenor.](/kundeservice/mit-telenor/saadan-logger-du-\nind/ \"Sådan logger du ind\")"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:29+00:00",
+        "last_modified": "2025-05-21T15:15:53.348399",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

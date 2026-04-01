@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-fiber_bilden-ar-fryst-eller-hackar.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 365,
+                "end": 643,
+                "text": "# Bilden är fryst eller hackar\n\nDetta gäller dig som har **Telenor Mediahubb**.  \n  \nOm du använder mediahubben tillsammans med routern **Technicolor TG799** kan\ndu uppleva att bilden hackar/fryser om du inte kopplat in mediahubben med\n**nätverkskabel**. Så testa att göra det.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:26+00:00",
+        "last_modified": "2025-05-30T17:36:45.946845",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

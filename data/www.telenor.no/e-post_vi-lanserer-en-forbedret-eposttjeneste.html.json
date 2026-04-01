@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/e-post_vi-lanserer-en-forbedret-eposttjeneste.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 144,
+                "end": 1578,
+                "text": "# Online e-post - endringer våren 2023\n\nHer kan du lese mer om hva som ble endret og hva det betyr for deg som kunde\npå e-post\n\n## Vi har oppgradert e-posttjenesten din\n\nVåren 2023 fikk du en oppgradering av din Online e-post som gir deg en trygg\nog brukervennlig løsning for fremtiden. Alle med en @online e-postadresse er\nnå flyttet over til ny løsning.\n\n## Endringer i pris for Online e-post\n\nDersom du ikke har betalt månedspris for e-postkontoen før dette, ble du\nflyttet til til **E-post 5 GB** som koster 39 kroner i måneden. Denne utgiften\nbegynte å løpe fra 1. juni 2023.\n\nDersom du allerede betalte 29 kroner i måneden for e-postfilter og lagring ble\ndu flyttet til **E-post 15 GB** som koster 49 kroner i måneden. Denne utgiften\nbegynte å løpe fra 1. juli 2023.\n\n## Nye fordeler\n\nOnline e-post rustes for fremtiden med et forbedret spamfilter, økt\nlagringsplass og en ny webmail med med både oppgraderte og helt nye\nfunksjoner. Du finner webmailen ved å logge inn på\n[Online.no](https://www.online.no).\n\nHvis du vil lese mer om hvordan du bruker det nye spamfilteret finner du tips\n[i denne artikkelen](https://www.online.no/sikkerhet/slik-endrer-du-spam-\ninnstillinger-online-epost).\n\nTelenor jobber systematisk med å sikre et godt personvern, og som bruker av\nOnline e-post blir dine personopplysninger ivaretatt. Dette innebærer blant\nannet at vi ikke deler informasjon med tredjeparter for bruk til kommersielle\nformål."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:31+00:00",
+        "last_modified": "2025-05-30T08:23:30.419666",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

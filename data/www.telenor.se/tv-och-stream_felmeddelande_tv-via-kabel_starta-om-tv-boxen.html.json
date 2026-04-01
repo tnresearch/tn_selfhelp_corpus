@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_felmeddelande_tv-via-kabel_starta-om-tv-boxen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 469,
+                "text": "# Starta om tv-boxen\n\nDra ut strömkabeln ur tv-boxen och vänta i cirka 30 sekunder. Koppla därefter\nin kabeln på nytt och låt boxen starta om.  \n  \nNär din tv-box har startat om ska du leta upp en krypterad kanal, till exempel\nTV3 eller Kanal 5, och låta den vara på under ett par minuter."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:59+00:00",
+        "last_modified": "2025-05-30T14:58:29.247227",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_ipad_nar-du-har-mistet-din-tablet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1089,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Har du mistet din iPad?\n\nSkulle du miste din iPad og dit simkort til mobilt bredbånd, så kontakt os med\ndet samme. Vi kan hjælpe med politianmeldelsen og spærre simkortet, så ingen\nkan misbruge dit abonnement.\n\n**Spær dit simkort:**\n\n  * [Kontakt os](/kundeservice/kontakt/) eller henvend dig i din [lokale Telenor-butik](/find-butik/) og få et nyt simkort med det samme.\n  * Er din iPad blevet stjålet?\n\n**Anmeld tyveriet til politiet  \n**[Klik her](https://www.politi.dk/da/borgerservice/anmeldelser/tyveri/ \"Klik\nher\") og anmeld tyveriet direkte til politiet.\n\n**Anmeld tyveri til dit forsikringsselskab**  \nNår du anmelder tyveriet til dit forsikringsselskab, vil de som regel bede om:\n\n  * Dit policenummer\n  * Kvittering på politianmeldelse\n  * Kvittering på mobil\n  * Beskrivelse af mærke og model\n\nHar du købt din iPad hos Telenor, kan Kundeservice hjælpe dig med at skaffe\nkopi af din købskvittering.\n\n## Skal du have genåbnet dit simkort?\n\nFinder du din iPad igen, kan du få genåbnet dit simkort enten i en af vores\nbutikker eller ved at [kontakte os](/kundeservice/kontakt/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:37+00:00",
+        "last_modified": "2025-05-21T15:16:11.608699",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

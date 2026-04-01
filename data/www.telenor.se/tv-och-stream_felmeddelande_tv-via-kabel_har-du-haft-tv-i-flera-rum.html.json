@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_felmeddelande_tv-via-kabel_har-du-haft-tv-i-flera-rum.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 371,
+                "text": "# Har du haft tv i flera rum?\n\nI så fall har du haft mer än en tv-box. Om du nyligen slutade använda en av\ndem och ännu inte skickat tillbaka den till oss så kan du kolla om den boxen\nfunkar."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:08+00:00",
+        "last_modified": "2025-05-30T14:58:16.184857",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

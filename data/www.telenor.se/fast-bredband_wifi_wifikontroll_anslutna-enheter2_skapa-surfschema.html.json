@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi_wifikontroll_anslutna-enheter2_skapa-surfschema.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 404,
+                "end": 951,
+                "text": "# Skapa surfschema\n\nFör att skapa ditt första schema ska du klicka på profiler i menyn och sedan\nklicka in på scheman.\n\nKlicka på skapa schema.\n\nNamnge schemat och bestäm mellan vilka tider och dagar som det ska gälla.\nKlicka sedan på bocken upp i högra hörnet för att bekräfta dina val.\n\nEtt exempel: Här är ett schema för läxläsning och det gäller mellan\n18:00-19:00 på måndagar och onsdagar.\n\nEtt schema är aktivt när det ser ut som på bilden nedan. Vill du skapa mer än\nett schema för en profil ska du klicka på plusteckent upp i högra hörnet."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:00+00:00",
+        "last_modified": "2025-05-30T14:14:41.461851",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

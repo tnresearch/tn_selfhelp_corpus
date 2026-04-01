@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_kom-igang_chromecast.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 337,
+                "end": 2688,
+                "text": "#  Titta på Telenor Stream via Chromecast\n\nHar du en Chromecast? Vill du kolla på tv? Toppen, då är du på rätt ställe!\nHär hittar du allt om hur du kommer igång och får ut det mesta och bästa av\nTelenor Stream.\n\nKom igång\n\n  1. [Aktivera Telenor Stream här](/aktivera-stream/) (länken öppnas i nytt fönster).\n  2. Sätt i Chromecast-enheten till en ledig hdmi-port i tv:n.\n  3. Anslut sedan usb-kabeln mellan Chromecast-enheten och strömadaptern, och strömadapterns kabel i ett vägguttag.\n  4. Ta upp fjärrkontrollen och välj den källa (source) som heter Chromecast. Nu kan du börja streama.\n  5. Gå in i appen på din mobil eller surfplatta, eller webbläsaren på din dator. Klicka på streamingsymbolen uppe i högra hörnet. Välj nu ditt nätverk. Klicka på valfri film eller serie och den kommer nu automatiskt att spelas upp på din tv. \n\nBra att veta\n\n  * Det kostar inget extra att skapa ett streamingkonto hos Telenor om du redan är tv-kund hos oss. Den enda kostnaden som tillkommer är om du hyr film.\n  * Har du problem med casta? Se till att du har den senaste mjukvaran genom att gå in i appen Google Home.\n\n## Vanliga frågor\n\n  * Det saknas kanaler när jag loggar in på Telenor Stream – varför?\n\nOm du kan se vissa kanaler på din tv men inte i Telenor Stream så beror det på\natt vi inte har fått tillåtelse att distribuera dem där.\n\n  * Hur ändrar jag mina inloggningsuppgifter till Telenor Stream?\n\nDu kan ändra både ditt användarnamn och lösenord till Telenor Stream i [Mitt\nTelenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx).\n\n  * Kan jag streama till flera enheter samtidigt?\n\nJa, du kan streama på upp till två enheter samtidigt på ditt abonnemang.\n\n  * Vad kan jag streama?\n\nDu kan titta på det mesta som ingår i ditt tv-paket på Telenor Stream. I vissa\nfall kan någon enstaka kanal i tv-paketet saknas. Detta beror på att vi inte\nhar fått tillstånd att streama dem för rättighetsägaren.\n\nDu kan även enkelt [hyra film via\nstreamingtjänsten](/link/35b18662a05f46e58f582664db0643f4.aspx).\n\n  * Var kan jag se vilka filmer jag hyrt?\n\nLogga in i [Mitt Telenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx). Där\nhittar du dina fakturor. På fakturan står vilka filmer du har hyrt.\n\nSe mer\n\nFunkar det inte?\n\nIbland funkar det helt enkelt inte, men det finns hjälp att få!  \n  \n[Till problemlösningen](/support/tv-och-stream/problemlosning/)\n\n",
+                "heading": " Titta på Telenor Stream via Chromecast"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:32+00:00",
+        "last_modified": "2025-05-30T15:01:13.693850",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

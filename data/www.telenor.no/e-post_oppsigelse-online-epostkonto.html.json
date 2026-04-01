@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/e-post_oppsigelse-online-epostkonto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 134,
+                "end": 1386,
+                "text": "# Slik sletter du en e-postkonto\n\nHer finner du informasjon om hvordan du sier opp din Online e-postkonto på\nMine Sider\n\nHusk dette ved sletting av e-postkonto\n\nDine e-poster vil slettes om kontoen slettes. Dersom du vil ta vare på dem kan\ndu [følge denne veiledningen](/binaries/kundeservice/e-post/oppsigelse-online-\nepostkonto/veiledning%20eksportering%20av%20filer%20Online%20e-post_f50cf955-b1d7-4be7-98bf-b371daefdedb.pdf)\nsom viser deg hvordan du eksporterer e-postene og kontaktene dine.\n\nHvis du benytter din Online e-postkonto som brukernavn i andre innlogginger må\ndu også huske å oppdatere disse med en ny e-postadresse.  \n  \n **Er det noen andre som bruker e-postkontoen du eier?**  \nDersom det er noen andre enn deg selv som er bruker av e-postkontoen bør du\nkontakte vedkommende før den slettes. Du kan også overføre eierforholdet til\nen annen person om ønskelig. Dette gjøres ved å [kontakte\nkundeservice](/kundeservice/kontakt-oss/).\n\n## Slik gjør du det:\n\n### 1.\n\n[Logg inn på Mine Sider](/mitt-telenor/e-post/)\n\n### 2.\n\nPå din e-postoversikt trykker du på **Innstillinger** for den kontoen du\nønsker å slette.\n\n### 3.\n\nInne på innstillinger trykker du på **Slett konto** og bekrefter slettingen\nved å trykke på **Ja, jeg er sikker**."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:18+00:00",
+        "last_modified": "2025-05-30T08:22:38.382319",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

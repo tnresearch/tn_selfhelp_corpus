@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we_strommetjenester_radioplayer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 261,
+                "end": 1747,
+                "text": "# Radioplayer på T-We Boks\n\nRadioplayer gjør det enkelt å finne og høre på dine radio- og podcast-\nfavoritter. Her finner du mer informasjon om tjenesten.\n\n## Radiosendinger via TV-en og ditt lydanlegg\n\nDet er mange av oss som kobler T-We-boksen til et godt lydanlegg – for\neksempel til stereoanlegget i stua eller en lydplanke. Dermed er det også\npraktisk å bruke T-We-boksen som radio. For å gjøre det enda enklere å få gode\nradioopplevelser i optimal kvalitet, er Radioplayer nå lansert på T-We-\nboksene. Tjenesten er helt kostnadsfri å bruke.\n\n## Radioplayer er tilgjengelig på disse T-We-boksene:\n\nT-We Boks II\n\nT-We Boks\n\n## Slik finner du tjenesten\n\nDu finner appen ved å trykke på T-We-knappen på fjernkontrollen og velge\n“Strømmetjenester” i toppmenyen.  \nHer ligger Radioplayer lett synlig samme med andre eksterne strømmetjenester.\n\n## Kanaler for alle\n\nRadioplayer lar deg søke opp og høre flere enn 110 radiokanaler, fra helt små\nlokalradioer til store riksdekkende kanaler som NRK-kanalene, kanalene fra\nP4-gruppen og Bauer Media.  \nI tillegg er det flere av disse som legger ut sine programmer som podcasts i\nRadioplayer. I skrivende stund ligger det ute drøyt 300 podcastserier fra\nnorske kringkastere.  \n  \nNår du starter opp tjenesten for første gang, får du anledning til å søke opp\nkanalene og programmene du vet du liker og legge dem til blant dine\nfavoritter.\n\nSøk etter din favoritt!Lagre dem som favoritter ved å trykke på hjerte-ikonet\nnår du er inne på kanalen"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:39+00:00",
+        "last_modified": "2025-05-30T09:34:55.841644",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

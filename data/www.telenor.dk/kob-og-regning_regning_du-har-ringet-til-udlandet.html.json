@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_regning_du-har-ringet-til-udlandet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3055,
+                "reason": "Selected by user",
+                "start": 2230,
+                "text": "#  Opkald til udlandet fra Danmark\n\nNår du ringer til udlandet fra Danmark, vil dette altid stå særskilt på din\nregning under ’Forbrug ikke inkluderet i abonnement’. Der vil altså stå\nhvilket land du har ringet til.\n\nHvis du har et abonnement med fri tale, vil opkald til udlandet ikke være\ninkluderet i dette.\n\nSender du en SMS eller MMS til et udenlandsk nummer, vil dette blive vist på\ndin regning som ”SMS sendt til udlandet fra DK” eller ”MMS sendt til udlandet\nfra DK”. Hvis du ønsker at se, hvilket land eller hvilket nummer du har sendt\nSMS eller MMS til, kan dette ses under forbrug på [Mit Telenor](/mit-telenor/\n\"Mit Telenor\").  \n  \n\n[Se udlandspriser – fra Danmark til udlandet](/kundeservice/Mobilabonnementer-\nog-services/udland/udlandspriser-fra-danmark/)  \n  \n[Log ind og se forbrug i detaljer](/mit-telenor/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:21+00:00",
+        "last_modified": "2025-05-21T15:15:50.305226",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

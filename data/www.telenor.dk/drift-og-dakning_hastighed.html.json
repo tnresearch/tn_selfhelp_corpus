@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/drift-og-dakning_hastighed.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2964,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Hastighedstest\n\nHer på siden kan du teste din hastighed. Den maksimale hastighed på dit\nabonnement afhænger af din forbindelse. Følgende kan have indflydelse på\nresultatet af testen:\n\n  * Programmer på din computer, der bruger internetforbindelsen\n  * Hvis du har flere enheder på samme forbindelse - computere, mobiler, tablets, spillekonsoller osv.\n  * Indpakningen af de data der hentes/sendes på din internetforbindelse\n\nFor at få et præcist resultat skal du derfor lukke alle programmer og sørge\nfor, at der ikke er andre enheder på netværket. Det er en fordel, hvis din\ncomputer er direkte tilsluttet Telenors udstyr vha. det kabel, vi har sendt\ndig.\n\n[Klik her, hvis du ikke kan se\nhastighedstesten](https://telenor.speedtestcustom.com/).\n\n## Hvorfor viser testen en lavere hastighed end den, der indgår i mit\nabonnement?\n\nDer kan være flere faktorer, der spiller ind på hastigheden, når du laver en\nhastighedstest på din forbindelse.\n\nFørst og fremmest kan det være, at du tager hastighedstesten et sted i din\nbolig, hvor der er en svag WiFi-forbindelse. Hvis dette er tilfældet, kan\nresultatet af hastighedstesten vise en langsommere hastighed end den, der\nindgår i dit abonnement. Der er heldigvis flere ting, du kan gøre for at\noptimere dit trådløse netværk i hjemmet. Tag et kig på vores [guide til bedre\nWiFi](/shop/landingpage/bedre-wifi/) og få det maksimale ud af din\ninternetforbindelse.\n\nHusk også, at åbne programmer på din computer, mens du tager hastighedstesten,\nkan være med til at påvirke hastigheden. Derfor er det en rigtig god ide at\nlukke dine åbne programmer på din computer, så du får det mest præcise\nresultatet.\n\nDu vil også ofte få målt en lavere hastighed, hvis der kører\nstreamingtjenester, mens du tager hastighedstesten. Så sørg for at lukke for\nNetflix, HBO og Viaplay osv., så får du et mere retvisende billede af, hvad\ndin hastighed i virkeligheden er.\n\n## Hvad kan du bruge hastighedstesten til?\n\nMed vores hastighedstest kan du få et indblik i, hvor hurtig din\ninternethastighed er hjemme hos dig selv. Hastighedstesten måler hastigheden\npå dit internet præcis på det tidspunkt, du tager testen. Testen er med til at\ngive dig et overblik over, hvad du kan bruge din internetforbindelse til –\nimødekommer hastigheden dine behov? Eller har du måske brug for en endnu\nhurtigere forbindelse? Din internetforbindelse afgør fx hvor mange, der kan\nbruge forbindelsen samtidigt, hvor mange enheder, der kan kobles op på samme\ntid samt hvor hurtigt du kan down- og uploade indhold.\n\n## Hvor hurtigt internet kan du få hjemme hos dig?\n\nHastigheden på din internetforbindelse afhænger af, hvor i landet du bor, og\nhvilken teknologi og forbindelse, vi kan tilbyde på netop din adresse. Vi kan\ntilbyde flere forskellige hastigheder og teknologier, så uanset hvor du bor i\nlandet, kan vi sørge for, at du får en stabil forbindelse. [Indtast din\nadresse](/shop/internet/) og bliv klogere på, hvilke løsninger du kan få på\ndin adresse."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:24+00:00",
+        "last_modified": "2025-05-21T15:15:38.476106",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

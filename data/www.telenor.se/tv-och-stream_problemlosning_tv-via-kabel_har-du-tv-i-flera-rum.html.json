@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_har-du-tv-i-flera-rum.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 543,
+                "text": "# Har du tv i flera rum?\n\nI så fall har du flera tv-boxar. Ta strömkabeln från en annan tv-box och testa\nmed den. Om den funkar så betyder det att strömkabeln som hör till den tv-box\ndu har problem med är trasig.  \n  \n[Mejla till oss för att beställa en ny strömkabel](/support/old-kontakta-\noss/mejla/). Det kostar ingenting. Skriv i mejlet vilken tv-box du har."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:31+00:00",
+        "last_modified": "2025-05-30T17:40:47.804438",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

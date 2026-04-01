@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-mesh-wifi-wa8021v5_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 397,
+                "end": 5095,
+                "text": "# DNA Mesh WiFi WA8021V5 -modeemi\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-\nwifi-wa8021v5/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/wa8021v5/asetukset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/vianmaaritys) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-wifi-\nwa8021v5/paivitykset)\n\n## Käyttöönotto\n\nVoit käyttää DNA Mesh WiFi -modeemia kahdella eri tavalla\n\n  * Kodin päämodeemina tai\n  * Kodin päämodeemin lisäksi luomaan laajempaa langatonta Mesh WiFi -verkkoa\n\n### Ensimmäisen DNA Mesh WiFi modeemin kytkentä:\n\nJos asunnossasi on kytkinkaappi (usein asunnon sähkökaapissa), voit määrittää\nmihin asunnon nettipistokkeista kotisi nettiyhteys tulee.\n\n  1. Kytke ethernet-johto huoneen ethernet-rasiasta (internetin tulorasia) tai päämodeemisi vapaasta LAN-liitännästä DNA Mesh WiFi laitteen vapaaseen LAN-liitäntään.\n  2. Kytke virtajohto virtapistorasiaan ja yhdistä sen toinen pää DNA Mesh WiFi -modeemiin.\n  3. Modeemi käynnistyy automaattisesti virtajohdon kytkemisen jälkeen. Laitteen käynnistyessä odota noin minuutti. Asennus on mennyt oikein, kun status-merkkivalo palaa tasaisen valkoisena. Modeemin ja nettiyhteyden asennus on nyt valmis.\n\n### Useamman DNA Mesh WiFi modeemin yhdistäminen saumattomaksi mesh-verkoksi\n\nVoit käyttää kahta tai useampaa DNA Mesh WiFi -modeemia kattavan Mesh WiFi-\nverkon muodostamiseen:\n\n  1. Asenna ensimmäinen DNA Mesh -modeemi edellisen ohjeen mukaisesti.\n  2. Kun ensimmäinen DNA Mesh WiFi -modeemi on toiminnassa, kirjaudu modeemin hallintasivulle verkkoselaimella osoitteessa dna.wifi/ tai 192.168.101.1. Avautuessa hallintasivusto pyytää syöttämään oletussalasanan 1234. \n\nKirjauduttua voit valita mesh-verkollesi haluamasi langattoman WiFi-verkon\nnimen (SSID) sekä salasanan. Voit myös jatkaa käyttämällä ensimmäisen DNA Mesh\nWiFi -modeemin oletussalasanoilla, jotka löydät laitteen pohjassa olevasta\ntarrasta, valitsemalla 'Ohita'.\n\nTämän jälkeen voit aloittaa useamman modeemin liittämisen toisiinsa.\n\n  3. Sijoita toinen DNA Mesh WiFi -laite (eli mesh-tukiasemana käytettävä laite) lähelle, korkeintaan 2 metrin päähän, reitittimenä käytettävää laitetta (eli ensimmäistä DNA Mesh WiFi -modeemia) ja liitä mesh-tukiasemana toimivan laitteen virtajohto pistorasiaan.\n  4. Odota noin minuutti kytkettyäsi virran mesh-tukiasemana käytettävään laitteeseen\n  5. Tarkista reitittimenä toimivan laitteen merkkivalo. Jos merkkivalo vilkkuu hitaasti, reititin on tunnistanut mesh-tukiaseman\n  6. Paina reitittimenä toimivan laitteen pariliitoksen muodostuspainiketta kerran. Kummankin DNA Mesh WiFi -laitteen merkkivalot vilkkuvat nopeasti. Odota, että mesh-tukiaseman merkkivalo alkaa palaa tasaisesti valkoisena. Tämä on merkki siitä, että pariliitos on onnistunut.\n  7. Irrota mesh-tukiasemana käytettävä laite pistorasiasta ja siirrä se paikkaan, jonne haluat langattoman yhteyden ulottuvan. Kytke laitteeseen virta. Kun merkkivalo palaa tasaisesti valkoisean, laite pystyy muodostamaan internet-yhteyden. Muita toimenpiteitä ei tarvita.\n  8. Voit lisätä useamman DNA Mesh WiFi -laitteen langattomaan mesh-verkkoon toistamalla edellä kuvatut toimenpiteet.\n\n## WiFi-verkon nimi ja salasana\n\nDNA Mesh WiFi -modeemit ovat WiFi-verkon osalta salattuja. Löydät verkon nimen\nja salasanan laitteen pohjassa olevasta tarrasta sekä asetussivuilta.\n\nSSID (verkon nimi):Esim. **DNA-WIFI-XXXX** ja **DNA-WIFI-5Ghz-XXX**  \nLangattoman verkon salasana: Esim. **25694177898**\n\nDNA Mesh WiFi -modeemi tukee 2,4 GHz ja 5 GHz -taajuuksisia langattomia WiFi-\nverkkoja. Oletuksena laitteessa on päällä 5Ghz -verkko sekä 2.4 Ghz ja 5 Ghz\nyhdistelmä -verkko, jolloin käyttölaitteesi valitsee mitä tajuutta käyttää.\nValitse paremman yhteyden saamiseksi 5 Ghz, jos näet tämän laitteellasi.\n\n## Laitteen liitännät\n\n  1. Ethernet-portit. Liitä ethernet-johto ethernet-pistorasiasta tai toisesta modeemista mihin tahansa laitteen ethernet-porteista. Muista ethernet-porteista voit liittää esim. television tai tietokoneen laitteeseen.\n  2. Reset-painike laitteen takaosassa palauttaa modeemin tehdasasetukset. Jos olet unohtanut modeemin asetuksiin tekemäsi muutokset esim. salasanan, paina teräväkärkiunen esine (esim. suoristettu paperiliitin) kevyesti yli 2 sekunnin ajan modeemin takapaneelissa olevan resetointipainikkeen reikään. Modeemin resetointi palauttaa kaikki alkuperäiset tehdasasetukset.\n  3. Virtaliitäntä laitteen omalle sähkömuuntajalle. \n  4. Pariliitoksen muodostuspainike.\n\n",
+                "heading": "DNA Mesh WiFi WA8021V5 -modeemi"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:18:10+00:00",
+        "last_modified": "2025-06-20T14:55:34.193761",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_sikkerhet_nettfilter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 175,
+                "end": 1459,
+                "text": "# Nettfilter\n\nNettfilteret hindrer tilgang til internettbilder som viser seksuelle overgrep\nmot barn, uten å utøve noen form for generell overvåking.\n\n## Hvordan fungerer det?\n\nNettfilteret ligger sentralt i selve Telenors nett, og gjelder for alle\nTelenors kunder uavhengig om du surfer på nettet via en datamaskin, et\nnettbrett eller på mobilen.\n\nFilteret fungerer slik at dersom en Telenor-kunde forsøker å åpne en side med\nbarnepornografisk innhold, kommer det opp en sperreside med informasjon om\nfilteret, og en lenke til KRIPOS. KRIPOS har til nå registrert flere hundre\nnettsteder med ulovlig barnepornografi.\n\n## Ingen overvåkning\n\nTelenor skal ikke utøve noen form for generell overvåking. Vi skal ikke\nvurdere lovligheten av innhold som formidles av andre, utover det som følger\nav gjeldende retts aktsomhetskrav.\n\nTelenor vil i spesielle tilfeller likevel ha en proaktiv holdning til innhold\nsom formidles - for eksempel ved spredning av barnepornografi.\n\nVi vil ikke på noen som helst måte lagre dataene, eller logge hvem som faktisk\ntreffer filteret.\n\nVi gjør oppmerksom på at det vil være nettsider som ikke fanges opp av\nfilteret, fordi det kun stanser sider som er registrert hos KRIPOS.\n\nDistribusjon via fildeling, e-post og liknende blir ikke påvirket av filteret."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:22+00:00",
+        "last_modified": "2025-05-30T09:01:28.039823",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

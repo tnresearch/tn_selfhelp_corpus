@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-xdsl-ed500a_vianselvitys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 383,
+                "end": 3254,
+                "text": "# DNA xDSL-modeemi ED500A\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-xdsl-\ned500a/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-xdsl-\ned500a/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-xdsl-\ned500a/asetukset) [ Vianselvitys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-xdsl-\ned500a/vianselvitys) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-xdsl-\ned500a/paivitykset)\n\n## Vianselvitys\n\nModeemin merkkivalot ovat pimeinä, vaikka virtajohto on kiinni.\n\nModeemi ei saa virtaa. Muuntaja tai itse modeemi on mahdollisesti viallinen.\n\nVarmista, että virtajohto on kiinnitetty ohjeiden mukaisesti ja että\npistorasiaan tulee virtaa. Jos ongelma ei ratkea, tuo muuntaja sekä modeemi\nDNA Kauppaan vaihdettavaksi.\n\nKaikki nettiyhteyden merkkivalot palavat, mutta nettiin ei pääse.\n\nModeemi saattaa olla jumittunut.\n\nIrrota modeemin virtajohto noin minuutin ajaksi. Kiinnitä se uudestaan ja\nkäynnistä modeemi. Odota että merkkivalot syttyvät ja kokeile toimiiko yhteys.\nKokeile myös käynnistää tietokoneesi uudestaan, tai koeta yhdistää se\nmodeemiin Ethernet-johdolla.\n\nKaikki nettiyhteyden merkkivalot palavat, mutta tietokone antaa ilmoituksen\n”Rajoitettu yhteys”.\n\nModeemi ei saa yhteyttä nettiin.\n\nTarkista yhteys ja että kaikki liitännät ovat oikein kiinni. Varmista myös,\nettä tietokoneen tai muun nettiin yhdistettävän laitteen nettiasetukset ovat\nkunnossa. Tarvittaessa palauta modeemin tehdasasetukset, irroita virtajohto\nnoin minuutiksi ja kokeile sen jälkeen käynnistää se uudelleen.\n\nKaikki nettiyhteyden merkkivalot palavat, vaikka asetukset ovat tarkistettu.\n\nPalomuuri saattaa estää tietoliikenteen. Tarkista tietokoneen palomuurin\nasetukset.\n\nLaajakaistayhteys katkeilee.\n\nModeemi saattaa olla kytketty puhelinpistokkeeseen väärällä tavalla.\n\nTarkista, että modeemi on kytketty ensimmäiseen puhelinpistokkeeseen ja että\nsuodin on välissä.\n\nKaikki nettiyhteyden merkkivalot palavat erillistä reititintä käytettäessä.\n\nReititin tai muu käytössä oleva yhteyttä jakava laite on mahdollisesti\njumissa, tai viallinen.\n\nYhdistä modeemi Ethernet-johdolla suoraan tietokoneeseen, tai käytä langatonta\nWiFiä. Ota yhteyttä reitittimen valmistajaan tai myyjään selvittääksesi\nmahdollisen siihen liittyvän vian.\n\nWiFi ei toimi.\n\nJos netti toimii Ethernet-kaapelilla, mutta ei langattomasti, on vika WiFi-\nverkossa.\n\nKäynnistä modeemi uudelleen, tarkasta asetukset ja kokeile [WiFi-\nvinkkejä](https://www.dna.fi/tuki-wifi). Mikäli ongelma ei ratkea, ota\nyhteyttä asiakaspalveluun.\n\nBroadband-osoitin on pimeänä.\n\nPuhelinjohto (RJ11) ei ole kunnolla kiinni modeemissa, suotimessa tai\npuhelinpistorasiassa.\n\nTarkista suotimen, puhelinjohdon ja modeemin väliset kytkennät. Jos Broadband-\nosoitin on edelleen pimeänä, ota yhteys DNA:han.\n\n",
+                "heading": "DNA xDSL-modeemi ED500A"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:11+00:00",
+        "last_modified": "2025-06-20T14:59:43.101423",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_kom-igang-med-e-sim.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 354,
+                "end": 3634,
+                "text": "#  Kom igång med e-sim\n\nE-sim innebär att sim-kortet är inbyggt i mobilen. Istället för att stoppa in\nett fysiskt kort av plast i mobilen för att kunna ringa, behöver du aktivera\nditt e-sim. Här hittar du all hjälp du behöver för att komma igång.\n\n## Bra att veta:\n\n  * Det går inte att ha e-sim för kontantkort.\n  * Din mobil behöver ha stöd för e-sim. [Här kan du se vad som gäller för just din mobil](/support/vanliga-fragor/e-sim/vilka-enheter-har-stod-for-e-sim/).\n\n## Vill du beställa och aktivera ditt e-sim?\n\n###\n\nJag vill beställa ett e-sim\n\nDu beställer det enkelt i Mitt Telenor app. Beroende på om du är ägare eller\nanvändare till ditt abonnemang går du tillväga lite olika. Välj nedan så\nguidar vi dig rätt.\n\nÄgare är den som tecknade abonnemanget och står som betalningsansvarig på\nfakturan.\n\nAnvändare är du om du har lagts till i ett abonnemang med Telenor Familj.\n\n[Jag vill beställa e-sim till\nägaren](/link/b5bec25e049646ec96ac994a70183be7.aspx)\n\n[Jag vill beställa e-sim till en\nanvändare](/link/d3ff0a291fb64767a04099ff4d0cd126.aspx)\n\nJag har redan beställt e-sim och vill aktivera det\n\nDu aktiverar det enkelt i Mitt Telenor app eller direkt via din mobil. I Mitt\nTelenor app är det ägaren (den som är betalansvarig) av abonnemanget som kan\naktivera e-sim. Proceduren för om det är ett e-sim för ägaren eller om det är\nett e-sim för en användare som har lagts till i abonnemanget med Telenor\nFamilj ser lite olika ut. Välj nedan så guidar vi dig rätt.\n\n[Jag vill aktivera e-sim för\nägaren](/link/d7793c3fc36f4431b6fe8dd407e9f8e5.aspx)\n\n[Jag vill aktivera e-sim för en\nanvändare](/link/64c7206734f74deca516a73a69554047.aspx)\n\nVill du aktivera e-sim direkt i mobilen krävs det att du har både din nya och\ndin gamla mobil till hands, att båda är iPhones, och att båda har iOS 18 eller\nsenare installerat.\n\n## Vanliga frågor om e-sim\n\n  * Hur skaffar jag e-sim?\n\nDu som äger abonnemanget kan enkelt beställa e-sim själv i Mitt Telenor. Om du\ninte äger abonnemanget får du be ägaren att beställa åt dig.  \n  \nTips! Ta först reda på om din mobil kan ha e-sim. [Läs om vilka enheter som\nstödjer e-sim](/link/70cd7ea07bfc4223bdd2dbe4cac526cb.aspx)\n\n  * Jag har redan ett e-sim, varför behöver jag ett nytt?\n\nEftersom ett e-sim hör ihop med mobilen på ett annat sätt än ett sim-kort,\nbehövs ett nytt när du byter mobil.\n\n  * Jag skannade QR-koden med fel mobil, hur gör jag nu?\n\nOm du har skannat QR-koden med en annan mobil än den som abonnemanget som är\nkopplat ditt e-sim ska användas med, måste du beställa ett nytt e-sim. Det gör\ndu i Mitt Telenor här [på webben](/link/a4531ddbfeef48d3a256e369df95234d.aspx)\neller i [vår app](/link/f80d97c00f0d437fbce32ae0510e86ed.aspx).\n\n  * Kan jag få QR-koden på mejl istället för brev?\n\nNej, QR-koden som du aktiverar e-sim med är en värdehandling och därför\nskickar vi den inte via mejl. Du kan alltid nå din QR-kod via Mitt Telenor.\n\n  * Min mobil har dual sim, vad innebär det?\n\nDual sim innebär att du kan ha två abonnemang kopplade till mobilen. Perfekt\nför dig som vill ha ditt företagsnummer och privata nummer på samma mobil.\n\nHur det fungerar rent praktiskt är olika på olika mobiler. På vissa finns det\nplats för två sim-kort, men man kan såklart även använda\n[e-sim](/link/2f7e620c6914457b9712bac4372b2d0d.aspx)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:25+00:00",
+        "last_modified": "2025-05-30T14:36:17.667462",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

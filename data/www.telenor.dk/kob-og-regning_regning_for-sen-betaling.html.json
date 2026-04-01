@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/kob-og-regning_regning_for-sen-betaling.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3583,
+                "reason": "Selected by user",
+                "start": 2233,
+                "text": "# For sen betaling\n\nHvis din regning ikke bliver betalt inden for betalingsfristen, sender vi en\nrykker med et rykkergebyr på 100 kr.\n\n**Spærring og genåbning af telefon**\n\nUdebliver din betaling efter første rykker, spærrer vi din telefon. Det koster\n200 kr. at få genåbnet telefonen, og dette sker automatisk, når regningen\nbetales.\n\nEr du uenig i en rykker, som du har modtaget? Så skriv til\nrykkerindsigelse@telenor.dk\n\n**Inkasso**\n\nHvis vi ikke modtager betaling for din regning, efter vi har sendt dig anden\nrykker med rykkergebyr på 100 kr., videregiver vi dit udestående til inkasso.\nNår du er videregivet til inkasso, kan Telenor ikke længere hjælpe dig med\ninformation om dit abonnement, her skal du kontakte inkassofirmaet. Svarer du\nikke på henvendelser fra inkasso, risikerer du at blive registreret i RKI\nKreditinformation A/S.\n\n**Automatisk kortbetaling**\n\nDet koster ikke noget, og din regning bliver betalt til tiden.  \nTilmeld din regning til automatisk betaling. Så kører betalingen helt af sig\nselv.  \n[Tilmeld automatisk betaling](/mit-telenor/betalingsmetode/ \"Tilmeld\nautomatisk betaling\").  \n  \nVi trækker din betaling automatisk fra dit betalingskort. Du får din regning\ntilsendt på e-mail, inden pengene trækkes på dit kort. Du kan tilmelde\nfølgende kort til automatisk betaling: Dankort, VISA, MasterCard, JCB og\nMaestro.  "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:39+00:00",
+        "last_modified": "2025-05-21T15:15:50.723684",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_hantera-abonnemang_e-sim.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 334,
+                "end": 2996,
+                "text": "#  E-sim\n\nNär du skaffar ett mobilabonnemang hos oss kan du välja mellan ett e-sim eller\nett ”vanligt” sim-kort, av plast.\n\nE-sim står för \"embedded sim\", alltså att sim-kortet är inbyggt i mobilen, och\nhar flera fördelar.  \n  \nDet är tryggt, eftersom det inte går att plocka ut ur mobilen. Snabbt,\neftersom du som handlar på webben eller via telefon inte behöver vänta på ett\nsim-kort som skickas med post. Det är framtidssäkert, eftersom en del nya\nmobiler inte ens har ett fack för ett sim-kort. Och, sist men verkligen inte\nminst – vi slipper använda plast i onödan! **Smart, snabbt och resursnålt**\nalltså!\n\nE-sim funkar såklart även i din surfplatta också.\n\n## Vanliga frågor om e-sim\n\n  * Hur aktiverar jag mitt e-sim?\n\nDet beror på vad du har för mobil och om du äger abonnemanget eller inte.  \n  \n[Allt om att aktivera e-sim](/link/1877940c8454421facd6f534e677a762.aspx)\n\n  * Hur skaffar jag e-sim?\n\nDu som äger abonnemanget kan enkelt beställa e-sim själv i Mitt Telenor. Om du\ninte äger abonnemanget får du be ägaren att beställa åt dig.  \n  \nTips! Ta först reda på om din mobil kan ha e-sim. [Läs om vilka enheter som\nstödjer e-sim](/link/70cd7ea07bfc4223bdd2dbe4cac526cb.aspx)\n\n  * Vad kostar det att beställa ett e-sim?\n\nDet kostar inget att beställa ett e-sim. Det kostar inte heller något att byta\nfrån sim-kort till e-sim – eller tvärtom, för den delen.\n\n  * Vad krävs för att kunna använda e-sim?\n\nDet här är vad du behöver för att kunna använda e-sim:\n\n    * [En mobil som har stöd för e-sim](/link/70cd7ea07bfc4223bdd2dbe4cac526cb.aspx)\n    * Wifi eller mobildata\n    * En QR-kod, som leder dig till din e-sim-profil, behövs också i de flesta fall (undantaget är om du äger ditt abonnemang själv och har en iPhone, då kan du aktivera i appen Mitt Telenor utan QR-kod)  \n  \n\nQR-koden hittar du som äger abonnemanget i Mitt Telenor, direkt när du köpt\nett abonnemang och valt e-sim.  \n  \nÄr det ett e-sim som ska användas av någon annan kan du dela koden med\nanvändarna i abonnemanget. Du kan även få QR-koden skickad till din\nfolkbokföringsadress. **  \n  \n**\n\n  * Vilka enheter har stöd för e-sim?\n\nDet finns många enheter på marknaden som har stöd för e-sim. Till exempel alla\n[iPhones](/link/bfb891c403954bd98d4fecf08b9819a5.aspx) från och med XS/XR och\nframåt, samt [Samsungs Galaxy](/link/688c62ef61fb4c548e76ee3d7b4de1d8.aspx)\nS20 och S21-serier och framåt.  \n  \n[Google Pixel](/link/c3508c8161814bd69b0c4bde296d5527.aspx) och\n[Fairphone](/link/873eb03dac25473c90e3c3a1a5306aa1.aspx) har också stöd för\ne-sim.  \n  \n\nSe fler\n\nKom igång med e-sim\n\n[Allt om hur du aktiverar ditt e-sim](/support/mobiltelefoni/guider/kom-igang-\nmed-e-sim/)\n\n",
+                "heading": " E-sim"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:53+00:00",
+        "last_modified": "2025-05-30T14:24:52.496981",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

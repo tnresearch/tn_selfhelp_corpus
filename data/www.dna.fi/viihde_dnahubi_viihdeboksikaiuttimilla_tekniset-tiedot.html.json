@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/viihde_dnahubi_viihdeboksikaiuttimilla_tekniset-tiedot.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 347,
+                "end": 2035,
+                "text": "# Tekniset tiedot\n\nDNA viihdeboksi kaiuttimilla toimii kaikissa kodeissa, sillä se on Antenna\nReady HD- ja Cable Ready HD -yhteensopiva.\n\nViihdeboksin kanavatarjonta on katsottavissa IPTV-laadulla netin kautta\nkaikkialla Suomessa. Nelonen, Jim, Liv ja Hero kanavat näkyvät netin kautta,\njos viihdeboksia käytetään DNA:n laajakaistayhteydellä.\n\nPakkaus sisältää viihdeboksin, virtajohdon, antennijohdon, Bluetooth-\nkaukosäätimen, USB-C -, HDMI- ja Ethernet-johdot, sekä pikaohjeen.\n\n## Perusominaisuudet:\n\n4K-/HD-antenni- ja -kaapeliviritin (1 kpl)\n\nDNA TV -käyttöliittymä (Ei erillistä Android TV koti -valikkoa)\n\n7 päivän ohjelmaopas hakutoiminnoilla\n\nGoogle Play -sovelluskauppa\n\nLapsilukko\n\n## Kuva:\n\n4K/UHD, HDR10\n\n4K-videon resoluutio 3840 x 2160p @24/30/50/60 Hz​\n\nHD-videon resoluutio 1920 x 1080p @24/30/50/60 Hz​\n\nDolby Vision\n\nHDMI 2.1​\n\n## Ääni:\n\nSisäänrakennetut kaiuttimet, joiden äänimaailman on optimoinut Bang & Olufsen.\n\nKaiutinelementtien määrä: kolme kaiutinta ja bassokaiutin\n\nDolby Atmos\n\neARC-tuki 11.3.2024 (beta)\n\n## Muisti:\n\nRAM-muisti: 3 Gt\n\nSisäinen muisti: 16 Gt\n\n## Käyttöjärjestelmä:\n\nAndroid TV 12\n\n## Mitat:\n\nKorkeus: 83 mm​\n\nLeveys: 165 mm​\n\nSyvyys: 165 mm\n\n## Yhteydet ja liitettävyys:\n\nLiittimet:\n\n  * 1 Gb Ethernet RJ45 -portti (nettiyhteydelle, viihdepalveluille ja päivityksille)\n  * HDMI 2.1\n  * USB-A 2.0 (esim. ulkoista kovalevyä, hiirtä tai näppäimistöä varten)\n\nBluetooth: 5.0 BLE-tuki\n\nWi-Fi: 1 X Wi-Fi 6 , 2 x 2 dual band (2.4 & 5 GHz)\n\n## Muut ominaisuudet:\n\nGoogle Assistant (englannin kielellä)\n\neARC (Enhanced Audio Return Channel)\n\nSpotify Connect\n\nKanavien tallennus ulkoiselle kovalevylle ei ole mahdollista.\n\n## Valmistaja:\n\nSagemcom\n\n",
+                "heading": "Tekniset tiedot"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:16:20+00:00",
+        "last_modified": "2025-06-20T19:25:00.046995",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

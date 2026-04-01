@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-5g-wifi-mu5001_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 409,
+                "end": 1587,
+                "text": "# DNA Matkamokkula 5G WiFi MU5001\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/vianmaaritys)\n\n### Päivitykset\n\n#### MU5001 on saanut päivityksen viikolta 13 /2024 alkaen\n\n**Päivityksen sisältö:**\n\n  * verkkovalinnan oletusasetus muuttuu 5G NSA:ksi\n  * laitevalmistajan tietoturvakorjauksia\n  * uusi ohjelmistoversio: DNAFI_MU5001V1.0.0B07\n\n#### Aiemmat päivitykset\n\n#### MU5001 on saanut päivityksen 1.12.2022 alkaen\n\n  * Päivityksen yhteydessä laitteen kosketusnäytön oletuskieleksi muuttuu suomi, nykyisen englannin sijaan. Lisäksi päivitys sisältää laitevalmistajan tekemiä bugikorjauksia.\n  * Uusi ohjelmistoversio: DNA_FIMU5001V1.0.0B05 \n\n",
+                "heading": "DNA Matkamokkula 5G WiFi MU5001"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:12:55+00:00",
+        "last_modified": "2025-06-20T19:06:15.110928",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

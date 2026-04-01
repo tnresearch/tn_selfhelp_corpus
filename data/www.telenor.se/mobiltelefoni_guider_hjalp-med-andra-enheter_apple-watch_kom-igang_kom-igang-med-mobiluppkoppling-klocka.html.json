@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_hjalp-med-andra-enheter_apple-watch_kom-igang_kom-igang-med-mobiluppkoppling-klocka.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 459,
+                "end": 2155,
+                "text": "# Kom igång med Mobiluppkoppling klocka\n\nFölj stegen nedan för att komma igång med tjänsten Mobiluppkoppling klocka i\ndin Apple Watch. När du är klar kan du lämna din iPhone hemma nästa gång du\ngår ut. Visst längtar du? Okej, då sätter vi igång.\n\n  * ### Parkoppla, uppdatera och ställ in klockan och din iPhone \n\n**Viktigt!** Du måste ha dessa versioner **eller senare** innan du köper\ntjänsten: Klockans operativsystem (watchOS): 5.1.2  \nOperativsystemet i din iPhone (iOS): 12.1.1  \nOperatörsinställningarna i din mobil: Telenor 35.1  \n  \nDu kan behöva starta om både klockan och mobilen när du har uppdaterat\noperativsystemen och operatörsinställningarna. Men det går ju snabbt.  \n  \nFölj gärna guiden för att ställa in klockan på Apples sajt.  \n[Ställa in Apple Watch](https://support.apple.com/sv-se/HT204505)\n\n  * ### Öppna Watch-appen\n\nDen hittar du lätt.\n\n  * ### Klicka på Mobilnät\n\n  * ### Klicka på Ställ in mobilnät\n\n  * ### Fyll i din personliga kod och klicka på Logga in\n\nSå här hittar du koden:\n\n[Mitt Telenor (webb)](/support/mobiltelefoni/guider/hjalp-med-andra-\nenheter/apple-watch/kom-igang/hitta-din-personliga-kod-mitt-telenor-webb/)  \n[Mitt Telenor-appen](/support/mobiltelefoni/guider/hjalp-med-andra-\nenheter/apple-watch/kom-igang/hitta-din-personliga-kod-appen/)  \n  \n\n  * ### Klicka i att du godkänner villkoren och tryck på Köp och aktivera \n\nSnart är du klar, bara lite kvar nu.\n\n  * ### Klicka på Stäng\n\nAktiveringen tar ungefär fem minuter. Du kommer att få ett sms när det är\nklart.  \n  \n\n  * ### När det ser ut så här är aktiveringen klar.\n\nDet där klarade du galant! Nu kan du bland annat ringa och messa med klockan.\nHoppas det kommer att funka fint för dig.\n\n",
+                "heading": "Kom igång med Mobiluppkoppling klocka"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:49+00:00",
+        "last_modified": "2025-05-30T14:32:22.136281",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

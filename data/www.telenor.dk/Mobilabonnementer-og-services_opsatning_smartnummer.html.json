@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_opsatning_smartnummer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1888,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Smartnummer\n\nHos Telenor kan du få det bedste ud af dit smartwatch med Smartnummer helt\ngratis i 3 måneder. Derefter koster det 40 kr. om måneden.\n\nSmartnummer kan koble dit smartwatch til telefonen, så du kan modtage opkald\nog beskeder uden at have telefonen på dig. Det eneste det kræver, er et\nsmartwatch, der understøtter eSIM.\n\nDit smartwatch og din mobil deler den mængde taletid og data, du har i dit\neksisterende mobilabonnement. Så kan du altid følge med i hvor meget data, du\nhar brugt og har tilbage.\n\nHvordan får jeg Smartnummer?\n\nBestil Smartnummer på [Mit Telenor](/login/) under det abonnement, som\nSmartnummeret skal kobles sammen med.\n\nHvordan kobler jeg mit smartwatch til mit abonnement hos Telenor?\n\nFor at koble dit smartwatch til dit abonnement hos Telenor kræver det, at du\nhar Smartnummer tilknyttet dit abonnement. Det er Smartnummer, der kobler dit\nmobilabonnement sammen med dit smartwatch. Smartnummer tilføjes på [Mit\nTelenor](/mit-telenor/login/) under **Se og rediger services**.\n\nHvordan aktiverer jeg mit Smartnummer på mit smartwatch?\n\nDet er nemt at koble dit smartwatch med dit Smartnummer. Scan QR-koden med\nappen, der hører til dit smartwatch – så er du klar.\n\nHvad gør jeg, hvis mit Smartnummer ikke virker?\n\nPrøv følgende, før du kontakter kundeservice:\n\n\\- Tjek om Bluetooth er deaktiveret på dit smartwatch.  \n\\- Åbn appen, der hører til dit smartwatch, og tjek om uret er parret med\ntelefonen.  \n\\- Tjek om både smartwatch og mobil opdateret med seneste systemopdatering.\n\nHvis det stadig ikke virker, er vi klar til at hjælpe dig i kundeservice 72\n100 100.\n\nVirker Smartnummer i udlandet?\n\nDet afhænger af, hvilket ur du har:\n\n  * Med watchOS 9.1 og en nyere version er roaming i udlandet muligt på Cellular-modeller af Apple Watch Series 5 og nyere, Apple Watch SE og nyere samt Apple Watch Ultra. \n  * Samsung Watch kan benyttes i udlandet."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:29+00:00",
+        "last_modified": "2025-05-21T15:15:30.373065",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

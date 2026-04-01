@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app_tv-guide.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 150,
+                "end": 1471,
+                "text": "# TV-Guide for T-We App\n\nI TV-guiden finner du oversikt over alle programmer som sendes eller har blitt\nsendt på direkte-TV. Her finner du tips og informasjon om hvordan du bruker\nden.\n\n## Slik fungerer TV-guiden\n\nDu åpner TV-guiden ved å trykke på **TV-guide** når du åpner appen.\n\nTV-guiden viser programinformasjon for alle kanaler inntil 14 dager frem i\ntid. Når du trykker på programtittelen vil det vises ikoner som forteller om\ndet er mulig å starte programmet forfra, eller om det er [tilgjengelig i\nukesarkivet](/kundeservice/tv/brukerveiledning-t-we/ukesarkiv/). Ønsker du for\neksempel å starte et program forfra, kan du se etter dette ikonet: ↺ og Start\nforfra.\n\nDu kan også [starte opptak av programmer](/kundeservice/tv/brukerveiledning-t-\nwe/opptak/) som går nå og programmer som kommer frem i tid direkte fra TV-\nguiden.\n\n## Nyttige valg i appen\n\nHer ser du hvilke valg som styrer de enkelte funksjonene i TV-guiden.\n\nØverst på siden kan du velge om du skal se TV-guide for **Alle TV-kanaler**\neller **Favorittkanaler**.\n\nVelg dag i nedtrekksmenyen på toppen.\n\nDu kan bytte mellom kanaler ved å bla til høyre eller venstre, eller gå\ndirekte til ønsket kanal ved å trykke på firkantene øverst til høyre.\n\nSe hvilke programmer som kommer, eller allerede er sendt, ved å bla ned eller\nopp under ønsket kanal.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:51+00:00",
+        "last_modified": "2025-05-30T09:41:17.048329",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

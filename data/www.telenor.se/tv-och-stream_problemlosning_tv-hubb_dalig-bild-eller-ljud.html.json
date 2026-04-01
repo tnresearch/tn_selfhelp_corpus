@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-hubb_dalig-bild-eller-ljud.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 358,
+                "end": 1101,
+                "text": "# Dålig bild eller ljud\n\nHar du problem med att bilden blir pixlig eller att ljudet hackar? Följ dessa\nsteg för att lösa problemet.\n\n  * ### \n\nStarta om tv-hubb, tv och router genom att dra ut strömkabeln.\n\n  * ### \n\nKontrollera avståndet mellan router och Tv-hubb.  \nTesta att flytta dem närmare varandra.\n\n  * ### \n\nGör en hastighetsmätning.\n\nLadda helst ner en app för hastighetsmätning på tv-hubben i Google Play-\nbutiken.  \nAnnars så kan man använda en annan enhet (telefon, platta eller dator som är\nuppkopplad på samma wifi) så nära Tv-hubben som möjligt.\n\nFår man en nedladdning (download) som är under 50 Mbit/s, kontakta\nbredbandsleverantören.\n\nFunkar det fortfarande inte, [kontakta oss](/support/kontakta-oss/) så hjälper\nvi dig.\n\n",
+                "heading": "Dålig bild eller ljud"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:30:28+00:00",
+        "last_modified": "2025-05-30T17:36:26.078294",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

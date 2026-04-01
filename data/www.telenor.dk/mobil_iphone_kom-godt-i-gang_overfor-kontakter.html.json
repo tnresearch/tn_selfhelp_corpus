@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_iphone_kom-godt-i-gang_overfor-kontakter.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1019,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Overfør kontakter til din iPhone\n\nFølg guiden herunder for at importere kontakter til din Apple iPhone. Men er\ndu det mindste i tvivl om, hvordan du får alle dine kontakter, billeder og fx\ne-mails overført til din nye mobil, så kig ned i din Telenor-butik.\n\n[Find butik](/find-butik/ \"Find butik\")\n\n  * ## Tryk på \"Indstillinger\"\n\nSørg for at dit Telenor-simkort sidder i mobilen.\n\n  * ## Vælg ”E-mail, kontakter, kalendere”\n\n  * ## Vælg ”Importer SIM-kontakter”\n\n  * ## Vælg konto\n\nVælg hvilken konto, du ønsker at overføre dine kontakter til.\n\n**Hvordan overfører jeg mine kontakter fra Android til iPhone?**\n\n    1. Sørg for, at du har adgang til Google Play på din Android-mobil og App Store på din iPhone\n    2. På begge mobiler skal du nu hente app'en \"Phonecopy\"\n    3. Når app'en er hentet, skal du oprette dig som bruger - følg anvisningerne i app'en. Vi anbefaler, at du gør det på den mobil, hvor kontakterne ligger\n    4. Synkroniser den mobil, hvor kontakterne ligger - og synkroniser dernæst din iPhone"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:15+00:00",
+        "last_modified": "2025-05-21T15:15:56.881770",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

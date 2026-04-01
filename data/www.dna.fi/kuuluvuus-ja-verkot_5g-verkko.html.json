@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/kuuluvuus-ja-verkot_5g-verkko.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 270,
+                "end": 3009,
+                "text": "# 5G – entistäkin nopeampi ja viiveetön verkko\n\n5G:stä puhutaan paljon, mutta mitä se oikeasti tarkoittaa? Luvassa on paljon\nnetin käyttöä parantavia ja arkea helpottavia asioita; ihan kaikkea emme edes\nvielä osaa kuvitellakaan. Suurimmat muutokset näkyvät vasta muutaman vuoden\npäästä, sillä 5G-teknologia kehittyy koko ajan ja parantaa myös 4G-verkon\nnopeuksia.\n\nDNA rakentaa 5G:n palveluita sekä entistä nopeampaan ja sujuvampaan\nmobiilidatan käyttöön että kotien ja toimistojen nopeaksi verkkoyhteydeksi.\nLopulta 5G:ssä ei ole kyse pelkästään netistä, vaan siitä, millaisen huomisen\nse mahdollistaa.\n\n## Milloin 5G tulee?\n\n5G on jo täällä osittain, mutta se ei kuitenkaan tule kertarysäyksellä.\n4G-netti lanseerattiin jo vuonna 2011, ja sekin nopeutuu edelleen koko ajan,\nkun lisää kapasiteettia otetaan käyttöön verkossa. 5G ei korvaa 4G:tä, vaan\ntäydentää sitä vaiheittain.\n\n## Mitä 5G mahdollistaa?\n\n5G:llä katsot hyvälaatuista sisältöä esimerkiksi Netflixin ja Areenan\nsuoratoistopalveluista pätkimättä, pelaaminen verkossa on viiveetöntä ja\netätyöt sujuvat. Tulevaisuudessa verkon viipaloinnin eli slicingin avulla\n5G-verkon palveluita voidaan mukauttaa sekä kotien että yritysten tarpeisiin.\nVerkon viipaloinnilla mahdollistamme käyttäjälle oman häiriö- ja ruuhkavapaan\nkaistan – oli se sitten kodin netti tai yrityksen IoT-sovellus.\n\n## Mitä käy 4G:lle?\n\n4G ei ole katoamassa minnekään, sillä 5G-teknologiaa rakennetaan ensivaiheessa\nolemassa olevan 4G:n päälle niin sanottuna kapasiteettikerroksena. DNA jatkaa\nmyös uusien 4G-tukiasemien rakentamista ja 4G-toiminallisuuksien kehittämistä,\nminkä ansiosta myös 4G-palveluiden käytettävyys paranee edelleen.\n\n## Video: Onko 5G-verkkoa syytä pelätä?\n\nEi ole. Turvallinen mobiiliverkko on meidän yhteinen etumme. Kerromme\noheisella videolla tarkemmin 5G-verkosta sekä radiotaajuisesta säteilystä ja\nsen ominaisuuksista. Voit huoletta nauttia kasvavista datansiirron\nnopeuksista.\n\nKatso video\n\n## 5G-verkko lyhyesti\n\n  * Luotettavuus ja toimintavarmuus ovat nykyisiä verkkoja paremmat \n  * Vähintään 10-kertaiset nopeudet ja jopa gigan yhteydet\n  * Suoratoistopalveluiden, TV-ohjelmien ja videoiden parempi laatu ja pätkimättömyys tekevät katselusta entistä elämyksellisempää\n  * Välitön yhteys minimaalisella viiveellä nostaa pelaamisen uudelle tasolle \n  * Pientaloille 5G tuo oman ruuhkattoman nettikaistan kotiin\n\n## Aiheeseen liittyvät sisällöt\n\n[Artikkeli: 5G-verkko koostuu kolmesta osasta – tiedätkö, mikä on tietoturvan\nkannalta kriittisin?](https://www.dna.fi/blogi/-/blogs/5g-verkko-koostuu-\nkolmesta-osasta-tiedatko-mika-on-tietoturvan-kannalta-kriittisin-)\n\n[Mitä 5G-liittymät mahdollistavat kotiin ja yrityksille? Tutustu DNA:n\n5G-liiittymiin](https://www.dna.fi/5g)\n\n",
+                "heading": "5G – entistäkin nopeampi ja viiveetön verkko"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:37+00:00",
+        "last_modified": "2025-06-20T14:34:50.010477",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

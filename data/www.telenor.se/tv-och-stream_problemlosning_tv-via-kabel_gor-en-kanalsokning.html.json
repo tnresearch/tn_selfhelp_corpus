@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_gor-en-kanalsokning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1400,
+                "text": "# Gör en kanalsökning\n\nKanalerna du saknar kan dyka upp igen om du gör en kanalsökning.\n\n  \nSå här gör du en kanalsökning om du har vår vanligaste box, Humax 1000c.\n\n  1. Klicka på Meny på fjärrkontrollen\n  2. Navigera till Inställningar och klicka på OK\n  3. Bläddra ned till Installation och klicka på OK\n  4. Ange PIN-koden till din box. Standardpinkoden är 0000\n  5. Välj Sök kanaler och sedan Autosökning\n\n****\n\n###\n\nHar du en annan box eller tv-modul?\n\n[Samsung-tv med tv-modul](/link/eca2eb475be144cc8f557f2d708784b7.aspx \"Manual\nför kanalsökning på Samsung-tv med tv-modul\")  \n  \n[Philips-tv med tv-modul](/link/bd4acee24edd4587a058c6267224cdd5.aspx \"Manual\nför kanalsökning på Philips-tv med tv-modul\")  \n  \n[Sony-tv med tv-modul](/link/608bb2913c0d4a62b7666d5e1ea1e3f7.aspx \"Manual för\nkanalsökning på Sony-tv med tv-modul\")  \n  \n[Humax CDIG-2000C/R  \n(inspelningsbar)](/link/2988628a1015400e90514eef7a09470d.aspx \"Manual för\nkanalsökning på Humax CDIG-2000C/R \\(inspelningsbar\\)\")  \n  \n[ADB 2840 och ADB 5720](/link/2eef7c451d1a4b6ba246271c04f3c278.aspx \"Manual\nför kanalsökning på ADB 2840 och ADB 5720\")  \n  \n[Zenterio](/link/5e7ab91dd4bc4c13abdac4d721afcff4.aspx \"Manual för\nkanalsökning på Zenterio\")  \n  "
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:18+00:00",
+        "last_modified": "2025-05-30T17:40:33.816068",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

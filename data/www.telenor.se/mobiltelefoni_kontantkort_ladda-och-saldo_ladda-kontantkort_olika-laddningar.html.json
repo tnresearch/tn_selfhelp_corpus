@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_ladda-och-saldo_ladda-kontantkort_olika-laddningar.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 460,
+                "end": 1130,
+                "text": "#  Välj rätt laddning\n\nKontantkort kan användas till mycket. I mobiltelefoner, till mobila bredband\neller för att koppla upp dina smarta prylar som till exempel jaktkameran eller\nlarmet i sommarstugan.\n\nLäs mer om våra olika laddningsalternativ här under och välj det som passar\ndig bäst.\n\n[Ladda på ditt kontantkort >](/handla/kontantkort/ladda-\nkontantkort/#/products)\n\nBra att veta:\n\nHar du tidigare gjort en laddning med fast pris och utlandsminutrar vid samma\ntillfälle så fick du en giltighetstid för den laddningen. Om du vid nästa\ntillfälle har utlandsminutrar kvar och endast gör en laddning för fast pris\nförlängs inte giltighetstiden för dina utlandsminutrar."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:06+00:00",
+        "last_modified": "2025-05-30T14:50:50.784474",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

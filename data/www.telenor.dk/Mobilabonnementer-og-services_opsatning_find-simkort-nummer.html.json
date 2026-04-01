@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_opsatning_find-simkort-nummer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 472,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Hvordan finder jeg mit simkort-nummer?\n\nSimkort-nummeret er et nummer på op til 22 cifre, som er tilknyttet selve\nsimkortet. Det bruges bl.a., hvis du vil flytte dit nummer fra en anden\nudbyder over til os. Det kaldes også et ICC eller ICCID.\n\nI Mit Telenor kan du finde en oversigt over dine abonnementer. Tryk på ”Se\ndetaljer” ud for ethvert abonnement for at se det tilhørende simkort-nummer og\npuk-kode.\n\nDu kan også altid tage simkortet ud af mobilen og se det der."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:59+00:00",
+        "last_modified": "2025-05-21T15:15:29.349124",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

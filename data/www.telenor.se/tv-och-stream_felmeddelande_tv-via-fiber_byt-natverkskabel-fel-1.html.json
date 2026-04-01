@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_felmeddelande_tv-via-fiber_byt-natverkskabel-fel-1.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 590,
+                "text": "# Byt nätverkskabel\n\nDet kan vara fel på din nätverkskabel – prova att byta till en annan.  \n  \n**Vill du att vi ska skicka en ny nätverkskabel?**  \n[Skriv ett mejl till oss](/support/old-kontakta-oss/mejla/) och berätta att du\nbehöver en ny nätverkskabel. Kom ihåg att skriva hur lång kabel du behöver.\nAtt beställa en ny nätverkskabel kostar inget.  \n  \nOm du vill kan du förstås köpa en nätverkskabel själv."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:10+00:00",
+        "last_modified": "2025-05-30T14:56:47.015914",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

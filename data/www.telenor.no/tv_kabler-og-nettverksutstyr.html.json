@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_kabler-og-nettverksutstyr.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 123,
+                "end": 3293,
+                "text": "# T-We Boks II: Informasjon om kabler og nettverksutstyr\n\nDet er lett å tenke at man kan fortsette å bruke det samme oppsettet med\nkabler og utstyr som tidligere når man bytter dekoder. Det er ikke alltid den\nbeste løsningen.\n\n## Har du husket å bytte kabler?\n\nVisste du at gamle kabler kan gi deg problemer med TV-signal, Internett eller\nbildekvalitet? Når man bytter til nyere utstyr, slik som T-We Boks II, bytter\nman samtidig til utstyr med bedre kvalitet og kanskje annen teknologi enn det\nman hadde tidligere. Det betyr også at det stilles andre krav til kablene man\nbruker til T-We boksen og fra T-We Boksen inn i TV-en.\n\n## 1\\. Bruk riktig nettverkskabel\n\nFår du stadig vekk beskjed om at T-We boksen oppgraderes? Om dette skjer hver\ngang du skrur på T-We boksen, er det en god indikasjon på at noe er galt med\nnettverkskabelen.\n\nNettverkskabelen som følger med T-We Boks II er merket med _\"CAT.5e STP Patch\ncable to TIA/EIA-568.2\"_\n\nDu kan bruke en hvilken som helst nettverkskabel som støtter Gigabit Ethernet\n(CAT.5e eller nyere), men vi anbefaler å bruke kabelen som fulgte med.\n\nSer du ofte dette skjermbilde når du skrur på T-We Boks II?Det kan være et\ntegn på problemer med nettverkstilkoblingen. Sjekk at du bruker riktig\nnettverkskabel.\n\n### Fortsatt problemer?\n\nOm du fortsatt opplever symptomene med oppdatering ved hver oppstart, og\nnettverkskabelen er byttet ut, kan det også skyldes problemer med\nveggkontakten eller andre nettverkskabler du bruker i forbindelse med TV eller\nnettverk.\n\nTre forskjellige nettverkskabler levert av Telenor. Sørg for at du bruker den\ngrå kabelen med gule ender da denne er den nyeste typen med best kvalitet.\n\n## 2\\. Har HDMI-kabelen støtte for 4K?\n\nHvis du har en T-We Boks II er det spesielt viktig å bytte ut HDMI-kabelen med\nden som fulgte med boksen. T-We Boks II støtter oppløsningen 4K, og hvis man\nbruker en eldre kabel kan det oppstå problemer med bilde når man kobler den\nsammen med en TV som støtter 4K. Her kan man oppleve at man får feil i\nbildekvalitet, manglende bilde eller [HDCP problemer.\n](/kundeservice/tv/problemer-med-tv/hdcp-hdmi-off/)\n\n## 3\\. Kontroller annet nettverksutstyr\n\nT-We leveres over forskjellige teknologier: Kabel-TV eller TV over Internett\n(IPTV). Uansett hvilken teknologi du har vil vi anbefale å bruke utstyr og\nkabler du har mottatt fra oss når du[ kobler til T-We\nboksen](/kundeservice/tv/dekodere-og-fjernkontroller/t-we-boks-ii/koble-til/),\nmen det er spesielt viktig med IPTV.\n\nØnsker du allikevel å bruke utstyr fra en tredjepart bør kjenne til at\nutstyret må ha støtte for enkelte funksjoner. Du bruker også en slik\ntilkoblingen på eget ansvar da vi ikke har noen veiledninger for dette utover\ndet du finner her.\n\n **Eksempel -** For at en svitsj skal fungere med T-We må den være av nyere\ndato og ha støtte for følgende:\n\n  * Gigabit Ethernet (hastighet på 1000 Mbps)\n\n  * Multicast\n\n  * IGMP\n\n## IPTV og annet nettverksutstyr\n\nSe veiledning for bruk av tredjepart bredbåndsrutere og annet nettverksutstyr.\n\n[Åpne veiledning\n(PDF)](https://www.telenor.no/binaries/privat/kundeservice/tvhjelp/utstyr/tredjeparts-\nutstyr/IPTV%20tredjepart%20veiledning%20juni%202020.pdf)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:11+00:00",
+        "last_modified": "2025-05-30T09:38:44.877320",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

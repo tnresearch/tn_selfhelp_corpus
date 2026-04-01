@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_wifi-kabel-fabriksaterstall-din-router.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 860,
+                "text": "# Fabriksåterställ din router\n\nOm du har kommit till det här steget har du verkligen gjort mycket för att\nhitta felet på ditt bredband. Bra jobbat, och trist att det fortfarande inte\nfunkar som det ska!\n\n  \nSom ett sista steg kan du fabriksåterställa din router. Den kan nämligen ha\nhakat upp sig, och då hjälper en återställning. Men tänk på att **alla dina\ninställningar försvinner** och återgår till fabriksåterställningar, till\nexempel ändringar av namn och lösenord till ditt trådlösa nätverk.\n\n### Så fabriksåterställer du routern\n\nTa ett gem och tryck in i hålet märkt Reset på baksidan av routern. Tryck in\nknappen tills routern startar om och avvakta ungefär fem minuter."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:40+00:00",
+        "last_modified": "2025-05-30T14:06:00.710364",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

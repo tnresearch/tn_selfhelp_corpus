@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_ingen-bild-alls.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 180,
+                "end": 468,
+                "text": "# Ingen bild alls\n\nKolla först om tv-boxen är påslagen.\n\n  \nPå boxens framsida finns en standby-knapp. Tryck på knappen för att se om\nboxen är påslagen. Om knappen lyser grönt betyder det att tv-boxen är\npåslagen. Om den lyser rött är boxen i standby-läge eller också pågår en\ninspelning."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:50+00:00",
+        "last_modified": "2025-05-30T17:40:51.683627",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

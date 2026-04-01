@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-ethernet-wifi-6-k562.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 302,
+                "end": 2123,
+                "text": "# DNA Ethernet- ja Mesh-modeemi WiFi 6 K562\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nethernet-wifi-6-k562/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi-6-k562/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi-6-k562/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi-6-k562/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi-6-k562/vianmaaritys)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje\n(pdf)](/documents/753910/853489/DNA_Mesh_WiFi_K562_opas.pdf/)\n\n[Lataa pikaopas\n(pdf)](/documents/753910/853489/DNA_Mesh_WiFi_K562_pikaopas.pdf/)\n\n[ Ladda ner manual\n(pdf)](/documents/753910/853489/DNA_Mesh_WiFi_K562_anvandarmanual.pdf/)\n\n[ Ladda ner snabbguide\n(pdf)](/documents/753910/853489/DNA_Mesh_WiFi_K562_snabbguide.pdf/)\n\n[Ohje Wifin nimenvaihto\n(pdf)](/documents/753910/853489/DNA_Netti_wifin_nimenvaihto_K562_nettiin.pdf/2fa49dbf-3122-706b-6beb-202da757a733?t=1729138934231)\n\n#### Katso videolta ohjeet modeemin käyttöönottoon\n\nKatso video\n\n### DNA Laatutakuu modeemeille ja mokkuloille\n\nDNA Laatutakuu modeemeille ja mokkuloille varmistaa, että saat luotettavan,\nturvallisen ja suorituskykyisen netin. Helppo käyttöönotto, DNA:n verkkoon\noptimoitu suorituskyky, jatkuvat päivitykset ja 3 vuoden takuu takaavat\nmielenrauhan pitkälle tulevaisuuteen. DNA Laatutakuu tulee takautuvasti\nkaikille DNA:n myymille netin päätelaitteille jotka on ostettu tai joiden\nsopimus on alkanut 1.1.2025 jälkeen.\n\n[ Lue lisää\n](https://www.dna.fi/laatutakuu?itm_source=tukisivut&itm_medium=card&itm_campaign=laatutakuu&itm_format=vakio&itm_content=vakio)\n\n",
+                "heading": "DNA Ethernet- ja Mesh-modeemi WiFi 6 K562"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:49+00:00",
+        "last_modified": "2025-06-20T14:42:09.739558",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

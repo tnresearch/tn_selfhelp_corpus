@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_koppla-in-routern-igen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 627,
+                "text": "# Koppla in routern igen\n\nKoppla in routern i bredbandsuttaget igen och gör sedan en\nfabriksåterställning.\n\n### Så gör du en fabriksåterställning\n\nTa ett gem och tryck in i hålet märkt Reset på baksidan av routern. Tryck in\nknappen tills routern startar om och avvakta ungefär fem minuter.\n\n**Obs:** Alla dina inställningar försvinner och återgår till\nfabriksåterställningar, till exempel ändringar av namn och lösenord till ditt\ntrådlösa nätverk."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:13+00:00",
+        "last_modified": "2025-05-30T14:04:51.994462",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

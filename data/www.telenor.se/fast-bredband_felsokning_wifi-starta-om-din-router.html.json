@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_wifi-starta-om-din-router.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 635,
+                "text": "# Starta om din router igen\n\nDå är det dags att starta om routern igen, för att få den att välja den kanal\nsom har minst trafik just nu.\n\n  \nNär du startar om din router gör den automatiskt en kanalsökning för att hitta\nden som kanal som är minst belastad, vilket kommer att ge dig snabbare surf.  \n  \n\n### Så här gör du:\n\n  1. Dra ut strömkabeln ur routern och vänta i minst en minut.\n  2. Koppla in kabeln och starta om din dator eller annan utrustning."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:28+00:00",
+        "last_modified": "2025-05-30T14:06:17.277617",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_dekodere-og-fjernkontroller_t-we-boks-ii_fjernkontroll_bytte-fjernkontroll.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 374,
+                "end": 3777,
+                "text": "# Bytte av T-We II Fjernkontroll\n\nHer hjelper vi deg med å bytte ut din gamle fjernkontroll, og koble den nye\nsammen med din TV.\n\n[Bruk samme fjernkontroll til TV-en\n➔](https://www.telenor.no/kundeservice/tv/dekodere-og-fjernkontroller/t-we-\nboks-ii/fjernkontroll/bytte-fjernkontroll/#tv)\n\n## Video-veiledning\n\nHvis veiledningen på denne siden ikke fungerer, bør du forsøke å nullstille  \nfjernkontrollen før du prøver på nytt.\n\n  * #### Nullstille fjernkontrollen\n\n **Slik tilbakestiller du fjernkontrollen til fabrikkinnstillingene:**\n\nDette setter fjernkontrollen tilbake til originale innstillinger.\n\n    1. Hold tastene 1 og 6 inne til **[Av/På]** -knappen merket **DECODER** på fjernkontrollen begynner å lyse.\n\n    2. Trykk så 9 - 8 - 1. Dette sletter alle data lagret i fjernkontrollen inkludert sammenkoblingen. Lyset rundt «DECODER» blinker for bekreftelse og slår seg så av.\n\n## Steg for steg\n\nVeiledning med tekst og bilde\n\n## 1\\. Slå på din TV og T-We Boks II\n\nSkru på strømbryteren på baksiden av T-We boksen og slå på TV-en.\n\n## 2\\. Koble til fjernkontroll\n\n  1. Hold ny fjernkontroll nær boks (ca. 50 cm).\n\n  2. Trykk på **MENU** og **OK** fram til det begynner å blinke i tasten **Av/På Decoder** (øverst til venstre på fjernkontrollen).\n\n  3. Slipp opp knappene når det slutter å blinke.\n\n## Bruke samme fjernkontroll til TV og T-We Boks\n\nDu kan programmere fjernkontrollen for T-We Boks til å kontrollere TV-en også,\nså slipper du å forholde deg til flere fjernkontroller. Trykk på play-knappen\npå videoen under, eller les steg for steg-guide.\n\n  * #### Bruke samme fjernkontroll på T-We Boks II og TV\n\n    1. Skru på TV-en og T-We boksen\n\n    2. Hold talltastene **[** 1 **]** og **[** 3 **]** inne samtidig i 3 sekunder til det begynner å lyse rundt **[Av/på TV]** -knappen. Fjernkontrollen er nå i programmeringsmodus.\n\n    3. Hold **[Av/på TV]** -knappen inne på fjernkontrollen til TV-en slår seg av. Dette kan ta flere minutter, avhengig av hva slags type TV du har. Med en gang TV-en slår seg av slipper du knappen. Det er viktig å slippe knappen med en gang! Hvis du slipper knappen for sent, vil fjernkontrollen tro at den ikke har funnet riktig TV og vil fortsette å lete videre inne på fjernkontrollen til TV-en slår seg av. Dette kan ta flere minutter, avhengig av hva slags type TV du har. Men en gang TV-en slår seg av slipper du knappen. \n\n    4. Slå av dekoderen. Når du slår på dekoderen igjen, vil også TV slå seg på automatisk om den støtter HDMI-CEC.\n\n    5. Prøv nå om volumtastene virker på TV-en.  \n\n **Hvis fjernkontrollen ikke fungerer som forventet, prøv å programmere den\nigjen.**\n\n    1. Trykk på tallene **[1]** og **[6]** samtidig til det lyser rundt [Av/på decoder]. Tast inn tallene **[9 9 6]**.\n\n    2. Det vil nå blinke 2 ganger rundt **[Av/på TV]**. Så kan du programmere den på nytt.\n\n **Etter at fjernkontrollen er programmert vil du få tilgang til følgende TV-\nfunksjoner:**\n\n    * Av/på\n\n    * Input (velg signalkilde)\n\n    * Volum opp\n\n    * Volum ned  \n\nHvis du ønsker å justere volumet for boksen, holder du **[Shift]** -tasten\nnede samtidig som du trykker inn en av volumtastene.\n\nMange andre funksjoner på TV-en (som for eksempel meny, fargetaster og\ntalltaster) kan nå også kontrolleres med boksens fjernkontroll. For å velge en\nTV-funksjon holder du nede **[Shift]** -tasten på fjernkontrollen, samtidig\nsom du trykker på ønsket kommando."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:45+00:00",
+        "last_modified": "2025-05-30T09:37:18.422466",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

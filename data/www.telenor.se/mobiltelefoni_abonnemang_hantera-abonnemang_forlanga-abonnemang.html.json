@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_abonnemang_hantera-abonnemang_forlanga-abonnemang.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 348,
+                "end": 1420,
+                "text": "#  Förlänga abonnemang\n\nHär hittar du information om hur du gör för att fortsätta med ditt abonnemang\nhos Telenor.\n\nDu behöver inte göra någonting för att förlänga ditt abonnemang. Om du vill ha\nett abonnemang med mer eller mindre surf än tidigare, ska du [byta\nsurfmängd](/support/mobiltelefoni/abonnemang/surf/byta-surfmangd/) istället.\n\nDu ser vilket abonnemang du har genom att logga in i Mitt Telenor – antingen\nhär [på webben](/mitt-telenor/) eller i [vår app](/archive/2019/mitt-telenor-\nold/).\n\n## Vanliga frågor om att förlänga abonnemang\n\n  * Hur byter jag mobilabonnemang?\n\nDu byter abonnemang (surfmängd) enkelt i Mitt Telenor här på\n[webben](/link/a4531ddbfeef48d3a256e369df95234d.aspx) eller i\n[appen](/link/45841c7ae4b544a1af75d6856f4a54a8.aspx). Du kan också självklart\n[kontakta oss.](/link/0c492f5608894771aeabe6efb2d6d096.aspx)  \n  \n[Mer om att byta abonnemang](/link/ed95470d8b3e4432805c88d0864acb7d.aspx)\n\n  * Vilka mobilabonnemang kan jag välja mellan?\n\n[Du hittar våra mobilabonnemang\nhär](/link/a96eaee9166b475194e657db89f197b2.aspx \"Abonnemang\")\n\n",
+                "heading": " Förlänga abonnemang"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:44+00:00",
+        "last_modified": "2025-05-30T14:25:07.930917",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

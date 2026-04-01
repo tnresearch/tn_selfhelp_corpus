@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/dab-radio.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 78,
+                "end": 987,
+                "text": "# Mottak DAB-radio\n\nHer finner du informasjon om det digitale sendenettet for radio, og hva du\ngjør ved feil på radiosignalet.\n\n## Hva er DAB?\n\nDAB er en forkortelse for Digital Audio Broadcasting, altså digital radio.\n\nTelenor står for utbygging og drift av det digitale sendenettet for radio\n([DAB](https://radio.no/om-oss/digitalradio-norge/)) som du kan lytte til via\nen radio, om det er på veien eller hjemme.\n\nOpplever du feil med radiosignalet?\n\nFår du ikke inn kanalene fra NRK, P4 og Bauer Media sine kanaler på radioen\ndin?\n\nTa kontakt med oss på telefonnummer **124** for å melde ifra om feilen.\n\n### Les mer om DAB for bedrifter\n\nBroadcast & Media Services\n\nNett for kringkasting- og medietjenester\n\n[Les mer](/bedrift/digitalisering/broadcast-media/)\n\nDistribusjon\n\nNorges største leverandør av bakkebaserte kringkastingstjenester\n\n[Les mer](/bedrift/digitalisering/broadcast-media/distribusjon/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:28+00:00",
+        "last_modified": "2025-05-30T08:17:37.936369",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

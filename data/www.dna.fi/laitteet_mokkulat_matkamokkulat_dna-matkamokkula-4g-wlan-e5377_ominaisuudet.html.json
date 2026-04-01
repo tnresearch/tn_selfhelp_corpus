@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wlan-e5377_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 408,
+                "end": 2443,
+                "text": "# DNA Matkamokkula 4G WLAN E5377\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-e5377/vianrajaus)\n\n## Ominaisuudet\n\n### DNA Prepaid Matkamokkula 4G WLAN E5377\n\nTuotenimi: Huawei E5377  \n  \nHuippuluokan matkamokkula, jolla liität usean laitteen nettiin kotona, mökillä\ntai matkalla.  \nLaite tukee 4G-yhteyttä ja vanhempia verkkotekniikoita, kuten 3G:tä.  \nMokkulassa on mahdollisuus käyttää 2.4 Ghz ja 5 Ghz WLAN-verkko\nyhtäaikaisesti.  \nIso akku helpottaa liikkumista ja mokkulan selkeä näyttö helpottaa mokkulan\nkäyttöä.\n\n  * 4G LTE enimmäisnopeus verkosta 150 Mbit/s\n  * 4G DC enimmäisnopeus 42 Mbit/s \n  * HSPA+ enimmäisnopeus 21,1 Mbit/s\n  * WLAN b/g/n\n  * WLAN 2.4 Ghz ja WLAN 5 Ghz\n  * 14 WLAN-laitetta, säädettävä WLAN-verkon kantama\n  * 3560 mAh akku ja suuri LCD-näyttö\n  * TS9-liitäntä ulkoiselle antennille\n  * Mini-SIM-korttin eli normaalin kokoinen SIM-kortti\n  * Automaattinen langattoman verkon WPS-asennus, päivitykset netistä\n  * Tuki IPv6:lle\n\n### Myyntipaketin sisältö:\n\nDNA Mokkula 4G WLAN E5377 DNA asetuksilla, AC-virta-adapteri, latausjohto\n(Micro-USC), suomenkielinen pikakäyttöopas.\n\n### Laitteistovaatimukset / Tuetut käyttöjärjestelmät:\n\n  * Tuetut käyttöjärjestelmät: Windows® 10, Windows® 8 / 8.1, Windows® 7, Vista, XP SP2/SP3, Mac OS X® 10.7\n  * WLAN: 802.11b/g/n\n  * USB slot 1/2/3\n  * Internet-selain USB-liitännän tai WLAN-yhteyden kautta: Microsoft Internet Explorer 6.0 tai uudempi, Firefox 2.0 tai uudempi, Safari 4.0 tai uudempi, Opera 10.0 tai uudempi, Chrome 5.0 tai uudempi\n\n",
+                "heading": "DNA Matkamokkula 4G WLAN E5377"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:18:14+00:00",
+        "last_modified": "2025-06-20T19:04:11.259569",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

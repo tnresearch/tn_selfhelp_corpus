@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-mokkula-4g-wlan-e5372_vianrajaus.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 396,
+                "end": 3340,
+                "text": "# DNA Mokkula 4G WLAN E5372\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-e5372/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-e5372/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-e5372/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-e5372/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmokkula-4g-wlan-e5372/vianrajaus)\n\n## Vianselvitys\n\nMitä teen kun Mokkulani akku on turvonnut?\n\nJos mokkulasi akku on turvonnut edes hieman, lopeta sen käyttö välittömästi.\nVie mokkula DNA Kauppaan. Turpoamisen huomaa suoraan akun pullistumisesta tai\nesimerkiksi takakannen liikkumisesta. Nykyisellä akkuteknologialla samanlainen\nturpoamisriski on jokaisella akkukäyttöisellä laitteella. Riski kasvaa, jos\nkäyttö on todella intensiivistä, mokkula on paikassa missä sen lämpö nousee\nkriittisesti tai sille on tehty jotain ohjekirjassa mainitsemattomia\nmuutoksia.\n\nEn voi muodostaa mokkulan ja tietokoneen välille yhteyttä USB-kaapelilla\n\nAsenna mokkulan ohjelmisto tietokoneelle ja suoria asennusohjelma Oma\ntietokone -ikkunassa. Jos mokkulan ohjain vaikuttaa epänormaalille, asenna\nohjelmisto uudestaan. Asenna ohjelmisto ensin.\n\nEn pysty muodostamaan mokkulan ja asiakaslaitteen välille WiFi yhteyttä\n\nVarmista, että WiFi-toiminto on käytössäsi. Päivitä verkkoluettelo ja valitse\noikea verkon nimi (SSID-tunnus). Tarkista IP-osoite ja varmista, että\nasiakaslaite voi hakea IP-osoitteen automaattisesti. Varmista myös, että\nmokkulassa on käytössä 2.4 GHz WiFi-radiotaajuus.\n\nAnna oikea verkkoavain (WiFi-salasana), kun yhdistät asiakaslaitteen tähän\nlaitteeseen.\n\nMokkulaan kytketyn laitteen nettiyhteys ei toimi\n\nTarkista ensin, että SIM-kortti on mokkulan sisällä. Tuo mokkulaa lähemmäksi\nlaitetta tai vie mokkula mahdollisimman lähelle ikkunaa.\n\nTarkista, että olet valinnut oikean WiFi-verkon. Näet WiFi-verkon nimen\nmokkulan näytöltä.\n\nYhteys on hidas\n\nTuo mokkula lähemmäksi laitetta tai vie mokkula mahdollisimman lähelle\nikkunaa.\n\nMikäli mokkula vaihtelee eri verkkotekniikoiden väillä (kuten 3G ja 4G),\nkokeile lukita mokkula johonkin verkkoon (ks. WiFi-verkon nopeuttaminen).\n\nTietokone ilmoittaa \"Rajoitettu yhteys tietokoneesta\"\n\nMokkula ei ole yhteydessä nettiin. Tarkista nettiyhteytesi ja käynnistä\ntarvittaessa mokkula uudestaan.\n\nEn pääse mokkulan hallintasivuille\n\nTarkista, että olet valinnut oikean WiFi-verkon tai USB-kaapeli on yhdistetty\nlaitteeseen. Näet WiFi-verkon nimen mokkulan näytöltä.\n\nAnna oikea osoite. Määrityssivun oletusosoite on http://192.168.0.1 tai\nhttp://dna.mokkula.\n\nSammuta tietokoneesta muut nettiyhteydet ja irrota Ethernet-kaapeli. Käynnistä\nmokkula uudelleen pitämällä virtanappia 5 sekunnin ajan pohjassa.\n\nNollaa mokkula tehdasasetuksille.\n\n",
+                "heading": "DNA Mokkula 4G WLAN E5372"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:09:12+00:00",
+        "last_modified": "2025-06-20T19:06:55.269514",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

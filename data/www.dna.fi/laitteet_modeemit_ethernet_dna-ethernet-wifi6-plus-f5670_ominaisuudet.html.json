@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-ethernet-wifi6-plus-f5670_ominaisuudet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 413,
+                "end": 1772,
+                "text": "# DNA Ethernet-modeemi WiFi 6 Plus F-5670\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nethernet-wifi6-plus-f5670/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-ethernet-\nwifi6-plus-f5670/vianmaaritys)\n\n## Ominaisuudet\n\nModeemia voi käyttää ethernet-kodin päämodeemina. Se toimii ensimmäisenä mesh-\npisteenä ja voidaan laajentaa yhden tai useamman [F-266 Mesh-\nlaajentimen](https://www.dna.fi/dna-mesh-f-266-modeemi) kanssa.\n\n## Mitat ja paino\n\n  * Korkeus 255 mm\n  * Leveys 90 mm\n  * Syvyys 205 mm\n  * Paino 670 g\n\n**Asennustavat:** pöydälle (pystyyn)\n\n**Sähkönkulutus:** 24 W\n\n## Tiedot\n\n**Valmistaja** : Sagemcom\n\n**Malli** : F-5670\n\n**Valmistajan takuu** : 24 kk\n\n**Verkkoliitännät:**\n\n  * **ethernet** 1 kpl 2.5 Gbit/s WAN + 1 kpl 2.5 Gbit/s LAN + 3 kpl 1 Gbit/s LAN\n  * **WiFi 6** (802.11ax), 5 GHz (4x4) ja 2.4 GHz (3x3)\n\n## Myyntipaketin sisältö\n\nDNA Ethernet-modeemi WiFi 6 F-5670, käyttöopas, virtajohto ja adapteri,\nethernet-johto, turvallisuusohje\n\n",
+                "heading": "DNA Ethernet-modeemi WiFi 6 Plus F-5670"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:08:49+00:00",
+        "last_modified": "2025-06-20T14:52:18.085739",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

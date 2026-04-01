@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_hur-upplever-du-problemet-med-ditt-bredband.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1077,
+                "text": "# Vad är problemet?\n\nVi börjar felsökningen med att identifiera huvudproblemet.\n\n  \nMen först: du har väl redan **startat om routern** och **kollat i**[ **Mitt\nTelenor?**](/mitt-telenor/)Om det är en driftstörning som påverkar dig syns\nden överst på sidan \"Min översikt\".  \n  \nOkej, då kör vi. Du har startat om routern och har inte en driftstörning. Så\nvad är problemet? Funkar bredbandet inte alls, funkar det då och då eller är\ndet helt enkelt bara långsamt?  \n  \nTips! Vår chatbot Telenora kan hjälpa dig att felsöka. Testa själv genom att\nklicka på Telenora nere i högra hörnet av skärmen.\n\n[ Långsamt ](/support/fast-bredband/felsokning/hur-surfar-du-nar-du-upplever-\nditt-problem/)\n\n[ Funkar då och då ](/support/fast-bredband/felsokning/hur-surfar-du-nar-du-\nupplever-ditt-problem/)\n\n[ Funkar inte alls ](/support/fast-bredband/felsokning/lyser-eller-blinkar-en-\nrod-lampa-pa-din-router/)\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:26:11+00:00",
+        "last_modified": "2025-05-30T14:04:08.755105",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

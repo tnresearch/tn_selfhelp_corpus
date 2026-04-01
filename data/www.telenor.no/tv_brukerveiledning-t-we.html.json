@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_brukerveiledning-t-we.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 119,
+                "end": 2351,
+                "text": "# Brukerveiledning for T-We\n\nHer finner du informasjon og hjelp med alle de forskjellige funksjonene i TV-\nmenyen\n\n[\n\n### TV-guide\n\nFinn frem i TV-guiden og lær å bruke de forskjellige funksjonene.\n\n](/kundeservice/tv/brukerveiledning-t-we/tv-guide/)\n\n[\n\n### Strømmetjenester\n\nSlik fungerer strømmetjenester på T-We boksen.\n\n](/kundeservice/tv/brukerveiledning-t-we/strommetjenester/)\n\n[\n\n### Filmleie\n\nInformasjon om filmleie og hvordan du leier en film.\n\n](/kundeservice/tv/brukerveiledning-t-we/filmleie/)\n\n[\n\n### Profiler\n\nOpprett, endre eller bytt mellom profiler i TV-menyen.\n\n](/kundeservice/tv/brukerveiledning-t-we/profiler/)\n\n[\n\n### PIN-kode\n\nFinn, endre eller tilbakestill PIN-koden for T-We.\n\n](/kundeservice/tv/brukerveiledning-t-we/pin-kode/)\n\n[\n\n### Søkefunksjon\n\nSøk med fjernkontrollen eller talesøk\n\n](/kundeservice/tv/brukerveiledning-t-we/sok/)\n\n[\n\n### Opptak\n\nStart et opptak eller finn frem i opptakslisten.\n\n](/kundeservice/tv/brukerveiledning-t-we/opptak/)\n\n[\n\n### Ukesarkiv\n\nFinn innhold fra ukesarkivet i TV-guiden eller menyen.\n\n](/kundeservice/tv/brukerveiledning-t-we/ukesarkiv/)\n\n[\n\n### Favorittlister\n\nOpprett favorittkanaler og bytt mellom kanallister.\n\n](/kundeservice/tv/brukerveiledning-t-we/favorittliste/)\n\n[\n\n### Innstillinger\n\nInnstillinger og teknisk informasjon for nettverk og T-We boksen.\n\n](/kundeservice/tv/brukerveiledning-t-we/innstillinger/)\n\n[\n\n### Anbefalinger\n\nSlik fungerer redaksjonelle og personlige anbefalinger i T-We.\n\n](/kundeservice/tv/brukerveiledning-t-we/anbefalinger/)\n\n## Brukermanual og andre brukerveiledninger\n\nTrenger du brukermanual for T-We boksen eller brukerveiledning for\nfjernkontrollene, finner du dette ved å [velge utstyret det gjelder på våre\nhjelpesider](/kundeservice/tv/dekodere-og-\nfjernkontroller/)[.](/kundeservice/tv/dekodere-og-\nfjernkontroller/indexer.page)\n\n### Flere tips til bruk av T-We\n\nHer finner du noen videoer som viser tips og triks om hvordan du best kan\nutnytte mulighetene i T-We\n\nSe tips\n\n## Kvalitet på bilde og lyd\n\nLes mer om hvordan vi distribuerer lyd og bilde samt informasjon rundt hva som\nkan påvirke opplevelsen på din TV-skjerm, Apple TV, nettbrett eller mobil.\n\n[Kvalitet på bilde og lyd](/kundeservice/tv/lyd-og-bilde/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:11+00:00",
+        "last_modified": "2025-05-30T09:32:30.285339",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

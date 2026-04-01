@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_kom-igang_box.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 330,
+                "end": 1319,
+                "text": "#  Kolla på tv med utrustning från Telenor\n\nBra val! Du som har tv via fiber eller kabel är nu på helt rätt ställe. Välj\nvilken box du har, så landar du i kom igång-guiden.\n\n### Telenor Tv-Hubb\n\n  \n[Till guiden för Telenor tv-hubb ](/support/tv-och-stream/kom-\nigang/box/telenor-tv-hubb/)\n\nKabel-tv\n\n[ ](/support/tv-och-stream/kom-igang/box/humax-cdig-1000c-tv-box/)\n\n### Humax CDIG-1000C\n\n  \n[Till guiden för Humax CDIG-1000C](/support/tv-och-stream/kom-igang/box/humax-\ncdig-1000c-tv-box/)\n\nKabel-tv\n\n[ ](/support/tv-och-stream/kom-igang/box/humax-cdig-2000cr/)\n\n### Humax CDIG-2000C/R (inspelningsbar)\n\n  \n[Till guiden för CDIG-2000C/R](/support/tv-och-stream/kom-igang/box/humax-\ncdig-2000cr/)\n\n## Telenor Mediahubb\n\n  \n[Till guiden för Telenor Mediahubb](/support/tv-och-stream/kom-\nigang/box/telenor-mediahubb/)\n\nFiber-tv\n\n[ ](/support/tv-och-stream/kom-igang/box/tv-boxen-arris/)\n\n### Arris\n\n  \n[Till guiden för Arris tv-box](/support/tv-och-stream/kom-igang/box/tv-boxen-\narris/)\n\n",
+                "heading": " Kolla på tv med utrustning från Telenor"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:22:57+00:00",
+        "last_modified": "2025-05-30T15:00:24.509148",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

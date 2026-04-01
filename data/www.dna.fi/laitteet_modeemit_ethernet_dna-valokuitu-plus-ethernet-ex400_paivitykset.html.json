@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-valokuitu-plus-ethernet-ex400_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 403,
+                "end": 4040,
+                "text": "# DNA Ethernet-modeemi EX400\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nvalokuitu-plus-ethernet-ex400/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-valokuitu-plus-\nethernet-ex400/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-valokuitu-plus-\nethernet-ex400/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-valokuitu-plus-\nethernet-ex400/paivitykset)\n\n## Päivitykset\n\n### Ohjelmistopäivitykset\n\nInteno/Genexis-merkkiset laitteet päivitetään niiden asetussivuilta tai\nmahdollisesta päivitysnapista. EX400:ssä tämä nappi/valo on nimetty\n\"Update\":ksi. Sen vilkkuessa, valoa voi painaa ja päivitys käynnistyy.\nKäyttäjän ei tarvitse mennä asetussivuille.\n\nAsetussivuille pääset yhdistämällä käyttölaitteen WiFillä tai johdolla\nmodeemiin ja nettiin, kirjoittamalla mobiililaitteen tai tietokoneen selaimen\nosoitekenttään: 192.168.1.1 sekä kirjautumalla sisään tunnuksella admin ja\nsalasanalla 1234.\n\nMikäli laitteelle on saatavilla päivitys, asetussivun etusivulle ilmestyy\nkirjautumisen jälkeen ilmoitus (”New software available”). Klikkaamalla\nilmoitusnappulaa esitetään eri vaihtoehdot laitteen päivittämiselle.\n\n  * **Yes:** Päivittää ohjelmiston ja säilyttää käyttäjän tekemät asetukset.  \n**No:** Päivittää ohjelmiston ja palauttaa oletusasetukset.  \n**Cancel:** Ei päivitä uusinta ohjelmistoa. Ilmoitusnappula jää näkyviin\nmuistuttamaan päivityksestä. Valinta tehdään klikkaamalla haluttua painiketta.\n\nKun olet painanut valintaa, laite aloittaa ohjelmiston lataamisen\npalvelimelta, päivittää ohjelmiston ja käynnistyy uudelleen.\n\n### Uuden version 4.3.6.190-R julkaisupäivä 21.10.2024\n\nLaitteen päivittyminen käynnistetään modeemissa olevasta päivitysnapista tai\nlaitteen asetussivulta. 3.12.2024 aloitetaan laitteiden automaattiset\npäivitykset.\n\n  * Päivitys sisältää yleisiä parannuksia  \n\n### Uusi versio 4.3.6.100 julkaistu 29.6.2021\n\n  * Silta tilassa lisätty yksityinen LAN hallintaosoite (192.168.1.1)\n  * Hallintasivun WPS toimintaa korjattu\n  * WiFi Mesh Repeater/Extender tilan tunnistusta palautumisen osalta muutettu - laite vaihtaa takaisin reitittävään tilaan, jos se saa julkisen IP-osoitteen\n  * UBUS-X taustaväylä käyttöön laitteiden väliseen kommunikointiin (WLAN Mesh)\n  * HTTPS Web hallinta lisätty\n  * EasyQoS ominaisuus (WebGUI:n etusivulla widgettinä)\n  * WiFi Mesh tuki ED500A - EX400 malleille lisätty\n  * Muita pieniä korjauksia ja tietoturva parannuksia\n\n### Uusi versio 3.16.9 julkaistu helmikuussa 2020\n\n  * Päivitys sisältää ajuripäivityksiä, tietoturvapäivityksiä sekä bugikorjauksia kuten esim. EX400 toimimattomuus repeaterina/meshinä*.\n  * *Voit uuden version myötä käyttää uutta EX400-reititintä muiden tai samanlaisen Inteno/Genexis-laitteiden lisätukiasemana. [Katso lisätietoja](https://www.dna.fi/dna-valokuitu-plus-modeemi-ex400-ethernet-talouksiin#asetukset).\n\n### Uusi versio 3.16.7 julkaistu kesäkuussa 2019\n\n  * Pieniä korjauksia joka osa-alueelle\n  * Uusimmat tietoturvapäivitykset   \n\n### Uusi versio 3.15.4 julkaistu 25.9.2018\n\n  * IPv6:en korjaukset\n  * 2,4GHz 40MHz korjattu\n  * Internet-statuksen tarkastus muutettu DNS-pingauksesta GW-osoitteeseen\n  * Interval-aikaa kasvatettu 30s (IPv4) ja 300s (IPv6)\n  * [Haavoittuvuus](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) paikattu  \n\n### Uusi versio 3.15.0 julkaistu 26.6.2018\n\n  * Runsaasti tietoturva- sekä suorituskykyparannuksia\n  * Korjaus 2,4Ghz WiFin yhdistämiseen\n  * Korjaus IPv6:een\n  * Käyttöliittymäparannuksia\n  * Extender-ominaisuuden parannus\n  * DYNDNS/DDNS korjattu\n\n",
+                "heading": "DNA Ethernet-modeemi EX400"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:13:21+00:00",
+        "last_modified": "2025-06-20T14:58:21.263471",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

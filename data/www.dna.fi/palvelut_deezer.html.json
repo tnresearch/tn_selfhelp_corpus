@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/palvelut_deezer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 133,
+                "end": 3017,
+                "text": "# Deezer\n\nDeezer-musiikkipalvelu toimii lähes kaikilla laitteilla ja nettiselaimilla,\nmyös DNA TV Hubissa. Katso tuetut laitteet [Deezerin\nsivuilta](https://www.deezer.com/fi/devices).\n\n###\n\nUsein kysyttyä Deezeristä:\n\nMiten siirrän soittolistat ja suosikit toisesta musiikkipalvelusta Deezeriin?\n\nTilaa ensin Deezer käyttöösi ja kirjaudu sisään. Sen jälkeen:\n\n  1. **Puhelimella:** Avaa \"Asetukset\"-välilehti ja sieltä \"Siirrä suosikkisi\".  \n**Tietokoneella:** Avaa ”Asetukset” ja valitse \"Siirrä suosikit\" ja sen\njälkeen \"Valitse palvelu\". Valitse listalta haluamasi palvelu.\n\n  2. Odota sisältöjesi siirtymistä – tähän voi mennä hetki, soittolistojesi ja lempimusiikkisi määrästä riippuen. \n  3. Valmista!\n\nMillä käyttöjärjestelmilllä Deezer toimii?\n\nDeezer-sovellus on saatavana Android- ja iOS- käyttöjärjestelmille. Palvelua\nvoi käyttää myös nettiselaimen kautta osoitteessa\n[deezer.com](http://www.deezer.com)\n\nMinulla on jo DNA:n Deezer Premium. Voiko sen vaihtaa Deezer Familyyn?\n\nTilin voi vaihtaa Deezer Familyksi. Jos olet tilannut nykyisen Deezer Premium\n-tilisi DNA:lta, ota yhteyttä\n[asiakaspalveluumme](https://www.dna.fi/yhteystiedot).\n\nKuinka monta profiilia voi olla yhdessä Deezer Family -tilissä?\n\nYhteensä 6. Yksi pääkäyttäjä ja enintään 5 perheenjäsentä saavat käyttöönsä\nPremium-profiilin. Ehto on, että jäsenet asuvat samassa taloudessa.\n\nPääprofiili on ensisijainen tili, jota käytetään kirjautumiseen ja Family-\ntilin hallintaan. Toissijaiset profiilit luodaan tai kutsutaan pääprofiilin\nalle pääprofiiliin kirjautumisen jälkeen. Kutsutuilla profiileilla on oma\nkirjautumistunnus ja salasana.\n\nMiten voin luoda uuden Deezer Family aliprofiilin tai yhdistää nykyisen\nDeezer-tilin Familyyn?\n\n### Family-kutsun lähettäminen\n\n1\\. Siirry kohtaan ”Oma musiikki” ja valitse ”Asetukset”\n\n2\\. Valitse ”Perheen jäsenet”\n\n3\\. Lisää uusi jäsen koskettamalla plus-kuvaketta\n\n4\\. Valitse \"Lähetä kutsu\"\n\n5\\. Valitse sovellus jossa kutsu lähetetään ja lähetä kutsu. Voit myös\nkopioida linkin leikepöydälle lähettämistä varten.\n\n####\n\n####\n\n### Family-kutsun vastaanottaminen\n\n1\\. Klikkaa viestissä olevaa linkkiä ja hyväksy kutsu.\n\n2\\. Kirjaudu sisään omilla tunnuksillasi tai luo uusi Deezer-tunnus.\n\nKuinka monta eri päätelaitetta yhteen Deezer Family -tiliin voi yhdistää?\n\nPäätiliin voi yhdistää enintään 3 laitetta ja sen profiileille kuhunkin 2\nlaitetta. Kukin perheenjäsen voi kuunnella musiikkia vain yhdellä laitteella\nsamanaikaisesti.\n\nMitä profiileille tapahtuu, jos perun päätilin tilauksen?\n\nKun peruutat Deezer Family -tilauksesi, tilisi muuttuu ilmaiseksi Deezer-\ntiliksi. Kaikki linkitetyt profiilit muuttuvat myös ilmaistileiksi ja niiden\nkäyttäjät voivat muuttaa ne itsenöisiksi Deezer-tileiksi sivuston\n[www.deezer.com](http://www.deezer.com/ \"Follow link\") kautta. Minkään\nprofiilin soittolistat tai tallennetut albumit eivät häviä muutostilanteessa.\n\n",
+                "heading": "Deezer"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:20+00:00",
+        "last_modified": "2025-06-20T19:18:29.972981",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

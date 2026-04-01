@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/delt_nullstill-dekoder.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 119,
+                "end": 1164,
+                "text": "# Nullstill T-We boks\n\nHer viser vi deg steg for steg hvordan du nullstiller dekoderen via TV-menyen\neller fysisk på T-We boksen.\n\nHar du en eldre dekoder, må [du gå hit for å få\nveiledning.](/kundeservice/tv/dekodere-og-fjernkontroller/)\n\n## Dette skjer med innstillingene\n\nMed T-We er alle profiler og profilinnstillinger lagret i skyen. Disse hentes\nautomatisk inn etter en nullstilling. Opptak beholdes også med mindre du selv\nvelger å slette dem.\n\nMerk at innstillinger som er knyttet til dekoderen må settes opp på nytt,\nf.eks:\n\n  * Strømsparing\n\n  * Bildeoppløsning\n\n  * Forbindelse til Internett\n\n  * Språk og teksting\n\n# Slik nullstiller du dekoderen\n\nVelg alternativene som stemmer for deg og følg veiledningen for å nullstille\nT-We boksen.\n\n# Har du tilgang på TV-menyen?\n\nDersom du ser menyen på TV-skjermen og kan bruke fjernkontrollen til å klikke\ndeg rundt, er det enkleste å nullstille dekoderen via menyen. Om du ikke får\nopp menyen kan du nullstille fysisk på T-We boksen.\n\nJa, nullstill via meny\n\nNei, nullstill på T-We boksen"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:40+00:00",
+        "last_modified": "2025-05-30T08:19:03.798848",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

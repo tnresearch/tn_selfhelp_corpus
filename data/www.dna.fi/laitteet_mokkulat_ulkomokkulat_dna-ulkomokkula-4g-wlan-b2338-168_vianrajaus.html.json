@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_dna-ulkomokkula-4g-wlan-b2338-168_vianrajaus.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 409,
+                "end": 2136,
+                "text": "# DNA Ulkomokkula 4G WLAN B2338-168\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2338-168/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2338-168/kayttoonotto) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2338-168/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2338-168/vianrajaus)\n\n##  Vianrajaus\n\nMiksi Ulkomokkulan nettiyhteys ei toimi?\n\nKokeile käynnistää Ulkomokkula uudestaan. Jos siitä ei ole apua, palauta\nlaitteen tehdasasetukset. Huomioithan, ettei mokkula aseta välttämättä SIM-\nkortin PIN-koodia automaattisesti. Syötä PIN-koodi asetussivuilla tai poista\nPIN-koodin kysely asentamalla SIM-kortti ensin johonkin toiseen laitteeseen ja\npoistamalla kysely.\n\nMiksi Ulkomokkula ei käynnisty?\n\nVarmista, että virtajohto on kiinni töpselissä ja mokkulassa. Tarkista, että\nvirrat ovat kytketty virtakytkimestä.\n\nMiksi Ulkomokkula sammui yhtäkkiä?\n\nVarmista ukkossuojaus sekä johdotus.\n\nUlkomokkulan ulkoyksikkö saa virtansa sisäyksiköstä Ethernet -kaapelin avulla.\nVarmista siis, että sisäyksikkö saa virtaa. Tarkista sisä- ja ulkoyksikön\nilmanvaihto mahdollisen ylikuumenemisen puolesta sekä puhdista ulkoyksiköstä\nmahdollinen kosteus tai roskat.\n\nUlkomokkulan nopeus on huono\n\nTarkista ensimmäiseksi Ulkomokkulan sisäyksikön paneelin\nsignaalinvoimakkuudesta, että mokkulan 4G-yhteys on mahdollisimman hyvä. Jos\nsignaali on huono, korjaa tarvittaessa kääntämällä ulkoyksikköä.\n\nYhdistä tietokone suoraan mokkulaan Ethernet-johdon avulla. Jos nopeus on\npaljon parempi, on ongelma WiFissa.\n\n",
+                "heading": "DNA Ulkomokkula 4G WLAN B2338-168"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:08:44+00:00",
+        "last_modified": "2025-06-20T19:13:45.656018",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

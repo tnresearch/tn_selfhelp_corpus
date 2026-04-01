@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_modem-og-ruter_wifi-forsterker-2_koble-til.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 268,
+                "end": 903,
+                "text": "# Koble til WiFi Forsterker II\n\nHer får du steg for steg veiledning for oppkobling av forsterker slik at du\nfår bedre trådløs dekning i hjemmet ditt.\n\n# Stegvis oppkobling\n\n# 1\\. Finn en god plassering for WiFi Forsterker II og koble til strøm.\n\n# 2\\. Slå på WiFi Forsterker II\n\n# 3\\. WiFi Forsterker kobles automatisk til din WiFi Ruter\n\n# 4\\. Lampestatus\n\n# 5\\. Hvis forsterkeren og ruteren ikke kobles automatisk, kan du gjøre det\nmanuelt.\n\n## Trenger du hjelp til plassering?\n\nDet kan være en utfordring å finne ut av hvor du bør plassere både ruter og\nforsterker i huset ditt. Vi har laget en video som kan hjelpe deg godt på vei:"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:34:25+00:00",
+        "last_modified": "2025-05-30T08:54:28.420807",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

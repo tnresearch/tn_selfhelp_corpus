@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_andre-mobiler.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1909,
+                "heading": "General help for your mobile phone, troubleshooting common issues.",
+                "start": 0,
+                "text": "#  Generel hjælp til din mobil\n\nOplever du problemer med din mobil, kan du starte med at:\n\n  * Genstarte mobilen\n  * Tjekke vores [driftsstatus](/kundeservice/drift-og-dakning/driftstatus/tjek-driftstatus/ \"Tjek vores driftstatus\")\n  * Tjekke din [dækning](/kundeservice/drift-og-dakning/dakning/dakningskort/ \"Tjek din dækning\")\n  * Opdatere din smartphone til nyeste software\n  * Hvis din mobil har været løbet helt tør for strøm, kan det tage op til en time, før den starter op igen\n\nHar du brug for mere specifik hjælp kan du finde vores mobilguides her til  \n[iPhone](/kundeservice/mobil/iphone/ \"iPhone\") og [Samsung\nGalaxy.](/kundeservice/mobil/samsung-galaxy/ \"Samsung Galaxy\")\n\n## Løber mobilen hurtigt tør for strøm?\n\n  * Tjek, om din mobil er sat til ofte at synkronisere mail\n  * GPS, Bluetooth, Wi-Fi og spil bruger en del strøm\n  * Skru evt. ned for lyset i displayet\n  * Vær opmærksom på apps, der automatisk henter indhold på nettet\n\n## Fryser din mobil i menuen?\n\n  * Genstart mobilen\n  * Opdater mobilen til nyeste software\n  * Er din smartphone næsten fyldt, så slet fx video og billeder\n  * Luk de apps, du ikke bruger\n\n## Du har dækning, men din mobil kan ikke komme online\n\n  * Nulstil dine APN/netværksindstillinger og genstart mobilen \n  * Tag simkortet ud og rens det med en tør klud\n  * Test simkortet i en anden smartphone. Kan den anden smartphone ikke komme på nettet, er dit simkort sandsynligvis i stykker. Du kan bestille et nyt hos Kundeservice eller i din nærmeste Telenor-butik.\n\n## Du kan ikke ringe op\n\n  * Nulstil dine APN/netværksindstillinger og genstart mobilen. Sådan gør du på iPhone, Android, Windows Phone\n  * Tag simkortet ud og rens det med en tør klud\n\nBliver du omstillet til Telenors Kundeservice, uanset hvilket nummer du ringer\ntil, har du enten ramt dit maksbeløbet på Forbrugskontrol eller overset en\nregning. Ring op igen og lad os hjælpe med en løsning."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:39+00:00",
+        "last_modified": "2025-05-21T15:15:55.370498",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b315_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 401,
+                "end": 5712,
+                "text": "# DNA Kotimokkula 4G WLAN B315\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b315/vianmaaritys)\n\n## Käyttöönotto\n\n## Mokkulan asennus\n\nDNA Kotimokkula 4G WLAN B315 käyttää normaalikokoista eli Mini-SIM-korttia.\nAsenna SIM-kortti mokkulan takapuolelle. SIM-kortti poistetaan mokkulan\nsisältä liu’uttamalla pois ensin suojakuori ja tämän jälkeen vetämällä SIM-\nkortti varovasti pois ulos.\n\n  \n  \nJos SIM-kortilla on käytössä PIN-koodi 1234, mokkula yhdistää automaattisesti\nnettiin. Mikäli käytössäsi on jokin muu PIN-koodi, pitää PIN-koodi syöttää\nmokkulan hallintasivun kautta. Lisäohjeet löydät [täältä](/dna-\nkotimokkula-4g-wlan-b315#asetukset).\n\nRekisteröityminen DNA:n nettiin kestää joitakin minuutteja. Mikäli yhteyden\navaus ei onnistu, soita DNA:n\n[asiakaspalveluun](https://www.dna.fi/yhteystiedot#asiakaspalvelu).\n\nNettiyhteys on käytettävissä kun mokkulassa palaa virtavalo ja verkkotilan\nmerkkivalo (jollain muulla värillä kuin punaisella). Jos mokkulassa on näyttö,\nnäet näytössä signaalista kertovan kuvakkeen.  \n\n## Langattoman verkon eli WiFin käyttöönotto\n\nDNA:n mokkulat ovat langattoman verkon osalta salattuja. Verkon nimen ja\nsalasanan löydät kotimokkulan alaosassa olevasta tarrasta tai mokkulan\nhallintasivulta.  \n  \nWiFi-verkon nimi: SSID  \n  \nWiFi-verkon salasana: WPA/WPA2\n\n  \n\nWindows 10\n\nWindows 10 -tietokoneessa klikkaa WLAN-verkon kuuluvuuspalkkeja Windowsin\noikeasta alakulmasta.  \nValitse sen jälkeen verkko, jonka nimi on takaosan tarrassa (SSID). Laita\nruksi kohtaan Yhdistä automaattisesti / Connect automatically ja paina Yhdistä\n/ Connect.\n\nSeuraavaksi tietokone kysyy langattoman verkon salasanaa. Salasana löytyy\ntakaosan tarrasta (Salasana). Kirjoita salasana tarkalleen samalla tavalla,\nkuin se on tarrassa ja paina Seuraava. Nyt voit aloittaa netin käytön.\n\nWindows 8\n\nVie hiiren kursori tietokoneen näytön oikeaan yläkulmaan. Valitse sen jälkeen\nAsetukset (rattaan kuva). Valitse seuraavaksi kuuluvuuspalkit.\n\nValitse sen jälkeen verkko, jonka nimi on takaosan tarrassa (SSID). Laita\nruksi kohtaan Yhdistä automaattisesti / Connect automatically ja paina Yhdistä\n/ Connect.  \nSeuraavaksi tietokone kysyy langattoman verkon salasanaa. Löydät sen mokkulan\ntakaosan tarrasta (Salasana). Kirjoita salasana tarkalleen samalla tavalla ja\npaina Seuraava.\n\nMikäli haluat jakaa tiedostoja laitteiden välillä, valitse alempi kohta\n(”Kyllä, ota jakaminen käyttöön”). Mikäli et halua jakaa tiedostoja laitteiden\nvälillä, valitse ylempi kohta (”Ei, älä ota jakamista käyttöön”).  \n  \n\nWindows 7 / Vista\n\nKlikkaa Windows 7 ja Vista -tietokoneessa WLAN-verkon kuuluvuuspalkkeja\nWindowsin oikeasta alakulmasta. Valitse sen jälkeen verkko, jonka nimi on\ntakaosan tarrassa (SSID).  \n  \n\nLaita ruksi kohtaan Yhdistä automaattisesti / Connect automatically ja paina\nYhdistä / Connect.  \nSeuraavaksi tietokone kysyy langattoman verkon salasanaa. Löydät salasanan\ntakaosan tarrasta (Salasana). Kirjoita salasana tarkalleen samalla tavalla ja\npaina OK.  \n\nVoit aloittaa netin käytön.\n\nMac OSX\n\nKlikkaa hiirellä WLAN-verkon ikonia näytön yläosassa. Valitse sen jälkeen\nverkko, jonka nimi on mokkulan takaosan tarrassa (SSID).\n\nSeuraavaksi tietokone kysyy langattoman verkon salasanaa. Salasana löytyy\ntakaosan tarrasta. Kirjoita salasana tarkalleen samalla tavalla, kuin se on\ntakaosan tarrassa. Klikkaa **”Muista tämä verkko”** ja paina **Liity**.  \n  \nVoit aloittaa netin käytön.\n\nApple iPad\n\nValitse iPadin kotinäkymästä Asetukset. Valitse asetuksista kohta Wi-Fi\n(vanhemmissa malleissa WLAN).  \n  \nOdota vähän aikaa, kun iPad etsii verkkoja. Valitse sen jälkeen verkko, jonka\nnimi on kotimokkulan takaosan tarrassa (SSID). Seuraavaksi iPad kysyy\nlangattoman verkon salasanaa. Löydät salasanan myös mokkulan takaosan\ntarrasta.  \n  \nPaina **Liity**. Voit aloittaa netin käytön.\n\nAndroid Tablet\n\nSiirry näkymään, jossa näet kaikki sovellukset.  \n  \nValitse **Asetukset** ja valikosta kohta **Wi-Fi** (vanhemmissa Langattomat ja\nverkot). Odota vähän aikaa, kun tabletti etsii verkkoja. Valitse sen jälkeen\nverkko, jonka nimi on kotimokkulan takaosan tarrassa (SSID). Seuraavaksi\ntabletti kysyy langattoman verkon salasanaa. Valitse sen jälkeen salasana,\njonka nimi on kotimokkulan takaosan tarrassa.  \n  \nPaina **Yhdistä** ja voit aloittaa netin käytön.\n\n## PIN-koodi\n\nMikäli SIM-kortilla on käytössä jokin muu PIN-koodi kuin 1234, pitää PIN-koodi\nsyöttää mokkulan asetuksista.\n\n  1. Avaa nettiselain, kun olet kytkeytynyt mokkulan WLAN-verkkoon. \n  2. Kirjoita osoiteriville http://dna.mokkula tai http://192.168.1.1. \n  3. Oletuskäyttäjänimi on **admin** ja oletussalasana **1234**.\n  4. Valitse ylhäältä **Asetukset** ja alhaalta tulevasta valikosta PIN-koodin hallinta.\n  5. Valitse vasemmalta **Suojaus**.\n  6. Syötä haluamasi PIN-koodi kohtaan **Anna PIN** ja paina **Käytä**.\n\n",
+                "heading": "DNA Kotimokkula 4G WLAN B315"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:12:50+00:00",
+        "last_modified": "2025-06-20T18:52:42.706045",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

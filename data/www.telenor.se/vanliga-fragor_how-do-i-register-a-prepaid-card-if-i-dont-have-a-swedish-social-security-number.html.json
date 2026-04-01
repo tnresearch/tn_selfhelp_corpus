@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_how-do-i-register-a-prepaid-card-if-i-dont-have-a-swedish-social-security-number.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 1162,
+                "end": 1828,
+                "text": "# Vanliga frågor om registrering av kontantkort\n\n  * Varför måste jag registrera mitt kontantkort?\n\nSveriges riksdag har beslutat att införa en ny lag som kräver att alla\nkontantkort, oavsett operatör, ska registreras på en användare. Från och med 1\naugusti 2022 måste alla nya kontantkort registreras för att kunna användas. I\nfebruari 2023 ska även alla befintliga kontantkort vara registrerade på sin\nanvändare.\n\n  * Hur registrerar jag mitt kontantkort om jag har uppehållstillstånd?\n\nOm du saknar svenskt pass eller körkort men har uppehållstillstånd i Sverige\nväljer du alternativet ”Foto-ID och kamera” (\"Photo ID and camera\") för att\nbekräfta din identitet.\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:34+00:00",
+        "last_modified": "2025-05-30T17:45:06.158993",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

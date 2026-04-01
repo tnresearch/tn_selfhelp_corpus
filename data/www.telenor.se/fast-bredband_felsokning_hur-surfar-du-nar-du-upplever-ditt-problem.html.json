@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_hur-surfar-du-nar-du-upplever-ditt-problem.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 491,
+                "text": "# När upplever du problemen?\n\nÄr det när du surfar på wifi eller när du är ansluten till nätet via kabel?\n\n[ När jag surfar på wifi ](/support/fast-bredband/felsokning/wifi-testa-med-\nendast-en-enhet/)\n\n[ När jag surfar via kabel ](/support/fast-bredband/felsokning/koppla-in-\ndatorn-direkt-i-bredbandsuttaget/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:40+00:00",
+        "last_modified": "2025-05-30T14:03:59.678217",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

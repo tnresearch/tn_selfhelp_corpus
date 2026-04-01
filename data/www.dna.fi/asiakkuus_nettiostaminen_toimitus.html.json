@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/asiakkuus_nettiostaminen_toimitus.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 211,
+                "end": 4785,
+                "text": "# Toimitus\n\nNopea toimitus jopa päivässä. Palautus on aina ilmainen.\n\n## Toimitusalue\n\nTilaukset toimitetaan vain Manner-Suomeen (tilauksia ei toimiteta\nAhvenanmaalle). Voit valita toimitustavaksi tuotteesta riippuen joko\ntoimituksen valitsemaasi DNA Kaupan myymälään, suoraan kotiovelle, kirjeenä\ntai pikkupakettina suoraan postilaatikkoosi tai toimituksen Postin\npakettiautomaattiin tai noutopisteeseen. Näet kulloinkin valittavissa olevat\ntoimitustavat aina tilausta tehdessäsi. Toimitus myymälään on aina ilmainen.\n\nToimitus on nopea - saat tilauksesi usein jopa seuraavaksi arkipäiväksi.\nPalautus on aina ilmainen.\n\n##  Toimitustavat\n\nIlmainen toimitus myymälään: Click & Collect\n\nOsassa tilauksista on toimitustapavaihtoehtona myös Click & Collect eli\ntoimitus myymälään. Jos valitset tämän toimitustavaksi, saat viestin, kun\ntilauksesi on noudettavissa valitsemastasi myymälästä. Toimitus myymälään on\nilmainen. Tilaustasi säilytetään viikon ajan.\n\nToimitus kotiovelle\n\nTilauksesi toimitetaan kätevästi kotiin kannettuna, jopa seuraavaksi\narkipäiväksi. Normaali toimitusaika on 1-3 arkipäivää. Suuremmissa\nkaupungeissa toimitus on arkisin klo 9–21 välisenä aikana. Muilla alueilla\nlähetykset jaetaan perille arkisin klo 14 mennessä. Lähetyksen kulkua voi\nseurata Postin OmaPosti-sovelluksesta. Postista ollaan vielä etukäteen\nyhteydessä tekstiviestillä tai sähköpostilla sopivan toimitusajan sopimiseksi.\n\nTilauksesta riippuen tuotteet saatetaan postittaa myös useammassa paketissa.\nLähetykset kuljetetaan aina hiilineutraalina Posti Green -lähetyksinä. Jos\ntilasit television, se toimitetaan erillistoimituksella, ilman lisämaksua.\n\nToimitus Postiin tai Postin noutopisteeseen\n\nLähetys on noudettavissa Postista tai valitusta Postin noutopisteestä usein\njopa seuraavana arkipäivänä. Normaali toimitusaika on 1-3 arkipäivää.\nLähetyksen kulkua voi seurata Postin OmaPosti-sovelluksesta. Kun tilaus on\nnoudettavissa, saat siitä tiedon tekstiviestillä ja OmaPosti-sovellukseen.\n\nPakettia noudettaessa kannattaa ottaa mukaan lähetystunnus ja\nhenkilöllisyystodistus. Paketit kuljetetaan aina hiilineutraalina Posti Green\n-lähetyksinä.\n\nToimitus Postin pakettiautomaattiin\n\nPakettiautomaatti valitaan tilausta tehdessä. Lähetys on noudettavissa usein\njopa seuraavana arkipäivänä. Normaali toimitusaikamme on 1-3 arkipäivää. Kun\ntilaus on noudettavissa, saat siitä tiedon tekstiviestillä ja OmaPosti-\nsovellukseen.  \n  \nViesti kannattaa säilyttää, sillä se sisältää koodin, jota tarvitaan pakettia\nnoudettaessa. Pakettia säilytetään automaatissa 7 vuorokautta sen\nsaapumisesta. Paketit kuljetetaan aina hiilineutraalina Posti Green\n-lähetyksinä.\n\nPostin pikkupaketti ovelle -palvelu\n\nPerillä 2–5 arkipäivää lähettämisestä. Seurattavissa.\n\nKoosta riippuen jaetaan joko postilaatikkoon/-luukkuun tai oven taakse. Saat\nviestin, kun paketti on jaettu. Lähetyksen kulkua voi seurata netissä tai\nOmaPosti-sovelluksella. Posti on kotimainen ja vastuullinen valinta.\nKuljetetaan aina hiilineutraalina Posti Green -lähetyksinä.\n\nToimitus Postin Express-pakettina\n\nYritysten pikapaketti, perillä pääsääntöisesti jo seuraavana arkipäivänä klo\n16 mennessä. Toimitetaan ilman erillistä ilmoitusta. Paketit kuljetetaan aina\nhiilineutraalina Posti Green -lähetyksinä.\n\n## Toimituskulut\n\nToimituskulut vaihtelevat valitun toimitustavan mukaisesti. Toimitus DNA\nKaupan myymälään on aina maksuton.\n\n## Toimitusaika\n\nToimitettavien tuotteiden arvioitu toimitusaika on 1-3 arkipäivää, jopa\nseuraavan arkipäivän aikana. Mikäli laitteen toimitusaika on normaalia\npidempi, siitä kerrotaan tilauksen yhteydessä.\n\n##  Usein kysyttyjä kysymyksiä\n\nKun tilaan netistä, mikä on toimitustapa ja -alue?\n\nVoit valita toimitustavaksi tuotteesta riippuen joko toimituksen suoraan\nkotiovelle, kirjeenä tai pikkupakettina suoraan postilaatikkoosi tai\ntoimituksen Postin pakettiautomaattiin tai noutopisteeseen. Näet kulloinkin\nvalittavissa olevat toimitustavat aina tilausta tehdessäsi.\n\nToimitettavien tuotteiden arvioitu toimitusaika on 1-3 arkipäivää, mutta usein\ntoimitus on jopa seuraavan arkipäivän aikana. Mikäli toimitusaika on normaalia\npidempi, siitä kerrotaan tilauksen yhteydessä.\n\nDNA:n verkkokaupan tilausten toimitusalue on Suomi, lukuun ottamatta\nAhvenanmaata.\n\nMikä on normaali toimitusaika? Voiko tilauksen kulkua seurata?\n\nToimitettavien tuotteiden arvioitu toimitusaika on 1-3 arkipäivää, mutta usein\ntilaus on perillä jopa seuraavana arkipäivänä. Mikäli toimitusaika on\nnormaalia pidempi, siitä kerrotaan tilauksen yhteydessä.\n\nPakettien kulkua voi seurata Postin OmaPosti-sovelluksessa.\n\n",
+                "heading": "Toimitus"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:14:57+00:00",
+        "last_modified": "2025-06-21T13:42:47.678151",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

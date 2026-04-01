@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_opsatning_hvordan-aktiverer-jeg-et-nyt-simkort.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1429,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Hvordan aktiverer jeg mit nye simkort?\n\nNår du bliver kunde hos Telenor eller skifter til et nyt abonnement, modtager\ndu et plastikkort, der indeholder tre størrelser af simkort: almindeligt,\nmicro og nano. Før du trykker simkortet ud, bør du undersøge, hvilken\nstørrelse, der passer til din mobil. Langt de fleste nyere mobiler bruger\nnano, men dobbelttjek for at være sikker, for den forkerte størrelse kan\nødelægge mobilen.\n\nNår du har fundet den rigtige type af simkort, kan du forsigtigt trykke det ud\naf plastikkortet, sætte det i din mobil og tænde den. Se her, hvordan du\naktiverer simkortet:\n\nHvis du allerede er kunde\n\nEr du allerede kunde hos Telenor og har modtaget et nyt simkort, virker det\nmed det samme. Virker det ikke, kan det skyldes, at vores system endnu ikke\nhar registreret dit nye simkort. I det tilfælde skal du ringe til vores\nkundeservice på 72 100 100, så hjælper vi dig med at aktivere det.\n\nHvis du er ny kunde hos Telenor\n\nEr du ny kunde hos Telenor, så følg disse trin for at aktivere dit nye\nsimkort:\n\n  1. Tryk simkortet forsigtigt ud, sæt det i din mobil og tænd den. Hvis du bliver bedt om en pinkode, er den 0000. (Hvis du vil aktivere et simkort til mobilt bredbånd, er pinkoden 1234).\n  2. Indtast PUK-koden, som findes på forsiden af simkortet\n  3. Vælg din personlige pinkode og bekræft den\n  4. Ring til 60 500 000 for at aktivere din telefonsvarer\n\nVelkommen som ny kunde hos Telenor!"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:52+00:00",
+        "last_modified": "2025-05-21T15:15:29.686696",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

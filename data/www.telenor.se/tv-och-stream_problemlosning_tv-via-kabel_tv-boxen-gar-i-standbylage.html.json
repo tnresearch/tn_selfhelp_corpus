@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-via-kabel_tv-boxen-gar-i-standbylage.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1442,
+                "text": "# Tv-boxen går i standbyläge\n\nGår din tv-box i standbyläge? Här finner du fyra saker du kan börja med att\ngöra. Instruktionerna gäller tv-boxen Humax CDIG-2000C/R.\n\n###\n\nTa bort den automatiska avstängningen\n\nOm du inte använder fjärrkontrollen, till exempel byter kanal eller ändrar\nvolymen, inom tre timmar så går tv-boxen i standbyläge automatiskt.\n\n  \nGör så här:\n\n  1. Ta fram fjärrkontrollen\n  2. Tryck på **Home** och sedan på **Inställningar**\n  3. Tryck på **Systeminställningar** och sedan på **Strömhantering**\n  4. Tryck på **Automatisk avstängning** och välj **Av**\n\nStäng av energisparläget\n\nGör så här:\n\n  1. Ta fram fjärrkontrollen\n  2. Tryck på **Home** och sedan på **Inställningar**\n  3. Tryck på **Systeminställningar** och sedan på **Strömhantering**\n  4. Tryck på **Energisparläge** och välj **Av**\n\nÄndra timern\n\nGör så här:\n\n  1. Ta fram fjärrkontrollen\n  2. Tryck på **Home** och sedan på **Inställningar**\n  3. Tryck på **Systeminställningar** och sedan på **Timer**\n  4. Ställ in timern\n\nStäng av strömhanteringen för tv:n\n\nGör så här:\n\n  1. Ta fram fjärrkontrollen\n  2. Tryck på **Home** och sedan på **Inställningar**\n  3. Tryck på **Systeminställningar** och sedan på **HDMI-CEC**\n  4. Tryck på **TV strömhantering** och välj **Av**"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:04+00:00",
+        "last_modified": "2025-05-30T17:42:35.221077",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

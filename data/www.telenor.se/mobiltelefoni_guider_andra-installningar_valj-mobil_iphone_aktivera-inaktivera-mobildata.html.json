@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_andra-installningar_valj-mobil_iphone_aktivera-inaktivera-mobildata.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 364,
+                "end": 1224,
+                "text": "# Aktivera och inaktivera mobildata\n\nMobildata är på per automatik, och innebär att du ringer och surfar via\nmobilnätet med din surfmängd. I [Mitt Telenor](/mitt-telenor/) ser du hur\nmycket surf som ingår i ditt abonnemang.\n\nOm du inte vill använda din surfmängd och har tillgång till ett wifi kan du\navaktiera mobildatan.\n\nDen här guiden visar hur du gör i det **senaste operativsystemet (iOS)** från\nApple. Så börja gärna med att se till att det är installerat på din mobil –\ninte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/iphone/uppdatera-operativsystemet/)  \n  \nNu har du senaste iOS installerat, eller hur? Då kör vi!\n\n  * ### Gå till startskärmen\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Välj \"Mobilnät\"\n\n  * ### Slå på eller av \"Mobildata\""
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:15+00:00",
+        "last_modified": "2025-05-30T14:30:46.147194",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

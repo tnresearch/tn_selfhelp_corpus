@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_felmeddelande.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 299,
+                "end": 1381,
+                "text": "# Hjälp vid felmeddelanden\n\n## Står det ett felmeddelande på tv-skärmen? Här får du hjälp att lösa\nproblemet som felet beror på!\n\n## Tv via kabel\n\n  * [ Ingen åtkomst  ](/support/tv-och-stream/felmeddelande/tv-via-kabel/ingen-atkomst/)\n  * [ Svag eller ingen signal  ](/support/tv-och-stream/felmeddelande/tv-via-kabel/svag-eller-ingen-signal/)\n\n## Tv via fiber\n\n  * [ Tv-ström saknas  ](/support/tv-och-stream/felmeddelande/tv-via-fiber/tv-strom-saknas/)\n  * [ Fel 1: Inget nätverk anslutet  ](/support/tv-och-stream/felmeddelande/tv-via-fiber/fel-1-inget-natverk-anslutet/)\n  * [ Fel 2: DHCP-servern svarar inte  ](/support/tv-och-stream/felmeddelande/tv-via-fiber/fel-2-dhcp-servern-svarar-inte/)\n  * [ Fel 3: Nedladdning av mjukvara misslyckades  ](/support/tv-och-stream/felmeddelande/tv-via-fiber/fel-3-nedladdningen-av-mjukvaran-misslyckades/)\n  * [ Fel 4: Mjukvaran kunde inte startas  ](/support/tv-och-stream/felmeddelande/tv-via-fiber/fel-4-mjukvaran-kunde-inte-startas/)\n  * [ Rättigheter saknas  ](/support/tv-och-stream/felmeddelande/tv-via-fiber/rattighetersaknas/)\n\n",
+                "heading": "Hjälp vid felmeddelanden"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:19:56+00:00",
+        "last_modified": "2025-05-30T14:56:38.353024",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "urls"
+}

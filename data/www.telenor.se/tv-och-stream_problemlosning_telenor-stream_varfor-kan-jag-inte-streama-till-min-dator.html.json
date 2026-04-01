@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_telenor-stream_varfor-kan-jag-inte-streama-till-min-dator.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 380,
+                "end": 1265,
+                "text": "# Varför kan jag inte streama till min dator?\n\n  * ### Driftstörning\n\nÄr streamingtjänsten drabbad av en driftstörning? [Se aktuella driftstörningar\nhär.](/support/driftinformation/driftstorningar-pa-tv--och-bredbandsnatet/\n\"Driftstörning\")\n\n  * ### Avstånd\n\nTesta att minska avståndet mellan routern och datorn. Eller anslut med kabel.\n\n  * ### Uppdatera\n\nHar du den senaste versionen av webbläsaren, exempelvis Google Chrome eller\nSafari? Uppdatera annars. [Läs mer om våra systemkrav här.](/support/tv-och-\nstream/kom-igang/dator/ \"Inställningar\")\n\n  * ###  Surfhastighet\n\nKolla om du har en nedladdningshastighet på minst 6 Mbit/s. Det kan du göra på\n[Bredbandskollen.se](http://www.Bredbandskollen.se \"Bredbandskollen\").\n\n  * ### Andra enheter\n\nTesta om det går att streama i en annan enhet, exempelvis i mobilen. Då får du\nveta om det är fel på din dator eller din uppkoppling.\n\n",
+                "heading": "Varför kan jag inte streama till min dator?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:23:23+00:00",
+        "last_modified": "2025-05-30T17:36:14.507076",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

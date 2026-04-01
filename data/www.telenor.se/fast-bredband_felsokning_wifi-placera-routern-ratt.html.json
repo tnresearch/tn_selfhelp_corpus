@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_wifi-placera-routern-ratt.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 863,
+                "text": "# Placera routern rätt\n\nOkej, då är det dags att se över din routerplacering för att maxa ditt wifi.\nVar routern står påverkar nämligen hastigheten.\n\n###  \nHär är våra bästa tips:\n\n  * Placera routern **centralt, fritt och högt**. Alltså hellre på en hylla än i ett skåp. Och tänk på att tjocka betongväggar och stora metallföremål försämrar signalerna.\n  * **Ju närmare routern du är, desto snabbare surfar du**. Avståndet till routern påverkar hastigheten, så håll dig max 20 meter från den. \n  * **Undvik andra signaler och köksutrustning!** Ha inte routern i närheten av saker som mikrovågsugn, kyl och frys, akvarium, tv, trådlösa telefoner eller enheter som använder Bluetooth."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:50+00:00",
+        "last_modified": "2025-05-30T14:06:09.828095",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

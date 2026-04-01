@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_kontantkort_hantera-kontantkort_registrera-kontantkort.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 353,
+                "end": 3790,
+                "text": "#  Registrera kontantkort\n\nFrån och med 1 augusti 2022 gäller en ny lag som innebär att alla som köper\nett nytt kontantkort behöver registrera sig för att kunna använda det. Det är\nlätt att registrera sig, och innebär flera fördelar.\n\nI och med att kontantkortet är registrerat på dig kan du\n\n  * behålla ditt nummer om du tappar bort din mobil.\n  * välja att göra ditt nummer hemligt. [Kontakta Kundservice](/archive/2020/kontakta-oss-old-old/) så hjälper de dig.\n  * spärra ditt kort om du tappar bort din mobil. På så sätt kan du behålla laddningen som finns på kortet. \n\nHos Post- och telestyrelsen, PTS, kan du läsa mer om\n[registreringskravet](https://www.pts.se/sv/privat/internet/integritet/brottsbekampning/forbetalda-\nkontantkort-ska-registreras/).\n\n##  \nSå registrerar du ditt kontantkort  \n  \n\n1\\. Sätt i sim-kortet i telefonen.\n\n2\\. Gå till [telenor.se/registrera.](/handla/kontantkort/registrera-\nkontantkort/ \"telenor.se/registrera\")\n\n3\\. Fyll i det nummer du vill registrera.\n\n4\\. Välj BankID eller Foto-ID.\n\n5a. Om BankID – följ instruktioner på skärmen och bekräfta i BankID-app som\nvanligt.\n\n5b. Om Foto-ID – följ instruktioner på skärmen och ta först bild på körkort,\npass eller annan foto-ID, därefter bild på dig själv.\n\n6\\. Klart!\n\nDet går naturligtvis lika bra att registrera ett kontantkort från en annan\ntelefon, surfplatta eller dator.\n\nHar du köpt ditt kontantkort på telenor.se behöver du inte göra någonting.\nKontantkortet registrerades automatiskt vid köptillfället.\n\n##  \nVill du ha 200 kronor extra på ditt kontantkort?\n\n  \nOm du flyttar ditt nummer från en annan operatör till ditt nya kontantkort hos\nTelenor så får du 200 kronor extra på kontantkortet. Erbjudandet gäller en\ngång per personnummer.\n\n## Vanliga frågor om registrering av kontantkort\n\n  * Varför måste jag registrera mitt kontantkort?\n\nSveriges riksdag har beslutat att införa en ny lag som kräver att alla\nkontantkort, oavsett operatör, ska registreras på en användare. Från och med 1\naugusti 2022 måste alla nya kontantkort registreras för att kunna användas. I\nfebruari 2023 ska även alla befintliga kontantkort vara registrerade på sin\nanvändare.\n\n  * Hur registrerar jag mitt kontantkort om jag har uppehållstillstånd?\n\nOm du saknar svenskt pass eller körkort men har uppehållstillstånd i Sverige\nväljer du alternativet ”Foto-ID och kamera” (\"Photo ID and camera\") för att\nbekräfta din identitet.\n\n  * Which photo IDs can I use to register my prepaid card?\n\n    * Swedish IDs: Swedish passport, Swedish driver's license, National identity card, Swedish residence permit.\n    * International IDs in over 190 countries: Passports, National driver’s license, State/Province driver’s license, National ID cards, Residence permits.\n\n  * Hur registrerar jag mitt kontantkort?\n\nDu kan snabbt och säkert registrera dig här på\n[telenor.se/registrera](/link/9d9b1dd3829a415580e98ad6af78f872.aspx) med\nBankID eller med ett Foto-ID och kamera. Du kan även gå till någon av våra\nbutiker om du behöver hjälp med registreringen.\n\nHar du köpt ditt kontantkort här på telenor.se behöver du inte göra någonting,\ndet registrerades automatiskt vid köptillfället.\n\n  * Hur fungerar registrering av kontantkort för mig under 18 år?\n\nDu får registrera dig på eget kontantkort från det att du har fyllt 16 år. Är\ndu yngre än så måste din målsman registrera kontantkortet. Målsman kan\nfortsätta att stå registrerad på ditt kontantkort tills du fyller 18 år."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:47+00:00",
+        "last_modified": "2025-05-30T14:50:09.444880",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

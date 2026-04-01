@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/drift-og-dakning_gode-rad-til-bedre-dakning_problemer-med-at-sende-og-modtage-sms.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1375,
+                "reason": "Selected by user",
+                "start": 386,
+                "text": "##  Spørgsmål og svar om problemer med sms\n\nProblemer med sms til et udenlandsk mobilnummer\n\nHar du problemer med at sende sms’er til udenlandske mobilnumre, kan du starte\nmed at tjekke:\n\n  * Kan du sende sms’er til danske mobilnumre? Send fx en sms til dig selv\n  * Har du skrevet landekoden foran mobilnummeret? Fx +44 eller 0044 foran mobilnummeret\n  * Start en ny sms og indtast manuelt hele nummeret i til-feltet\n\nJeg har ikke sendt en sms til 40 56 00 00\n\nHvis der står på din regning, at du har sendt sms’er til nummeret, +45 40 59\n00 00, skyldes det, at udenlandske mobilselskaber ikke må oplyse os om, hvilke\nnumre du har sendt sms’er til. Derfor kan dette nummer figurere på din regning\ni stedet for det udenlandske nummer. 40 59 00 00 er nummeret til Telenors\nbeskedcentral i Danmark.\n\nVær opmærksom på, at hvis du benytter smileys i sms-beskeden, fylder de mere\nend ét tegn pr. smiley. Derfor kan du komme ud for, at du opkræves for flere\nsms’er, end det måske var din hensigt."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:36+00:00",
+        "last_modified": "2025-05-21T15:15:38.069372",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

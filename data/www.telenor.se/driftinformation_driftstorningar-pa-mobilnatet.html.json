@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/driftinformation_driftstorningar-pa-mobilnatet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2081,
+                "reason": "Selected by user",
+                "start": 294,
+                "text": "#  Driftstörningar på mobilnätet\n\n## Aktuella större driftstörningar\n\nJust nu har vi inga\n\nstora driftstörningar.\n\nHar du en driftstörning och behöver ringa 112?\n\nTa ut simkortet. Har du e-sim stänger du tillfälligt av det.\n\nFör att stänga av e-sim i iPhone, gå till: Inställningar > Mobilnät  \nFör att stänga av e-sim i Android, gå till: Inställningar > Nätverk och\ninternet\n\nGlöm inte att slå på ditt e-sim när du är klar med ditt 112-samtal.\n\n  \nRing via bredbandet med wifi-samtal. Fungerar om du är uppkopplad via ett\nbredband. Detta är en funktion som du alltid kan ha påslagen.  \n[Mer information finns här:](/support/mobiltelefoni/abonnemang/fler-\ntjanster/wifi-samtal/)\n\nRing via 112 appen. Du behöver ha mobilnätverk eller wifi för att kunna göra\ndet. Fungerar inte mobilnätet kan du ringa via 112-appen om du är uppkopplad\nvia ett bredband. [Du kan ladda ner 112-appen här.\n](https://www.sosalarm.se/112-och-andra-viktiga-nummer/112-appen/)\n\nHar du hemtelefoni via bredbandet och det är en driftstörning på ditt\nbredband. Ring via mobiltelefonen istället.\n\nTips!\n\nIngen driftstörning men ändå problem?\n\nOm dina problem inte beror på en driftstörning kan du använda någon av våra\nguider för att ta reda på vad som kan vara fel.\n\n[Problem med att surfa](/support/mobiltelefoni/guider/problemlosning-och-\nfelsokning/felsokning/felsokning-surf/) **  \n  \n**Problem med[sms](/support/mobiltelefoni/guider/problemlosning-och-\nfelsokning/problem-med-sms/)[ ](/support/mobiltelefoni/guider/problemlosning-\noch-felsokning/problem-med-sms/)eller\n[mms](/support/mobiltelefoni/guider/problemlosning-och-felsokning/problem-med-\nmms/) i din mobiltelefon.\n\nÄr det **bredband** eller **tv** du har problem med? [Kolla här\n](/support/driftinformation/driftstorningar-pa-tv--och-bredbandsnatet/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:14+00:00",
+        "last_modified": "2025-05-30T13:48:48.031267",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

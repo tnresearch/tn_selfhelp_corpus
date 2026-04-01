@@ -1,0 +1,143 @@
+Skip to main content Skip to site search
+
+[](/ "To homepage") [My Telenor](/mitt-telenor/)
+
+Search
+
+Close
+
+No search results found
+
+__ Welcome!
+
+  * [Log out](/UserLogout)
+
+# Test your speed
+
+If it's slow when you're browsing via wifi, it may be because your router isn't transmitting the speed correctly. Here's how to test!
+
+  1. Turn off all wireless devices (mobiles, tablets etc.) except one. Preferably use a newer device as it probably has the latest wifi technology.
+  2. If you have a router with two networks, you should do the test via both. The networks are called TNxx-2.4Ghz and TNxx-5Ghz. You may need to use different devices to access the networks. 
+  3. Stand about 2-3 meters from the router. The router should preferably be placed 1-2 meters from the floor and there should be a clear line of sight between the router and your device.
+
+**Tip! Test with Speedtest.net.**
+
+Visit [Speedtest.net](http://www.bredbandskollen.se) and test your
+speed. Before you test: close any apps and programs that use
+the internet and temporarily turn off antivirus programs and firewalls.  
+  
+Feel free to test with Speedtest.net several times to see if you get different
+results at different times of the day or on certain days. Telenor does not guarantee
+speeds over wifi.
+
+Still slow?
+
+Then it might be time to check how your computer is doing. Is it updated and does it have the
+latest drivers? Do you have an updated antivirus program?
+
+[Read more about what can make your computer slow](/support/fast-broadband/via-
+fiber/troubleshooting/speed-problems/)
+
+## Are you experiencing an improvement in your speed?
+
+[ Yes! ](/support/fast-broadband/troubleshooting/hooray-your-problem-is-solved/)
+
+[ Yes, but not fast enough! ](/support/fast-broadband/troubleshooting/place-
+router-correctly/)
+
+[ No, it's still bad. ](/support/fast-broadband/troubleshooting/wifi-
+place-router-correctly/)
+
+[Previous](javascript:void\(0\);)
+
+## Settings
+
+You can find more information at telenor.se/cookies. You can change your
+settings later by selecting "Cookie Settings"
+at the bottom of the website.
+
+Allow all
+
+### Manage consent settings
+
+#### Necessary cookies
+
+Always active
+
+Needed for the website to function securely and correctly. Therefore, they
+cannot be turned off. Necessary cookies enable basic functions, so
+that you can, for example, navigate between pages or access secure areas of
+the website.
+
+Information about cookies‎
+
+#### Functional cookies
+
+Functional cookies
+
+These cookies allow the website to provide enhanced
+functionality and personalization. They can be set by us or by
+third-party providers whose services we have added to our pages. If you
+do not allow these cookies, some or all of these services may not
+work as intended.
+
+Information about cookies‎
+
+#### Statistical and Analytical
+
+Statistical and Analytical
+
+These cookies give us information about how you use our site and give us
+the opportunity to improve the user experience and improve our website. They
+can be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, we may have limited
+insight into how our website is used and therefore have a harder time improving your
+experience.
+
+Information about cookies‎
+
+#### Marketing
+
+Marketing
+
+These cookies are set on our website by our advertising partners. They can
+be used by these companies to create a profile of your interests and show
+you relevant ads on other websites. They do not directly store personal
+information, but are based on uniquely identifying your browser and
+internet device. If you do not allow these cookies, you will experience less
+targeted ads.
+
+Information about cookies‎
+
+Back Button
+
+### Cookie list
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+checkbox label label
+
+checkbox label label
+
+checkbox label label
+
+Reject all Confirm my choices
+
+[](https://www.onetrust.com/products/cookie-consent/)
+
+## Hello!
+
+Do you have any questions?
+
+I'm happy to help
+
+Start chat

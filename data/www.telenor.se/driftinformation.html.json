@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/driftinformation.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1708,
+                "reason": "Selected by user",
+                "start": 245,
+                "text": "# Driftinformation\n\n## Kan du inte ringa eller surfa på mobilen? Eller är det bredbandet eller\ntv:n som krånglar? Det kan bero på en driftstörning. Välj den tjänst du har\nproblem med.\n\n[ Tv eller bredband ](/support/driftinformation/driftstorningar-pa-tv--och-\nbredbandsnatet/)\n\n[ Mobiltelefoni ](/support/driftinformation/driftstorningar-pa-mobilnatet/)\n\n##\n\n  * Jag har problem med att ringa till 112. Vad ska jag göra?\n\n**Börja med att starta om mobilen.** Fungerar inte det, ta då ut simkortet ur\ntelefonen och ring 112 utan något simkort installerat.\n\n**Har du e-sim? Stäng tillfälligt av det.**\n\nFör att stänga av e-sim i iPhone, gå till: Inställningar > Mobilnät  \nFör att stänga av e-sim i Android, gå till: Inställningar > Nätverk och\ninternet\n\nGlöm inte att slå på ditt e-sim när du är klar med ditt 112-samtal.  \n  \n **Ring via bredbandet med wifi-samtal**.  \n  \nDu kan ringa wifi-samtal om du är uppkopplad via ett bredband. Detta är en\nfunktion som du alltid kan ha påslagen. [Mer information finns\nhär.](/link/bc2556b175044d2a980f1376de2c6a66.aspx)\n\n**Ring via 112 appen.**  \n  \nDu behöver ha mobilnätverk eller wifi för att kunna göra det. Fungerar inte\nmobilnätet kan du ringa via 112-appen om du är uppkopplad via ett bredband.\n[Du kan ladda ner 112-appen här.](https://www.sosalarm.se/112-och-andra-\nviktiga-nummer/112-appen/)\n\n**Har du hemtelefoni via bredbandet** och det är en driftstörning på ditt\nbredband. Ring via mobiltelefonen istället."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:57+00:00",
+        "last_modified": "2025-05-30T13:48:45.285921",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/vanliga-fragor_wifi_vad-betyder-fargerna-pa-wifi-forstarkarens-lampa.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 281,
+                "end": 1047,
+                "text": "# Vad betyder färgerna på wifi-förstärkarens lampa?\n\nDe små lamporna kan lysa med olika färg. Det här betyder de olika färgerna:  \n  \n**Vitt:** Wifi-förstärkaren har startat upp och är redo att kopplas med WPS-\npairing mot router.\n\n**Blått blinkande ljus:** Wifi-förstärkaren håller på att synkroniseras med en\nrouter.\n\n**Blått fast sken:** WPS-pairing lyckades.\n\n**Grönt:** Wifi-förstärkaren är synkroniserad med en router och redo att\nanvändas.\n\n**Rött blinkande ljus:** Du behöver starta om din wifi-förstärkare. Ring oss\nom du får problem efter omstarten.\n\n**Rött fast sken:** Upplever du problem? Se gärna över din placering av\nextender. Placera den halvvägs till där du har dålig täckning.\n\n**Orange:** Mjukvaran i wifi-förstärkaren håller på att uppdateras.\n\n",
+                "heading": "Vad betyder färgerna på wifi-förstärkarens lampa?"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:05+00:00",
+        "last_modified": "2025-05-30T17:46:49.575922",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

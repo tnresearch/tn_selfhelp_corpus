@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_samsung-galaxy_los-dit-problem_inaktivt-SIM.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1336,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Inaktivt SIM\n\nStår der \"ingen tjeneste\" eller \"inaktivt simkort\" på din telefon, har den\nikke har registreret dit SIM\n\n**Grunden kan være:**\n\n  * Du er ny kunde hos Telenor, og vores system har endnu ikke registreret dit SIM. Ring til kundeservice på 72 100 100, så hjælper vi med at få det aktiveret.\n  * Din mobil er spærret, fordi du kan have overset en regning eller har overskredet dit maksbeløb på [forbrugskontrol](/kundeservice/Mobilabonnementer-og-services/opsatning/forbrugskontrol/ \"Forbrugskontrol\")\n  * Du har fået ny mobil, og dit gamle SIM er forældet\n  * Du har ikke brugt dit SIM i 6 måneder eller længere\n  * Du har opsagt dit mobilabonnement, og dit SIM er blevet deaktiveret\n\n**Passer intet af ovenstående på dig, kan du prøve at aktivere dit SIM ved at\ngøre følgende:**\n\n  * Hvis du har et fysisk simkort, kan du prøve at slukke din mobil og tag simkortet ud. Rens simkortet forsigtigt med en tør og ren klud. Indsæt simkortet igen og tænd mobilen\n  * Indsæt simkortet i en anden mobil. Virker simkortet i den anden mobil, tyder det på, at din mobil trænger til en softwareopdatering\n\n## Få et nyt SIM\n\nHar du stadig problemer med dit SIM, kan du bestille et nyt. Et nyt fysisk\nsimkort koster 49 kr.\n\n[Kontakt os](/kundeservice/kontakt/) eller henvend dig i din lokale [Telenor-\nbutik](/find-butik/ \"Find butik\")"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:21+00:00",
+        "last_modified": "2025-05-21T15:16:00.665684",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

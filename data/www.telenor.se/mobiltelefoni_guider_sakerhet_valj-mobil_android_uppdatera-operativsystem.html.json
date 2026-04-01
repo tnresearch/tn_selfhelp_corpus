@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_sakerhet_valj-mobil_android_uppdatera-operativsystem.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 359,
+                "end": 1048,
+                "text": "# Uppdatera operativsystem\n\n## Samsung, Sony och Xiaomi\n\n  \nSå här gör du för att installera den senaste varianten av operativsystemet\n(kallas även för programuppdatering) på din mobil. Det kommer att göra att din\nmobil fungerar så bra, och inte minst så säkert, som möjligt.\n\n  * ### Gå till startskärmen och svep uppåt så att menyn öppnas\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Sök på \"Programvaruuppdatering\" och klicka\n\n  * ### Välj \"Hämta och installera\" alternativt \"Hämta automatisk via Wi-Fi\"\n\n  * ### Din mobil letar efter tillgängliga uppdateringar\n\n  * ### Finns en uppdatering visas denna skärm och nedladdningen påbörjas\n\nVisas inte skärmen har du redan den senare versionen."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:24+00:00",
+        "last_modified": "2025-05-30T14:48:44.561931",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_tryghed_phishing.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 2774,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Hjælp til at undgå phishing (falske mails og sms’er)\n\nDer findes desværre efterhånden mange forskellige typer af svindel, og selv om\ndu er sikret godt som kunde i Telenor, finder svindlerne stadig nye måder at\nforsøge at snyde. Her kan du få hjælp til at genkende de forskellige typer af\nsvindel og gode råd til, hvordan du reagerer, hvis uheldet er ude.\n\n## Hvordan genkender jeg phishing?\n\n#### 1\\. Hold øje med stavefejl og underlige formuleringer\n\n  * Hvis teksten er usammenhængende eller indeholder stavefejl, er det muligt, at der er tale om fup.\n  * Nogle af de mest almindelige phishing e-mails har disse emnefelter: \n  * Der er et problem med din konto\n  * Du har vundet – indløs din præmie nu\n  * Du skal validere dine loginoplysninger\n  * Du har fået penge tilbage i SKAT\n  * Du har modtaget en pakke, som venter på at blive afhentet \n\n### 2\\. Vær opmærksom på afsenderens domæne\n\nNår du modtager en email fra banken, Skattestyrelsen eller lignende, så se\naltid på emailadressen, den er sendt fra. Emails sendt fra hotmail, gmail\neller lignende er meget sjældent fra virksomheder eller organisationer og\naldrig fra det offentlige – de har deres eget domæne. Husk også at lægge mærke\ntil, om der har sneget sig et ekstra tegn ind i domænenavnet - så er\nafsenderen nemlig ikke nødvendigvis fra den, du tror. Hvis du er i tvivl, så\nkontakt afsenderen ved at finde deres telefonnummer eller mailadresse på deres\nhjemmeside eller på Google.\n\n### 3\\. Vær ekstra på vagt, hvis e-mailen indeholder links\n\nVær altid på vagt, når en e-mail indeholder links, som du opfordres til at\nklikke på. Linket kan uden du ved det installere skadelige programmer på din\nenhed. Du skal også være opmærksom, hvis indholdet i mailen opfordrer dig til\nat følge et link for at opdatere dine personlige oplysninger, fx\nkontooplysninger, CPR-nummer eller lignende. Offentlige myndigheder og\ntroværdige organisationer beder aldrig om personlige oplysninger i en mail\neller sms.\n\n### Hvad gør jeg, hvis jeg modtager en phishing-mail eller sms?\n\nHar du modtaget en e-mail eller sms fra banken, Skattestyrelsen, PostNord\neller lignende med et link, så lad være med at klikke. Gå i stedet ud i\nbrowseren og klik ind på afsenderens hjemmeside, hvor de samme oplysninger vil\nstå, hvis e-mailen eller sms’en er troværdig.\n\nDu kan også finde telefonnummeret og ringe direkte til virksomheden eller\norganisationen - det er vigtigt, at du ikke ringer til telefonnummeret i den\ne-mail, du har fået, men finder nummeret på deres hjemmeside, som du selv har\nsøgt frem i din browser.\n\nLæs mere om phishing i vores [guide til at beskytte dig mod phishing og\nvishing](/digital-tryghed/artikler/sikker-pa-nettet/vaer-paa-vagt-saadan-\nbeskytter-du-dig-mod-phishing-og-vishing/) (phishing via telefonopkald)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:04:11+00:00",
+        "last_modified": "2025-05-21T15:15:31.036505",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

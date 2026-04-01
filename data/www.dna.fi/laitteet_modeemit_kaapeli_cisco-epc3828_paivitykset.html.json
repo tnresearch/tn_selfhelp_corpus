@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_kaapeli_cisco-epc3828_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 374,
+                "end": 1525,
+                "text": "# Cisco EPC3828\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/cisco-\nepc3828/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/cisco-\nepc3828/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/cisco-epc3828/asetukset) [\nPäivitykset ](https://www.dna.fi/tuki/laitteet/modeemit/kaapeli/cisco-\nepc3828/paivitykset)\n\n## Päivitykset\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\n### Ohjelmistopäivitykset\n\nKaapelimodeemeissa päivitykset tulevat automaattisesti verkosta. Päivityksiä\najetaan öisin modeemeihin, jolloin ne aiheuttavat vähiten ongelmia. Joissakin\nharvinaisissa tapauksissa modeemi voi tarvita aamulla resetoinnin ja\nuudelleenkäynnistyksen päivityksen jäljiltä, jotta laitteen toiminta olisi\nparas mahdollinen.\n\nJos haluat ajaa päivitykset saman tien laitteeseen, kannattaa kokeilla\nirroittaa kaikki johdot laitteesta muutamaksi minuutiksi ja kytkeä sen jälkeen\nuudelleen. Tällöin modeemi nousee linjoille uudelleen ja pyytää samalla\npäivityksiä.\n\n",
+                "heading": "Cisco EPC3828"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:47+00:00",
+        "last_modified": "2025-06-20T15:05:00.160043",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

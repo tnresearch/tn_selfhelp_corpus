@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobilt-internet_ipad_opgrader-software.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1911,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Opdatér din iPad\n\nApples softwareopdateringer indeholder forbedringer, fejlrettelser og nye\nfunktioner. Skal din iPad fungere optimalt, er det derfor en god idé at holde\nden opdateret.\n\nDu skal være på trådløst netværk for at kunne opdatere dit styresystem.\n\n  * ## Tryk på ”Indstillinger”\n\n  * ## Tryk på \"Generelt\" og vælg \"Softwareopdatering\".\n\n  * ## Tryk på \"Installer nu\"\n\n  * ## Tryk på \"Enig\"\n\n  * ## Tryk på \"Enig\" igen\n\nNår du har accepteret vilkårene, vil din softwareopdatering begynde at\ndownloade og installere den nyeste version af iOS.\n\n## Er du ikke på WiFi, skal du følge nedenståeden guide.\n\n**Tjek, at iTunes er opdateret**  \nNår du skal opdatere din iPad, foregår det ved hjælp af iTunes. Sørg altid\nfor, at du har den nyeste version af iTunes, inden du går i gang med\nopdateringen:\n\n    1. Åbn iTunes \n    2. Vælg menuen \" **Hjælp** \" \n    3. Klik på \" **Søg efter opdateringer** \" \n    4. Er din version af iTunes ikke den nyeste, får du nu besked om, at der findes en nyere udgave. \n    5. Klik herefter på \" **Hent iTunes** \" og følg vejledningerne på skærmen. \n    6. Når iTunes er opdateret, kan du opdatere din telefon.\n\n**Sådan opdaterer du din iPad**\n\n    1. Åbn iTunes på din computer og tilslut din iPad \n    2. Vælg din iPad, når den vises under \" **Enheder** \" i iTunes' venstremenu \n    3. Vælg fanen \" **Version** \" \n    4. Klik på knappen \" **Søg efter opdateringer** \" \n    5. Er der er nye opdateringer, så klik på \" **Opdater** \" og følg vejledningerne på skærmen. \n    6. I nogle tilfælde kan tage lang tid at opdatere din iPad (fra 5 minutter til 1 time), afhængigt af din internetforbindelse. Sørg for at computeren ikke løber tør for strøm. \n    7. Du vil se et lille synkroniseringsikon (to pile) i højre hjørne på din iPad. Så længe ikonet drejer rundt, skal din iPad være tilsluttet computeren. Når ikonet stopper, er din iPad opdateret med den nyeste software."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:35+00:00",
+        "last_modified": "2025-05-21T15:16:11.810587",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

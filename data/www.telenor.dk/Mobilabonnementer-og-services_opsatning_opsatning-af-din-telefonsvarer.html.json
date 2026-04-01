@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_opsatning_opsatning-af-din-telefonsvarer.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1264,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Opsætning af din telefonsvarer\n\nHer kan få mere at vide om, hvordan du opsætter din telefonsvarer og gør den\npersonlig.\n\n# Aflyt telefonsvareren\n\nRing 60 500 000 for at aflytte din telefonsvarer. Bemærk at\ntelefonsvarerbeskeder automatisk slettes efter 7 dage, hvis du ikke har gemt\ndem.\n\n## Hvordan aflytter jeg min telefonsvarer i udlandet?\n\nFor at aflytte din telefonsvarer, når du er i udlandet, skal du ringe til din\ntelefonsvarer på 60 50 00 00. Du kan blive bedt om at taste en pinkode.\nPinkoden er de sidste 4 cifre i dit simkortnummer - medmindre du har fået nyt\nsimkort, siden din telefonsvarer blev sat op. Kan du ikke finde pinkoden, kan\ndu kontakte kundeservice på 72 100 100, så de kan hjælpe dig med at få den\ntilsendt.\n\n## Hvordan aflytter jeg ældre beskeder?\n\nRing til 60 500 000, tryk 1 for at lytte til ældre beskeder.\n\nNår du har hørt beskeden, kan du ringe tilbage til **(1)** , gå videre til\nnæste besked **(2)** , slette beskeden **(3)** , spole **(4)** , pause **(5)**\n, høre beskeden igen **(7)** , høre tidspunkt **(8)** eller blive præsenteret\nfor flere valgmuligheder **(9)**.\n\n## Hvad koster det at bruge telefonsvareren?\n\n0 kr. i abonnement  \n0 kr. i oprettelse  \nAlm. minutpris ved aflytning  \nAlm. opkaldsafgift ved viderestilling"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:09+00:00",
+        "last_modified": "2025-05-21T15:15:30.193071",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

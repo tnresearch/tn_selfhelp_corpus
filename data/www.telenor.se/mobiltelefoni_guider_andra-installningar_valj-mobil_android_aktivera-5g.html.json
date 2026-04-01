@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_andra-installningar_valj-mobil_android_aktivera-5g.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 346,
+                "end": 1672,
+                "text": "# Aktivera 5G\n\n## Samsung, Sony och Xiaomi\n\nI princip alla mobiler som släpps idag är redo för 5G. Om du har en 5G-mobil\nmed abonnemang hos oss nog är den nog redan förinställd att använda 5G. Så det\när bara att sätta igång att surfa snabbare än någonsin!\n\nOm du ändå vill vara säker på att din mobil är inställd på att använda 5G kan\ndu följa den här guiden. Tänk också på att det kanske inte finns 5G-täckning\ndär du befinner dig.\n\n  \n[Läs mer om 5G och se täckningskartan här](/5g/)\n\nDen här guiden visar hur du gör i den **senaste versionen av operativsystemet\nAndroid.** Så börja gärna med att se till att det är installerat på din mobil\n– inte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/android/uppdatera-operativsystem/)  \n  \nNu har du senaste versionen installerad, eller hur? Då kör vi!\n\n  * ### Gå till startskärmen och svep uppåt så att menyn öppnas\n\n  * ### Välj \"Inställningar​\"\n\n  * ### Sök på (och välj) \"Mobilnätverk\"\n\n  * ### Välj \"Nätläge\"\n\n  * ### Välj \"5G/4G/3G/2G/ (autoanslut)\"\n\n## Hjälpte guiden dig?\n\n[ Ja!](/link/778f88b697164af5b7bc349f4cb732c1.aspx) [Nej, jag behöver mer\nhjälp.](/link/85dbb35ac0f94919a4548e0adff9b60b.aspx)\n\n[Föregående](/link/288523ae6c5a4fe083145390f68c3609.aspx)\n\n",
+                "heading": "Aktivera 5G"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:57+00:00",
+        "last_modified": "2025-05-30T14:28:58.256232",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

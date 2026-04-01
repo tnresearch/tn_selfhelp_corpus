@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/fast-bredband_wifi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 279,
+                "end": 1131,
+                "text": "# Fast bredband via wifi\n\n##\n\n## Kom igång\n\n  * [ Anslut till wifi via Windows 10  ](/support/fast-bredband/wifi/kom-igang/anslut-till-wifi-via-windows-10/)\n  * [ Anslut till wifi via macOS  ](/support/fast-bredband/wifi/kom-igang/anslut-till-wifi-via-macos/)\n  * [ Anslut till wifi via Android  ](/support/fast-bredband/wifi/kom-igang/anslut-till-wifi-via-android/)\n  * [ Anslut till wifi via iPhone och iPad  ](/support/fast-bredband/wifi/kom-igang/anslut-till-wifi-via-iphone-och-ipad/)\n\n## Felsökning\n\n  * [ Problem med hastigheten  ](/support/fast-bredband/wifi/felsokning/problem-med-hastigheten/)\n  * [ Problem med att nå det trådlösa nätverket  ](/support/fast-bredband/wifi/felsokning/problem-med-att-na-det-tradlosa-natverket/)\n\n## Telenor Wifikontroll\n\n  * [ Allt om appen Telenor Wifikontroll  ](/support/fast-bredband/wifi/wifikontroll/)\n\n",
+                "heading": "Fast bredband via wifi"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:12+00:00",
+        "last_modified": "2025-05-30T14:13:03.345220",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "urls"
+}

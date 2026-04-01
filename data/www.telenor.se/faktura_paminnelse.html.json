@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/faktura_paminnelse.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 273,
+                "end": 2267,
+                "text": "#  Försenad betalning och påminnelse\n\nOm fakturan inte betalas i tid kommer du att få en påminnelse från oss.\n\n## Påminnelseavgift\n\nNär en faktura betalas in för sent tillkommer en påminnelseavgift på din\nnästkommande faktura. Summan för påminnelseavgiften [hittar du i\nprislistan](/support/priser-villkor-och-blanketter/) för ditt abonnemang.\n\n## Dröjsmålsränta\n\nFör varje dag som fakturan förblir obetald tar vi ut en ränta. Den beräknas så\nhär: ursprungliga beloppet x 24% / 365 x antal försenade dagar.\n\n**Exempel:** Fakturabeloppet är 100 kr och fakturan betalas 10 dagar för sent.\nDå blir dröjsmålsräntan 0,66 kr (100 x 0,24 / 365 x 10 = 0,66 kr).\n\n## Betala senare\n\nOm du inte har möjlighet att betala fakturan i tid så hör av dig till oss så\nfort som möjligt.\n\n## Osäker på om du har fått en felaktig faktura?\n\nHar du fått två fakturor under samma månad? Det beror förmodligen på att du\nhar både mobilabonnemang och tv- eller bredbandsabonnemang hos oss. Då får du\ntvå fakturor (med olika OCR-nummer) varje månad.\n\nOm du har fått faktura från oss efter att du har sagt upp ditt abonnemang och\nundrar varför, kan du läsa mer om [avslutande fakturering\nhär](/support/vanliga-fragor/faktura/varfor-far-jag-en-faktura-fast-jag-sagt-\nupp-mitt-abonnemang/).\n\n## Se betalstatus\n\n  \nI [Mitt Telenor](/mitt-telenor/) ser du snabbt om din faktura är betalad eller\nej. _ **  \n**_\n\n  * Står det att **fakturan är betald** kan du bortse från påminnelsen.\n  * Står det att **fakturan är obetald** behöver du betala in den manuellt till oss. Det behöver du göra även om du i vanliga fall har autogiro. Nästa betalning kommer ske via autogiro som vanligt. \n\n## Står fakturan som obetald trots att du vet att du betalat?\n\nDå har du förmodligen angivit fel betalningsuppgifter. Du hittar rätt\nbankgironummer och OCR-nummer på fakturan. Om du har betalat in till fel OCR-\nnummer ber vi dig att [kontakta oss](/support/old-kontakta-oss/). Det är bra\nom du har betalningens referensnummer nära till hands.\n\n",
+                "heading": " Försenad betalning och påminnelse"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:41+00:00",
+        "last_modified": "2025-05-30T13:59:28.494780",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 106,
+                "end": 2788,
+                "text": "# T-We App og nett-TV\n\nHer finner du hjelp til innlogging og funksjoner i T-We - i appen og på nett-\nTV\n\nT-We App kan brukes hvor som helst i Norge, EØS og EU\n\nDette trenger du for å bruke T-We app eller nett-TV på t-we.no\n\n  * Et aktivt TV-abonnement og én T-We Boks eller kortleser fra Telenor\n\n  * Mobilnummeret til eier av abonnementet må være registrert i våre systemer\n\n  * Internettforbindelse via mobilnett eller WiFi\n\nUnntak for T-We app:\n\nInnhold kan variere mellom TV-boks og app, da ikke alle kanaler i valgfritt\ninnhold er tilgjengelig i appen. Hvis du vil ha tilgang til innhold som er\nlåst til hjemmet, f.eks. Premier League, så må app og TV Boks være oppkoblet\npå samme nettverk.\n\nDu kan bruke appen overalt uten å bruke TV-boks, men det må være en registrert\npå ditt navn.\n\n  * Innhold som er låst til hjemmet vil ikke være tilgjengelig på t-we.no\n\n## TV i flere rom\n\nLast ned T-We-appen på Apple TV, Chromecast med Google TV eller nyere smart-\nTV'er med Android TV. Du kan også bruke Airplay og Chromecast for å vise T-We\npå TV'en, eller koble en pc til din TV med kabel for å vise Nett-TV på TV-\nskjermen din.  \n  \nTrykk på knappene under for mer info og veiledning.\n\n[Apple TV og Airplay](/kundeservice/tv/t-we-app/apple-tv/)\n\n[Android TV og Chromecast Google TV](/kundeservice/tv/t-we-app/android-tv-\napp/)\n\n## Veiledning for T-We App\n\n[\n\n### Bruk\n\nLes mer om innlogging, hvordan du legger til familiemedlemmer osv.\n\n](/kundeservice/tv/t-we-app/bruk/)\n\n[\n\n### Favorittkanaler\n\nOpprett favorittkanaler i T-We App.\n\n](/kundeservice/tv/brukerveiledning-t-we/favorittliste/#favorittkanal)\n\n[\n\n### Feilsøk\n\nOpplever du feil på T-We App, eller får du en feilkode i appen?\n\n](/kundeservice/tv/t-we-app/feilsok/)\n\n[\n\n### Filmleie\n\nInformasjon om filmleie og hvordan du leier en film.\n\n](/kundeservice/tv/brukerveiledning-t-we/filmleie/)\n\n[\n\n### Innstillinger\n\nInnstillinger og teknisk informasjon for T-We App.\n\n](/kundeservice/tv/t-we-app/innstillinger/)\n\n[\n\n### PIN-kode\n\nFinn, endre eller tilbakestill PIN-kode for T-We\n\n](/kundeservice/tv/t-we-app/pin-kode/)\n\n[\n\n### Profiler\n\nOpprett, endre eller bytt mellom profiler i T-We App\n\n](/kundeservice/tv/t-we-app/profiler/)\n\n[\n\n### Strømmetjenester\n\nLes mer om strømmetjenester i T-We og T-We App.\n\n](/kundeservice/tv/brukerveiledning-t-we/strommetjenester/)\n\n[\n\n### Søkefunksjon\n\nSøk i Ukesarkiv, strømmetjenester og TV-guide\n\n](/kundeservice/tv/t-we-app/sok/)\n\n[\n\n### TV-guide\n\nFinn frem i TV-guiden og lær å bruke de forskjellige funksjonene.\n\n](/kundeservice/tv/t-we-app/tv-guide/)\n\n[\n\n### Ukesarkiv\n\nFinn innhold fra ukesarkivet i TV-guiden, eller gå direkte til Ukesarkiv.\n\n](/kundeservice/tv/t-we-app/ukesarkiv/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:20+00:00",
+        "last_modified": "2025-05-30T09:39:28.381337",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

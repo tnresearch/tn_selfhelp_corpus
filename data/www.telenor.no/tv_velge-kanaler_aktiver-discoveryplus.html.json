@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_velge-kanaler_aktiver-discoveryplus.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 173,
+                "end": 4118,
+                "text": "# Aktiver discovery+ Underholdning\n\nLegg til strømmetjenesten discovery+ som en del av din TV-pakke. På denne\nsiden finner du hjelp til registrering og aktivering av brukernavn og passord.\n\n[discovery+ på T-We Boks](/kundeservice/tv/velge-kanaler/aktiver-\ndiscoveryplus/#boks)[Har discovery+ konto fra før](/kundeservice/tv/velge-\nkanaler/aktiver-discoveryplus/#konto)[Spørsmål og\nsvar](/kundeservice/tv/velge-kanaler/aktiver-discoveryplus/#sos)\n\n## Slik får du tilgang til discovery+ Underholdning\n\n  1. Legg til discovery + Underholdning på [Mine sider](https://www.telenor.no/minesider/)\n\n  2. Følg lenken for å opprette en brukerkonto til discovery+ og aktivere denne mot T-We\n\n  3. Logg inn med brukernavn og passord første gang du tar i bruk tjenesten\n\n **Trenger du hjelp til legge til eller fjerne innhold på Mine sider?** [Her\nviser vi deg hvordan du velger kanaler og strømmetjenester inn i din T-We\nkanalpakke.](/kundeservice/tv/velge-kanaler/)\n\n### Allerede valgt discovery+, men ikke tatt det i bruk?\n\nHar du valgt discovery+ på Mine Sider, må du opprette en discovery+ konto og\nlogge inn for å begynne å strømme.\n\nOpprett konto eller logg inn\n\n### Hvor kan jeg bruke discovery+?\n\nTjenesten er tilgjengelig på T-We Boks, men du kan også bruke den på PC, mobil\neller nettbrett via discovery+ appen eller\n[discoveryplus.no](https://www.discoveryplus.no/). Det er mulig å se\ndiscovery+ på inntil 3 ulike enheter samtidig.\n\nDet er ikke mulig å se discovery+ Underholdning via [T-We\nappen](/privat/tv/t-we/tv-hvor-du-vil/).\n\nOpprett brukerkonto hos Discovery:Etter å ha valgt strømmetjenesten inn i TV-\npakken på Mine sider blir du tatt videre til registrering hos Discovery. Fyll\ninn e-postadresse, lag et passord, huk av for at du godkjenner vilkårene og\ntrykk \"Godta og fortsett\".\n\n## Har du discovery+ fra før? Bruk samme innlogging.\n\nHvis du har en brukerkonto hos Discovery kan du bruke samme innlogging hos\noss. Velg \"jeg har allerede en discovery+ konto\" når du blir tatt videre til\naktivering etter å ha lagt til discovery+ Underholdning på Mine sider.\n\nDu vil da få opp dette bildet. Skriv så inn brukernavn og passord og trykk på\n**Logg inn**.  \n_Logg inn med partner skal ikke brukes_.\n\nHvis du har et aktivt abonnement hos Discovery, må du huske å si dette opp\netterpå slik at du ikke betaler for abonnementet i tillegg til å bruke poeng.\n\nLogg inn med en eksisterende discovery+ bruker: Når du trykker på \"Jeg har\nallerede en discovery+ konto\" vil du få opp dette bildet. Skriv inn brukernavn\nog passord og trykk på Logg inn.\n\n## Spørsmål og svar\n\n  * #### Får du feilmelding: \"Du har ikke tilgang til dette innholdet.\"?\n\nDenne feilmeldingen vil kunne dukke opp dersom du prøver å åpne innhold som\nikke er tilgjengelig i discovery+ Underholdning. Det er ikke mulig å bruke\nsamme discovery+ konto som du har via Telenor til å bestille annet innhold fra\ndiscovery+. Feilmeldingen vil dermed komme istedenfor at du får mulighet til å\nbestille eller oppgradere innholdet.\n\nDersom du ønsker å bestille annet innhold i discovery+ må du registre deg hos\nDiscovery med en annen brukerkonto.\n\n  * #### Hvorfor blir jeg bedt om å logge inn med Telenor ID?\n\nDette er for å verifisere at discovery+ Underholdning er aktiv som en del av\ndin kanalpakke.\n\nOm du ikke er [logget inn med Telenor ID](/telenor-id/) på denne enheten fra\nfør, blir du bedt om å logge inn før du registrerer en bruker på discovery+.\n\n  * #### Kan jeg se discovery+ Live?\n\nDet er ikke mulig å oppgradere fra discovery+ Underholdning til discovery+\nLive, men det er mulig å se TV-kanalene direkte via T-We som en del av\nstandardpakken eller de valgfrie kanalene.\n\n  * #### Kan jeg bruke discovery+ appen på T-We boksen med en brukerkonto fra Discovery?\n\nJa, du kan bruke en hvilken som helst discovery+ brukerkonto. Dersom du\nabonnerer på discovery+ Sport hos Discovery, kan du f.eks. logge inn med denne\nistedenfor å aktivere discovery+ Underholdning i TV-pakka."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:36:05+00:00",
+        "last_modified": "2025-05-30T09:41:55.985665",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

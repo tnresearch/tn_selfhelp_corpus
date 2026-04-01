@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/viihde_dnatv-androidtv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 144,
+                "end": 3196,
+                "text": "# DNA TV -sovellus Android-TV:llä\n\nVoit ladata DNA TV -sovelluksen Android televisioon ja käyttää sovellusta\nkätevästi näin. Ota sovellus käyttöösi, ja kun tallennus sisältyy tilaukseesi,\nvoit tallentaa ja katsoa tallenteita (pl. Nelonen, Liv, JIM, Hero) . Tämän\nlisäksi voit katsoa vuokraamiasi elokuvia helposti sovelluksen kautta.\n\n## Käyttöönotto\n\nVoit ladata DNA TV -sovelluksen Android TV:lle, kun käytössäsi on Android TV\n-versio 5.0 tai uudempi.\n\n#### Ota palvelu käyttöön ensimmäisellä kerralla näin:\n\nLataa DNA TV -sovellus\n\nAvaa sovellus\n\nKirjaudu DNA Tunnuksella, käyttämällä sähköposti + salasana -yhdistelmää.\n\n## Ominaisuudet ja käyttäminen\n\nEtusivu\n\nEtusivun kautta löydät suosituimmat elokuvat ja sarjat, voit tutustua\nVuokraamon tarjontaan sekä näet uusimmat tallenteet (jos tilaukseesi sisältyy\ntallennus ja olet tallentanut ohjelmia).\n\nSuosikit\n\nSuosikit näyttää ohjelmat ja elokuvat, jotka olet merkinnyt suosikkeihin.\n\nTallenteet\n\nTallenteet näyttää kaikki tallentamasi ohjelmat.\n\nJatka katselua\n\nLöydät kaikki elokuvat ja ohjelmat joiden katselu on jäänyt kesken Jatka\nkatselua -osiosta ja voit helposti jatkaa katselua siitä, mihin katselu jäi.\n\nSuoratoistopalveut\n\nSuoratoistopalvelut -osion kautta pääset helposti siirtymään MTV Katsomoon,\nYle Areenaan ja Ruutuun.\n\nTallennetut sarjat, elokuvat ja urheilu\n\nKategorioiden kautta löydät helposti tallentamasi suosikkiohjelmat helposti\njärjestettynä erilaisiin alakategorioihin kuten komedia, draama tai toiminta.\n\nVuokraamo\n\nVuokraamossa voit vuokrata elokuvia ja sarjoja helposti heti teatteri ensi-\nillan jälkeen. Vuokraamista varten tarvitset henkilökohtaisen nelinumeroisen\nDNA TV PIN -koodin, jonka olet saanut tilauksen yhteydessä. Löydät sen myös\nMinun palvelustani ja Oma DNA -sovelluksesta.\n\nOhjelmaopas\n\nOhjelmaoppaan kautta pääset katsomaan kanavien ohjelmatiedot jopa 7 päivää\neteenpäin. Ohjelman lisätietojen kautta pääset eteenpäin ohjelmasivulle, jossa\nnäet esimerkiksi ohjelman tarkemmat tiedot sekä sarjojen kaudet ja niiden\njaksot.\n\nJos tallennusominaisuus sisältyy tilaukseesi voit:\n\n  * Tallentaa tulossa olevia ohjelmia sekä meneillään olevan ohjelman valitsemalla tallenna ohjelma.\n  * Jos kyseessä on sarja, voit tallentaa sarjan kaikki jaksot valitsemalla Tallenna jaksot.\n\nAsetukset\n\nAsetusten kautta näet palvelun tarkemmat tiedot, voit vaihtaa sovellukset\nkieltä, muokata tallennussääntöjä tai kirjautua sovelluksesta ulos.\n\n#### Nämä ominaisuudet ovat käytettävissäsi Android TV:n DNA TV\n-sovelluksessa:\n\nSuorat lähetykset FTA + maksulliset sisällöt |  \n---|---  \nKatso jälkikäteen |  \nSuoratoistopalvelut (ilmaiset tai tilaamasi maksulliset) |  \nTallenna rajattomasti lähes kaikilta peruskanavilta |  \nKatso tallenteita (2 vuotta), (pl. Nelonen, Liv, JIM, Hero) |  \nLaita ohjelma tallentumaan ja aloita katselu vaikka heti (pl. Nelonen, Liv,\nJIM, Hero) |  \nVuokraa elokuva DNA TV Vuokraamosta |  \nKatso vuokrattuja elokuvia |  \nHyödynnä leffakupongit |  \nPeilaa ohjelmia isolle ruudulle |  \nVaihtuva kuukauden kanava |  \nTilaa lisää sisältöä |  \n  \n",
+                "heading": "DNA TV -sovellus Android-TV:llä"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:15:33+00:00",
+        "last_modified": "2025-06-20T19:25:35.522985",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

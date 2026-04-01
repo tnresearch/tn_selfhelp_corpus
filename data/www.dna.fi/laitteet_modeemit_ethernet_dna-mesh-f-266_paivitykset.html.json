@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_modeemit_ethernet_dna-mesh-f-266_paivitykset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 408,
+                "end": 1733,
+                "text": "# DNA Ethernet- ja Mesh-modeemi WiFi 6 F-266\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nmesh-f-266/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nmesh-f-266/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-mesh-f-266/asetukset)\n[ Päivitykset ](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nmesh-f-266/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/modeemit/ethernet/dna-\nmesh-f-266/vianmaaritys)\n\n## Päivitykset\n\n####\n\n####\n\n#### Uuden version SGA2610000109 julkaisupäivä 7.5.2024.\n\nPäivityksestä aiheutuu pieni katkos, jolloin laite käynnistyy uudestaan.\n\n  * AP isolation poistetaan käytöstä (verkon eriyttäminen poistetaan laajentimien välillä) \n    * Estänyt WiFi-laitteiden keskinäisen liikennöinnin, esim. Chromecastaus epäonnistuu\n\n#### Aiemmat versiot:\n\n#### Version SGA2610000107 julkaisupäivä 4.3.2024\n\n  * Asetussivuston muokkauksia\n  * IPv6 disablointi tehty mahdolliseksi\n  * Maksimi WiFi clientien määrän nosto 32->64\n  * Staattinen IP asetus tuotu takaisin (IPv4 ja IPv6)\n  * Muita yleisiä parannuksia\n\n#### SGA2610000085 julkaisupäivä 6.6.2023\n\n  * Käyttö olemassa olevan verkon rinnalla itsenäisenä WiFi verkkona (Standalone)\n  * Kielikorjauksia\n  * Muita yleisiä parannuksia\n\n",
+                "heading": "DNA Ethernet- ja Mesh-modeemi WiFi 6 F-266"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:36+00:00",
+        "last_modified": "2025-06-20T14:54:22.954085",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

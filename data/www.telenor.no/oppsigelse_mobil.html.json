@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/oppsigelse_mobil.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 119,
+                "end": 1421,
+                "text": "# Oppsigelsesskjema mobil\n\nSvartid på e-post er inntil 5 virkedager. Du vil motta en kopi av din\nhenvendelse.\n\nHenvendelser om bedriftsabonnement og -tjenester vil ikke bli behandlet. [Ta\nkontakt med Telenor bedrift](/bedrift/kundeservice/kontakt-oss/)\n\n **Vi minner om noen fordeler du har hos Telenor:**\n\n  * [Nettvern+](/nettvern-pluss/)\n\n  * [Min Sky](/privat/mobil/app/min-sky/)\n\n  * [Mitt Telenor app](/privat/mobil/app/mitt-telenor/)\n\n  * [Nummervarsel](/nummervarsel/)\n\n **Er du usikker, ring gjerne kundeservice på 915 09 000, så hjelper vi deg.**\n\nFornavn\n\nEtternavn\n\nFødselsdato\n\nHvilket abonnement eller tjeneste ønsker du å si opp?\n\nMobilabonnement\n\nMobilt bredbånd\n\nForsikring\n\nAnnet\n\nHvis du har valgt Annet:\n\nHvilket nummer gjelder det?\n\nHvilken dato ønsker du at abonnementet stenges? (Du kan ikke velge en dato\ntilbake i tid)\n\nHva er årsaken(e) til oppsigelsen?\n\nTrenger ikke/ikke i bruk\n\nDødsfall\n\nAnnet\n\nHvis du ønsker si opp nummeret fordi det skal **overføres til ny leverandør**\n, så skal du ikke sende inn dette skjemaet. Nummeret vil bli automatisk sagt\nopp hos oss når overføringen til ny leverandør utføres.\n\nDersom du ikke ønsker nummeret overført til ny leverandør, huk av for «\n_Trenger ikke/ikke i bruk_ » over.\n\nHvilken nummer kan vi nå deg på?\n\nDin e-postadresse\n\nSend\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:26+00:00",
+        "last_modified": "2025-05-30T09:27:00.153857",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": "urls and contact formular"
+}

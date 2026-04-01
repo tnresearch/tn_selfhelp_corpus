@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-5g-wifi-mu5001_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 410,
+                "end": 2485,
+                "text": "# DNA Matkamokkula 5G WiFi MU5001\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-5g-wifi-mu5001/vianmaaritys)\n\nVianselvitys\n\nMiksei Matkamokkula vastaa?\n\nKokeile käynnistää laite uudelleen. Jos siitä ei ole apua, palauta laitteen\ntehdasasetukset.\n\nMiksi Matkamokkulaan ei aina voi muodostaa yhteyttä?\n\nVirran säästämiseksi Matkamokkulan WiFi-yhteyden lepotilatoiminto katkaisee\nWiFi-yhteyden, kun yhteyksiä ei ole ollut vähään aikaan. Voit käynnistää WiFi-\nyhteyden uudelleen painamalla POWER-painiketta. Voit myös poistaa tämän\nominaisuuden käytöstä, mutta se voi vaikuttaa akun kestoon. Kirjaudu\nasetussivuille ja ja poista WiFi-yhteyden lepotilaominaisuus käytöstä valikon\nlisäasetukset – virransäästö kautta.\n\nMiksi Matkamokkula ei käynnisty?\n\nAkku on todennäköisesti tyhjä. Lataa Matkamokkulaa jonkin aikaa ja kytke\nsitten virta uudelleen päälle.\n\nMiksi Matkamokkula sammui yhtäkkiä?\n\nMatkamokkula saattaa ylikuumentua, jos sitä käytetään jatkuvasti pitkiä aiko-\nja, jolloin sen automaattinen suojausjärjestelmä laukeaa. Tällöin WiFi-yhteys\nkatkeaa ja Matkamokkula sammuu.  \nVarmista ennen virran kytkemistä uudelleen, että laitteella on asianmukainen\nilmanvaihto ja että se on jäähtynyt.\n\nMatkamokkulan nopeus on huono\n\nTarkista ensimmäiseksi Matkamokkulan näytön oikeasta yläkulmasta, että\n5G/4G-yhteys on mahdollisimman hyvä. Sijoita tarvittaessa mokkula sinne, missä\nkuuluvuus on paras.  \nYhdistä tietokone mokkulaan USB-johdon avulla. Jos nopeus on parempi, ongelma\non WiFi-yhteydessä. Lisätietoja [dna.fi/tuki-wifi](http://dna.fi/tuki-wifi)\n\n",
+                "heading": "DNA Matkamokkula 5G WiFi MU5001"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:41+00:00",
+        "last_modified": "2025-06-20T19:06:20.015037",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

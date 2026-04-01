@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_lyser-eller-blinkar-en-rod-lampa-pa-din-router.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 322,
+                "end": 574,
+                "text": "# Kolla på din router\n\nLyser eller blinkar en röd lampa på din router från Telenor?\n\n[ Ja ](/support/fast-bredband/felsokning/starta-om-din-router-driftstorning/)\n\n[ Nej ](/support/fast-bredband/felsokning/koppla-in-datorn-direkt-i-\nbredbandsuttaget2/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:21:33+00:00",
+        "last_modified": "2025-05-30T14:05:01.780896",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

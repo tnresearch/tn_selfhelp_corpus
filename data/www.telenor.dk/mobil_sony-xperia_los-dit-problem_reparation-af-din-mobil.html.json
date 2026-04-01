@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_sony-xperia_los-dit-problem_reparation-af-din-mobil.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 647,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "#  Reparation af din mobil\n\nFør du indleverer din mobil til reparation, anbefaler vi, at du går\nnedenstående liste med løsningsforslag igennem. Måske kan du hurtigt selv løse\nproblemet. Vær opmærksom på at fejl eller skader ifm. brug af uoriginale\nreservedele ikke er reklamationsberettiget. Hvis en reparation ikke er udført\nkorrekt, og i et antistatisk miljø, kan det medfører følgeskader eller\nfunktionsfejl.\n\nForsøg evt. selv at fabriksindstille produktet, og test om problemet er løst.  \nHUSK at frakoble tyverispærring som ”Find Min iPhone” eller Google FRP, og\nnustil produktet og fjern koder inden produktet afleveres/sendes til\nreparation"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:01:13+00:00",
+        "last_modified": "2025-05-21T15:16:04.279632",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/fast-bredband_felsokning_testa-med-en-annan-natverkskabel.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1229,
+                "text": "# Testa med en annan nätverkskabel\n\nKanske är det kabeln det är fel på?\n\n  \nByt ut din nätverkskabel och testa med en annan. Både nätverkskabeln mellan\ndatorn och routern samt mellan routern och tjänstefördelaren kan behöva\nkollas.  \n  \nHar du bredband via telejacket?\n\nOm du har bytt ut kabeln som är kopplad mellan telejacket och modemet\n(RJ11-kabeln) till en som är **längre än tre meter** , bör du byta. En lång\nkabel gör nämligen att hastigheten försämras.\n\nOm du behöver ha längre kabel för att kunna ha all uppkopplad hårdvara där du\nvill, är det bättre att använda en kortare kabel mellan telejacket och\nmodemet, och längre RJ45-kablar från modemet till den övriga utrustningen.  \n  \nDet kan också vara värt att kolla att dina telefonjack fungerar som de ska och\nhur de är kopplade, [det gör du\nhär](~/link/94c9038361f443babbdcec87ea18a740.aspx)\n\n## Löste det här ditt problem?\n\n[ Ja! ](/support/fast-bredband/felsokning/hurra-ditt-problem-ar-lost/)\n\n[ Nej, jag behöver mer hjälp. ](/support/fast-bredband/felsokning/anslut-en-\nannan-enhet/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:10+00:00",
+        "last_modified": "2025-05-30T14:05:33.048753",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

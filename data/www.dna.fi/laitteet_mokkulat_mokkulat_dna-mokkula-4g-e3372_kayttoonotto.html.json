@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-4g-e3372_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 373,
+                "end": 3358,
+                "text": "# DNA Mokkula 4G E3372\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-e3372/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-e3372/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-e3372/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-e3372/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-e3372/vianrajaus)\n\n## Käyttöönotto\n\n## Mokkulan asennus\n\nMokkula käyttää tavallista Mini-SIM-korttia eli suurinta korttikokoa. SIM-\nkortti irtoaa ilman suurta voimankäyttöä, kun painat sitä irti SIM-kortin\ntakapuolelta. Jos irrotat väärän kokoisen SIM-kortin, käy DNA Kaupassa\nvaihtamassa se uuteen SIM-korttiin.\n\nSIM-kortti asennetaan mokkula etupuolella olevan kannen alle. Työnnä kantta\npoispäin USB-liittimestä. Asenna SIM-kortti mokkulaan metalliosa alaspäin ja\nlopulta sulje kansi.\n\nRekisteröityminen DNA:n nettiin kestää joitakin minuutteja. Mikäli yhteyden\navaus ei onnistu, soita DNA:n\n[asiakaspalveluun](https://www.dna.fi/yhteystiedot#asiakaspalvelu).\n\nNettiyhteys on käytettävissä kun mokkulassa palaa virtavalo ja verkkotilan\nmerkkivalo.\n\n## Langattoman verkon eli WiFin käyttöönotto\n\nWindows XP, Vista ja Windows 7\n\n  1. Liitä mokkula tietokoneeseen.\n  2. Asennus käynnistyy automaattisesti. Huom! Jos asennus ei käynnisty automaattisesti, avaa **Oma tietokone** ja CD-asema nimeltä **HiLink**. Klikkaa tiedostoa nimeltä **AutoRun.exe**.\n  3. Mikäli Windowsin palomuuri on päällä, vahvista asennus painamalla **Kyllä**.\n  4. Asennus alkaa. Kun asennus on valmis, tietokone avaa nettiselaimen ja selaimessa mokkulan oman hallintasivun. Nyt voit käyttää nettiä.\n\nWindows 8\n\nVoit suorittaa asennuksen samalla tavalla kuin Windows 7:llä mutta myös alla\noleva asennustapa toimii Windows 8 -käyttöjärjestelmässä.\n\n  1. Liitä mokkula tietokoneeseen.\n  2. Tietokoneen oikeaan yläkulmaan ilmestyy ikkuna, jonka otsikkona on **”CD-asema (E:) HiLink”**. Klikkaa ikkunaa.\n  3. Seuraava ikkuna avautuu ja valitse siitä **Suorita AutoRun.exe**.\n  4. Mikäli Windowsin palomuuri on päällä, vahvista asennus painamalla **Kyllä**.\n  5. Asennus alkaa. Kun asennus on valmis, tietokone avaa nettiselaimen ja selaimessa mokkulan oman hallintasivun. Nyt voit käyttää nettiä.\n\nMac OSX\n\n  1. Liitä mokkula tietokoneeseen.\n  2. Tietokoneen työpöydälle ilmestyy CD:n kuva, jonka nimi on HiLink. Klikkaa sitä. Jos et näe kuvaa, irrota ja kytke mokkula uudelleen tietokoneeseen.\n  3. Asennus alkaa. Kun asennus on valmis, tietokone avaa nettiselaimen ja selaimessa mokkulan oman hallintasivun. Nyt voit käyttää nettiä.\n\n### Vinkkejä jos asennus ei onnistu\n\n  * Kokeile toista USB-porttia.\n  * Poista vanha USB-modeemin yhteysohjelma tietokoneen ohjauspaneelin lisää/poista -sovelluksen kautta. Käynnistä tietokone tämän jälkeen uudelleen ja vasta sitten kytke mokkula tietokoneeseen.\n\n",
+                "heading": "DNA Mokkula 4G E3372"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:32+00:00",
+        "last_modified": "2025-06-20T19:08:52.569319",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

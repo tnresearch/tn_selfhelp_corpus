@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/det-har-hander-med-abonnemang-vid-dodsfall.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1855,
+                "heading": " Det här händer med abonnemang vid dödsfall",
+                "reason": "Quick select: heading to cookie notice",
+                "start": 271,
+                "text": "#  Det här händer med abonnemang vid dödsfall\n\nHär berättar vi det du behöver veta om hur abonnemang avslutas eller överlåtes\nvid dödsfall.\n\n## Så här går det till:\n\n  * **När vi får veta att en kund har avlidit skickar vi ett informationsbrev till dödsboets adress.** Detta gäller såväl mobil- och tv- som bredbandsabonnemang. \n  * **Kundens samtliga abonnemang avslutas cirka 45 dagar efter att vi fått veta att hen har avlidit.** Tiden kan variera något då informationen hämtas en gång i veckan.\n  * **Om du som efterlevande vill att abonnemanget ska avslutas** behöver du inte göra någonting. **Vill du att abonnemanget ska överlåtas** på någon annan ska du följa instruktionerna här nedan. \n\n###\n\nÖverlåtelse av abonnemang från dödsbo\n\nOm du vill överlåta ett abonnemang som idag tillhör ett dödsbo fyller du i\nblanketten [Överlåtelse av abonnemang från\ndödsbo.](https://mediearkivet.telenor.se/Data/mw/Pdf/TG31188.pdf)  \n  \nDu behöver också bifoga ett dödsfallsintyg, som du beställer via Skatteverket.\nSäkerställ att du som övertagare finns med på dödsfallsintyget.  \n  \nMejla intyg och ifylld blankett till oss via vårt\n[mejlformulär,](/link/ba47672336314095bd2c64e83ad431b5.aspx) eller via post\ntill Telenor, FE 110, 106 56 Stockholm. Märk kuvertet med \"överlåtelse\".  \n  \nNär överlåtelsen är genomförd får du bekräftelse via sms.  \n  \nObservera att eventuella delbetalningar på hårdvaror som mobil, surfplatta,\napple-tv och liknande, kommer att slutfaktureras vid överlåtelse.\n\n**Om du har några frågor är du välkommen att[kontakta oss här.](/support/old-\nkontakta-oss/)**\n\n"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:27:37+00:00",
+        "last_modified": "2025-05-30T13:48:40.462236",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

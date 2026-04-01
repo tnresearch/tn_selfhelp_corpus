@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/driftinformation_mobiltelefoni-och-mobilt-bredband_vad-som-paverkar-mottagning-och-hastighet.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 425,
+                "end": 3608,
+                "text": "#  Vad som påverkar mottagning och hastighet\n\nDet finns många faktorer som kan påverka vilken täckning du har och hur snabbt\ndu kan surfa.\n\nDe största faktorerna är tillfälliga [driftstörningar\n](/support/driftinformation/driftstorningar-pa-mobilnatet/)och vilken [typ av\nnät som finns där du befinner dig](/support/driftinformation/mobiltelefoni-\noch-mobilt-bredband/mobiltackning-i-sverige/). Men det finns andra, mindre\nfaktorer som också påverkar.\n\n### Vilken mobil – och vilka prylar – du har\n\nNya mobiltelefoner kan ta emot fler frekvenser från en mobil signal än en\näldre, vilket i sin tur ger bättre täckning. Och vissa mobilskal dämpar\nsignalerna, vilket ger sämre täckning. Om du använder handsfree (det vill säga\nen sladd med hörlurar och mikrofon) och lägger mobilen på till exempel ett\nbord istället för att hålla den i handen eller ha den i en ficka, kan\nmottagningen förbättras.\n\n### Vilken mobiloperatör du har\n\nVilken operatör du har kan påverka din täckning, eftersom alla operatörer har\negna områden i mobilnätet (även om de på vissa ställen delar nät med\nvarandra).\n\n### Var du befinner dig\n\nDet är ganska självklart att täckningen påverkas av om du är inomhus eller\nutomhus. Och vissa husväggar kan verkligen påverka täckningen till det sämre.\n\n[Tips från PTS om bättre inomhustäckning](https://pts.se/internet-och-\ntelefoni/mobiltackning/)\n\nUtomhus kan en stor betongbyggnad mellan dig och närmaste sändare försvaga\nsignalen. Det samma gäller om du är omgiven av berg eller träd; då kan\nradiosignalen ha svårt att komma fram till din mobil. Och ju längre du är från\nradiomasten, desto svagare blir signalen.\n\nNär du befinner du dig bland en massa andra människor, till exempel i\nrusningstrafik på väg hem från jobbet eller i ett köpcentrum, kämpar många\nmobiler samtidigt om att fånga ett begränsat antal signaler.\n\n## Vilken surfhastighet kan man förvänta sig?\n\nJu sämre täckning, desto långsammare går det att surfa. Men vad kan man\nförvänta sig för surfhastigheter egentligen?\n\nGenerellt kan man säga att följande normalhastigheter gäller för de olika\nnäten.\n\n5G+: upp till 1000 Mbit/s\n\n4G och 5G: upp till 200 Mbit/s\n\n2G och 3G stängs i slutet av 2025  \n  \n\n**4G, 5G och 5G+, vad är skillnaden?**\n\nBortsett från hastigheterna skiljer sig också svarstiden. 5G och 5G+ ger dig\nen bättre upplevelse om du till exempel spelar eller kollar på livesändningar\nsom är beroende av korta svarstider för att det inte ska lagga. 5G+ skapar\näven bättre förutsättningar om ni är flera i hushållet som surfar samtidigt,\noavsett om det är streaming, hemmajobb, evighetsscrollande på sociala medier\neller onlinespel med kompisar.\n\nDetta gäller dock för ideala omständigheter, och som du har kunnat läsa ovan\när det många faktorer som kan påverka hastigheten. Tänk också på att om du har\nett abonnemang med begränsad surf och det plötsligt går väldigt långsamt att\nsurfa så beror det förmodligen på att din surf är slut (vilket du kollar i[\nvår app](/archive/2019/mitt-telenor-old/)).\n\nDu kan mäta din hastighet på webbplatsen\n[Bredbandskollen](http://www.bredbandskollen.se/), eller genom att ladda ner\nderas app. Sök på \"Bredbandskollen\" i App Store eller på Google Play.\n\n",
+                "heading": " Vad som påverkar mottagning och hastighet"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:25:46+00:00",
+        "last_modified": "2025-05-30T13:55:57.330669",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

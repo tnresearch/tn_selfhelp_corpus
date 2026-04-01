@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_kom-igang_smart-tv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 335,
+                "end": 4777,
+                "text": "#  Titta på Telenor Stream på en smart-tv\n\nOm du har en smart-tv från Samsung, LG eller Android kan du titta på tv via\nTelenor Stream-appen\n\nTelenor Stream-appen kan användas på modeller från Samsung tillverkade 2020\neller senare och LG från 2020 eller senare. Du kan även ladda ner appen till\ndin Android TV, t ex Sony och Philips med Android TV 9 eller senare. **  \n  \n**Du hittar tillverkningsåret på en etikett på baksidan av tv:n (samma etikett\ndär du hittar modellnumret).\n\nKom igång med appen för Samsung\n\n  1. [Aktivera Telenor Stream här](/aktivera-stream/) (länken öppnas i nytt fönster).\n  2. Installera Telenor Stream-appen på din tv genom att söka på ”Telenor” via sökfunktionen på toppen av menyn ”Apps”. Du hittar den även som rekommenderad app.\n  3. Öppna appen, logga in och starta programmet du vill kolla på.\n\n**Hittar du inte appen?  \n** Då beror det förmodligen på att din tv är tillverkad tidigare än 2020, och\natt appen alltså inte stöds.\n\n**Har du laddat ner appen men får den inte att\nfunka?**[Problemlösning](/support/tv-och-stream/problemlosning/telenor-\nstream/problem-med-telenor-stream-appen-for-samsung-smarttv/)\n\nKom igång med appen för LG\n\n  1. [Aktivera Telenor Stream här](/aktivera-stream/) (länken öppnas i nytt fönster).\n  2. Leta upp Telenor Stream-appen på din tv genom att söka på ”Telenor”. Hittar du inte sökfunktionen? Tryck på Hem-knappen på fjärrkontrollen och välj sedan förstoringsglaset.\n  3. Öppna appen, logga in och starta programmet du vill kolla på.\n\n**Hittar du inte appen?  \n** Då beror det förmodligen på att din tv är tillverkad tidigare än 2020, och\natt appen alltså inte stöds.\n\nKom igång med att streama via Airplay eller Chromecast\n\n  1. [Aktivera Telenor Stream här](/aktivera-stream/) (länken öppnas i nytt fönster).\n  2. Ladda ner Telenor Stream-appen till din telefon eller surplatta ([mer info om appen finns här](/support/tv-och-stream/kom-igang/mobil-eller-surfplatta/))\n  3. Öppna appen, och starta programmet du vill kolla på\n  4. Klicka på symbolen för att dela skärm \n  5. Njut av det du vill kolla på din tv-skärm\n\n**Funkar det inte?** Mer utförliga instruktioner finns här:  \n  \n[Apple/iPhone och iPad](https://support.apple.com/sv-se/HT204289)\n\n[Google\nHome/Android](https://support.google.com/chromecastbuiltin/answer/7020323?hl=sv#zippy=%2Cen-\ntelefon-eller-surfplatta-med-android-android-eller-senare%2Cen-telefon-eller-\nsurfplatta-med-ios-ios-eller-senare)\n\nKom igång med att streama via Android TV\n\n  1. [Aktivera Telenor Stream här](/aktivera-stream/) (länken öppnas i nytt fönster).\n  2. Ladda ner Telenor Stream-appen.\n  3. Gå till Google Play Store på din tv. Leta upp sökfunktionen och sök på Telenor Stream. Alternativ: Tryck på knappen för Google-assistenten och säg Telenor Stream.\n\n**Hittar du inte appen?**  \nDin tv behöver ha Android TV 9 eller senare. Detta motsvarar ungefär tv-\napparater ifrån 2018.\n\n## Vanliga frågor\n\n  * Det saknas kanaler när jag loggar in på Telenor Stream – varför?\n\nOm du kan se vissa kanaler på din tv men inte i Telenor Stream så beror det på\natt vi inte har fått tillåtelse att distribuera dem där.\n\n  * Varför saknas hela säsonger och avsnitt av vissa program?\n\nI Telenor Stream hittar du både program från playtjänster (till exempel\nViaplay Film & Serier) och från kanaler (till exempel SVT). Programmen från\nkanalerna kan ses när de sänds, precis som i ”vanlig tv”, samt i många fall\nupp till sju dagar efteråt. Sedan försvinner de. Men programmen från\nplaytjänsterna kan du se när som helst, och det är förklaringen till att du\nkan se alla avsnitt och alla säsonger av en serie från Viaplay, men bara det\nsenaste avsnittet av På spåret.\n\n  * Jag väntar på min tv-box, kan jag använda Telenor Stream under tiden?\n\nDet beror på. Om startdatumet för din tv-tjänst har passerat så kan du\naktivera Telenor Stream trots att du inte har fått tv-boxen. Men om\nstartdatumet är längre fram i tiden så måste du vänta tills det har passerat.\n\n  * Hur ändrar jag mina inloggningsuppgifter till Telenor Stream?\n\nDu kan ändra både ditt användarnamn och lösenord till Telenor Stream i [Mitt\nTelenor](/link/a4531ddbfeef48d3a256e369df95234d.aspx).\n\n  * Kan jag streama till flera enheter samtidigt?\n\nJa, du kan streama på upp till två enheter samtidigt på ditt abonnemang.\n\nSe mer\n\nFunkar det inte?\n\nIbland funkar det helt enkelt inte, men det finns hjälp att få!  \n  \n[Till problemlösningen](/support/tv-och-stream/problemlosning/)\n\n",
+                "heading": " Titta på Telenor Stream på en smart-tv"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:02+00:00",
+        "last_modified": "2025-05-30T17:32:24.508497",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

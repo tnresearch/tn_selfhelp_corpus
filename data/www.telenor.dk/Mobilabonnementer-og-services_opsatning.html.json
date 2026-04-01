@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_opsatning.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 838,
+                "heading": "How to find your PUK code",
+                "start": 0,
+                "text": "# Hvordan finder jeg min PUK-kode?\n\nHar du indtastet din PIN-kode forkert tre gange i træk, bliver din mobil\nautomatisk spærret. For at låse din mobil op igen, skal du bruge PUK-koden.\n\n**Har du mistet din PUK-kode, kan du finde den her:**\n\n  * Find nemt og hurtigt PUK-koden på [Mit Telenor](/mit-telenor/login/) eller i appen under [Abonnementer](/mit-telenor/abonnement/) – klik herefter på det telefonnummer, du mangler PUK-kode til\n  * [Kontakt os](/kundeservice/kontakt/) og få den tilsendt på e-mail\n  * Besøg en af vores [butikker](/find-butik/) – husk at tage gyldig billedlegitimation med fx dansk pas eller kørekort\n\nNår du har fået din PUK-kode og indtastet den, bliver din PIN-kode samtidig\nnulstillet. Her vil du blive bedt om at indtaste en ny 4-cifret PIN-kode – det\ner den kode, du bruger, når du fx genstarter din mobil."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:26+00:00",
+        "last_modified": "2025-05-21T15:15:28.984105",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

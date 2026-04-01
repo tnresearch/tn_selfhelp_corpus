@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app_android-tv-app.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 156,
+                "end": 2866,
+                "text": "# T-We App - Android TV og Chromecast med Google TV\n\nHer finner du hjelp til innlogging og bruk av Android TV-app, Chromecast med\nGoogle TV og eldre Chromecast\n\n[Chromecast (uten Google TV)](/kundeservice/tv/t-we-app/android-tv-\napp/#chromecast)\n\n## Telenor T-We på Android TV\n\nAndroid TV-appen kan installeres på alle enheter med Android TV (9 eller\nhøyere) som operativsystem, inkludert Chromecast med GoogleTV, noen SmartTV-er\nog TV-bokser.  \n ** _OBS:_** _Samsung og LG SmartTV er unntatt her da de bruker et annet\noperativsystem._\n\n **Dette er en Beta-versjon** , så du kan oppleve små feil eller lignende, men\nvi jobber på spreng med å få lansert en fullversjon. Ønsker du å gi oss\ntilbakemelding om feil eller annet, kan du gjøre det i Google Play Butikk.\n\nT-We app på din TVNå kan du se på T-We uten å ha dekoder koblet til selve\nTV'en!\n\n## Slik tar du i bruk Telenor T-We på Android TV\n\n  1. Installer appen\n\n    * Fremgangsmåte for hvordan dette gjøres vil variere noe i henhold til hvor du installerer appen, men som regel går du til **Google Play Store** / **Play Butikk** på den enheten du ønsker legge den til. Søk så opp \"Telenor T-We\" og installer appen\n\n  2. Logg inn med [Telenor ID](/telenor-id/)\n\n    * Skann QR-koden som dukker opp på skjermen med din mobil, verifiser at det er samme nummer som du ser på skjermen og logg inn med din Telenor ID\n\n  3. Du er klar til å se på TV!\n\n## Google TV og Chromecast\n\nHvis du har Chromecast med Google TV, last ned T-We App fra Play butikk, og\nbruk tilhørende fjernkontroll til å navigere.\n\nMERK!\n\nHvis du har en **eldre Chromecast (uten Google TV)** , kan du bruke T-We App\npå mobil eller nettbrett til å navigere/finne innhold, og spille av innholdet\npå Chromecast. Dette fungerer kun når Chromecast og mobil eller nettbrett\nbefinner seg på samme nettverk.\n\nFør du starter\n\nHvis du ikke har [konfigurert din Chromecast\n](https://support.google.com/chromecast/answer/2998456)fra før, må dette\ngjøres før du kan ta enheten i bruk\n\n## Koble til Chromecast\n\n  1. Sjekk at telefonen eller nettbrettet er tilkoblet samme Wi-Fi-nettverk som Chromecast-enheten din\n\n  2. Start T-We appen\n\n  3. Når T-We appen \"ser\" enheten, dukker casting-knappen opp nederst til høyre på skjermen din\n\n  4. Trykk på casting-knappen og velg hvilken Chromecast du ønsker å spille innholdet via\n\n  5. Naviger frem til ønsket innhold i appen og trykk start. Innholdet begynner nå å spille på Chromecast'en du er tilkoblet.\n\nMer informasjon om Chromecast finner du [på deres\nnettside](https://store.google.com/product/chromecast), og trenger du mer\nhjelp finner du mange tips på [Chromecasts\nhjelpesider](https://support.google.com/chromecast/chromecast/?hl=no#topic=3058948)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:24+00:00",
+        "last_modified": "2025-05-30T09:39:54.106939",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

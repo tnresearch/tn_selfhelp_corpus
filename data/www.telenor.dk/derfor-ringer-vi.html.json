@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/derfor-ringer-vi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1564,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "## Opkald fra Telenor\n\nTelefonopkald er en god måde at skabe kontakt med kunderne og give forståelse\nfor, hvad vi kan tilbyde, da mange forbrugere synes, de forskellige produkter\npå telemarkedet er komplicerede.\n\nVi kontakter kun forbrugere, som aktivt har afgivet samtykke til at blive\nkontaktet af Telenor enten via kontaktformularer, Telenor-konkurrencer eller\nen konkurrence fra tredjepart, hvor der i konkurrencevilkårene står specifikt,\nat der afgives kontaktsamtykke til Telenor sammen med andre virksomheder.\n\n## Glade kunder\n\nHos Telenor samler vi på glade kunder, som værdsætter den service, vi kan\ntilbyde, og de fleste som vi taler med, sætter pris på den rådgivning, vi kan\ngive i telefonen, uanset om de er eller bliver kunder hos os.\n\nØnsker du at tilbagekalde dit samtykke, kan du gøre det her. Udfyld formularen\nog klik på send – så sørger vi for, at du ikke længere bliver ringet op af\nTelenor. Bemærk, at der kan være en behandlingstid på op til én arbejdsdag.\n\n## Hvad er Robinsonlisten?\n\nRobinsonlisten findes på borger.dk og har blandt andet til formål at beskytte\nforbrugerne mod uanmodede telefoniske henvendelser fra de virksomheder, som\nhar lov til at foretage disse uden et samtykke. Det kan fx være forsikringer\nog abonnementer på redningstjenester. Disse virksomheder må altså ikke\nkontakte dig, hvis du er registret på denne.\n\nTelenor er ikke blandt disse virksomheder, og vi kontakter kun forbrugere, der\nhar givet deres samtykke til at blive kontaktet via kontaktformularer,\nTelenor-konkurrencer eller en konkurrence fra tredjepart."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:35+00:00",
+        "last_modified": "2025-05-21T15:15:35.097260",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

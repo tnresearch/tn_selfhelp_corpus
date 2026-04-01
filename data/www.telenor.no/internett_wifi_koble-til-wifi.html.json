@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_koble-til-wifi.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 169,
+                "end": 2852,
+                "text": "# Koble til WiFi\n\nHer hjelper vi deg med enkle trinn-for-trinn instruksjoner for å koble din\ndatamaskin eller mobiltelefon til ditt trådløse hjemmenettverk.\n\n## Jeg vet ikke hva passordet mitt er\n\nHar du [WiFi Ruter II](https://www.telenor.no/kundeservice/internett/modem-og-\nruter/wifi-ruter-2/) eller [WiFi-\nruter](https://www.telenor.no/kundeservice/internett/modem-og-ruter/wifi-\nruter/), gjør du følgende:\n\nSend SMS med kodeord **WIFI XXXXXXXX til 2000** for å få tilsendt\nnettverksnavn og passord til ruteren. De 8 sifrene er de 8 siste sifrene i\nserienummeret (S/N) som står på undersiden.\n\nHar du noen av **våre eldre rutere** , står passordet skrevet ruteren etter\nteksten admin: (består av bokstaver og tall) eller etter teksten WPA2 (består\nav 13 bokstaver)\n\n  \n\n## Koble til mobil eller pc\n\n  * #### iOS\n\nMobil\n\nHvis du ikke kan trykke på Koble til, har du angitt feil passord.\n\n    1. Åpne **Innstillinger**\n\n    2. Velg **Wi-Fi**\n\n    3. Trykk på bryteren for å slå på Wi-Fi\n\n    4. Trykk på navnet på det nettverket du vil koble deg til\n\n    5. Hvis nettverket er sikret med passord: Angi passordet og trykk på **Koble til**\n\n  * #### Android\n\nMobil\n\n    1. Åpne **Innstillinger**\n\n    2. Velg **Tilkoblinger**\n\n    3. Slå på **Wi-Fi**\n\n    4. Velg nettverket du ønsker koble til fra listen over tilgjengelige nettverk\n\n    5. Skriv inn eventuelt WIFI-passord og trykk **Koble til**\n\n  * #### Windows\n\nPC\n\n    1. Klikk på ikonet for trådløst nettverk nede ved klokken og datoen.\n\n    2. Klikk på ditt nettverk, velg **Koble til**\n\n    3. Skriv inn ditt nettverkspassord og trykk **Koble til**\n\n  * #### Mac\n\nPC\n\n    1. Klikk på Wi-Fi, ikonet for trådløst nettverk\n\n    2. Trykk på ditt nettverk\n\n    3. Skriv inn nettverkspassordet og klikk **Koble til**\n\n## Koble til smarte enheter\n\nVi har stadig vekk flere smarte enheter i hjemmene våre - TV, kjøleskap,\nstøvsugere, klokker, låser og andre dingser.\n\nOppsett av disse enhetene skjer som regel via egen app på mobil eller pc.\nMobilen eller PC'en må da være koblet til samme nett som den smarte enheten\nskal kobles til.  \nHvis du opplever problemer med tilkobling av enheten via disse appene, må du\nta kontakt med leverandøren av tjenesten eller enheten.\n\nNoen smarte enheter **krever at nettverket de bruker er låst til 2,4 Ghz** \\-\nvi har laget en veiledning for nettopp dette.\n\nDen finner du her: [Ekstra nettverk og gjestenett](https://telenor.no/ekstra-\nnettverk/)\n\n## Flere tips eller råd om WiFi?\n\nHvis du trenger mer tips til installasjon, oppsett og administrasjon av det\ntrådløse nettet ditt, kan du lese mer om dette på våre hjelpesider for WiFi.\n\n[Gå til WiFi og hjemmenett](/kundeservice/internett/wifi/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:33+00:00",
+        "last_modified": "2025-05-30T09:04:03.725183",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

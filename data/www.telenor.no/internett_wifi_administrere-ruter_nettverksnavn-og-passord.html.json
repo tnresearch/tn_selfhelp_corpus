@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett_wifi_administrere-ruter_nettverksnavn-og-passord.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 255,
+                "end": 1631,
+                "text": "# Endre navn eller passord på nettverket\n\nØnsker du å endre nettverksnavn eller passord på ditt trådløse nettverk?  \nHer viser vi deg hvordan du gjør det i Mitt WiFi!\n\n## Slik gjør du det\n\n  1. Logg inn på Mitt WiFi ved å gå til: wifi.telenor.no\n\n  2. Trykk på **Administrer trådløse nettverk**\n\n  3. Finn nettverket du vil endre\n\n  4. Skriv inn nytt nettverksnavn og/eller passord og trykk **Lagre**\n\n    *  **Tips:** Passordet må bestå av minimum 8 tegn (vi anbefaler at du bruker minst 12 tegn), bruk gjerne kombinasjon av tall, små og store bokstaver for å gjøre ditt nettverk mest mulig sikkert.\n\n  5. Du kan nå koble til dine enheter til Mitt WiFi\n\nEndre navn eller passordSkriv inn ønsket nettverksnavn og passord og trykk\nLagre\n\n[Gå til Mitt WiFi](https://wifi.telenor.no)\n\nGlemt admin-passord?\n\nHvis du har byttet ditt admin-passord, vil dette fremdeles gjelde etter en\nnullstilling av ruteren eller hvis du får ny ruter. Har du glemt hva det er,\ner det likevel mulig å endre det.\n\n  1. Åpne en nettleser og gå til adressen wifi.telenor.no\n\n  2. Velg Glemt passord\n\n  3. Skriv inn mobilnummer eller e-postadresse\n\n  4. Velg Send reset link\n\n  5. Du vil nå motta en SMS eller e-post med videre informasjon\n\nDersom du ikke lenger har e-postadressen eller mobilnummeret som ble\nregistrert ved opprettelse, må du ta [kontakt med\nKundeservice](/kundeservice/kontakt-oss/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:10+00:00",
+        "last_modified": "2025-05-30T09:03:48.922045",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

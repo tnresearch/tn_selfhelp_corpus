@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-5g-wifi-h155.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 294,
+                "end": 2508,
+                "text": "# DNA Kotimokkula 5G WiFi H155\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-5g-wifi-h155/vianmaaritys)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje\n(pdf)](/documents/753910/853450/202409_H155_DNA_Kotimokkula_5G_WiFi_opas_180x148_web.pdf/cdd73778-c94f-da59-9435-64078e6b1158?t=1732855925218)\n\n[Lataa pikaopas\n(pdf)](/documents/753910/853450/202409_H155_DNA_Kotimokkula_5G_WiFi_pikaopas_180x148_4430739_web.pdf/55014b2a-05f5-4acf-d92e-d1d18a4a6311?t=1732855922632)\n\n[Ladda ner manual\n(pdf)](/documents/753910/853450/202411_H155_DNA_Kotimokkula_5G_WiFi_opas_180x148_ruotsi_web.pdf/911b1327-5829-d40a-8a97-d3bfa59cd870?t=1732855919215)\n\n[Ladda neer snabbguide\n(pdf)](/documents/753910/853450/202411_H155_DNA_Kotimokkula_5G_WiFi_pikaopas_180x148_4430739_ruotsi_web.pdf/1fd8677c-2a5d-16c5-9bb2-3d6020e2ce42?t=1732855833561)\n\n[Ohje Wifin nimenvaihto\n(pdf)](/documents/753910/853450/DNA_Netti_wifin_nimenvaihto_H158_nettiin%20%281%29.pdf/bdeb080c-588a-93ff-3092-e4b36e8ec489?t=1729138862321)\n\n## Ohjevideot\n\n#### Katso videolta ohjeet modeemin käyttöönottoon\n\nKatso video\n\n### DNA Laatutakuu modeemeille ja mokkuloille\n\nDNA Laatutakuu modeemeille ja mokkuloille varmistaa, että saat luotettavan,\nturvallisen ja suorituskykyisen netin. Helppo käyttöönotto, DNA:n verkkoon\noptimoitu suorituskyky, jatkuvat päivitykset ja 3 vuoden takuu takaavat\nmielenrauhan pitkälle tulevaisuuteen. DNA Laatutakuu tulee takautuvasti\nkaikille DNA:n myymille netin päätelaitteille jotka on ostettu tai joiden\nsopimus on alkanut 1.1.2025 jälkeen.\n\n[ Lue lisää\n](https://www.dna.fi/laatutakuu?itm_source=tukisivut&itm_medium=card&itm_campaign=laatutakuu&itm_format=vakio&itm_content=vakio)\n\n",
+                "heading": "DNA Kotimokkula 5G WiFi H155"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:18:02+00:00",
+        "last_modified": "2025-06-20T18:55:44.338254",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

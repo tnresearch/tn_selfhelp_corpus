@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/faktura_forbruk-og-saldo.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 124,
+                "end": 1172,
+                "text": "# Saldo og forbruk\n\nLurer du på hvor mye du har brukt siden forrige faktura eller lading? Du får\nfull oversikt i appen [Mitt Telenor](/privat/mobil/app/mitt-telenor/) og på\nMine Sider.\n\n### Sjekk saldo eller forbruk på Mine Sider eller i Mitt Telenor-appen\n\n[\n\nMine Sider\n\nTrykk her for å se forbruk og saldo\n\n](/mitt-telenor/mobil/)\n\nHvis du ikke er logget inn, må du først gjøre det. Velg så nummeret du ønsker\nå se forbruk eller saldo på. **NB:** Forbruket for **Telenor Kontant** er ikke\ntilgjengelig\n\n[\n\nMitt Telenor\n\nTrykk her for å åpne appen\n\n](https://tlnr.no/mt)\n\nNår du kommer inn i appen, scroll mot venstre på toppen for å velge nummeret\ndu ønsker se på.\n\n## Forbruk tilbake i tid?\n\nØnsker du å se hva forbruket var på høsten i fjor, eller bare i forrige måned?\n\n  1. Gå til Mine Sider og hent opp tidligere faktura via linken under\n\nVelg ønsket år og måned\n\n  2. Trykk på fakturanummeret\n\n  3. Du kan nå velge å se fakturaen i nettleser, eller se som PDF\n\n[Hent opp faktura på Mine Sider](https://www.telenor.no/mitt-telenor/faktura/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:17+00:00",
+        "last_modified": "2025-05-30T08:24:52.239502",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

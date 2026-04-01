@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_ulkomokkulat_dna-ulkomokkula-4g-wlan-b2338-168.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 299,
+                "end": 1217,
+                "text": "# DNA Ulkomokkula 4G WLAN B2338-168\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla.\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2338-168/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2338-168/kayttoonotto) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2338-168/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/ulkomokkulat/dna-\nulkomokkula-4g-wlan-b2338-168/vianrajaus)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje (pdf)](/documents/753910/853450/DNA_Ulkomokkula_Asennus-ja-\npikaopas_4G_WLAN_B2338-168.pdf/fcf08f67-e242-125f-3e64-a439ec416e32?t=1558355955991)\n\n",
+                "heading": "DNA Ulkomokkula 4G WLAN B2338-168"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:17:21+00:00",
+        "last_modified": "2025-06-20T19:13:26.212899",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

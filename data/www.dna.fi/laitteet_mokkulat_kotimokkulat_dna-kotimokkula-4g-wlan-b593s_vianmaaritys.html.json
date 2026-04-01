@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b593s_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 403,
+                "end": 1990,
+                "text": "# DNA Kotimokkula 4G WLAN B593S\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b593s/vianmaaritys)\n\n##  Vianmääritys\n\nKäytän mokkulaa SIM-kortilla, joka kysyy PIN-koodia.\n\nVoit syöttää PIN-koodin mokkulan hallintasivun kautta. Katso ohjeesta [PIN-\nkoodin syöttäminen](/dna-kotimokkula-4g-wlan-b593s#asetukset).\n\nMokkulan yhteys pätkii tai se on hidas.\n\nJos yhteys on hidas tai se pätkii, kannattaa siirtää mokkulaa lähemmäksi\nikkunaa sekä ottaa käyttöön mokkulan mukana tulleet lisäantennit. Mikäli\nnämäkään toimenpiteet eivät auta, voit soittaa DNA Asiakaspalveluun ja kysyä,\nmillä suunnalla löytyy lähin tukiasema ja siirtyä tälle ikkunalle.\n\nTietokone ilmoittaa ”Rajoitettu yhteys tietokoneesta”.\n\nMokkula ei ole yhteydessä internettiin. Tarkista yhteys, liitännät ja SIM-\nkortin PIN-koodi. Tarvittaessa käynnistä mokkula uudelleen.\n\nMokkula ilmoittaa, että se on yhteydessä internettiin, mutta yhteys ei toimi\ntietokoneella.\n\nVarmista, että olet kytkenyt tietokoneen mokkulan muodostamaan WiFi-verkkoon.\nWiFi-verkon nimen (SSID) löydät mokkulan takana olevasta tarrasta.\n\n",
+                "heading": "DNA Kotimokkula 4G WLAN B593S"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:06:18+00:00",
+        "last_modified": "2025-06-20T18:53:56.369824",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_felsokning_kolla-data-roaming.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1047,
+                "text": "# Kolla inställningarna för data-roaming\n\nFör att kunna surfa utomlands måste du aktivera data-roaming. Det klarar du i\nett nafs! Kolla nedan:\n\n[Så här aktiverar du roaming på en\niPhone](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/iphone/aktivera-inaktivera-roaming/)  \n  \n[Så här aktiverar du roaming på en mobil från Samsung, Sony eller\nXiaomi](/support/mobiltelefoni/guider/andra-installningar/valj-\nmobil/android/aktivera-inaktivera-roaming/)\n\n### Har du ett mobilt bredband?\n\n  1. Se till att ditt abonnemang är öppet för roaming. Har du ett modem: se menyn i klienten. Har du en wifi-puck, se menyn i routern.\n  2. Se till att routern/modemet/surfplattan är öppen för roaming.\n  3. I vissa klienter/routers kan det finnas behov av att manuellt koppla upp vid roaming och bekräfta att man accepterar det.\n\nHoppas verkligen att du fick hjälp nu!"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:46+00:00",
+        "last_modified": "2025-05-30T14:37:02.727620",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

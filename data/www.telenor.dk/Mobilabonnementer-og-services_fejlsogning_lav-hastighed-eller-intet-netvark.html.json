@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_fejlsogning_lav-hastighed-eller-intet-netvark.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 1908,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Lav hastighed eller intet netværk\n\nEr din internethastighed pludselig faldet, eller har du helt mistet signalet\npå mobilen? Prøv selv at rette fejlen ved at gennemgå listen herunder.\n\n  * Genstart din mobil og lad den være slukket i 2-5 sekunder. Tænd mobilen igen og lad den starte op\n  * Opdater din mobil til det nyeste software. Gå ind i mobilens indstillinger, og se om der er ny opdatering klar til din mobil\n  * Tjek vores [driftsstatus](/kundeservice/drift-og-dakning/driftstatus/tjek-driftstatus/) for midlertidige problemer med mobilnetværket\n  * Tjek vores [dækningskort](/kundeservice/drift-og-dakning/dakning/dakningskort/). Måske befinder du dig i et område, hvor dækningen er dårlig?\n  * Tjek, om der er dækning, hvor du er. Måske befinder du dig et sted, hvor signalet har svært ved at gå igennem. Det kan være tilfældet, hvis du fx er i en kælder eller et hus, der er bygget af beton og glas\n  * Hvis du har mulighed for at fjerne batteriet fra din mobil, så prøv at gøre det - husk at slukke mobilen først. Vent et øjeblik og sæt det i mobilen igen. Prøv nu at tænde mobilen\n  * Har du en iPhone, kan du forsøge at nulstille mobilens netværksindstillinger: Vælg **Indstillinger** → **Generelt** → **Nulstil** → **Nulstil netværksindstillinger**\n\n# Er din hastighed stadig lav?\n\nRing til vores kundeservice på 72 120 000, hvis din forbindelse ikke er blevet\nbedre. Vi kan bedst hjælpe dig, når du har dit udstyr lige ved hånden, når du\nringer.\n\n## Hvor kan jeg rapportere, hvis jeg oplever dårligt mobilnetværk?\n\nHvis du oplever dårligt netværk, vil det være en stor hjælp for Telenor, hvis\ndu rapporterer det til os. Det kan du gøre gennem [Mit Telenor](/mit-\ntelenor/)-appen.  \n  \nDu kan downloade Mit Telenor på[ App Store\nher](https://apps.apple.com/dk/app/mit-telenor-dk/id1228187905) eller på[\nGoogle Play\nher](https://play.google.com/store/apps/details?id=com.telenor.self_service)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:02:11+00:00",
+        "last_modified": "2025-05-21T15:15:27.157164",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

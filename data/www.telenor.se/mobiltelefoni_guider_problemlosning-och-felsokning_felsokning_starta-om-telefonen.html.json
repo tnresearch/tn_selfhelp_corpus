@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_problemlosning-och-felsokning_felsokning_starta-om-telefonen.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 180,
+                "end": 1299,
+                "text": "# Starta om telefonen\n\nBörja med att starta om mobilen, det vill säga stäng av den och sätt sedan på\nden igen. Det fixar du snabbt!\n\n##\n\nSå här startar du om din iPhone\n\n**För iPhone-modeller med Face ID:**\n\n    1. Tryck in sidoknappen på telefonens högra sida och någon av volymknapparna på vänster sida samtidigt.\n    2. Håll kvar tills det kommer upp ett reglage på skärmen. Dra reglaget åt höger. \n    3. För att starta telefonen igen trycker du in sidoknappen tills du ser Apple-logotypen.\n\n**För iPhone-modeller med hemknapp framtill:**\n\n    1. Tryck in sidoknappen på telefonens högra sida.\n    2. Håll kvar tills det kommer upp ett reglage på skärmen. Dra reglaget åt höger. \n    3. För att starta telefonen igen trycker du in sidoknappen tills du ser Apple-logotypen.\n\n**För alla iPhone-modeller:**\n\n    1. Öppna Inställningar > Allmänt > Stäng av.\n    2. Dra reglaget åt höger.\n\nEnkelt, eller hur?\n\nSå startar du om din Android-telefon\n\n    1. Håll in strömknappen och välj Stäng av. \n    2. För att starta telefonen igen håller du in strömknappen tills Android-symbolen dyker upp.\n\nInga problem att fixa det!"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:29:54+00:00",
+        "last_modified": "2025-05-30T14:44:58.717414",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

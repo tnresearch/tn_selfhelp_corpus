@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_matkamokkulat_dna-matkamokkula-4g-wlan-mf910_asetukset.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 405,
+                "end": 4633,
+                "text": "# DNA Matkamokkula 4G WLAN MF910\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/matkamokkulat/dna-\nmatkamokkula-4g-wlan-mf910/vianmaaritys)\n\n## Asetukset\n\nMokkulan lukitseminen 4G- tai 3G-verkkoon\n\nMokkula valitsee oletusasetuksenaan joko 4G- tai 3G-verkon. Jos haluat muuttaa\ntätä, toimi seuraavasti.\n\n1\\. Avaa nettiselain ja kirjoita selaimen osoiteriville http://dna.mokkula.  \n2\\. Syötä salasanaksi 1234 ja paina **Kirjaudu**.  \n3\\. Katkaise yhteys painamalla **Katkaise**.  \n4\\. Valitse Asetukset > Verkon asetukset > Verkko:  \n\\- Vain 4G: jos haluat pakottaa mokkulan 4G-verkkoon.  \n\\- Vain 3G: jos haluat pakottaa mokkulan 3G-verkkoon.  \n5\\. Paina **Käytä** , palaa takaisin alkuun painamalla **Koti** ja valitse\nsitten **Yhdistä**.\n\nWiFi verkon nimen ja salasanan muuttaminen\n\n1\\. Avaa nettiselain ja kirjoita selaimen osoiteriville http://dna.mokkula.  \n2\\. Syötä salasanaksi 1234 ja paina Kirjaudu.  \n3\\. Kirjoita kohtaan WLAN-nimi haluamasi WiFi-verkon nimi.  \n4\\. Kirjoita kohtaan Salasana haluamasi WiFi-verkon salasana.\n\nWiFi-verkon taajuuden vaihtaminen\n\nWiFi-verkon taajuuden muuttamisen avulla voit käyttöön ruuhkattoman 5 GHz\ntaajuusalueen. Ennen muutosta tarkista, että laitteesi tukee 5 GHz verkkoa.\nMikäli laitteesi ei tue kyseistä verkkoa, et voi käyttää WiFi-verkkoa lainkaan\nmuutoksen jälkeen. Tässä tilanteessa resetoi Mokkula tehdasasetuksille.\n\n1\\. Avaa internet-selain ja kirjoita osoiteriville http://dna.mokkula  \n2\\. Salasana on 1234, paina **Kirjaudu.**  \n3\\. Mikäli kaikki laitteesi käyttävät 5 GHz langatonta WiFi-verkkoa, valitse\nkohdasta WLAN 1 asetukset 5 GHz  \n4\\. Paina **Käytä.**  \n5\\. Nyt sinun pitää liittää laite uudestaan WiFi-verkkoon. Mikäli WiFi-verkko\nhävisi kokonaan, laitteesi ei tue 5 GHz WiFi-verkkoa. Tässä tilanteessa\nresetoi mokkula tehdasasetuksille.  \n\nKahden WiFi-verkon samanaikainen käyttö\n\nVoit halutessasi ottaa käyttöön samaan aikaan 2.4 GHz ja 5 GHz WiFi-verkon.\nTässä tapauksessa WiFi-verkon maksiminopeus voi kuitenkin hieman laskea.\n\n1\\. Avaa internet-selain ja kirjoita osoiteriville http://dna.mokkula  \n2\\. Salasana on 1234, paina **Kirjaudu.**  \n3\\. Valitse kohdasta WLAN 2 **Päälle** ja aseta taajuus kohtaan **5 GHz**\nkohdasta WLAN 1 asetukset 5 Ghz  \n4\\. Paina **Käytä.**  \n5\\. Nyt sinulla on käytössä WiFi-verkko taajuudella 2.4 GHz ja 5 GHz.\n\nWiFi-verkon kantaman muuttaminen\n\nMikäli WiFi-verkko ei kanna tarpeeksi pitkälle Mokkulasta, voit kokeilla\nkasvattaa WiFi-verkon kantamaa seuraavasti:\n\n1\\. Avaa internet-selain ja kirjoita osoiteriville http://dna.mokkula  \n2\\. Salasana on 1234, paina **Kirjaudu**.  \n3\\. Valitse **Asetukset > Laitteen Asetukset > Akkuvirran säästö** ja muuta\nkohtaa WLANin suorituskyky kohtaan **Pitkän kantaman WiFi.**  \n4\\. Paina **Käytä.**\n\nWiFi-verkon kanavaleveyden muuttaminen\n\nWLAN-verkon kanavaleveys saattaa nopeuttaa WiFi-verkkoa. Mikäli käytät\nvanhempaa laitetta mokkulan kanssa, on myös mahdollista, että WiFi-verkko ei\ntoimi lainkaan. Tällaisessa tapauksessa resetoi mokkula tehdasasetuksille ja\nkäytä pelkkää 20Mhz kanavaleveyttä.  \nVoit ottaa 40Mhz kanavaleveyden käyttöön seuraavasti:\n\n1\\. Avaa internet-selain ja kirjoita osoiteriville http://dna.mokkula  \n2\\. Salasana on 1234, paina **Kirjaudu.**  \n3\\. Valitse kohta **Asetukset, WiFi asetukset, Lisäasetukse** t ja valitse\nkohdasta kaistan kanavaleveys **20/40**.  \n4\\. Paina **Käytä.**\n\nMokkulan nollaus tehdasasetuksille\n\nMikäli et enää pääse kirjautumaan Mokkulan WiFi-verkkoon tai Mokkula ei reagoi\nmillään tavalla, voit kokeilla nollata Mokkulaa tehdasasetuksille. Nollaus\ntapahtuu painamalla SIM-kortin suojuksen alla olevaa Reset-nappia. Pidä nappi\npohjassa niin kauan, että ruudulle tulee valo ja se sammuu kokonaan. Vasta\ntämän jälkeen päästä irti Reset-napista.\n\n",
+                "heading": "DNA Matkamokkula 4G WLAN MF910"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:11:49+00:00",
+        "last_modified": "2025-06-20T19:05:18.904502",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

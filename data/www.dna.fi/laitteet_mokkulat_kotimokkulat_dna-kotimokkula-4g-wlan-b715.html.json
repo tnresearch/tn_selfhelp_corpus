@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-b715.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 295,
+                "end": 1456,
+                "text": "# DNA Kotimokkula 4G+ WLAN B715\n\nLaitteen ohjelmistoa ei enää päivitetä aktiivisesti. Suosittelemme vaihtamaan\nuuteen laitteeseen, jotta tietoturva ja suorituskyky ovat varmasti ajan\ntasalla\n\nLaitekohtaiset käyttöohjeet ja asetukset\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/b715-k%C3%A4ytt%C3%B6%C3%B6notto/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-b715/vianmaaritys)\n\n## Lataa käyttöoppaat pdf-muodossa\n\n[Lataa käyttöohje\n(pdf)](/documents/753910/853450/20182501_DNA_Kotimokkula_4G%2B_WLAN_B715_130x85_TK.PDF/a8c9aea1-cc4b-45a5-215a-d78b1684e289?t=1558355954006)\n\n[Lataa pikaopas\n(pdf)](/documents/753910/853450/DNA_B715_Pikaopas.pdf/eba1ed29-3a6a-0dbc-9af2-a754ccb1ebdd?t=1558355954125)\n\n",
+                "heading": "DNA Kotimokkula 4G+ WLAN B715"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:09:36+00:00",
+        "last_modified": "2025-06-20T18:53:59.731117",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

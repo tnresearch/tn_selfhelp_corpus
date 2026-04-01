@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internett.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 78,
+                "end": 613,
+                "text": "# Hjelp til Internett\n\nHer finner du hjelp til ditt bredbånd, din ruter og informasjon om hvordan du\nkan være sikker på nett\n\n### Leter du etter dette?\n\n[WiFi Ruter II](/kundeservice/internett/modem-og-ruter/wifi-ruter-2/)[Koble\ntil WiFi](/kundeservice/internett/wifi/koble-til-wifi/)[Endre passord\nWiFi](/kundeservice/internett/wifi/administrere-ruter/nettverksnavn-og-\npassord/)[Oversikt - Bredbåndsutstyr](/kundeservice/internett/modem-og-\nruter/)[Skal du flytte?](/kundeservice/flytting/)[Smart feilsøking](/mitt-\ntelenor/feilsok/)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:33:20+00:00",
+        "last_modified": "2025-05-30T08:27:58.263226",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

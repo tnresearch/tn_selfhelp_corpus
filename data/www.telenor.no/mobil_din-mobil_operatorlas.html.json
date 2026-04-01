@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/mobil_din-mobil_operatorlas.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 164,
+                "end": 1857,
+                "text": "# Operatørlås\n\nDersom mobilen din er operatørlåst vil det ikke være mulig å bruke SIM-kort\nfra en annen operatør før denne er låst opp. De fleste mobiler er ikke\noperatørlåst.\n\n### Er mobilen min operatørlåst?\n\n **Mobiler solgt av Telenor etter januar 2015 har ikke operatørlås og trenger\nderfor ingen operatørlåskode.**\n\nHar du en eldre mobil som er låst til Telenor vil du få en feilmelding når du\nsetter inn et SIM-kort fra en annen operatør.\n\nHvilken feilmelding du får avhenger av hva slags mobil du har.\n\nFeilmeldinger ved operatørlåst mobil\n\n  * Tast begrensningskode\n\n  * Sett inn riktig SIM-kort\n\n  * Ugyldig SIM\n\n  * Tast nettverkskode\n\n  * Tast spesialkode\n\n## Hent operatørlåskoden\n\nFor å hente ut en operatørlåskode trenger du IMEI-nummeret til mobilen eller\nmobilenheten som er låst.\n\nIMEI-nummer kan ligge sammen med innpakning eller dokumentasjon fra da du\nkjøpte mobilen, men det kan også hentes ut direkte fra mobilen på denne måten:\n\n  1. Åpne tastatur på mobilen som om du skal ringe et nummer\n\n  2. Tast inn *#06#  \n\nTa så kontakt med oss på Kundeservice, så hjelper vi deg videre.\n\n[Gå til Kontakt oss](/kundeservice/kontakt-oss/)\n\n  * #### Operatørlåst mobil fra en annen operatør?\n\nHar du en operatørlåst mobil fra en annen mobiloperatør, kan du ikke bruke\nSIM-kort fra Telenor før du har låst opp mobilen.\n\nOperatørlåskoden får du ved å henvende deg til operatøren du kjøpte\nmobiltelefonen hos. Dette er viktig å gjøre i forkant hvis du flytter\nabonnementet ditt til Telenor, eller ønsker å opprette et nytt abonnement uten\nå kjøpe en ny mobiltelefon.\n\n[Se våre mobilabonnement](https://www.telenor.no/mobilabonnement/)\n\nPIN- og PUK-kode\n\nAll hjelp til mobil\n\nSIM-kort"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:32:25+00:00",
+        "last_modified": "2025-05-30T09:23:30.108780",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

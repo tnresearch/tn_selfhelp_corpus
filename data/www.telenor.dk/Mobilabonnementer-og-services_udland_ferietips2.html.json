@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/Mobilabonnementer-og-services_udland_ferietips2.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 3163,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Ferietips\n\nSom kunde hos Telenor har du en række services inkluderet i dit abonnement,\nsom gør din udlandsrejse tryggere. Med Roam Away, Roam Away+ og Surfkontrol i\nudlandet hjælper vi med at holde din udlandsregning nede.\n\n## Roam Away i 47 lande og Roam Away+ i 55 lande\n\nMed Roam Away kan du i 47 lande, og med Roam Away+ i 55 lande frit ringe og\nsende sms og bruge op til en specifik datamængde i de inkluderede lande. Se\n[Mit Telenor](/mit-telenor/) for mere information om datamængden i dit\nabonnement.\n\nAlle abonnementer med undtagelse af Lillenor og forbrugsafregnede har Roam\nAway eller Roam Away+. Læs mere om [roaming med Roam Away og Roam Away+\nher](/shop/landingpage/mobil/roaming/).\n\n## Ekstra data uden for Roam Away-landene\n\nSkal du rejse til et land, der ikke er med i Roam Away eller Roam Away+? Det\ner stadig muligt at bruge data uden for Roam Away-landene og samtidig undgå\nhøje priser. Det kan du nemlig gøre ved at købe ekstra datapakker, så skal du\nikke bekymre dig om prisen på hver eneste MB. Hvis du ikke har købt en\ndatapakke og har roaming slået til, når du befinder dig i udlandet, vil du\ndagligt automatisk modtage datapakken, Rejsedata 24 timer, til 100 kr. pr.\ndatapakke. Tjek din næste destination her eller log ind på Mit Telenor og se\ndine muligheder.\n\n## Ombord på færger\n\nNår du sejler på færger i internationalt farvand, koster det ekstra at bruge\ndin telefon – så sæt den på flytilstand eller slå data og roaming fra, hvis du\nikke vil betale. På en lang række ruter får du automatisk 500 MB rejsedata i\n24 timer til 29 kr., hvis du vælger ikke at slå data og roaming fra. Tjek\nruterne her under Skibe (MCP).\n\n## Surfkontrol i udlandet\n\nFor at give dig en ekstra sikkerhed på rejsen, er dit abonnement automatisk\ntilmeldt Surfkontrol i udlandet. Du kan på forhånd bestemme, hvor meget du\nmaksimalt vil bruge på data i udlandet pr. måned. Sætter du ikke selv et loft,\nvil Surfkontrol sikre, at din regning på data brugt i udlandet aldrig bliver\nhøjere end 450 kr. om måneden.\n\n[Mere om Surfkontrol i udlandet.](/kundeservice/Mobilabonnementer-og-\nservices/udland/surfkontrol-udland/)\n\n##  Tips og tricks til brug af data\n\nDet skal du huske inden rejsen\n\n  * Opdater din mobil, så du har nyeste version af styresystemet\n  * Download de vigtigste kort og apps til ferien\n  * Download underholdning til flyve-/køreturen hjemmefra\n  * Slå \"push\"-funktioner og -mails fra, før du åbner for data-roaming\n  * Slå automatisk synkronisering og opdatering fra\n  * Vær opmærksom på brug af humørikoner/emojis. Hver enkelt emoji kan fylde rigtig mange tegn - én emoji kan i nogle tilfælde fylde mere end en standard-sms på 160 tegn\n  * Når du er i udlandet, skal du altid bruge landekode på alle opkald. Gem dine kontakter med landekode (f.eks. +45 eller +47) foran telefonnummeret\n\nSå meget kan du med 1 GB data\n\n  * Streame på Netflix eller HBO i Standard Definition i 1 time\n  * Finde vej i 16 døgn med Google Maps\n  * Sende eller modtage 1.000 billeder på Snapchat\n  * Høre din yndlingssang på repeat i 20 timer\n  * Tjekke vejret på dmi.dk 10.000 gange\n  * Hente 90.900 e-mails (eller 10.000, hvis der er et Word-dokument vedhæftet)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:00:59+00:00",
+        "last_modified": "2025-05-21T15:15:34.109246",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

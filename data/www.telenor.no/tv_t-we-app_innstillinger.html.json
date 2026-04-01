@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/tv_t-we-app_innstillinger.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Selected by user",
+                "start": 155,
+                "end": 2069,
+                "text": "# Innstillinger i T-We App\n\nVelg språk for undertekst, eller hvor god kvalitet avspillingen skal ha. Her\nfinner du innganger til nyttige tjenester og funksjoner i T-We App.\n\n[Menyspråk](/kundeservice/tv/t-we-\napp/innstillinger/#menysprak)[Lydspråk](/kundeservice/tv/t-we-\napp/innstillinger/#lydsprak)[Undertekst](/kundeservice/tv/t-we-\napp/innstillinger/#undertekst)[Videokvalitet](/kundeservice/tv/t-we-\napp/innstillinger/#videokvalitet)\n\n## Menyen\n\nNår du velger ☰ i T-We App får du oversikt over:\n\n  * Tilgang og profiler\n\n  * Innstillinger\n\nTilgang og profiler gir deg oversikt over hvilken profil du har valgt og har,\nsamt mulighet til å opprettte ny profil.\n\nUnder Innstillinger har du mulighet til å velge Menyspråk, lydspråk,\nundertekst, i tillegg til kvalitet på avspilling.\n\n## Språk og tekst\n\nNår du velger Innstillinger får du igjen opp flere valg i appen. Nedenfor\nfinner du veiledning for hvordan du går frem for å gjøre endringer på de\nforskjellige innstillingene.\n\n## Menyspråk\n\nI T-We App kan du velge mellom norsk og engelsk som menyspråk.\n\n  1. Velg ☰\n\n  2. Velg Menyspråk\n\n  3. Velg ønsket språk\n\n  4. Valget blir automatisk lagret\n\n## Undertekstinnstillinger\n\nHer kan du velge om du teksting skal være av eller på, undertekstspråk og\nunderteksting for hørselshemmede.\n\n **Tekstspråk**\n\n  1. Velg ☰\n\n  2. Velg **Primært undertekstspråk** eller **Sekundært undertekstspråk**\n\n  3. Velg ønsket språk\n\n  4. Valget blir automatisk lagret\n\n  \n **Teksting for hørselshemmede**\n\n  1. Velg ☰\n\n  2. Trykk på **Underteksting for hørselshemmede** , slik at den viser **Ja**\n\n  3. Valget blir automatisk lagret\n\n## Videokvalitet\n\n  1. Velg ☰\n\n  2. Trykk **Innstillinger for båndbreddebruk**\n\n  3. Velg **Innstillinger for WiFi-tilkobling** eller **Innstillinger for 4G/5G-tilkobling  \n** 4G/5G-tilkobling er automatisk satt til God, mens WiFi-tilkobling er satt\ntil Best\n\n  4. Valget blir automatisk lagret"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:35:34+00:00",
+        "last_modified": "2025-05-30T09:40:39.072688",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

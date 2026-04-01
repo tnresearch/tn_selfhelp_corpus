@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/asiakkuus_nettiostaminen_maksutavat.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 213,
+                "end": 3837,
+                "text": "# Maksutavat\n\nRiippuen tilauksestasi, voit maksaa sen joko verkkopankissa, laskulla,\nluotolla tai kuluttomalla ja korottomalla DNA Maksuajalla. Tutustu\nvaihtoehtoihin!\n\n##  Maksaminen ja maksutavat\n\nDNA Nettikaupasta tilaamasi laitteet voit maksaa verkkopankissasi.\n\nTuetut verkkopankit\n\n  * Aktia\n  * Danske Bank\n  * Handelsbanken\n  * Nordea\n  * Osuuspankki\n  * POP Pankki\n  * S-Pankki\n  * Säästöpankki\n  * Tapiola\n  * Ålandsbanken\n\n##  Maksaminen laskulla\n\nTilauksen maksaminen laskulla edellyttää tunnistautumista joko DNA\nTunnuksella, verkkopankkitunnuksilla tai Mobiilivarmenteella. Tunnistautumisen\nyhteydessä sinulta ei veloiteta mitään. Tunnistautumalla varmistamme\nturvallisen ja luotettavan asioinnin.\n\nVerkkokaupan laitetilaukset voit halutessasi maksaa laskulla myös erissä DNA\nMaksuaika -sopimuksella.\n\nMaksaminen DNA Maksuaika -sopimuksella\n\nSuurimman osan laitetilauksista voit maksaa kuluttomalla ja korottomalla DNA\nMaksuaika -sopimuksella, jolloin saat halutessasi jopa 3 vuotta kulutonta ja\nkorotonta DNA Maksuaikaa. Laite maksetaan tällöin tasasuuruisina kuukausierinä\nja kokonaishinta muodostuu kuukausierien yhteenlasketusta summasta.\n\nDNA Maksuaika -vaihtoehdosta kerrotaan netin tuotekortilla tai myymälässä aina\ntuotekohtaisesti silloin, kun se on kyseisen tilauksen kohdalla mahdollinen.\n\n## Maksaminen luottokortilla tai verkkopankissa\n\nOsan tuotteista voit maksaa tilauksen yhteydessä joko verkkopankissa tai\nluottokortilla. Kuhunkin tuotteeseen tai palveluun sovellettavat maksutavat\nkerrotaan aina tuotekohtaisesti.\n\nKorttimaksaminen on turvallista suojatun SSL-yhteyden kautta. Tuetut\nluottokortit ovat Visa ja MasterCard. Täytettyäsi luottokortin tiedot, tilaus\nvarmennetaan vielä verkkopankissa, jossa voit kuitata ostoksesi\nverkkopankkitunnuksillasi. Tunnistautumalla takaamme turvallisen asioinnin.\n\nVerkkopankkimaksaminen tapahtuu henkilökohtaisilla verkkopankkitunnuksilla.\n\n**Maksupalvelutarjoaja**  \nDNA:n verkkokaupassa kertamaksujen maksunvälityspalvelun toteuttajana ja\nmaksupalveluntarjoajana toimii Paytrail Oyj (2122839-7) yhteistyössä\nsuomalaisten pankkien ja luottolaitosten kanssa. Paytrail Oyj näkyy maksun\nsaajana tiliotteella tai korttilaskulla ja välittää maksun DNA:lle. Paytrail\nOyj:llä on maksulaitoksen toimilupa. Tilausta koskevissa\nreklamaatiotapauksissa pyydämme ottamaan ensisijaisesti yhteyttä DNA:n\nasiakaspalveluun.\n\nPaytrailin yhteystiedot:  \nPaytrail Oyj, y-tunnus: 2122839-7  \nInnova 2  \nLutakonaukio 7  \n40100 Jyväskylä\n\n<https://www.paytrail.com/kuluttaja/tietoa-maksamisesta>\n\n## Maksaminen MobilePaylla\n\nVoit maksaa ostoksesi DNA Nettikaupassa kätevästi myös MobilePaylla, helposti\nyhdellä pyyhkäisyllä. Tee näin:\n\nKun olet viimeistelemässä tilaustasi kohdassa ”Vahvista ja tilaa”, valitse\nmaksutavaksi MobilePay\n\nKirjaudu sisään MobilePayhin käyttämällä tunnuslukua, sormenjälkeä tai\nkasvojentunnistusta\n\nHyväksy maksu pyyhkäisemällä\n\nJos sinulla ei vielä ole puhelimessasi MobilePayta, lataa se puhelimesi\nsovelluskaupasta\n\n[Siirry Google Play\n-kauppaan](https://play.google.com/store/apps/details?id=fi.danskebank.mobilepay)  \n[Siirry App Storeen](https://apps.apple.com/app/id768172577)\n\n##  Usein kysyttyjä kysymyksiä\n\nHaluaisin maksaa laitteen erissä. Mitä lisäkustannuksia tästä tulee?\n\nVoit maksaa laitteet halutessasi 12, 24 tai 36 kuukauden maksuajalla.\nMaksuaika on korotonta ja siitä ei tule lisäkuluja. Maksuerät laskutetaan\nkuukausittaisella laskulla. Laitteen kokonaishinta muodostuu kuukausierien\nyhteenlasketusta summasta.  \n  \n\nMilloin palveluiden laskutus alkaa?\n\nLaskutus alkaa, kun palvelut on aktivoitu ja ne ovat käytettävissäsi.\n\n",
+                "heading": "Maksutavat"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:13:48+00:00",
+        "last_modified": "2025-06-21T13:41:57.998508",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

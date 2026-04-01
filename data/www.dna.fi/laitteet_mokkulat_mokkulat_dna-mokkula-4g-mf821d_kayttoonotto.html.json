@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_mokkulat_dna-mokkula-4g-mf821d_kayttoonotto.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 375,
+                "end": 2658,
+                "text": "# DNA Mokkula 4G MF821D\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/paivitykset) [ Vianrajaus\n](https://www.dna.fi/tuki/laitteet/mokkulat/mokkulat/dna-\nmokkula-4g-mf821d/vianrajaus)\n\n## Käyttöönotto\n\n## Mokkulan asennus\n\nMokkula käyttää tavallista Mini-SIM-korttia eli suurinta korttikokoa. SIM-\nkortti irtoaa ilman suurta voimankäyttöä, kun painat sitä irti SIM-kortin\ntakapuolelta. Jos irrotat väärän kokoisen SIM-kortin, käy DNA Kaupassa\nvaihtamassa se uuteen SIM-korttiin.\n\nSIM-kortti asennetaan mokkula etupuolella olevan kannen alle. Työnnä kantta\npoispäin USB-liittimestä. Asenna SIM-kortti mokkulaan metalliosa alaspäin ja\nlopulta sulje kansi.\n\nRekisteröityminen DNA:n nettiin kestää joitakin minuutteja. Mikäli yhteyden\navaus ei onnistu, soita DNA:n\n[asiakaspalveluun](https://www.dna.fi/yhteystiedot#asiakaspalvelu).\n\nNettiyhteys on käytettävissä kun mokkulassa palaa virtavalo ja verkkotilan\nmerkkivalo (jollain muulla värillä kuin punaisella).\n\n##  Langattoman verkon eli WiFin käyttöönotto\n\n**1\\. Liitä mokkula tietokoneeseen.**  \nLiitä mokkula tietokoneen USB-porttiin.\n\n**2\\. Asenna mokkula.**  \nMokkulan asennus alkaa automaattisesti. Jos niin ei tapahdu, napsauta\nasennuskuvaketta Oma tietokone -ikkunassa tai Työpöydällä. Kun asennus on\nvalmis, verkkoselain avaa automaattisesti mokkulan hallintasivun. Jos SIM-\nkortillasi on aktivoitu PIN-koodi, syötä se.\n\nVoit palata hallintasivulle kirjoittamalla selaimen osoitekenttään\nhttp://192.168.0.1. Hallintasivulla voit vaihtaa tai poistaa käytöstä PIN-\nkoodisi sekä muuttaa muita mokkulan asetuksia.\n\n**3\\. Aloita netin käyttö.**  \nVerkkoselain on auki ja voit aloittaa netin käytön heti.\n\n**4\\. Internet-yhteyden katkaisu.**  \nKun haluat siirtyä offline-tilaan, irrota mokkula tietokoneestasi. Nettiyhteys\nsäilyy niin kauan kuin mokkula on kytkettynä koneeseen. Kun haluat seuraavan\nkerran yhdistää nettiin, sinun tarvitsee vain kytkeä mokkula tietokoneeseen.\n\n",
+                "heading": "DNA Mokkula 4G MF821D"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:07:50+00:00",
+        "last_modified": "2025-06-20T19:10:14.334655",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

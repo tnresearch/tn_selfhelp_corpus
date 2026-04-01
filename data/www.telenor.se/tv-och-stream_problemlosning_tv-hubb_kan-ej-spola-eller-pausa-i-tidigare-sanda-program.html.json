@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_problemlosning_tv-hubb_kan-ej-spola-eller-pausa-i-tidigare-sanda-program.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 386,
+                "end": 962,
+                "text": "# Kan ej spola eller pausa i tidigare sända program\n\nSå här tittar du på ett program som redan sänts.\n\nGäller det program som går på 4an, 7an eller 12 är det i dagsläget tyvärr ej\nmöjligt att spola/pausa.\n\n  * ### \n\nKlicka på TV-ikonen på fjärrkontrollen och välj ett valfri kanal.\n\n  * ### \n\nNär du tittar på en kanal, klicka på **OK** och sedan \" **Tablå** \" som finns\nlängst ner i högra hörnet på Tv-skärmen.\n\n  * ### \n\nSen kommer du få upp en meny på vänstra sidan där du först väljer datum, efter\ndet väljer du vilket program du vill se och klicka **OK** på programmet.\n\n",
+                "heading": "Kan ej spola eller pausa i tidigare sända program"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:28:13+00:00",
+        "last_modified": "2025-05-30T17:36:34.553254",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

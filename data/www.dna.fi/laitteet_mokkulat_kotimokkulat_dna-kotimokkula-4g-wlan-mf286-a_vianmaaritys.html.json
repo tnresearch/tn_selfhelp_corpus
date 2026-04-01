@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "tuki/laitteet_mokkulat_kotimokkulat_dna-kotimokkula-4g-wlan-mf286-a_vianmaaritys.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: www.dna.fi patterns",
+                "start": 409,
+                "end": 3322,
+                "text": "# DNA Kotimokkula 4G+ WLAN MF286(A)\n\n[ Ominaisuudet ](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/ominaisuudet) [ Käyttöönotto\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/kayttoonotto) [ Asetukset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/asetukset) [ Päivitykset\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/paivitykset) [ Vianmääritys\n](https://www.dna.fi/tuki/laitteet/mokkulat/kotimokkulat/dna-\nkotimokkula-4g-wlan-mf286-a/vianmaaritys)\n\n## Vianmääritys\n\nJos Kotimokkula tuntuu pätkivän tai toimivan muuten epänormaalisti, kokeile\naluksi seuraavat toimenpiteet:\n\n  1. Tarkasta päivitykset ja päivitä laite mahdollisuuksien mukaan (ks. kohta päivitykset)\n  2. Resetoi laite (ks. kohta resetointi), B13 versiossa resetointi myös aktivoi korjausmoodin. Resetointi kaksi kertaa peräkkäin on suositeltavaa.\n  3. Tyhjennä selaimesi välimuisti ja historiatiedot selaimen asetuksista (offline-tiedostot, evästeet jne.).\n  4. Päivitä käyttölaitteesi (tabletit, puhelimet, TV:t; kaikki Mokkulaan yhteydessä olevat laitteet).\n  5. Windows 10 kone kannattaa käynnistää uudestaan shift-nappulaa pohjassa pitämällä ja esim. tabletit kannattaa käynnistää uudestaan pitämällä virrat pois kytkettynä yli 30 sekuntia.\n  6. Jos ongelma poistuu käyttäessä Ethernet-johtoa (eikä ole korjaantunut ylläolevilla ohjeilla), vika on suurella todennäköisyydellä langattomassa WiFi-verkossa. Tällöin kannattaa kokeilla WiFi-kanavan käyttötaajuuden tarkastamista, käyttölaitteiden asetusten varmistamista sekä tietyissä tilanteissa WiFi-kanavan lukitsemista. Lisätietoja www.dna.fi/tuki-wlan. Samaisesta linkistä löydät myös tiedot mitä nopeuksia AC 2x2 -laitteesta voi yhteensopivilla laitteilla saada.\n  7. Jos ongelma toistuu WiFissa ja Ethernet-piuhalla (eikä ole korjaantunut ylläolevilla ohjeilla), kyse voi olla verkkopuolen ongelmasta. Ko. tilanteessa kannattaa olla yhteydessä asiakaspalveluun. Täältä pystytään neuvomaan tukiasemien summittaiset paikat sekä mahdolliset käytettävät 4G taajuudet. Käyttäjä kuitenkin pystyy kokeilemaan erilaisia tapoja verkkoyhteyden parantamiseen. Lisätietoja www.dna.fi/tuki-netti.\n\n**Tiivistetysti:**\n\n  * Kokeile sijoittaa mokkula sille ikkunalle, joka osoittaa lähimpään tukiasemaan\n  * Kokeile lukita jokin tietty taajuus Mokkulan asetuksista, esim. 800, 1800, 2600\n  * Huonon kuuluvuuden alueella harkitse ulkoisen antennin hankintaa\n  * Varmista ettei alueella ole aktiivista vikailmoitusta häiriötiedotteista\n  * Varmista ettei Mokkulan ja tukiaseman välillä ole signaalia estäviä esteitä\n\n**Huom.** Mokkulan käyttöliittymä tarjoaa oletuksena mobiililaitteilla\nrajoitetumpaa mobiilinäkymää, voit vaihtaa myös mobiililaitteilla tietokone-\nnäkymään, jolloin kaikki asetussivun asetukset tulevat näkyviin.\n\n",
+                "heading": "DNA Kotimokkula 4G+ WLAN MF286(A)"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:05:58+00:00",
+        "last_modified": "2025-06-20T18:55:39.602496",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

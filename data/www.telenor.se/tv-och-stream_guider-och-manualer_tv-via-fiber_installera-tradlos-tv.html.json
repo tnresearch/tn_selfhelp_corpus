@@ -1,0 +1,32 @@
+{
+    "source_file_relative_path": "support/tv-och-stream_guider-och-manualer_tv-via-fiber_installera-tradlos-tv.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 368,
+                "end": 1374,
+                "text": "#  Installera trådlös tv\n\nVill du installera trådlös tv? Då har du kommit rätt.\n\nBörja att välja med om du har tv-boxen Arris 2853 eller Telenor Mediahubb.\n\nTrådlös tv för dig med Arris 2853\n\n**Välj vilken tjänst du har:  \n**  \n[En wifi-förstärkare](/support/tv-och-stream/guider-och-manualer/tv-via-\nfiber/installera-tradlos-tv/tradlos-tv-tv-bredband/)  \n _  \nFör dig som har bredband och det bara är Telenor som kan leverera bredband och\ntv till dig._\n\n[Två wifi-förstärkare](/support/tv-och-stream/guider-och-manualer/tv-via-\nfiber/installera-tradlos-tv/tradlos-tv-med-tva-wifi-forstarkare/)  \n _  \nFör dig som är ansluten i ett stadsnät/öppet nät där det finns flera\nleverantörer att välja mellan ELLER för dig som bara har TV via Telenor._\n\nTrådlös tv för dig med Mediahubben\n\n[Till guiden för dig med Mediahubben](/support/tv-och-stream/kom-\nigang/box/telenor-mediahubb/)\n\n_Gäller dig som är ansluten i ett stadsnät (öppet nät) där det finns flera\nleverantörer av bredband och tv att välja mellan._\n\n",
+                "heading": " Installera trådlös tv"
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:20:09+00:00",
+        "last_modified": "2025-05-30T14:58:55.312215",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

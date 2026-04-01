@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "kundeservice/internet_hjalp-til-dit-internetabonnement_opsigelse-af-internetabonnement_faa-hjaelp-her.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "end": 921,
+                "reason": "Selected by user",
+                "start": 0,
+                "text": "# Jeg vil gerne opsige mit internet\n\nVi er kede af, at du overvejer at opsige dit internetabonnement hos os.\n\nHar du husket alt dét, der gør dit Telenor-abonnement til noget helt specielt?\nMed i dit abonnement har du nemlig en ekstra sikkerhed i form af\n[SikkerSurf](/shop/landingpage/blokerer-skadelige-hjemmesider/), som beskytter\ndig mod skadeligt indhold, virus, phishing, svindel og malware. På den måde\nkan du føle dig mere tryg, når du er online på Telenors netværk.\n\nØnsker du alligevel at opsige dit internetabonnement, skal du kontakte\n[kundeservice](/kundeservice/kontakt/).\n\n## **Hvornår kan jeg opsige mit internetabonnement?**\n\nDu kan opsige dit internetabonnement så snart, du ikke længere er i binding.\nBindingsperioden og andre abonnementsvilkår er afhængige af, hvornår du har\nkøbt dit Internet. På Mit Telenor kan du finde alle oplysninger om dit\ninternetabonnement.\n\nLog ind på [Mit Telenor](/login/)."
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:03:55+00:00",
+        "last_modified": "2025-05-21T15:15:41.473134",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}

@@ -1,0 +1,31 @@
+{
+    "source_file_relative_path": "support/mobiltelefoni_guider_andra-installningar_valj-mobil_android_blockera-samtal.html",
+    "annotator_name": "Mike Riess",
+    "annotations": {
+        "filtering": {
+            "customer_service_related": true,
+            "duplicate": false,
+            "human_reviewed": true,
+            "self_help_resource": true
+        },
+        "pii_detection": {
+            "contains_pii": false,
+            "human_reviewed": true
+        },
+        "content_selection": {
+            "human_reviewed": true,
+            "selected_span": {
+                "reason": "Quick select: heading to cookie notice",
+                "start": 350,
+                "end": 1356,
+                "text": "# Blockera samtal\n\n## Samsung, Sony och Xiaomi\n\nVill du inte ha samtal från ett visst telefonnummer? Så här gör du för att\nblockera oönskade nummer.\n\nDen här guiden visar hur du gör i den **senaste versionen av operativsystemet\nAndroid.** Så börja gärna med att se till att det är installerat på din mobil\n– inte minst för att den ska fungera så bra och säkert som möjligt.  \n  \n[Så här uppdaterar du\noperativsystemet](/support/mobiltelefoni/guider/sakerhet/valj-\nmobil/android/uppdatera-operativsystem/)  \n  \nNu har du senaste versionen installerad, eller hur? Då kör vi!\n\n  * ### Gå till startskärmen\n\n  * ### Välj \"Telefon\"\n\n  * ### Klicka på alternativsymbolen och välj \"Inställningar\"\n\nSymbolen för alternativ är tre prickar i övre högra hörnet av skärmen.\n\n  * ### Välj \"Blockera nummer\"\n\n  * ### Välj \"Lägg till Telefonnummer\" och ange numret som ska blockeras\n\nTips! Du kan också välja att klicka på Senaste eller Kontakter för att hitta\nnumret du vill blockera den vägen.\n\n  * ### Klicka på \"Klar\""
+            }
+        }
+    },
+    "metadata": {
+        "llm_annotation_timestamp": "2025-05-09T15:24:24+00:00",
+        "last_modified": "2025-05-30T14:29:58.990785",
+        "llm_annotator_id": "google/gemma-3-27b-it"
+    },
+    "comment": ""
+}
