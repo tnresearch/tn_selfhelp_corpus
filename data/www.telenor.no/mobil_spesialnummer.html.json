@@ -25,7 +25,14 @@
     "metadata": {
         "llm_annotation_timestamp": "2025-05-09T15:36:08+00:00",
         "last_modified": "2025-05-30T09:25:50.482264",
-        "llm_annotator_id": "google/gemma-3-27b-it"
+        "llm_annotator_id": "google/gemma-3-27b-it",
+        "topic_classification": {
+            "category": "Mobile subscriptions & services",
+            "score": 0.8344,
+            "model": "intfloat/multilingual-e5-large",
+            "text_source": "original_language",
+            "prompt_language": "document_language"
+        }
     },
     "comment": ""
 }

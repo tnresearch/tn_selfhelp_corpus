@@ -1,0 +1,6 @@
+{
+  "data_dir": "/app/data",
+  "output_dir": "/app/output/tables",
+  "figures_dir": "/app/output/figures",
+  "max_words": 400
+}

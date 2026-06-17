@@ -1,0 +1,5 @@
+{
+  "data_dir": "/app/data",
+  "output_dir": "/app/output/tables",
+  "methods": ["chars", "spacy_trained", "spacy_blank"]
+}

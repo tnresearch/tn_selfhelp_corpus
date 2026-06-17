@@ -26,7 +26,14 @@
     "metadata": {
         "llm_annotation_timestamp": "2025-05-09T15:22:55+00:00",
         "last_modified": "2025-05-30T14:55:38.072217",
-        "llm_annotator_id": "google/gemma-3-27b-it"
+        "llm_annotator_id": "google/gemma-3-27b-it",
+        "topic_classification": {
+            "category": "Other",
+            "score": 0.8275,
+            "model": "intfloat/multilingual-e5-large",
+            "text_source": "original_language",
+            "prompt_language": "document_language"
+        }
     },
     "comment": ""
 }

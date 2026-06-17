@@ -25,7 +25,14 @@
     "metadata": {
         "llm_annotation_timestamp": "2025-05-09T15:29:40+00:00",
         "last_modified": "2025-05-30T14:03:59.678217",
-        "llm_annotator_id": "google/gemma-3-27b-it"
+        "llm_annotator_id": "google/gemma-3-27b-it",
+        "topic_classification": {
+            "category": "Network & coverage",
+            "score": 0.8481,
+            "model": "intfloat/multilingual-e5-large",
+            "text_source": "original_language",
+            "prompt_language": "document_language"
+        }
     },
     "comment": ""
 }

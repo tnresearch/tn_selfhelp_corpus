@@ -26,7 +26,14 @@
     "metadata": {
         "llm_annotation_timestamp": "2025-05-09T15:14:23+00:00",
         "last_modified": "2025-06-21T13:44:08.282083",
-        "llm_annotator_id": "google/gemma-3-27b-it"
+        "llm_annotator_id": "google/gemma-3-27b-it",
+        "topic_classification": {
+            "category": "TV & streaming",
+            "score": 0.8122,
+            "model": "intfloat/multilingual-e5-large",
+            "text_source": "original_language",
+            "prompt_language": "document_language"
+        }
     },
     "comment": ""
 }

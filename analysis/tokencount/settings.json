@@ -1,6 +1,0 @@
-{
-  "tokenizer": "gpt2",
-  "input_directory": "/app/data/filtered_data/Accepted",
-  "output_directory": "/app/data/filtered_data/Accepted",
-  "output_filename": "token_counts.csv"
-} 

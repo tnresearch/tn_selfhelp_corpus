@@ -1,0 +1,9 @@
+spacy>=3.8,<4
+markdown
+beautifulsoup4
+pandas
+numpy
+# spaCy CLI/import deps (explicit: image was missing click otherwise)
+click
+typer
+weasel

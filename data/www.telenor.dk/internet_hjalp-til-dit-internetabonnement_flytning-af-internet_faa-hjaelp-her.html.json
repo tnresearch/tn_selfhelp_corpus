@@ -25,7 +25,14 @@
     "metadata": {
         "llm_annotation_timestamp": "2025-05-09T15:01:17+00:00",
         "last_modified": "2025-05-21T15:15:41.217847",
-        "llm_annotator_id": "google/gemma-3-27b-it"
+        "llm_annotator_id": "google/gemma-3-27b-it",
+        "topic_classification": {
+            "category": "Broadband & fixed internet",
+            "score": 0.8246,
+            "model": "intfloat/multilingual-e5-large",
+            "text_source": "original_language",
+            "prompt_language": "document_language"
+        }
     },
     "comment": ""
 }

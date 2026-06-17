@@ -1,0 +1,7 @@
+sentence-transformers
+scikit-learn
+markdown
+beautifulsoup4
+pandas
+numpy
+matplotlib

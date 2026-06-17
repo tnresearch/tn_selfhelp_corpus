@@ -1,0 +1,11 @@
+services:
+  topicclass:
+    build: .
+    container_name: topicclass-service
+    volumes:
+      - ../../data:/app/data:ro
+      - ../../output:/app/output:rw
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python topic_classify.py
+    restart: "no"
