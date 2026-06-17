@@ -1,4 +1,0 @@
--r requirements.txt
-sentence-transformers
-torch
-scikit-learn

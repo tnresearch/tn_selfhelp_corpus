@@ -1,0 +1,6 @@
+language,docs,chars_total,chars_mean,chars_median,chars_iqr,spacy_trained_tokens_total,spacy_trained_tokens_mean,spacy_trained_tokens_median,spacy_trained_tokens_iqr,spacy_trained_words_total,spacy_trained_words_mean,spacy_trained_words_median,spacy_trained_words_iqr,spacy_blank_tokens_total,spacy_blank_tokens_mean,spacy_blank_tokens_median,spacy_blank_tokens_iqr,spacy_blank_words_total,spacy_blank_words_mean,spacy_blank_words_median,spacy_blank_words_iqr
+Finnish,362,749435,2070.3,1323.5,2727.0,103497,285.9,191.5,367.5,87306,241.2,163.5,308.8,103497,285.9,191.5,367.5,87306,241.2,163.5,308.8
+Danish,179,268032,1497.4,1169.0,1149.0,51227,286.2,225.0,214.0,44744,250.0,196.0,188.5,51227,286.2,225.0,214.0,44744,250.0,196.0,188.5
+Norwegian,176,445850,2533.2,1957.5,2153.2,83138,472.4,353.0,406.0,72749,413.3,320.0,359.2,83138,472.4,353.0,406.0,72749,413.3,320.0,359.2
+Swedish,405,421516,1040.8,591.0,786.0,78788,194.5,113.0,141.0,69800,172.3,99.0,121.0,78788,194.5,113.0,141.0,69800,172.3,99.0,121.0
+TOTAL,1122,1884833,1679.9,1004.5,1807.2,316650,282.2,174.5,286.2,274599,244.7,151.0,257.0,316650,282.2,174.5,286.2,274599,244.7,151.0,257.0

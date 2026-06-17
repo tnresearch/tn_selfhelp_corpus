@@ -1,0 +1,12 @@
+services:
+  lingcount:
+    build: .
+    container_name: lingcount-service
+    volumes:
+      # dataset is read-only (we never modify it); outputs go to the repo's output/
+      - ../../data:/app/data:ro
+      - ../../output:/app/output:rw
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python linguistic_count.py
+    restart: "no"

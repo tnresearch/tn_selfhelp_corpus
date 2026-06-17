@@ -25,7 +25,14 @@
     "metadata": {
         "llm_annotation_timestamp": "2025-05-09T15:35:50+00:00",
         "last_modified": "2025-05-30T08:56:11.721975",
-        "llm_annotator_id": "google/gemma-3-27b-it"
+        "llm_annotator_id": "google/gemma-3-27b-it",
+        "topic_classification": {
+            "category": "Routers, modems & network hardware",
+            "score": 0.8357,
+            "model": "intfloat/multilingual-e5-large",
+            "text_source": "original_language",
+            "prompt_language": "document_language"
+        }
     },
     "comment": ""
 }

@@ -1,5 +1,0 @@
-tiktoken
-matplotlib
-seaborn
-numpy
-pandas

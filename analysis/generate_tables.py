@@ -4,7 +4,7 @@ Generate all paper tables as LaTeX (.tex) files.
 Tables produced:
   - table1_filtering_summary.tex  (Table 1: filtering pipeline results)
   - table3_annotation_agreement.tex  (Table 3: LLM vs human agreement)
-  - table4_token_stats.tex  (Table 4: token statistics per language)
+  - structure_summary.csv  (per-language Markdown structure: headings, list items)
 
 Usage:
   pip install -r analysis/requirements.txt
@@ -15,8 +15,7 @@ import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-import numpy as np
-from common import load_corpus, LANG_ORDER, DOMAIN_LANG, DATA_DIR, TABLES_DIR
+from common import load_corpus, parse_markdown_structure, LANG_ORDER, DOMAIN_LANG, DATA_DIR, TABLES_DIR
 
 
 def count_accepted_per_domain() -> dict[str, int]:
@@ -153,58 +152,33 @@ def generate_table3():
     print(f"Saved: {path}")
 
 
-def generate_table4():
-    """Table 4: Token statistics per language. Computed from the dataset."""
+def generate_structure_stats():
+    """Per-language Markdown structure averages (headings, list items, links, ...).
+
+    Reproduces the structural-density figures cited in Section 3 (e.g. Norwegian
+    documents average 6.1 headings and 13.1 list items per document). Reuses
+    common.parse_markdown_structure on the original Markdown of each document.
+    """
+    import csv
+    from collections import defaultdict
+
     docs = load_corpus()
+    agg = defaultdict(list)
+    for d in docs:
+        agg[d["language"]].append(parse_markdown_structure(d["text"]))
 
-    lang_labels = {
-        "Finnish": "DNA FI", "Danish": "Telenor DK",
-        "Norwegian": "Telenor NO", "Swedish": "Telenor SE",
-    }
-
-    lines = []
-    lines.append(r"\begin{table*}[t]")
-    lines.append(r"\centering")
-    lines.append(r"\caption{Detailed statistics of the corpus tokens and document lengths (GPT-2 tokenizer).}")
-    lines.append(r"\label{tab:token_stats}")
-    lines.append(r"\begin{tabular}{lrrrr}")
-    lines.append(r"\toprule")
-    lines.append(r"\textbf{Language} & \textbf{Docs} & \textbf{Total Tokens} & \textbf{Avg Tokens/Doc} & \textbf{Median Tokens/Doc} \\")
-    lines.append(r"\midrule")
-
-    grand_docs = 0
-    grand_tokens = 0
-    all_tokens = []
-
-    for lang in LANG_ORDER:
-        lang_docs = [d for d in docs if d["language"] == lang]
-        tokens = [d["token_count"] for d in lang_docs]
-        n = len(lang_docs)
-        total = sum(tokens)
-        avg = int(round(np.mean(tokens))) if tokens else 0
-        median = int(round(np.median(tokens))) if tokens else 0
-        lines.append(f"{lang_labels[lang]} & {n} & {fmt(total)} & {fmt(avg)} & {fmt(median)} \\\\")
-        grand_docs += n
-        grand_tokens += total
-        all_tokens.extend(tokens)
-
-    grand_avg = int(round(np.mean(all_tokens))) if all_tokens else 0
-    grand_median = int(round(np.median(all_tokens))) if all_tokens else 0
-
-    lines.append(r"\midrule")
-    lines.append(r"\textbf{Total} & \textbf{" + str(grand_docs) + r"} & \textbf{" + fmt(grand_tokens) + r"} & \textbf{" + fmt(grand_avg) + r"} & \textbf{" + fmt(grand_median) + r"} \\")
-
-    lines.append(r"\bottomrule")
-    lines.append(r"\end{tabular}")
-    lines.append(r"\end{table*}")
-
-    output = "\n".join(lines) + "\n"
-    path = os.path.join(TABLES_DIR, "table4_token_stats.tex")
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(output)
+    fields = ["headings", "list_items", "links", "table_rows", "bold_spans"]
+    path = os.path.join(TABLES_DIR, "structure_summary.csv")
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["language", "docs"] + [f"{x}_avg" for x in fields])
+        for lang in LANG_ORDER:
+            rows = agg.get(lang, [])
+            if not rows:
+                continue
+            avgs = [round(sum(r[x] for r in rows) / len(rows), 1) for x in fields]
+            w.writerow([lang, len(rows)] + avgs)
     print(f"Saved: {path}")
-    print(f"  Total documents: {grand_docs}")
-    print(f"  Total tokens: {grand_tokens:,}")
 
 
 if __name__ == "__main__":
@@ -216,6 +190,6 @@ if __name__ == "__main__":
     print()
     generate_table3()
     print()
-    generate_table4()
+    generate_structure_stats()
 
     print("\nAll tables saved to:", TABLES_DIR)
