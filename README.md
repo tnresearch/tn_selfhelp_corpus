@@ -101,8 +101,18 @@ The topic-category figure (Figure 2) and the per-language category table are pro
 ## Citation
 
 ```bibtex
-**placeholder**
-
+@article{riess2026telenor,
+  author  = {Riess, Mike},
+  title   = {Telenor Nordics Customer Service Self-Help Corpus},
+  journal = {Nordic Machine Intelligence},
+  year    = {2026},
+  volume  = {6},
+  number  = {1},
+  doi     = {10.5617/nmi.13262},
+  url     = {https://journals.uio.no/NMI/article/view/13262},
+  issn    = {2703-9196},
+  publisher = {University of Oslo Library}
+}
 ```
 
 ## License
